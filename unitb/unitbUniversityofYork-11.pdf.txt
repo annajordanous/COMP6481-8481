@@ -1,0 +1,781 @@
+Unit-level environment template (REF5b)
+ Institution: University of York
+ Unit of assessment: 11 - Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+ Context and Structure
+ This submission comprises staff from the Department of Computer Science at York (hereafter
+ referred to as CS). CS research is a central part of the University’s vision and strategy.
+ Departmental research is organised under four themes which are detailed below, reflecting the
+ research strengths of CS. As well as making major contributions to core research, CS also
+ contributes to a whole spectrum of research across the University through six interdisciplinary
+ research centres where CS researchers collaborate on a day-to-day basis with other
+ departments. We submitted all category A eligible staff and indicators in this report are based on
+ this group where relevant.
+ The strength and breadth of this research and its importance to the University’s vision helped
+ inform the York Research Strategy (2015-2020) which created seven key research themes
+ across the University (Institutional Level Environment Statement (IES), paragraph 4, 11). Our
+ research makes significant contributions to the themes of (1) Creativity, (2) Health and
+ Wellbeing, (3) Risk, Evidence and Decision Making, and (4) Technologies for the Future.
+ Professor McDermid led the Risk, Evidence and Decision Making theme from 2015 to 2017.
+    Theme                      Research Focus
+                               Research in this area explores the specification, design and
+                               verification of high-integrity and safety-critical systems. Topics
+                               include:
+                               • Real-Time Behaviour (can a system be proven to always
+                                    meet its timing requirements?)
+    Critical Systems           • Cyber Security (can an autonomous system protect itself
+                                    from malicious attacks?)
+                               • Model-Driven Engineering (can the integrity of a system be
+                                    improved by exploiting high-level system models?)
+                               • High Integrity Systems Engineering (how can critical systems
+                                    be cost-effectively verified and assured?)
+                               This research theme aims to deliver robust, inclusive, and
+                               human-centred computing technology for a diverse range of end
+    People, Health and         users. Topics include:
+    Wellbeing                  • Safety and reliability in medical applications
+                               • Gaming and wellbeing
+                               • Accessibility of digital technologies
+                               Research in this area explores the study of data, methods for
+                               analysing data in different domains, and artificial intelligence
+                               techniques for improving our methods of working with large and
+                               heterogeneous data. This encompasses novel research on
+    Analytics                  artificial intelligence, computer games, e-Sports, natural
+                               language processing and machine learning. Topics include:
+                               • Safe decision making in autonomous agents
+                               • Big data architectures
+                               • Bayesian methods and graphical models
+
+
+Unit-level environment template (REF5b)
+                               •   Natural language processing
+                               •   Optimisation and constraint satisfaction
+                               Research within this theme looks at building a generation of
+                               computer vision systems with capabilities that exceed those of
+                               human vision, including new algorithms and hardware. This
+                               involves studying the techniques and tools for computer vision,
+                               image processing and analysis, and pattern recognition. Topics
+    Beyond Human Vision include:
+                               • Model-informed visual learning
+                               • Novel vision systems
+                               • 3D modelling
+                               • Computer graphics and image generation
+ The move away from a research group-based organisation to these broader research themes is
+ part of an overall Departmental and University-wide strategy to promote multi/trans-disciplinary
+ research, which we believe is necessary to enable large societal challenges to be addressed.
+ Each theme has a Theme Champion who is responsible for fostering the research ethos of the
+ theme and encouraging collaboration between themes and beyond CS. The themes are
+ purposefully interdisciplinary and chosen to represent research strengths within the Department,
+ and to integrate with the University research themes and strategy. These themes are broader
+ than our previous research groups to facilitate easier and wider collaboration across multiple
+ areas of research within the Department - most researchers belong to more than one theme.
+ Above the themes, research activity is managed at a Departmental level by the Departmental
+ Research Committee (DRC) and the Deputy Head of Department (Research). The DRC meets
+ quarterly and consists of HoD, DHoD(R), REF Lead and representatives of the research staff,
+ ECRs and PGRs.
+ Interdisciplinary Centres
+ CS additionally supports interdisciplinary research across subject boundaries through six
+ research centres which are home to research and researchers from multiple departments:
+ The York Cross-Disciplinary Centre for Systems Analysis (YCCSA) brings together
+ researchers from different departments to develop novel mathematical, computational and
+ analytical methods, and tools for the analysis and modelling of complex systems. YCCSA
+ members are from the Departments of Computer Science, Mathematics, Physics, Biology,
+ Chemistry, Electronic Engineering, Management, History of Art and Environment. This diverse
+ team of researchers works across all seven University research themes.
+ Digital Creativity Labs (DCLabs) is a centre of excellence for impact driven research in games,
+ interactive media and the rich space where they converge (IES paragraph 11). It is led by York
+ and involves Goldsmiths, the University of Falmouth, and around 100 industrial partners. It is
+ supported by a substantial investment of £18m by EPSRC. DCLabs is strongly involved in the
+ Creativity theme.
+ The Quantum Communications Hub (QCHub) is a collaboration between Physics and CS and
+ is funded as part of the UK National Quantum Technologies Programme with substantial funding
+ of £24m over five years (IES paragraph 11). It focusses on delivering quantum secure
+ communications by drawing on research from Physics and Computer Science. QCHub works
+ within the Technologies for the Future theme.
+ The Assuring Autonomy International Programme (AAIP) is a £12m initiative funded by
+ Lloyd’s Register Foundation and the University of York to lead research, training and standards
+ in the safety of robotics and autonomous systems (RAS) (IES paragraph 11). This work is led by
+
+
+Unit-level environment template (REF5b)
+ CS academics and researchers and is focussed on both foundational research and technology
+ transfer to industry and regulators. The AAIP works extensively with industry and regulators,
+ through what are referred to as ‘demonstrator projects’ supporting the assurance of emerging
+ systems and technologies in a range of industries including autonomous driving, healthcare and
+ manufacturing. AAIP contributes significantly to the Risk, Evidence and Decision Making theme.
+ The York Interdisciplinary Centre for Cyber Security brings together expertise across the
+ University of York and internationally to address current and potential cyber security challenges.
+ Areas include IoT, blockchain, cryptographic protocols, quantum and post-quantum
+ cryptography, homomorphic machine learning, cyber security in politics and law, mathematics
+ behind cyber security, and data analysis for encrypted medical data. The centre draws staff from
+ CS, Physics, Mathematics, Law and Management. This centre contributes to both the Risk,
+ Evidence and Decision Making and the Technologies for the Future themes.
+ YorRobots is an institution-wide initiative, led by CS, bringing together researchers and
+ practitioners with an interest in robotics and autonomous systems, and their applications. The
+ collaboration spans nine departments in the University. The aim of the centre is to maximise the
+ impact of robotics expertise at York to the benefit of UK industry. YorRobots is involved in
+ research into the development of advanced, ethical, safe, trusted, reliable, and certifiable mobile
+ and autonomous robots.
+ We are the only department to be involved in four of the University’s major centres and hubs
+ (IES paragraph 11).
+ Research Strategy
+ Our primary research strategy is to be a world leader in research, based on the foundations of
+ international excellence, innovation, impact, collaboration and integrity. Our strategic aims reflect
+ the University strategy (IES paragraph 9):
+      •   Recruit and retain the best researchers at all career stages and offer them an attractive
+          and supportive research environment.
+      •   Encourage and support interdisciplinary research strengths, both interdepartmentally and
+          internationally.
+      •   Deploy Departmental resources to support and build research excellence.
+      •   Recruit the very best postgraduate research students and support the excellent research
+          work of our PGR students and supervisors.
+ Our previous strategic aims, articulated in REF 2014, were to create world-leading research
+ contributions in Games and Gaming; Inter-disciplinary Research and Advanced Architectures
+ and their Applications. This has been achieved through substantial new initiatives in the
+ Department and the reorganisation around themes.
+ We are a world leader in Games and Gaming through the DC Labs and the Intelligent Games &
+ Games Intelligence Doctoral Training Centre (IGGI), with a team of around 80 staff and students
+ delivering wide-ranging and impactful research in the area. These centres collaborate with
+ hundreds of companies, providing an immensely valuable route to real-world impact. We have
+ won substantial funding to support this area, including £18m from UKRI to support DCLabs, with
+ £10m from EPSRC and companies for IGGI from 2014-2020. IGGI was funded for a second
+ round in 2019, with a total funding commitment of £20m.
+ We have grown and supported a rich culture of inter-disciplinary research to fulfil our goals in
+ that area, through the six research centres listed above. We provide coordination and leadership
+ for four of these centres (YorRobots, YCCSA, Cybersecurity and AAIP) and again have been
+ awarded substantial funds to support these areas, including £12m from Lloyd’s Register
+ Foundation and the University of York. QCHub is part of a wider research programme in
+ quantum technologies, which includes the York Centre for Quantum Technologies (YCQT).
+ YCQT is a partnership between the departments of Physics, Mathematics, Electronic
+ Engineering and Computer Science comprising 19 academics from those departments.
+
+
+  Unit-level environment template (REF5b)
+   Finally, our goals in the area of Advanced Architectures and their Applications are being
+   delivered through the Assuring Autonomy International Program, a RAEng Chair in Emerging
+   Technologies, eight funded projects and 40 research staff and students. The Critical Systems
+   theme demonstrates our research strength in this area, and we detail below the substantial
+   number of appointments made in this area. One of the key focusses of the AAIP is in delivering
+   significant industrial impact through demonstrator projects and other collaborations and through
+   work on standards and industrial guidelines.
+   We have undergone a restructuring of the Department’s research, moving from research groups
+   to the theme structure described above, to encourage cross-area and silo-free working, and the
+   six research centres to support inter-disciplinary research and impact. This strategy was
+   formulated with significant input from all research staff, including two research ‘away days’ held
+   outside the Department where staff had an opportunity to discuss and debate research
+   structures. We have supported these themes through a proactive and very substantial early
+   career academic hiring process and providing substantial support for these ECRs – at the REF
+   census date, we have hired 18 permanent new academic staff since March 2017, including 11
+   ECRs. The appointments are described in more detail in section 2, but we have made targeted
+   appointments to the themes including eight to Critical Systems, and two each to Analytics,
+   Beyond Human Vision and Health and Wellbeing.
+   We have world-leading expertise in Critical Systems, including our work on safety, security,
+   enterprise, robotics, autonomous, embedded, and real-time systems. Our vision is to capitalise
+   on this over the next 5 years, by consolidating our new research themes, developing our
+   interdisciplinary centres, and developing new areas of research where appropriate. This includes
+   a plan to grow the academic research and teaching staff to 55 FTE over the next two years from
+   44 FTE currently. Clearly these plans are dependent on the research environment going
+   forward, which is currently uncertain. Our specific goals over the next 5 years are:
+•  To build on our world-leading status in research in Critical Systems, Safety of Autonomy, Human
+   Vision, Digital Creativity and Games, and Quantum Computing.
+        • To develop our international reputation in Analytics and People, Health and Well-being.
+        • To incubate new strengths, particularly in the areas of Software Engineering for
+           Robotics, and Cybersecurity, and support new interdisciplinary efforts in Robotics and
+           Cybersecurity across the institution.
+        • To establish a synergistic programme across robotics, communications, assurance and
+           verification through the new Institute for Safe Autonomy.
+        • To carry out cross-disciplinary research both across our research strengths, and
+           throughout the sector as a whole, to maximise impact and particularly impact for the
+           public good.
+        • To provide the best guidance and research environment for PhD students, including the
+           establishment of a cohort based Graduate School within the Department.
+   Impact Strategy
+   Impact is fundamental to the University and Department strategy at all levels. The Department
+   has an Impact Champion who co-ordinates and oversees impact activity across CS. This
+   enables us to develop a coherent impact strategy across the Department. We also work closely
+   with, and benefit from, the University impact manager and the science faculty impact manager
+   (IES paragraph 12). We also have an Industrial Advisory Board (IAB) which includes nine
+   industry practitioners. The IAB is an invaluable channel between Industry and the Department
+   and gives advice on impact, research areas and current industry trends and initiatives. Current
+   IAB membership includes representatives from major companies such as IBM, BAe, and
+   Morgan Stanley.
+   Our strategy is to generate impact through industry engagement with our research centres. The
+   centres have considerable industry involvement and are in some cases sponsored by industry
+   partners (DCLabs and AAIP), and so they are an ideal route to impact. Our aim is to disseminate
+   the research generated within the themes and centres to these partners and the wider public
+
+
+Unit-level environment template (REF5b)
+ and then exploit the opportunities this creates to apply the research in practical scenarios. As an
+ example, we have a large body of research and expertise in the safe design of critical software
+ systems and, as part of this work, we have been involved in setting key international standards
+ in high-integrity systems. For many years we have held continuing professional development
+ (CPD) courses to disseminate this knowledge to software engineers and embed these standards
+ and methods in industrial design. As a result, this work has had major impact on the practice of
+ safety critical systems engineering (see ICS) and was instrumental in the founding of AAIP,
+ which we expect to continue to produce major impact in the future. DCLabs was founded as part
+ of a key initiative to bring together creative industries and new technologies. The WEAVR
+ project, for example, is a £5.8m project running under the umbrella of DCLabs. It aims to
+ develop data-driven content production for e-sports and is the underpinning work which
+ generated an impact case study (see ICS). This is a direct result of this collaboration between
+ computer scientists and the games industry.
+ As part of our strategy, we have shifted our focus towards projects more directly aimed at impact
+ and knowledge transfer, particularly through Innovate UK and KTP funded projects. These
+ projects give a direct route to impact for our research and are already producing results. KTPs
+ with Rolls Royce, IBM and BAe are tied to our assurance and high-integrity systems work and
+ related to an impact case study (see ICS). A KTP with Gaist developed new strategies for
+ scheduling road pothole maintenance which has been deployed by several councils and was
+ developed into a full impact case study, although it was not selected for the REF. A further Gaist
+ KTP developed a method for the seamless presentation of very large road survey data which
+ has been deployed into a commercial product. A KTP with Balfour Beatty aimed to improve the
+ identification of railway line faults using computer vision and the methods are also now in
+ commercial products.
+ More generally, the research themes at both the Department and University levels have public
+ benefit at their heart and are designed to ensure our research has national and international
+ visibility. The public interest and potential impact of these themes is evident, and one of the
+ impact case studies is a result of work at the interface between critical systems research and
+ industry (see ICS). We have worked hard to ensure that our themes do not consist of isolated
+ pockets of research, but instead have clear public interest and routes to engagement and
+ impact. One of our impact case studies is the result of making our research open source for the
+ whole community to use, as part of the Eclipse software development project (see ICS).
+ Open Research
+ The Department also encourages open access for research outputs in order to generate
+ maximum impact, including papers, code and datasets. The Institutional Environment Statement
+ details the policy for deposit and public availability of research outputs which goes beyond the
+ REF requirements (IES paragraphs 15-17). There has been a cultural shift towards a more open
+ publishing culture within CS, with some outputs being made available on a pre-print archive
+ such as arXiv before submission. The vast majority of CS outputs are published in green open-
+ access venues and are freely available after the embargo period from the White Rose
+ repository. We also encourage the open release of software, and this has led to contributions to
+ the Eclipse Foundation (Epsilon, Emfatic, Hawk, and the foundation of one of the impact case
+ studies), GOBNILP Bayesian network learning software, RoboTool for modelling robotic
+ systems, DOMtegrity (protecting website integrity) and secure anonymous voting software. We
+ have released a number of datasets for general use by the public including machine learning
+ datasets (PRoNTo point cloud shape retrieval, RNA graph dataset) and a family of human head
+ shape models (Headspace, The Liverpool-York Head Model and the York Ear Model).
+ Research Integrity
+ The University and Department fully appreciate the importance of research integrity and ethical
+ standards. The University maintains a number of policies on research integrity and ethics
+ (Codes of Practice on Research Integrity, Good Ethical Governance and a policy for the
+ Investigation of an Allegation of Research Misconduct, IES paragraph 14). These policies are
+ implemented at the Departmental level by two designated ethics coordinators who oversee this
+
+
+Unit-level environment template (REF5b)
+ process and deal with any ethical or research integrity queries. A faculty-level Physical Sciences
+ Ethics Committee is responsible for the ethical approval of research where required. The
+ Department also has some supplementary policies covering issues more relevant to CS,
+ including a CS ethics approval guide for all research project submissions. All research grant
+ applications must make an ethical statement and put in place appropriate data handling
+ arrangements under a data management plan. The research PI has primary responsibility for the
+ integrity and ethical standards of a research project, but ethical approval must be sought where
+ necessary from the subject-level ethics committee.
+ 2. People
+ Staffing Strategy
+ Over this REF period, we have had the opportunity to refresh our academic staff and to
+ strengthen key areas in our new research theme structure. We have focussed particularly on
+ promising young researchers and during the REF period we have appointed 18 junior
+ researchers. We have also targeted senior appointments in national priority areas
+ (Cybersecurity and Digital Economy) with two new Professors since October 2017. Our goal is
+ to strengthen the demographics of the Department for the long term. We have appointed 8 new
+ academics to the Critical Systems theme (Chang, Wright, Matragkas, Gray, Gerasimou,
+ Camera, Liu, Yadav), and others to Beyond Human Vision (Huber, Guarnera), Analytics
+ (Nightingale, Drachen) and Health and Wellbeing (Iacovides, Zendle). We have also appointed a
+ new group of researchers in Cybersecurity (Kahrobaei, Fashim, Shahandashti, Vasilakis). As we
+ noted in the previous REF submission, the appointments are partly driven by a staff profile
+ means that a number of senior researchers have left the Department. We have therefore
+ targeted senior posts where necessary to support the research themes in the Department and to
+ this end have appointed new Chairs of Cybersecurity (Kahrobaei) and Digital Games (Drachen),
+ and internally promoted staff to Chairs in Quantum Computing (Pirandola), Software
+ Engineering (Kolovos) and HCI (Cairns). All except two category A staff submitted are on
+ permanent contracts. These academics are both research fellows appointed to specific funded
+ posts. The mixture of appointments over the REF period puts us in a position where we have a
+ healthy and sustainable mix of staff at all career stages going forward.
+ The Department aims to support a rich and diverse research culture, and staff mobility forms a
+ key part of this strategy. We have a number of incoming and outgoing international visiting
+ fellows. We have hosted research visits from Italy, Spain, Germany, Portugal, Canada and
+ Brazil. Our staff have held visiting positions at Beihang University, Inria Paris, Universidade
+ Federal de Pernambuco Brazil and Western University Canada. These visiting staff are funded
+ by a range of sources, including research grants, University pump-priming funds and host
+ organisations. We encourage staff to apply for fellowships as a critical part of their development
+ as exceptional researchers at all career stages. This is not limited to research fellowships; we
+ also encourage staff to apply for knowledge-exchange positions. During the REF period,
+ Cavalcanti, Hancock and Cowling have held Wolfson Research Merit Awards, and Habli and
+ Power have held RAEng Industrial Fellowships. Smith was awarded a RAEng/Leverhulme Trust
+ Senior Research Fellowship. Cavalcanti also holds a 10-year RAEng Chair in Emerging
+ Technologies. We have also hosted a UKRI Innovation Fellowship (Foster) and a Royal
+ Commission for the Exhibition of 1851 Fellowship (Giscard).
+ Staff Support and Development
+ The University maintains a statement on Research Performance Expectations which outlines our
+ commitment to staff support and working environment as well as the expectations we have of
+ research staff (IES paragraph 22). The Department maintains its own statement on expectations
+ which complements the University-level one with more CS-specific details.
+ The Department understands the need to support staff development at all career stages. All
+ academic staff undergo an annual personal development review with a senior member of the
+ Department where they can discuss career progress, any problems arising and identify training
+ needs. Other researchers are reviewed by their project leads or line managers. The University
+
+
+Unit-level environment template (REF5b)
+ offers a comprehensive skills training programme to support staff development which is detailed
+ in the institutional environment statement (IES paragraph 32). Staff are invited to apply to an
+ annual promotion round. The Deputy Heads (Teaching and Research) offer early-stage support
+ and advice to help staff construct their promotion applications and present the best case to the
+ University.
+ The Department has launched a new intensive programme of mentoring which is available to all
+ staff. Staff can request one or two mentors to help them achieve objectives related to research
+ (writing a grant proposal, developing a research paper for a leading journal for example) and to
+ teaching. A personal program of mentoring is designed for each member of staff to help them
+ most effectively achieve their goals (e.g., through frequent intensive meetings over a short
+ period of time, through to less frequent meetings over longer periods). Since CS has appointed
+ a significant number of ECRs in the period, we have instituted a new ECR network within CS to
+ offer particular support to ECRs. This involves monthly lunch meetings with invited guest
+ speakers to discuss key topics relevant to this group of researchers, and more informal
+ meetings. Seminars have included discussions of funding opportunities, REF and University
+ research data systems. We have also recently been involved in extending this initiative to a
+ University-wide ECR community.
+ Study leave forms a major investment by the Department in staff and research development. All
+ academic staff are eligible to apply for study leave which can vary from a single term to a year
+ (e.g. for staff exiting major administrative posts). 15 staff took study leave in the REF period.
+ Examples include Cavalcanti, whose study leave at Universidade Federal de Pernambuco
+ (Brazil) lead to successful grant applications and a Royal Academy of Engineering Chair in
+ Emerging Technologies from research into verification of robotic simulations. Smith visited the
+ UCSD Center for Visual Computing in 2016, leading to two spotlight presentations at leading
+ vision conferences ECCV and ICCV. Pirandola visited MIT to carry out work on quantum
+ communications. Kolovos visited Rolls-Royce, leading to a Knowledge Transfer Partnership, and
+ OTE (Deutsche Telecom Group), leading to further collaboration in an EC Horizon 2020 project
+ on polyglot persistence architectures for big-data analytics.
+ We support all staff in the development of research impact through an impact champion in the
+ CS department and a faculty-level impact manager. The impact champion is responsible for
+ disseminating impact opportunities to researchers, supporting CS researchers in the
+ development of impact and promoting awareness of the value of impact. The faculty impact
+ manager is available to give advice on impact in research projects at all stages from proposal
+ development to the post-project phases. We expect researchers to consider impact throughout
+ the development of a project, from conception to publicising the final outcomes.
+ To maintain strong links with industry, we have a number of visiting professors in the
+ Department. Whittington (MooD International) and Morgan (ETAS Ltd) are RAEng-sponsored
+ Visiting Professors. Many of our industry links are directly through research projects and
+ centres. Our funding strategy has in part been to encourage more direct links through
+ InnovateUK and industry funded projects. The AAIP programme is directly funded by Lloyds
+ Register Foundation and we have substantial research portfolios with BAe Systems (£233k),
+ Rolls Royce (£155k) and IBM (£157k). IBM also had a team physically located in the
+ Department for part of the REF period to enhance interactions with academics. Staff have been
+ actively encouraged to engage in knowledge transfer activities and have succeeded in
+ undertaking 25 projects funded by InnovateUK (£1.9m), including 8 Knowledge Transfer
+ Projects.
+ The University is fully engaged with The Concordat to Support the Career Development of
+ Researchers and has held the European Commission’s HR Excellence in Research Award since
+ 2010. There is an action plan for 2018-2020 to support implementation (IES paragraphs 27 and
+ 28) with some actions to be implemented at the Departmental level. There is a robust set of
+ procedures and policies to be followed at the Departmental level for the recruitment and
+ selection of researchers (Principle 1). All research staff are treated as full members of staff, and
+ so have the same access to mentoring, skills training and performance review (Principles 3 & 4).
+
+
+Unit-level environment template (REF5b)
+ This demonstrates that we recognise the importance of researchers to our research environment
+ (Principle 2). Researchers are made aware of their responsibilities and opportunities by their line
+ manager (usually the PI) when they are appointed (Principle 5). Diversity and Equality issues
+ (Principle 6) are addressed through our initiatives which apply to all staff and are described in
+ the next section. The University undertakes regular review of progress in this regard at all levels
+ (Principle 7). The Department is committed to trying to retain staff on fixed-term contracts where
+ possible and has provided resources to bridge researchers between research contracts where
+ appropriate.
+ Support for Equality and Diversity
+ The University has a comprehensive set of policies to support equality and diversity (IES
+ paragraphs 35-37), which are all implemented by the Department. We have appointed an
+ Equality Champion and initiated an Equality Committee which meets monthly. A set of
+ webpages has been created detailing our support for equality and diversity, and our “zero
+ tolerance” policy for any discrimination by staff or students has been widely publicised. The
+ Department supports flexible working for staff; full-time staff may choose flexible working hours
+ outside our two core time periods. We have policies for parental leave and staff may ask for
+ flexitime arrangements to support their personal circumstances. We also consider requests for
+ special arrangements when constructing the Department timetable annually. The University has
+ an on-site nursery to help support staff with young children. We reviewed our recruitment
+ materials and websites to ensure they give a positive and welcoming impression to all groups.
+ Over the past four years, the Department has undergone a thorough review of our activities
+ surrounding equality and diversity under the guidance of an Athena Swan and Equality
+ Champion (Petrie). We developed a new Athena Swan submission and, as part of that process,
+ we considered broader diversity issues beyond gender. The result of this work was the formation
+ of the Athena Swan Self-Assessment Team (SAT) and a comprehensive action plan for
+ improving equality and diversity. Many of the points on the Action Plan will not only support
+ women in the department, but also will greatly improve the study and work environment for
+ everyone. We believe this will also make it easier to expand our support to other under-
+ represented groups, including staff and students with disabilities and from different backgrounds.
+ The action plan consists of 10 high-level objectives and 60 detailed actions which will be
+ monitored and implemented by the Department over the next few years. These include a new
+ ‘best practice’ (from Informatics Europe) recruitment process to encourage female applicants for
+ all teaching and research positions. The SAT is engaged in all aspects of the recruitment
+ process, from review and revision of advertisements focusing on E&D issues, to monitoring
+ shortlisting and interviewing, to post-mortems on recruitment efforts (e.g., hiring panels) for
+ effectiveness assessment and future enhancement. We plan to improve the working
+ environment and to this end we have set up a network of women academics and researchers
+ who meet once a month for lunch to discuss issues in a more informal setting. We also aim to
+ improve the support for staff development through briefing and mentoring on topics including
+ promotion, preparation for REF and training. Many more such initiatives are included in the
+ action plan.
+ The selection of outputs for submission to REF2021 was made within the framework of the
+ University’s REF Code of Practice, which has robust procedures for ensuring transparency,
+ consistency, accountability, and inclusivity. A REF strategy group monitors the selection process
+ for any signs of bias. All Category A eligible staff are included in our submission and decisions
+ about research independence were made at University level, informed by an equality impact
+ assessment (EIA). The EIA was considered carefully at Departmental and University level.
+ Output selection was based on the primary criterion of quality, informed by at least two expert
+ reviewers and with recommendations from a CS REF committee. Within the constraints of this
+ criterion, we aimed to distribute outputs as widely as possible among staff. All staff were given
+ feedback on their selected papers and opportunity to comment. The composition of the CS
+ committee, recommendations and rationale behind the selection were reported to the University
+ to ensure transparency and accountability of decisions. Our analysis of the selected papers
+
+
+Unit-level environment template (REF5b)
+ does not show any statistically significant difference in papers submitted per researcher or in
+ estimated paper quality, on the basis of either gender or ethnicity.
+ Research Students
+ Research students are a critical component of our research community and we have a large and
+ growing PGR cohort who produce outstanding research. We expect our research students to
+ carry out original and rigorous research and communicate results to the widest possible
+ audience. As evidence of the high quality of our students Dale (Stepney and Trefzer) won the
+ 2019 CPHC/BCS Distinguished Dissertation competition and Aziz (Wilson and Hancock) was a
+ runner-up in 2015. We aim to attract high quality students to apply to our PGR programmes and
+ to ensure that the Department effectively monitors and supports them while there are here. It is
+ important that PGRs feel they are part of the research team in the Department, and so they have
+ the status of full staff members. We have created an online space for PGRs including a PGR
+ Community Page and PGR newsletters.
+ We recruit students from an extremely varied set of backgrounds. We have PGR programmes
+ leading to MSc by research, MPhil and PhD, with most of our students studying for PhD
+ degrees. We offer full-time and part-time degrees and a distance-learning option. These courses
+ help us cater for students with a diverse set of circumstances and needs. The part-time
+ distance-learning degree has been particularly successful in widening access, allowing students
+ from non-traditional backgrounds to study for a PhD, for example mid-career professionals who
+ have to maintain a job while studying and those not able to travel regularly to the University. As
+ mentioned in the previous section, we have worked hard to ensure our recruitment material and
+ interview processes encourage and support applicants from all kinds of backgrounds. We are
+ developing a ‘buddy’ system for applicants to allow them to ask questions of our current PGR
+ students with a similar background, where possible. Students are funded through a variety of
+ mechanisms, including self-funding and external sponsorship, the IGGI CDT, University
+ scholarships and Departmental scholarships. The scholarships are awarded through a
+ competitive process which considers both merit and the needs of the student.
+ The PGR programme is managed by a separate Research Studies Committee under the
+ framework set out by the University (IES paragraphs 30-34). The RSC implements a detailed
+ timetable of checkpoints and assessments aimed at making sure every student achieves their
+ goals and gets the help they need. Each research student is allocated a Thesis Advisory Panel
+ (TAP) consisting of a supervisor, assessor and panel chair. The supervisor offers ongoing
+ support and typically meets the student every week, and at least every two weeks. The student
+ must complete a milestone every six months, which has the dual purposes of allowing the
+ assessor to check progress and allowing the student to develop research presentation skills. A
+ Progression Panel is held at the end of each year of study (or full-time equivalent for part-time
+ study) where a group of senior academics meets to consider the progress and progression of all
+ research students. The Progression Panel is carefully selected to have a range of backgrounds
+ and to ensure that members are fully aware of equality and diversity issues that may affect
+ candidates. Students are able to seek support from their supervisor, assessor or the Chair of
+ Research Studies as appropriate. The assessor holds a confidential review of supervision at
+ each milestone to identify any problems with supervision arrangements. Our goal is to enable
+ students to submit a thesis as close to the target date as possible and to maximise the number
+ of students that complete. All PGR students have access to desktop machines in the
+ Department, and we have recently created a dedicated PGR space where students can work
+ and meet to discuss their research. This is part of our long-term goal to move towards a cohort-
+ based graduate school where students can interact more frequently with each other.
+ All research students undergo an induction at the start of their course, including a series of talks
+ and an introductory booklet. The department has an active training program and a PGR student
+ training officer. The program focuses on careers and skills development and has a set of core
+ compulsory modules (Research Integrity, Becoming an Effective Researcher, Professional
+ Development Planning) along with a range of more than 50 skills development courses.
+ Students who plan to teach must also take ‘Introduction to Teaching and Learning’ delivered at
+
+
+Unit-level environment template (REF5b)
+ University level. The skills development courses include careers, legal and ethical issues,
+ research management, impact and communication. The training officer supports the doctoral
+ students in running the York Doctoral Symposium, an event that is organised by students for
+ students, and which is in its eighth year. It attracts around 70 attendees, including external
+ participants. The students also run a student-focused seminar series on topics of specific
+ interest, such as preparing for a PhD viva. For students on our CDT programme, there is
+ additional specific training. Many PGRs also support our teaching programme through
+ demonstrating.
+ 3. Income, infrastructure and facilities
+ Research Funding
+ Total research income reported in REF4b was £26m, as compared to £19m in REF2014. Our
+ strategy at the previous REF was to reduce dependence on UK industrial and government
+ funding by targeting EU income. This strategy was successful; we reported £3.92m of European
+ Commission funding for REF 2014, and we have £7.7m in the current REF period. Wider events
+ have triggered a change in focus and towards the end of the current period we have shifted our
+ income generation away from EU sources and towards projects more directly aimed at impact
+ and knowledge transfer. We have substantially increased our Innovate UK income, for example,
+ to £2.9m in the REF period (income includes directly funded and KTP funded projects). This will
+ allow us to generate high-impact outcomes for our research. We have maintained our level of
+ research council funding over the period to support our ‘blue-sky’ research. Research council
+ funding and PGR students are our main drivers of high-quality research outputs. Our forward-
+ looking strategy is to continue to seek funding from UKRI, while engaging more with the Grand
+ Challenge Research Fund (GCRF) and the Industrial Strategy Challenge Fund, as these are
+ well aligned with our themes and University strategy. We also plan to seek larger, collaborative
+ projects involving more staff at York (in CS and across other departments), and other
+ institutions, and to continue to promote fellowships for our research staff.
+ We aim to support our research themes and centres with significant research funding. The
+ Digital Creativity Lab has £18m of funding from UKRI, University partners and industrial
+ collaborators (IES paragraph 11). DCLabs is critical to support and enhance our research in
+ Analytics. The Assuring Autonomy International Programme (AAIP) is tied to our work on critical
+ systems and is a £12m commitment by Lloyd’s Register Foundation and the University of York.
+ The work in Assuring Autonomy and Robotics is also being provided with a purpose-built facility
+ via an RPIF bid (£10m, discussed in the next section) and an additional £4m provided by the
+ University. The Intelligent Games and Game Intelligence (IGGI) CDT has been funded to a
+ value of £5.6m by EPSRC and in total attracted £10m in funding in the first instance. The Centre
+ won continued funding in 2019 for another eight years, with a grant of £8.2m from EPSRC, York
+ and QMUL matched funding of £2m each, and industrial commitments in kind of £7.6m. The
+ Quantum Communications Hub is a collaboration between CS and Physics at York (IES
+ paragraph 11) which is one of four hubs funded as part of UK National Quantum Technologies
+ Programme, with £120m being committed for the four hubs. As well as this hub, we are
+ coordinating an EU project on quantum readout techniques and technologies (QUARTET) and
+ are part of an EU flagship grant (CiViQ, €10m). We have also been awarded substantial grants
+ at the interface between software engineering and physical systems (INTO-CPS European
+ Commission £700k, RoboCalc EPSRC £1.8m, RoboTest (jointly with Sheffield) EPSRC £1.1m).
+ The area of real-time systems continues to attract significant funding with two substantial
+ EPSRC grants (£593k for multi-core research and £934k in cyber-physical systems).
+ One of the outputs of our research into critical systems is a set of standards and methodologies
+ for engineering safety critical systems see Autonomy ICS). One of our routes to impact for this
+ work is through a series of professional development courses on safety-critical systems
+ engineering, training engineers from industry to apply state-of-the-art methods. This activity
+ brings around an additional £800k pa to the Department.
+
+
+Unit-level environment template (REF5b)
+ Infrastructure and Facilities
+ We continue to support experimental facilities in CS in the form of laboratories hosted largely
+ within the CS building. These support empirical research in each of our four research themes
+ and are listed below. We have also won a £10m award from the Research Partnership
+ Investment Fund to provide a state-of-the-art building supporting research in Autonomous
+ Systems. This Institute for Safe Autonomy Building will host our research in assured
+ autonomous systems, verifiable robots and safety assurance, and is additionally funded by £4m
+ from the University.
+ The HCI Interaction and Home Labs comprise two usability laboratories, three domestic
+ environment labs (a kitchen, living room and dining room), and a control room with specialist
+ equipment for usability research, games research and research with disabled and older people.
+ Equipment includes a range of input devices, screen-readers, screen magnification programs,
+ discreet webcams, eye trackers and screen capture software to monitor activities.
+ The Real Time Systems Lab supports real-time hardware analysis and sensor networking
+ research. This lab has been updated with a range of FPGA boards (cost £20k) and 4 GPU
+ servers (£80k). The separate Crossrail Lab provides facilities for student teaching and individual
+ projects in embedded and real-time systems and has been provided with 170 FPGA boards
+ (£25k).
+ The Computer Vision Lab suite comprises a dark room and natural light laboratories. Equipment
+ includes a laser range scanner (Cyberware 3030PS) for acquisition of calibrated shape, texture
+ and reflectance data, and optical bench and light stage facilities for polarisation imaging,
+ spectro-radiometery and photometric surface analysis. The lab supports the work of the ‘Beyond
+ Human Vision’ theme. The labs were refurbished in 2019 using £30k of Department funds. The
+ lab has been used to collect data for 18 research outputs during the REF period.
+ York Robotics Laboratory (YRL) (shared with the Department of Electronic Engineering) is a
+ purpose-built facility for experiments in robotics, including autonomous systems. The lab is
+ equipped with state-of-the-art tracking systems, a teaching/research classroom area and a
+ technical workshop area. It provides safe, constrained space for empirical testing of theories in
+ robotic and autonomous system behaviours, e.g. swarms of airborne systems and underwater
+ systems. The lab supports work in the Analytics theme and the AAIP centre, and employs a full-
+ time technician, shared between CS and Electronic Engineering.
+ We aim to make the most of our research space to help generate impact from our work. DCLabs
+ is a group of around 30 researchers hosted in a separate facility in the Ron Cooke Hub, adjacent
+ to the Computer Science building. This facility enables researchers from multiple departments to
+ come together with industry partners in one space. The RC Hub contains offices, interactive
+ spaces, break-out zones and seminar rooms, and rents space to small companies and start-ups
+ as well as hosting CS academics. The dedicated institute mentioned above for Assured
+ Autonomy and Robotics will bring together researchers from multiple departments into a building
+ with state-of-the-art facilities. A key part of the building design is a shared collaboration space
+ which aims to enable interaction between academia, government and industry and enhance
+ research impact. The Campus-based Catalyst building and the Science Park are close to the
+ Department and host innovative companies as well as several spin-outs, who collaborate with
+ researchers in the Department.
+ Research Students are a critical part of our research landscape and we provide them with the
+ best possible facilities for carrying out their research. PGRs are treated as members of staff in
+ terms of access to facilities and resources. Each PGR has access to a desk and desktop
+ computer within the Department. We have recently invested in a bespoke PGR space which
+ aims to house many of our students in the same space, so that they can collaborate, share
+ ideas and experience, and support each other during their studies. This aims to foster a strong
+ sense of community amongst the PGRs. PhD students also automatically receive an £1800
+ travel grant to support conference and meeting attendance during their PhD.
+
+
+Unit-level environment template (REF5b)
+ Much of the work in the Department requires significant computational support. Some of this
+ infrastructure is provided at the University level and is accessible to all departments. The York
+ Advanced Research Computing Cluster (YARCC) is a heterogeneous cluster of 70 nodes and
+ 1462 cores provided by the University, with 8 nodes supported through the IGGI CDT. The
+ Viking cluster is new in 2019 and represents a £2.5m investment in a 173 node 7024 core
+ computing facility. It also contains 8 NVIDIA GPUs specifically for improved machine learning
+ performance. Most recently, the N8 Centre of Excellence in Computationally Intensive Research
+ has begun to deliver the Bede facility (available to all researchers in the N8 Universities) with 32
+ IBM dual Power 9 CPUs. The Department has also invested in computing facilities, particularly
+ for machine learning. Equipment to the value of more than £100k has been provided for
+ researchers through direct spending and equipment gifts. They support two compute servers
+ with a value of ~£40k and provide four GPU servers with a value of more than £40k.
+ Operational support
+ We have a CS-specific Research Support Office (CSRSO) with 3 dedicated staff to support all
+ aspects of research. This including grant preparation and administration. They operate a grant
+ proposal review system which is also supported by the academics in the Department to help
+ maximise the quality of grant submissions. They also ensure the proper ethical consideration is
+ given to research funding. They also help academics organise conference hosting and
+ management of publications. Each of our research centres also employs a dedicated manager
+ to support their work. We have 14 technical staff to support computing infrastructure and all
+ aspects of the infrastructure for our research including hardware and software. The technicians
+ have a dedicated hardware workshop for building computing equipment. We also have an
+ Impact Champion as a distinct role in the Department. The Impact Champion works closely with
+ a faculty-level Impact Manager to support all aspects of research impact from the conception of
+ a project to commercial impact in industry. Our Athena Swan and Equality Champion oversees
+ our efforts towards improving the working environment of the Department for everyone. We also
+ have a Disability Coordinator who ensures that all disabled members of the Department have
+ access to the support they need to access our facilities. The DC also liaises between the
+ Department and University to help support those with disabilities.
+ The University is part of a number of collaborative groups including the White Rose Partnership
+ (with the Universities of Leeds and Sheffield) and the N8 group of research-intensive northern
+ universities (IES paragraph 6). The White Rose Partnership aids the Department in a number of
+ ways. It provides a repository for all our published papers and supports our drive to open-access
+ (IES paragraph 16). More than 900 research outputs (in the REF period) are available on the
+ repository, the vast majority of which are publicly available due to gold or green open access.
+ The N8 group has helped to deliver advanced computing facilities to CS through the Centre of
+ Excellence in Computationally Intensive Research.
+ 4. Collaboration and contribution to the research base, economy and society
+ CS is an extremely outward looking department and has large numbers of research
+ collaborations from all areas of the world. For example, SciVal reports that CS published papers
+ with 847 different institutions outside the UK in the REF period. The Department encourages
+ research collaboration through a number of mechanisms. It manages a substantial discretionary
+ fund which is distributed to research staff for pump-priming and other research activities
+ including collaboration, impact and research meetings. The average size of the fund was £172k
+ pa over the REF period to the end of 2019. CS also runs a programme of study leave with an
+ open call to all members of staff to enable members of staff to focus on research for a period,
+ and this includes support for research collaboration costs. Study leave has been used to
+ develop collaborations with a wide variety of institutions such as Universidade Federal de
+ Pernambuco (Brazil), Boston University, University of Washington, University of Oxford, UCSD
+ and MIT. We also encourage staff to become involved in research networks and to apply for
+ research fellowships.
+
+
+Unit-level environment template (REF5b)
+ Fellowships
+ Over the REF period, members of staff have held a number of prestigious funded research
+ fellowships at York. Cavalcanti held a Wolfson Research Merit Award from 2012-2017 and
+ currently holds a Royal Academy of Engineering Chair of Emerging Technologies. Hancock and
+ Cowling had Wolfson Research-Merit Awards (2009-2014 and 2017-2022 respectively). Pears
+ held a RAEng/Leverhulme Senior Research Fellowship (2013-2014) as did Smith (2019-2020).
+ We also hosted the Royal Commission for the Exhibition of 1851 Research Fellowship of
+ Giscard at York (2015-2018) and Gaetana Spedalieri holds a Marie Curie Global Fellowship
+ (2017-2020).
+ Our staff also hold significant visiting positions outside York. Cavalcanti was Visiting Professor at
+ Universidade Federal de Pernambuco, Brazil (2017 funded by Royal Academy of Engineering).
+ Hancock is Distinguished Visiting Professor at Beihang University and Xiamen University. Davis
+ held an Inria International Chair at Inria, Paris (2014-2018). Bate was a Docent Professor at
+ Malardalen University, Sweden (2011-2016, funded by Stiftelsen för Strategisk Forskning
+ (SSF)). Woodcock was Visiting Professor at Universidade Federal de Pernambuco, Brazil (2017
+ funded by Royal Academy of Engineering). Power is an Adjunct Research Professor at Western
+ University, Canada (2016-2021). Kahrobaei is an affiliated Professor at the City University of
+ New York and a Visiting Professor at the Institute Henri Poincare and the Sorbonne University.
+ Indrusiak was a Visiting Professor at UFRGS, Brazil (2014, funded by Capes). In total, York
+ academics have held 20 visiting positions outside York during the period.
+ We also have a number of links with industry through fellowships and secondments. Habli and
+ Power had RAEng Industrial Fellowships in 2016, Habli with NHS Digital and Power with IBM.
+ Geoff Garnett (DSTL) is a Visiting Professor.
+ Networks
+ Networks play a key role in creating long term collaborations between York and researchers in
+ other institutions. Smith was dissemination coordinator for the EU COST Network on Integrating
+ Vision and Language. The network involved more than 50 researchers from 28 countries.
+ Cavalcanti is part of the EPSRC network on robotics and autonomous systems, involving around
+ 30 Universities. Cussens is network topic leader in the EPSRC network on Human-Like
+ Computing. Calinescu, Woodcock, Cavalcanti and McDermid are members of EPSRC network
+ on the Verification and Validation of Autonomous Systems. Indrusiak in involved in the EPSRC
+ network eFutures and the EU network HiPEAC. Kolovos is part of the MDENet EPSRC network
+ on model-driven engineering. Shahandashti is an Expert Fellow in the SPRITE+ network on
+ security. Foster is a member of the EU network for safer autonomous systems.
+ We support interdisciplinary research mainly through the work of our centres YCCSA, DCLabs,
+ QCHub, AAIP and Cyber-security. These enable researchers from multiple departments to work
+ on problems of interest at the interface between subjects. This approach has fostered a number
+ of interdisciplinary research projects. RoboCalc and RoboTest (Cavalcanti, Woodcock) are a
+ collaboration with Electronic Engineering. SpInspired (Stepney, O’Keefe) is an EPSRC project
+ involving both Chemistry and Electronic Engineering. TARGeTED (Stepney) includes
+ researchers from Physics and Chemistry. The Weavr consortium is a UKRI funded £4m project
+ to look at e-sports broadcasting, and involves CS and Theatre, Film and TV with a consortium of
+ five companies. Archival Polar Photography (Hancock, Smith) is a collaboration with
+ Environment and Geography. Pears and Smith have a project with Hull-York Medical School on
+ head shape modelling. The Wearable Clinic project is a collaboration with Health Economics
+ and Health Services. ‘Mathematical Modelling of Bi-Directional Synaptic Signalling’ (Calinescu)
+ is a project with Structural Biology researchers from Oxford. We also have a number of PGR
+ students who are co-supervised across more than one department and, through the IGGI
+ programme, students across more than one institution.
+ Visitors
+ The research themes host both national and international visitors as a matter of course. Over
+ the REF period, we have hosted 29 research fellows, including Lisane Brisolara (UFPel Brazil),
+
+
+Unit-level environment template (REF5b)
+ Lars Kunze (Oxford) and Chris Storm (Adelphi University, USA). Our research centres are
+ instrumental in attracting research fellows, with a significant number of fellows visiting from
+ industry as well as academia. We have hosted visiting fellows from BMW, Bosch, Hewlett
+ Packard and DSTL.
+ Engagement with research users
+ Industrial collaboration is one of the key strengths of the Department. We have close links to
+ more than 100 companies through their sponsorship of the IGGI CDT, and this provides a direct
+ route to impact for much of the work in the Analytics theme (see ICS) . Similarly, the AAIP
+ engages directly with end-users through industry partners and demonstrator projects. AAIP
+ directly funds knowledge transfer to the wider community through a number of mechanisms.
+ They maintain a body of knowledge on best practice in the area of robotics and autonomous
+ systems distilled from many years of research. They also deliver a training and education
+ programme including academic qualifications in safety critical systems engineering with RAS
+ assurance, onsite and online training, workshops, and informal learning opportunities.
+ Our staff collaborate extensively with companies through a variety of mechanisms including
+ visits, advice and consultancy, funded projects, joint research papers and technology transfer
+ initiatives. We hosted collaborative projects with around 70 other companies, including some of
+ the largest companies in the world (e.g. Microsoft, IBM, Fujitsu, BAE, Airbus, NHS). We also
+ have a significant route to impact through our CPD courses on safety-critical systems
+ engineering (see ICS), which have trained more than 600 engineers from industry in the
+ application of state-of-the-art software engineering method developed in the Department. These
+ engineers come from diverse backgrounds, coming from 12 different countries and more than
+ 100 companies.
+ Wider influence and contribution to the research base
+ CS has been involved with a large number of activities to engage with the wider research
+ community. We have hosted many conferences and workshops over the REF period. Of
+ particular note are; the British Machine Vision Conference 2016 (300 attendees, 2 invited
+ keynotes, 11 industry sponsors including Disney, HP, nVidia and ARM), Software Technologies:
+ Applications and Foundations 2014 (210 attendees, 6 invited keynotes) and the European
+ Conference on Artificial Life 2015 (200 attendees, 4 keynotes). Our staff gave more than 100
+ invited keynote presentations at conferences and workshops and lectured at 8 summer
+ schools/tutorial meetings. We fulfilled 42 Programme/General/Co-chair roles in conferences and
+ workshops. The following have held Editor-in-Chief roles at journals: Hancock (Pattern
+ Recognition), Woodcock (Formal Aspects of Computing), Kahrobaei (International Journal of
+ Computer Mathematics: Computer Systems Theory), Burns (Leibniz Transactions on Embedded
+ Systems) and Bate (Journal of Systems Architecture). Members of staff hold another 24
+ positions on editorial boards. Academics regularly engage in the external examining of PhDs in
+ the UK and throughout the world, with 90 exams in the period. The strength of our international
+ links is evidenced by the fact that more than half of these (51) were overseas.
+ Our work has been recognised as outstanding by the community, as evidenced by the
+ recognition awarded to our researchers and research outputs. We gained 28 best or outstanding
+ paper awards in the period. Dale (Stepney and Trefzer) won the 2019 CPHC/BCS Distinguished
+ Dissertation competition and Aziz (Wilson and Hancock) was a runner-up in 2015. Hancock was
+ made a Fellow of the IEEE, a Distinguished Fellow of BMVA, gained the IAPR Pierre Devijver
+ Award in 2018 and an Honorary Doctorate of the University of Alicante in 2015. He is also an
+ Honorary Professor at Anhui and Beihang Universities.
+ Members of the Department regularly engage with research users and the wider public through
+ policy making bodies, outreach and public engagement events. Cairns contributed evidence to
+ government committees in both the UK and Australia on the problems of game loot boxes.
+ Likewise, Zendle has been extensively involved with forums and policy-making bodies on the
+ issues surrounding loot boxes. Cairns and Power have worked with the AbleGamers Charity
+ supporting gamers with disabilities. Shahandashti was involved with the trial of verifiable e-
+
+
+Unit-level environment template (REF5b)
+ voting systems in Gateshead. Members of staff have presented their work on BBC radio and at
+ many public engagement meetings. In total, academics have spoken at 21 public engagement
+ events. We host a Departmental seminars with invited speakers from national and international
+ institutions. We have also invited distinguished external talks as part of our ‘Roundhouse’ public
+ lecture series. Speakers include Sir Michael Brady (2015) and Sir Tony Hoare (2015). The
+ University has also recognised prominent computer scientists from around the world with
+ honorary degrees, including Sir Michael Brady, Bertrand Mayer, David Braben, Tieniu Tan and
+ Narendra Ahuja.
+ Leadership and Informing Strategy
+ Members of staff have also made substantial contributions to the wider research landscape.
+ Hancock was Vice-President of the IAPR (2016-2018) and sat on the Royal Society panels for
+ International Exchanges, Newton Fellowships and Research Appointments. He chairs the IAPR
+ Maria Petrou prize committee, is on the REF 2021 panel and chaired the Czech Academy of
+ Sciences CS Assessment Panel (2016). Woodcock chaired the Microsoft Verified Software
+ Award Committee, the Formal Methods Europe Prizes and Awards Committee. He also sat on
+ the committees for the RAEng Awards, RAEng Newton Fund and the Grand Challenges
+ Research Fund. Stepney was a member of EPSRC’s ICT Advisory Team, the Science,
+ Engineering and Technology Board and the “Big Ideas” Advisory Group. She is also vice-
+ president of the International Society for Artificial Life. Cavalcanti was a Royal Society Newton
+ International Panel member. Wilson was a member of the Czech CS Assessment Panel (2016,
+ 2020). Cairns and Zendle have provided evidence to support policy changes surrounding game
+ loot boxes and gambling. Members of the Department are also extensively involved in reviewing
+ and assessing research proposals from research bodies all over the world.

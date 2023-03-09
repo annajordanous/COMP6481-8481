@@ -1,0 +1,804 @@
+Unit-level environment template (REF5b)
+ Institution: University of West London
+ Unit of Assessment: 11 Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+ 1.1 Context
+ Since 2014, the University has invested in research and has provided an infrastructure to expand
+ and support strategic areas, of which this UoA is one. The plan for growth and improvement is
+ articulated through our two last strategic plans (Ambition 2013-2018; Achievement 2019-2023),
+ and the related research strategies which require Schools to plan research in ways that reflect the
+ main objectives of the institutional strategies (see institutional statement, section 2). This UoA was
+ submitted in REF 2014, and it is strongly embedded in the School of Computing and Engineering,
+ where research in Computer Science was first submitted in RAE 2008. Over the present REF
+ period, the direction of research for the UoA has been refined - three clear clusters have been
+ nurtured - and the main strategic aim has been to increase quality and reach, particularly by
+ engaging with industry partners. The University has invested in this UoA; we have acquired new
+ facilities, created an interdisciplinary research centre, and invested in staff and funding
+ opportunities for doctoral students (see institutional statement, section 2.1.2). This unit has
+ therefore significantly matured and focused its research.
+ 1.2 Structure and Description of the UoA
+ Currently, 10 (9.8FTE) academics and 20 research students comprise the computer science and
+ the associated fields. The composition of the unit has changed significantly since December 2013;
+ 75% of academics have joined this UoA since 2014. The academics who left were replaced by
+ leading/promising world-class researchers, allowing us to bring maturity to the research areas
+ identified for growth whilst ensuring sustainability for the years ahead. Of the 10 current members,
+ six hold Associate/Full Professor positions. Four are more junior members. We have also identified
+ six members starting their career who have been identified as ‘next generation’ researchers (see
+ section 2).
+     Academic                    Position & Research Area/Expertise          Year Appointed/Left
+     Jose Abdelnour-Nocera       Associate Professor, HCI                    2003
+     Junaid Arshad               Associate Professor, Cybersecurity          2015- 2020
+     Waqar Asif                  Lecturer, Cybersecurity                     2020
+     Wei Jie                     Associate Professor, Cybersecurity          2009
+     Elahe Kani-Zabihi           Senior Lecturer, HCI                        2015
+     Jonathan Loo                Professor, Cybersecurity & AI               2017
+     Christian Sauer             Lecturer, AI                                2011- 2019
+     Shanyu Tang                 Professor, Cybersecurity                    2017
+     Ikram Ur Rehman             Lecturer, AI                                2019
+     Hui Wang                    Professor, AI                               2020
+     Xinheng (Henry) Wang        Professor, Cybersecurity & AI               2017- 2019
+     Scott Yang                  Lecturer, AI & Cybersecurity                2020
+     Massoud Zolgharni           Associate Professor, AI                     2018
+ The principal focuses of research are reflected in three multi-disciplinary themes. Each theme links
+ to a research centre/group that provides the coordination and infrastructure/expertise for targeted
+                                                                                                  Page 1
+
+
+Unit-level environment template (REF5b)
+ research. Academics involved are not limited to just one theme, and many work collaboratively
+ across a number of these thematic areas.
+       Figure 1. Our main research themes: Cybersecurity, Intelligent Computing, and Human-
+                                          Computer Interaction.
+ Cybersecurity research, supported by the Cybersecurity and Criminology Centre (CCC),
+ addresses research and public engagement in cybersecurity, crime and their intersections. This
+ Centre became fully operational in 2017 to focus on cybersecurity research and research in other
+ forms of criminality and security issues, with a view to be an interdisciplinary resource for internal
+ and external collaborators. It has a wide research scope: in computer system and network
+ security, Loo has recently been supported by the Innovate UK and the Department for Digital
+ Culture, Media and Sports (DCMS): i) to develop Cyber monitoring and Defence for IoT (04/2018-
+ 02/2019), and ii) to investigate an intelligent threat hunting system based on Linux security
+ hardening and mandatory access control policies (04/2020-07/2020). In communication
+ security, Tang secured an Innovate UK grant (1026790, 12284 GOL) in May 2020 to develop a
+ secure mobile apps universal converter using cybersecurity and automation technology (10/2020-
+ 03/2023). Asif, a more recent addition to the CCC, has been involved in multiple EU projects
+ focusing on data privacy. Currently, 7 PhD students are attached to the Centre. Key researchers
+ in this stream are:
+     •    Loo, Tang, Jie, Arshad, Asif, Yang
+     •    Also from UoA20: Brooks, Harding, Henry, Murji and Wakefield
+ Intelligent Computing research is supported by the Intelligent Sensing and Vision Research
+ Group (IntSaV), which is a specialised group coordinating advanced research in all aspects of
+ Artificial Intelligence and Big Data. It covers a range of topics in machine learning and computer
+ vision/sensing, encompassing various applications in industry and healthcare. IntSaV has fostered
+ interdisciplinary research by providing a framework for cross-faculty collaborative working beyond
+ the School. The group has pursued a successful strategy of growth in several key areas: in
+ biomedical image processing, Zolgharni was awarded a British Heart Foundation (BHF) grant
+ to develop computer-aided diagnostic technologies (01/2020-12/2022). The area of signal
+ processing has been revitalised with the recruitment of Yang whose novel methodologies for
+ biometric recognition has attracted attention. IntSaV has recruited 8 PhD students. In 2020, this
+ group introduced a new MSc in AI as a one-year bridge between undergraduate and PhD degrees.
+ Key researchers in this stream are:
+                                                                                                 Page 2
+
+
+Unit-level environment template (REF5b)
+     •   Zolgharni, Loo, Rehman, Yang, Wang and Sauer
+     •   Contributary members: 2 ‘next generation’ colleagues, and Chousidis from UoA12; and
+         Brew from UoA3
+ Human-Computer Interaction research, supported by the Sociotechnical Group for Innovation
+ and User Experience (SCIUX), addresses the design and development of systems that meet the
+ needs of end-users globally. It investigates the sociotechnical and cultural differences inherent in
+ the process and product of design, and development, of interactive systems. SCIUX has
+ developed strong relationships with industry, national and international partners, and has been
+ supported by several funding bodies. In HCI, Abdelnour-Nocera is funded and working closely
+ with Heathrow Airport on improved decision-making in the deployment of automation in terminal
+ airside operations. In exploring various dimensions of quality of experience, Kani-Zabihi has
+ focused on human factors in multimedia systems. Currently, 5 PhD students are attached to the
+ group. Research at SCIUX also feeds into our postgraduate courses in Information Systems,
+ Health Informatics, and Software Engineering. Key researchers in this stream are:
+     •   Abdelnour-Nocera, Kani-Zabihi
+     •   Contributory members: 4 ‘next generation’ colleagues.
+ 1.3 Research and Impact Strategy
+ With the appointment of an Executive Dean in late 2014 (Professor Amir Alani), and under his
+ direction, the UoA has grown strategically to occupy a strong position in a number of niche
+ research fields. Four major goals were set in 2015:
+     1) Focus on strategic research areas to increase quality and impact.
+     2) Strengthen the environment to generate a long-term and stable research community and
+         culture within the UoA, including through the establishment of Research Centre/Groups.
+     3) Increase bid activity and secured funding, improving our national and international reach
+         and recognition.
+     4) Develop industry-related links, and identify and develop impact communities, and impact
+         monitoring mechanisms for long-term impact engagement.
+ These goals were achieved as follows:
+     1. Developing strategic areas of research
+     It was agreed that we would reduce our focus from five to three main research areas; AI,
+     Cybersecurity, and HCI. Early in the cycle, the School set out its strategy to support staff in
+     the UoA, to be able to produce high quality research and strong impact in the field. We
+     recruited staff with cybersecurity expertise that brought additional STEM weight to our UoA.
+     This provided us with an opportunity to impact directly on sector-wide technological
+     developments in the areas related to cybersecurity, as our third major research theme.
+     2. Strengthening the environment
+     The CCC was established in 2017 to address current and future security threats in a cross-
+     disciplinary approach, contributing to the areas of cybersecurity and information security. The
+     Centre has recruited and promoted world-class researchers (six professors from this UoA and
+     other schools within the University). IntSaV, opened in 2018 to provide the expertise and
+     support for our AI research, and includes seven members. HCI research, supported by the
+     SCIUX group, has six members.
+     3. Improving our reach
+     Over the period, the UoA has established collaborative links with many industrial and clinical
+     partners, including the following partnerships with:
+                                                                                              Page 3
+
+
+Unit-level environment template (REF5b)
+     •    Secure Technologies UK Ltd and Imediavan, funded by the Innovate UK (Loo, to develop
+          cyber monitoring and Defence for IoT (CYMOND)).
+     •    AB5 Consulting Ltd, through a KTP fund (Tang, to develop a secure mobile apps universal
+          converter predicting apps security strength with a new fractal algorithm against security
+          metrics).
+     •    SALMAC: ‘Security Assessment tool for Linux Mandatory Access Control’, project funded
+          by Innovate UK/DCMS, led by Middlesex University with Loo as a CI, (April 2020 to July
+          2020) investigating an intelligent threat hunting system based on Linux security hardening
+          and mandatory access control policies
+     •    The National Heart and Lung Institute (Zolgharni, funded by BHF Project to develop
+          cardiovascular diagnostic tools).
+     4. Impact
+     The University holds an Impact Group which has supported academics with their ICSs, and is
+     presently focusing on upcoming impact opportunities beyond REF2021. Group members meet
+     monthly to identify promising early-stage research projects which could potentially be
+     impactful. From this UoA, Zolgharni serves as a group member.
+     The two impact case studies submitted illustrate the UOAs approach to impact. One shows
+     how we have developed an innovative approach to protecting internet-connected consumer
+     devices from cybersecurity threats, winning financial development support from Innovate UK /
+     DCMS and then taking this forward towards commercialisation. The second shows how our
+     Sociotechnical Research Group for Innovation and User Experience has contributed to the
+     effective adoption of Human-Centered Systems Design in Asia and Africa, as well as in the
+     UK. This builds on well-established research at the University and extended it to benefit new
+     partners, particularly in South Africa.
+ 1.4 Strategic plan for the next 5 years
+ Based on the University Research Strategy for 2025 (see institutional statement, section 2.1) the
+ principal aim for this unit is to further develop the quality and reach of its established areas of
+ research, to continue focusing on applied interdisciplinary projects, and to pursue quality research
+ spanning from underlying theoretical studies to transformative applications in the scientific,
+ commercial, and social domains. We will develop and pursue collaborative research, engaging
+ across the institution, and with regional and international partners, based on existing partners and
+ impact communities – with a view to expand. This is the basis on which will continue to develop
+ and grow this UoA towards the next REF, as we intend to produce research that impacts social
+ (in HCI research), medical (see collaborations with hospitals in Section 4.1), environmental and
+ scientific (see AI and Cybersecurity) aspects of our field. Our main objectives are:
+     1. Expansion of existing research capacity
+     The recent pandemic has accelerated digital transformation as people work remotely. This
+     paradigm shift will not be completely reversed in post-COVID era. CCC will be addressing the
+     profound questions posed by these changes to enhance cyber resilience and improve data
+     security distributed across private and corporate systems.
+     Similarly the rapid development of new online teaching and learning approaches in schools
+     and universities will engage HCI in the design of online learning platforms, and study wider
+     socio-political and economic implications on learning.
+     The Government’s Industrial Strategy identifies AI as one of its four Grand Challenges. This
+     will be a key focus area for us. It is envisaged that an AI Research Centre will emerge from
+     the IntSaV research group, spanning the breadth of its interdisciplinary research areas.
+                                                                                                Page 4
+
+
+Unit-level environment template (REF5b)
+     2. Transformative multidisciplinary research
+     We will sustain and expand our problem-driven and interdisciplinary research in the relevant
+     areas of AI, Healthcare, Security, and Ageing Society. We will do this by building on the
+     strengths of different disciplines at UWL already engaged interdisciplinary research, and grow
+     externally to tackle complex computer science problems.
+     3. Emerging research challenges in the discipline
+     We will focus on fast emerging challenges and shifting paradigms - including AI ethics,
+     explainable AI, cloud computing, and human-centred systems design - to meet the evolving
+     needs of industry, healthcare, and society.
+     4. Growth and diversification of research income
+     We will grow and diversify our research income portfolio, from commercial and non-
+     commercial sources, ensuring high-quality submissions and effective management of awards.
+     We aim to double our present research income by focusing on large and longer-term projects.
+     5. Training the next generation of researchers
+     We will continue to include the ‘next generation’ of researchers, and ensure they are targeted
+     for UoA and University funding and support opportunities. We will continue to attract high-
+     calibre PhD students, including securing further industry-based PhDs.
+     6. Pathways to impact
+     We will further engage with existing identified impact communities and end-users, as well as
+     identifying new ones, deploying systematic mechanisms to monitor and collect evidence. We
+     will further establish and generate new highly effective collaborations (including KTPs),
+     through consultancy work to industry.
+ 1.5 Support for Standards and Ethics
+ 1.5.1 Academic research infrastructure to support standards
+ The University Research, Scholarship and Enterprise Committee (URSEC) chaired by the
+ Deputy Vice-Chancellor, receives reports on matters of University-wide interest, including
+ regular updates and annual reports from schools on research, scholarship, and knowledge
+ transfer activities. URSEC also advises on research governance within the individual Schools. It
+ oversees key performance indicators and their fitness for purpose in the context of the
+ University’s Strategic Plan. A University Research Degrees Sub-Committee oversees
+ progression by postgraduate research students to registration to MPhil status, and onward to
+ doctoral (PhD) completion.
+ 1.5.2 Ethics
+ The University Research Ethics Committee (UREC) – also a subcommittee of the University
+ Research, Scholarship and Enterprise Committee (URSEC) - has overall responsibility for ethics
+ approval of all staff and students’ applications. This UoA’s staff and student approvals are
+ scrutinised by the School’s Research Ethics Panel (SCREP), chaired by Abdelnour-Nocera.
+ SCREP reports regularly to UREC. UREC subgroups are convened where ‘high risk’ applications
+ are identified by any School/College SCREP.
+ In UoA11, all research activities are also assessed rigorously for the health and safety under the
+ University’s established directives and protocols. The equipment being used for research
+ purposes are regularly inspected and tested to ensure it meets the technical and safety
+ requirements.
+                                                                                              Page 5
+
+
+Unit-level environment template (REF5b)
+ 1.6 Open and Interdisciplinary Research
+ All researchers in this UoA are ORCiD registered, and 386 publications are associated with this
+ UoA and openly accessible through repository, out of which 304 (80%) publications have full text
+ associated with the record. At UoA level, we do the following to support open research:
+      •  In the wake of open science, the priority in this UoA has been the full publication of details
+         of all methods developed in research, so that they can be reproduced, criticized, and
+         improved upon.
+      •  Crucial to the field of computer science, where not only publications but also other research
+         materials can be usefully shared, industry-standard code-sharing utilities, such as GitHub,
+         is used to make the datasets, code of experiments, and analyses freely available.
+      •  To stimulate faster impact, when possible, the scholarly research outputs are also openly
+         available by publishing in open access journals and arXiv repository.
+ As indicated earlier, this UoA has a strong interdisciplinary make-up. This is sustained through
+ regular meetings and seminars, and through expansive engagement with a range of industry
+ partners (see section 4).
+ 2. People
+ 2.1 Staffing Strategy
+ In 2015, UWL introduced an Academic Employment Framework (AEF) which addresses the
+ recruitment, management, development and support of all academic staff. In this framework all
+ academic staff can focus (in addition to teaching) on research, scholarship and/ or knowledge
+ exchange activities (see institutional statement, section 3.1). Academic staff agree targets for
+ these activities which form part of their annual appraisals. Through this framework, SCE has
+ benefitted (as explained in section 1) from the addition of new research-active staff. Over the REF
+ period, seven key appointments were made to strengthen the areas of AI and Cybersecurity.
+ The unit’s current diverse level of seniority (Professors, Associate Professors, and more junior
+ SRR) is supported through different mechanisms, and ensure we have succession plans within
+ the unit. Research expectations and publications in peer-reviewed reputable journals, and
+ participation in bids applications, are at the core of this UoA’s activities. All new members of staff
+ are allocated mentors to enable them to adapt well to the School culture. This process ensures
+ that talent is spotted early to allocate research responsibilities that will contribute to the future
+ shape of the UoA. Where relevant, new members of staff join a supervisory team as ‘observers’,
+ and later - after training (which is mandatory at UWL) - as second or third supervisors. Our UoA is
+ diverse, in terms of gender, race, religion, and age. Our academics originate from over nine
+ different countries on three continents, with 80% being of BAME background.
+ 2.2 Staff Development
+ There is a broad-ranging staff development provision, both at University and at School level (as
+ described in the institutional statement section 3.2). Several services contribute to research-based
+ staff development, which has involved staff in this UoA. The AEF framework provides a 5-day
+ annual allowance for CPD and development.
+ At University level, Research and Enterprise Operations (REOps) offer lunchtime seminar
+ sessions on research issues including knowledge exchange; impact; collaborative projects;
+ commercialisation; managing research budgets; funding opportunities, industry and user
+ engagement. REOps also support applications for research funding. This UoA has greatly
+ benefited from this training and support, and been supported by REOps with funding applications.
+ HR provide training on equality and diversity, managing stress, appraisals, preparing for
+ promotion, working with external collaborators, and leadership. They hold a budget for
+ conferences, sabbaticals, and other staff development programmes. For instance, Abdelnour-
+                                                                                                 Page 6
+
+
+Unit-level environment template (REF5b)
+ Nocera spent one year at the IT University of Copenhagen as part of a University’s sabbatical.
+ Staff on this UoA staff have also been supported for attending international conferences. The
+ University also pays for internal and external courses, and for staff to study additional
+ qualifications, including MAs and PhDs. For example, staff who take up studying for a PhD are
+ supported financially (no fees are paid) and through a 100-hour reduction in their teaching load.
+ Five members of staff have benefitted from this over the period; and another is presently
+ completing their PhD. The Library has provided training and one-to-one support on Open Access;
+ and has trained members of the UoA on understanding open access and compliance rules. They
+ encourage staff and research students to sign up to and use ORCiD ID. The Communications
+ department offers advice on media; public engagement; engaging with diverse audiences; social
+ media. The University also runs impact workshops, with access to impact advice (described in
+ section 1). It has provided training on impact; outputs planning; REF guidance; REF Code of
+ Practice. The annual University Research Conference led by the PVC (Academic) provides
+ opportunities to disseminate research findings, and network with potential new research partners.
+ This UoA has played a strong role in the conference, with regular attendance and presentations
+ (e.g., Abdelnour-Nocera in 2018, and Zolgharni in 2019 and 2020). Members of the UoA have
+ attended sessions on impact, public engagement, interdisciplinary research, mentoring, new
+ career researchers, at the annual conference.
+ At School level, the School of Computing and Engineering organises its own monthly research
+ seminars. Each session includes up to three internal (staff and doctoral students) or external
+ (visiting researchers) speakers presenting their latest research plans/findings. The seminars are
+ well-attended (>50 attendees each month) and attract audience from beyond SCE. It provides the
+ opportunity for junior researchers to benefit from detailed discussions and feedback on their work
+ with senior researchers. The UoA has been very active, accounting for ~70% of the speakers.
+ Other School-based support includes:
+      •   Junior academics are encouraged to meet with their link/mentors at least twice a year. This
+          may be on a one-to-one basis, and many discussions also occurred informally or during
+          the monthly research surgeries. Some junior staff have submitted joint bids with their
+          mentors.
+      •   Staff are supported with research and scholarly activities through regular developmental
+          workshops: e.g., introductory sessions to ‘Research Professional’; Research Data
+          Management and Data Management Plans.
+      •   All staff including junior staff are supported for attending internal and external conferences
+          and contribute to the research centre/groups.
+  Regular events include:
+      •   Peer review groups where colleagues review each other’s research outputs and doctoral
+          students’ proposals, prior to submission.
+      •   Monthly School’s Research Meetings during which research ideas, projects, and research-
+          related concerns are discussed.
+      •   Twice-yearly Research Showcases, an all-day event which showcases the research work
+          of all students and selected academics within the School.
+ All these initiatives are well embedded in the activities of the UoA, and have been sustained for
+ several years.
+                                                                                                   Page 7
+
+
+Unit-level environment template (REF5b)
+ 2.3 Research Students and Supervisors
+ Community
+ All our doctoral students benefit from a formal centrally-run research training programme (see
+ institutional statement, section 3.2) based on the VITAE Researcher Development Framework and
+ delivered by the Graduate School, with contributions from senior academics from across the
+ institution. On this programme, PGRs complete a series of Research Development Units (RDU)
+ throughout the entire period of their registration, with embedded Epigeum interactive online
+ activities. At School level, our current 20 registered research students are an integral part of the
+ UoA, and we engage them in seminars and meetings where we discuss their research and that of
+ staff. We run monthly research seminars where attendance is mandatory for doctoral students.
+ They are also required to present their research at least twice throughout their PhD journey: once
+ in first year of their studies when are forming their research ideas and plan, and can benefit from
+ feedback/comments provided by Schools’ academics and from practicing their presentation skills;
+ and closer to completion they present their final research findings, to get feedback from colleagues
+ as part of good preparation for their Viva. These activities are considered as required milestones
+ for progression, and are monitored via regular updates and annual progress reports. We also run
+ twice-yearly School Research Showcase full-day events within the School to enable doctoral
+ students to showcase their research work to the wider University and to the invited guests from
+ industry/media/charities (e.g., speakers/guests from Royal Academy of Engineering in January
+ 2020). Showcase exhibits include research posters and oral presentations. Ten prizes are
+ awarded (through visitors and staff vote) each year for the best exhibit in different categories.
+ Prizes are in the region of £100 (in the form of Amazon vouchers or Students’ Union goods such
+ as quality clothing items).
+ Expansion has been a key priority. Fifteen of our students have gained Vice-Chancellor’s PhD
+ Scholarships (on a competitive basis) to study towards a PhD over the period; seven are current
+ students. During the period of assessment, there have had 20 successful PhD completions. This
+ compares favourably when contrasted with the previous REF period with just three awards. In
+ parallel, supervisory capacity has also increased from 10 to 14.
+ Training
+ The Graduate School also runs a mandatory training course for all supervisors on topics including
+ good supervision management, regulations, equality and diversity issues, student support, using
+ the VITAE framework, and helping students through the various progression stages and
+ milestones. We also discuss in these sessions the University’s Code of Practice for Research
+ Students and Supervisors. This policy sets-out the main principles for successful supervisory
+ arrangements, and the University’s main priorities for doctoral research (see institutional
+ statement, section 3.2). Quite a few senior colleagues contribute to this training from across the
+ University, including Zolgharni from this UoA. It also has also run a comprehensive SEDA-
+ accredited programme on Supervising Postgraduate Research for training new and experienced
+ PhD supervisors to enhance their practice of supervision (e.g., one member of the UoA
+ successfully completed the course in 2020, a school colleague also completed in 2019). The
+ Graduate School runs an annual doctoral conference across all subjects. The annual doctoral
+ conference is always very well attended by academics and PhD students in this UoA. We play a
+ significant role in supporting the event, and students presenting their latest research findings; at
+ least 15 PhD students from this UoA have presented in the last 5 years (2015-2020).
+ PhD students are each supported by a sizeable group of people. Each student is assigned a
+ principal supervisor who is a subject specialist, and a second supervisor. In case of
+ multidisciplinary research projects, a third supervisor from a different discipline may also be
+ assigned, when needed. Ensuring the next generation of researchers are confident in
+                                                                                                Page 8
+
+
+Unit-level environment template (REF5b)
+ disseminating their knowledge we provide teaching opportunities with a limit of 6
+ hrs/week (including preparation). Students engage with groups according to their evolving degree
+ of expertise. Supervisors acts as mentors to support them in delivering those teaching duties.
+ Pastoral support is provided through the University’s central student support services.
+ Our students present regularly, and we support them in preparing for their presentations. They
+ have access to a central conference fund; e.g. a PhD student from IntSaV, was funded to attend
+ and present his research at ICRMIRO2020, for which he was awarded the ‘Best Presentation
+ Award‘. The doctoral students are also encouraged, and supported, to publish in discipline-specific
+ journals and the UWL University Press publication, New Vistas (see institutional statement,
+ section 3.2).
+ 2.4 Equality and Diversity
+ Training
+ The HR department delivers a mandatory programme of face-to-face and online training on all
+ aspects of equality and diversity which has been attended by all members of the UoA. Supervisors
+ have been trained on these issues through the compulsory programme of training run by the
+ Graduate School.
+ Research development opportunities
+ The research development opportunities available to staff – e.g. research funding, sabbaticals,
+ conference funding - always state the conditions and criteria that are applied. There is a
+ transparent process for these applications. Academic staff are actively encouraged to attend
+ briefing sessions on research funding opportunities, such as our regular lunch seminars and our
+ triannual research events. Access to other research support, such as conference attendance
+ support, sabbaticals and “seed grants” follow established procedures and are open to all staff
+ meeting the relevant criteria.
+ Recruitment and progression of research students
+ The recruitment of doctoral students is based on regulations that specify entry requirements, and
+ their application is supported by a written statement and an interview by a panel including
+ supervisors and a Graduate School Director of Studies to ensure fairness and consistency across
+ the institution. Progression is monitored by the Graduate School through a set of staggered
+ milestones, and final registration to PhD status (transfer) is overseen by the University Research
+ Degrees Sub-Committee. We aim to support completion within 3 to 3.5 years and have
+ mechanisms (e.g. regular supervision meetings, milestone presentations; regular reports) to
+ support all students in achieving this (see institutional statement). We subscribe to the
+ Postgraduate Research Experience Survey (PRES) and this shows that students are satisfied with
+ this support; UWL is ranked 7th out of 103 institutions on progression in PRES 2020.
+ REF
+ As a UoA, we have received training on recruitment, promotion, appraisal; and the UoA leads and
+ reviewers have received specific training on equality and diversity, and unconscious bias to
+ support them in their role. They have been advised to access to practical advice and support from
+ HR if needed.
+ 3. Income, infrastructure and facilities
+ 3.1 Income
+ The strategy in the unit is to support applications to both external income (Research Councils,
+ industry, government agencies, consultancy) and internal investments. The internal funding is
+ used to support active researchers with travel and equipment, and to provide funding for bursaries
+                                                                                              Page 9
+
+
+Unit-level environment template (REF5b)
+ for PhD students. The University has a responsive structure - the Research and Enterprise
+ Operations (REOps) – to identify relevant funding opportunities and support bids.
+ This UoA has used REOps to identify funding opportunities and been supported to produce strong
+ applications. The UoA has its own panel of expert reviewers, composed of academics from various
+ research themes, to support each other with peer-review of the bids under development, to ensure
+ high quality research proposals are submitted to the funding bodies. This model, established
+ during the census period, has seen annual income generation of c£650k for the REF2021 period.
+ We have been successful at attracting research income in all main themes in this UoA, and the
+ diversity of funders reflects the multidisciplinary nature of our research. The main sources of
+ research income for Cybersecurity include Innovate UK and industry (e.g., Amazon), realised via
+ our close collaboration with the industrial partners. The AI research has benefited from support
+ provided by Innovate UK, whilst we also target specialist funders and medical funding bodies (e.g.,
+ BHF). The HCI research theme has been supported by the national academies (e.g., British
+ Academy) and industry (e.g., Heathrow Airport). This has allowed the expansion of our research
+ capacity in our three strategic areas of research.
+ Below is a brief account of funded projects started during the REF2021 period:
+ Cybersecurity (£381,140):
+     •   A Self-organizing Community Detection Algorithm for Large-scale Social Networks (in
+         AWS credits) $10,000 (£7,400)
+         Funded by Amazon Research Grant (Jie), 2016
+     •   A Provenance Framework to Minimize Malleability Risk in Blockchain, approx. £23,000
+         Funded by Ministry of Science and Technology, Pakistan (Arshad), 2017
+     •   CyMonD: Cyber Monitoring and Defence System for Internet of Things, £9,446
+         Funded by DCMS & Innovate UK’s Cyber Security Academic Startup programme. Phase
+         1 (Loo and Arshad), 2018
+     •   CyMonD: Cyber Monitoring and Defence System for Internet of Things, £16,000
+         Funded DCMS & Innovate UK’s Cyber Security Academic Startup programme. Phase 2
+         (Loo and Arshad), 2018
+     •   CyMonD: Cyber Monitoring and Defence System for Internet of Things, £100,000
+         Funded by DCMS & Innovate UK’s Cyber Security Academic Startup programme. Phase
+         3 (Loo and Arshad), 2018
+     •   A Scalable Framework for Trustworthy Marketplaces, £50,000 (PhD Scholarship)
+         Funded by MyPocketSkill (Loo and Arshad), 2018
+     •   Representation Learning of Large-Scale Complex Information Networks by Integrating
+         Community Structure, RMB100, 000 (£11,300)
+         Funded by Shaanxi Provincial Department of Science and Technology, China (Jie), 2019
+     •   SELMAK: An Intelligent Threat Hunting System Based on Linux Security Hardening and
+         Mandatory Access Control Policies, £16,000
+         Funded by DCMS & Innovate UK’s Cyber Security Academic Startup programme. Phase
+         1 & 2 (Loo), 2020
+     •   Secure mobile apps universal converter, £147,974
+         Funded by Innovative UK – KTP (Tang), 2020
+ Intelligent Computing (£201,472):
+     •   Personalised Service Assistant for Journey Planner, £48,472
+         Funded by the Innovate UK - Newton Fund: UK-Malaysia urban challenge (Wang) 2018
+                                                                                            Page 10
+
+
+Unit-level environment template (REF5b)
+     •    Tensor-mapping to resolve the Achilles heel of echocardiographic imaging, £143,000
+          Funded by the British Heart Foundation (Zolgharni), 2020
+     •    Digital Innovation in Flood Early Warning and Water-related Disease Prevention for
+          Community Capacity Building and Resilience, approx. £10,000
+          Funded by the EPSRC (Zhang), 2020
+ HCI (£70,000):
+     •    Digital Inclusion, £20,000
+          Funded by British Academy (Abdelnour-Nocera), 2017-2019
+     •    Industrial PhD on Sociotechnical Innovation and User Experience £50,000
+          Funded by Heathrow Airport Innovation Unit (Abdelnour-Nocera), 2018-2021
+ 3.2 Infrastructure and facilities
+ 3.2.1 Digital research infrastructure
+ The University actively supports research data management and the use open data repositories
+ to archive research data. It offers a suite of tools to assist researchers in managing their research
+ data. Our online tools enable simple and secure collaboration, and are aligned with requirements
+ our Data Management Policy and General Data Protection Regulation (GDPR).
+     1. Support for Research Data Management and Storage
+     The University has a workflow to support for research data management of funded research,
+     and a package of Microsoft programs, both desktop and web-based, for collaborative
+     document editing and data management. OneDrive is used for data storage, which has a
+     desktop syncing application.
+     2. Research Software
+     The UoA is equipped with a set of free and specialised commercial software packages (e.g.,
+     Matlab Mathworks, Microsoft Visual Studio, Deep Learning Frameworks), necessary for model
+     developments and data analysis in research. The unit benefits from access to a Research
+     Programming Platform which is a browser-based service providing access to Python, R and
+     Julia through Jupyter Notebooks, Jupyter Lab, for general purpose code development.
+     3. Research Data Resources
+     Due to the long-standing relationships with several NHS Trusts and hospitals, IntSaV has
+     access to the clinical data, in accordance with the ethical regulations. Complementary to
+     information access, the group holds strong relationship with leading clinicians and medical
+     scientists – important for guiding research directions and providing ‘ground truth’
+     interpretations for AI developments. IntSaV also has participated in the development of, and
+     therefore has access to the UK’s largest biobank of echo expertise (http://unityimaging.net),
+     under the aegis of the British Society of Echocardiography.
+ 3.2.2 Research facilities and equipment
+ In addition to a significant investment programme on campus that has created social and open
+ learning spaces; advanced simulation spaces for research; a library without boundaries; and a
+ large flexible performance auditorium, the University has built a Sports Centre and a postgraduate
+ building for doctoral students. It has also built a number of laboratories and specialist facilities.
+ This UoA enjoys fully equipped computer labs and studios available to support ongoing research
+ with assistance of two full-time computing officers. We also have a dedicated Cybersecurity lab to
+ support research in the CCC. Researchers including permanent academics, postdoctoral
+ researchers, and research students have access to these resources. The CCC is also equipped
+ with Titax RTX GPU servers for high performance computations. These considerable in-house
+ computing and communication systems are enhanced by the extensive network infrastructure
+                                                                                                Page 11
+
+
+Unit-level environment template (REF5b)
+ provided by the University IT Service. The SCIUX lab has several servers, cameras, and software
+ licences for usability testing in HCI research. It also benefits from an eye tracking specialised room
+ to conduct research on human cognition and perception.
+ IntSaV’s laboratory equipment and infrastructure includes several ultrasound imaging machines
+ (General Electric, Philips, Ultrasonix) for data collection, deep learning servers equipped with
+ NVIDIA GPUs for model training and developments, RAID severs for data management, 3D
+ motion tracking systems (Polhemus), medical imaging test equipment (Blue Tissue Mimicking
+ Phantoms, and GAMMEX Precision Resolution Phantoms), and 3D printers.
+ The facilities and infrastructure strategies are based on a mix of institutional investment,
+ philanthropic donations, and capital investment through bid income (where applicable). Our next
+ research strategy has factored in the acquisition of HPC facilities and state-of-the-art GPU-
+ equipped servers, reflecting our view of emergence of an AI Research Centre from the IntSaV
+ research group, and expansion objectives for Cybersecurity and HCI research themes.
+ 4. Collaboration and contribution to the research base, economy and society
+ 4.1 Nature and scope of research collaborations
+ Much of the UoA’s success in research has been realised via collaborative research. We
+ collaborate with other disciplines and divisions of UWL (e.g., Biomedical Sciences, Hospitality and
+ Tourism, Law and Criminology, Nursing, Midwifery and Healthcare). Externally, we engage and
+ collaborate with academia, industry and government, both at national and international levels.
+ The research grants we participate in are multi-institutional and involve industrial/clinical
+ collaborations. We are partners on these grants with other HEIs (e.g., Imperial College and UCL).
+ Strong industry links ensure that our research remains at the forefront of the computing fields,
+ allowing us to contribute meaningfully to national and international challenges in cybersecurity and
+ HCI areas, where we are partners with many companies (e.g., Amazon, Imediavan Ltd, AB5
+ Consulting Ltd, Heathrow Airport). A considerable body of the work being carried out in this unit
+ has also focused on healthcare applications and clinical research, where we have strong ties with
+ researchers in many NHS sites (e.g., St Mary’s Hospital, ULCH, Kings College, London) and
+ industry (e.g., KYMIRA Ltd). Examples of research collaborations which were initiated - or matured
+ - during the REF2021 period, and have been identified as promising and potentially impactful
+ projects by the Impact Group (see section 1), are provided below.
+ Collaborations with other HEIs
+ We collaborate with >15 UK academic institutions, including KCL, UCL, Imperial College,
+ University of Lincoln, University of Swansea, Brunel University, University of Salford, Ulster
+ University, University of Leicester, Queen Mary University of London, University of Birmingham,
+ London Metropolitan University, University of Derby, University of Huddersfield, and University of
+ Manchester. Examples of collaborative work include Zolgharni’s joint efforts with the Laboratory
+ of Vision Engineering at Lincoln to develop AI-driven solutions for oesophageal cancer detection
+ from endoscopic images/videos, and the work with the School of Medicine at Imperial on
+ myocardial deformation imaging from echocardiograms. In the area of Internet of Things, Asif has
+ been working closely with City, University of London, to develop prediction and control models for
+ energy management in sensor networks. In HCI, and in collaboration with Brunel University, Kani-
+ Zabihi has been conducting a large experimental study to establish the impact of the fundamental
+ dimensions of scent intensity and valence on user experience in multimedia environments.
+ The academics in this UoA have also developed close working relationships with a number of
+ Non-UK academic institutions, including Aalto University in Finland, University of Oulu,
+ Copenhagen Business School, IIT Bombay in India, IT University of Copenhagen, KU Leuven in
+ Belgium, Instituto Superior Tecnico Lisbon, University of Madeira, ITI / Larsys in Portugal, Dalian
+ Maritime University in China, Columbia University in the USA, University of Verona and University
+                                                                                                 Page 12
+
+
+Unit-level environment template (REF5b)
+ of Florence in Italy. For instance, in collaboration with KU Leuven, Zolgharni is developing
+ innovative ultrasound strain imaging applications. A joint research proposal is being drafted.
+ Another example is the collaboration between Sauer and Aalto University, Finland, which focused
+ on the use of AI in selection of cyanide-free hydrometallurgical gold ore processing. More recently,
+ Zolgharni has been working with the Heart and Vessels Department within the University of
+ Florence to develop machine learning algorithms for automated clinical measurements.
+ Abdelnour-Nocera has been working closely with Cape Peninsula University of Technology and
+ University of Fort Hare, supporting them in service design and student retention. Loo has been
+ working closely with a number of universities in cutting edge technology; for instance, i) Beijing
+ University of Post and Telecommunications (BUPT) funded by Ministry of Education China in AI
+ and Machine learning in telecommunication technology (5G and beyond), and deep learning
+ technology for natural language processing and image processing, ii) University of Engineering
+ and Technology (UET Taxila) in wireless communication and antenna design, and iii) University
+ Tunku Abdul Rahman (UTAR) in advance wireless resource management with AI.
+ Collaborations with Industry
+ Collaboration with the local and global industries involves joint formulation of challenging and
+ relevant research agendas of our research strategy, they include:
+      •   A partnership with the Heathrow Airport that aims to address improved decision making in
+          the deployment of automation in terminal airside operations (Abdelnour-Nocera).
+      •   In collaboration with Secure Technologies Ltd and Imediavan Ltd, research has been
+          carried out to exploit Cyber monitoring and defence for IoT which was developed under
+          the Innovate UK and DCMS funding (Loo).
+      •   Partnership to develop a novel framework for online marketplaces to facilitate safe, secure
+          and dynamic multi-party interactions, in collaboration with MyPocketSkill which funded a
+          PhD student (Loo).
+      •   Joint venture in IntSaV developing deep learning models for monitoring and detecting atrial
+          fibrillation using wearable ECG recordings, in collaboration with KYMIRA Ltd. Mobile apps
+          are being developed to deploy the developed models for clinical pilot studies (Zolgharni).
+ The UoA also meets quarterly with SCE Industrial Consultative Board, comprised of several
+ major companies, including SEGA, Amazon, Oracle, Fujitsu, Huawei, Heathrow Airport,
+ PE.fiberoptics Ltd, Ratcliffe Groves Partnership, EMEA at Birst, Acumin Consulting Ltd, Digital
+ Service, Enterprise Services PLC, Masagi Ltd, SAS UK, Katchup, and Lombard Street Research.
+ The Board provides opportunities for both academics and industry practitioners to discuss and
+ receive feedback about current industry best practice, current changes and needs, and inform the
+ unit’s research agenda.
+ Collaborations with Hospitals/NHS
+ The IntSaV’s research profile, in many respects, is aligned with the government research agenda
+ on global societal impact and healthcare aspects. Most of the research carried out is focussed on
+ issues that have direct practical implications on quality of life. For instance, involvement in
+ healthcare relates to the advancement and exploitation of medical imaging from understanding
+ clinical needs to assisting in medical diagnosis. IntSaV has established strong research
+ relationship with several clinical partners, such as St Mary’s Hospital, Hammersmith Hospital, and
+ West Hertfordshire Hospitals NHS Trust. A recent example of collaborative research with the
+ clinical partners is the development of “Echognition” (http://unityimaging.net), a user-friendly
+ image annotation platform for collecting and building a large biobank of cardiac expertise, working
+ closely with cardiologist and physiologists from many NHS sites across the UK, including Glasgow,
+ Birmingham, Manchester, Sheffield, Oxford, Cambridge, Luton, Watford, Ealing and London
+ (Imperial, Kings College, London, UCLH, Bart’s Heart Centre, St Thomas’s Hospital).
+                                                                                              Page 13
+
+
+Unit-level environment template (REF5b)
+ 4.2 Academic leadership and wider contributions to the research base
+ We publicise our research strengths regionally, nationally, and internationally to ensure that the
+ valuable work of individual academics is recognised by the local community, and on the world
+ stage. The research academics within the Computing subject and the associated fields have
+ produced 386 peer-reviewed journal and international conference papers since 2014. The majority
+ of these publications are journal papers. Our staff also provide academic leadership nationally and
+ internationally, influencing research agendas and strategy.
+ Editorships and membership of editorial boards
+ Academics in this unit hold editorial roles on the major journals:
+      •  Editor-in-Chief. International Journal of Sociotechnology and Knowledge Development.
+         2014-2019 (Abdelnour-Nocera)
+      •  Editorial Board Member. International Journal of Biomedical Science and Engineering.
+         2019-present (Zolgharni)
+      •  Associate Editor. Wiley International Journal of Communication Systems. 2011-present
+         (Loo)
+     •   Editor. KSII Transactions on Internet and Information Systems. 2017-present (Tang)
+      •  Editor. International Journal of Computer Science & Information Technology Applications.
+         2011-2017 (Tang)
+ Convenors of conferences; Programme Chairs
+ Our academics serve as Program or General Chair for many national and international
+ Conferences and Workshops.
+      •  15th EAI International Conference on Collaborative Computing: Networking, Applications
+         and Worksharing, 2019, London, UK, Publicity Chair, Zolgharni
+      •  30th International Joint Conference on Artificial Intelligence (IJCAI-21), 2021, Montreal,
+         Canada, Zolgharni, Program Committee member
+      •  7th International Conference on Vehicle Technology and Intelligent Transport Systems,
+         2021, Prague, Czechia, Loo, Technical Programme Committee
+      •  29th IEEE International Symposium on Personal, Indoor and Mobile Radio
+         Communications, 2018, Bologna, Italy, Loo, Technical Programme Committee
+      •  4th Symposium on Engineering Energy Efficient InternetWorked Smart seNsor (E3WSN-
+         2018), in conjunction with the 32-nd IEEE International Conference on Advanced
+         Information Networking and Applications (IEEE AINA 2018), 2018, Pedagogical University
+         of Cracow, Poland, Loo, Workshop Chair/Organiser
+      •  Human Work Interaction Design: Analysis and Interaction Design Methods for Pervasive
+         and Smart Workplaces. The International Federation for Information Processing (IFIP) 13.6
+         Working Conference in Human Work Interaction Design, 2015, London (UWL), Abdelnour-
+         Nocera, Chair
+      •  Culture, Technology, Communication. Common World, Different Futures. 10th IFIP WG
+         13.8 International Conference, CaTaC 2016, London, UK (UWL), Abdelnour-Nocera,
+         Chair.
+      •  Symposium on Digital Inclusion in the Global South. British Academy, 2018, London
+         (UWL), Abdelnour-Nocera, Chair.
+      •  Participatory Design Conference 2020, Manizales, Colombia, Abdelnour-Nocera, Full
+         Papers Chair (Spanish).
+      •  IFIP Interact Conference, 2019, Paphos, Cyprus, Abdelnour-Nocera, Workshops Chair
+     •   IFIP Interact Conference 2019, Mumbai, India, Abdelnour-Nocera, Field Trips Chair.
+                                                                                            Page 14
+
+
+Unit-level environment template (REF5b)
+     •  Workshop on Cognitive Computing and Analytics (WCCA 2019), collocated to
+        COLLABORATECOM 2019 – 15th EAI International Conference on Collaborative
+        Computing: Networking, Applications and Worksharing, London, 2019, Zhang, Workshop
+        Chair/Organiser
+     •  27th European Conference on Information System, Stockholm University, Stockholm,
+        Sweden. 8-14th June 2019, Zhang, Associate Chair, HCI Track of ECIS2019
+     •  11th International Workshop on Security in e-Science and e-Research (ISSR 2019), in
+        conjunction with the 12th International Conference on Security, Privacy and Anonymity in
+        Computation, Communication and Storage (SpaCCS 2019) Jie, Workshop chair
+     •  14th International Symposium on Pervasive Systems, Algorithms, and Networks (I-SPAN
+        2017), 2017, Exeter, UK, Jie, Workshop Chair
+     •  8th International Workshop on Security in e-Science and e-Research (ISSR 2016),
+        Zhangjiajie, China, 2016, Jie, General Chair
+     •  9th International Workshop on Security in e-Science and e-Research (ISSR 2017),
+        Guangzhou, China, 2017, Jie, General Chair
+     •  10th International Workshop on Security in e-Science and e-Research (ISSR 2018),
+        Melbourne, Australia, 2018, Jie, General Chair
+     •  11th International Workshop on Security in e-Science and e-Research (ISSR 2019),
+        Atlanta, USA, 2019, Jie, General Chair
+     •  IEEE Workshop on Internet Privacy Information Protection, Tsinghua University, Beijing,
+        2020, Tang, Chair
+     •  IEEE Workshop on Cloud Data Security Auditing (ICCCS2018), Haikou, China, 2018,
+        Tang, Chair
+ Leadership of advisory boards, industry, commerce, research councils, learned societies
+ or professional bodies
+     • Representative appointed by the British Computer Society (BCS) to represent the UK in
+        the Technical Committee 13 in Human-Computer Interaction in International Federation for
+        Information Processing (IFIP), under the auspice of UNESCO. September 2017-present,
+        Abdelnour-Nocera
+     •  Advisor to the UK government through the BCS on the development of the Internet Safety
+        Strategy green paper. January 2018-present, Abdelnour Nocera
+     •  Advisor to South African universities (University of Cape Town, Cape Peninsula University
+        of Technology, and University of Fort Hare) in designing digital services for student
+        retention in higher education in Cape Town and Eastern Cape. September 2016 – April
+        2019, Abdelnour Nocera
+     •  Steering Committee Member of AITECHTalents, a global forum exploring the future of
+        artificial intelligence and its impact on the future of work, global corporations and society
+        as a whole. 2019-present. Zolgharni
+     •  Lead for Team UK, 45th WorldSkills International Competition on Cloud Computing,
+        Kazan, Russia, 2019, Jie
+     •  Scientific Advisory Board of Ministry of Education of China, 2012-2017, Tang
+ Invited/keynotes speakers
+ Our academics gave about >15 keynotes or invited speeches in recent years. Main keynotes are:
+     •  Abdelnour-Nocera, BCS Software Quality Management Conference, 2016
+        (http://sqminspire2016.weebly.com/keynote-speakers.html)
+                                                                                              Page 15
+
+
+Unit-level environment template (REF5b)
+     •   Zolgharni, Mechanical Engineering Department, Fresno State Directory, USA Novel
+         Automated Methods for Cardiac Imaging, 2018
+     •   Zolgharni, IBM (Querétaro, Mexico), Data Science and Machine Learning in Healthcare,
+         virtual event, 2020
+     •   Loo, BCS West London, Blockchain for the real world, “Blockchain for Businesses”,
+         November 2017
+     •   Loo, London Tech Week, Cyber and Blockchain in One Breath, “The 51% attack on
+         Blockchain”, Westmont Enterprise Hub, June 2018
+     •   Loo, 2nd China-ASEAN Computer Technology Development and Cooperation Forum,
+         China Computer Federation (CCF), “Proactive Edge Caching in Content-Centric
+         Networks with Dynamic User Requests”, December 2020.
+ Reviewer for research funding bids
+ Academics in this unit review research proposal for research councils and other funding bodies
+ including:
+     •   Reviewer for EPSRC, Zolgharni, since 2020
+     •   Reviewer for British Council (Newton Fund & Researcher Links), Zolgharni, since 2018
+     •   Reviewer for NIHR, Abdelnour-Nocera, since 2020
+     •   Reviewer for EPSRC, Abdelnour-Nocera, since 2019
+     •   Reviewer for Academy of Finland’s Centre of Excellence Programme, Loo, since 2020
+     •   Reviewer for EPSRC, Loo, since 2012
+     •   Reviewer for National Natural Science Foundation of China, Tang, since 2015
+ Peer-review for journals
+ Currently, we provide peer-review services to >35 journals, including:
+     •   Physiological Measurement, IOP, Zolgharni
+     •   Physics in Medicine and Biology, IOP, Zolgharni
+     •   Measurement Science and Technology, IOP, Zolgharni
+     •   Biomedical Physics & Engineering Express, IOP, Zolgharni
+     •   International Journal of Imaging Systems and Technology, WILEY, Zolgharni
+     •   International Journal of Cardiovascular Imaging, Springer, Zolgharni
+     •   Medical and Biological Engineering & Computing, Springer, Zolgharni
+     •   Microfluidics and Nanofluidics, Springer, Zolgharni
+     •   International Journal of High Performance Computing, SAGE, Zolgharni
+     •   Sensors, MDPI, Zolgharni
+     •   Micromachines, MDPI, Zolgharni
+     •   Journal of Medical Imaging and Health Informatics, ASP, Zolgharni
+     •   PLOS ONE, Zolgharni
+     •   Transactions on Medical Imaging, IEEE, Zolgharni
+     •   Transactions on Instrumentation and Measurement, IEEE, Zolgharni
+     •   Journal of Medical Imaging and Health Informatics, ASPBS, Zolgharni
+     •   Transactions on Wireless Communication, IEEE, Loo
+     •   Transactions on Communications, IEEE, Loo
+     •   Transactions on Vehicular Technology, IEEE, Loo
+     •   Internet of Things, IEEE, Loo
+     •   Transactions on Computational Social Systems, IEEE, Loo
+     •   Transactions on Network and Service Management, IEEE, Loo
+     •   Transactions Industrial Informatics, IEEE, Loo
+                                                                                         Page 16
+
+
+Unit-level environment template (REF5b)
+     •  International Journal of HCI, Taylor & Francis Online, Abdelnour-Nocera
+     •  Information Systems Journal, WILEY, Abdelnour-Nocera
+     •  Information Technology and People, Emerald, Abdelnour-Nocera
+     •  Co-Design, Taylor & Francis Online, Abdelnour-Nocera
+     •  Journal of Computer Mediated Communication, WILEY, Abdelnour-Nocera
+     •  Interacting with Computers, Oxford University Press, Abdelnour-Nocera
+     •  Journal of Design Research, Inderscience, Abdelnour-Nocera
+     •  Human Technology, Open Science Center (University of Jyvaskyla), Abdelnour-Nocera
+     •  Transactions on Dependable and Secure Computing, IEEE, Tang
+     •  Transactions on Information Forensics and Security, IEEE, Tang
+     •  Transactions on Multimedia, IEEE, Tang
+     •  Transactions on Industrial Informatics, IEEE, Tang
+     •  Transactions on Computers, IEEE, Tang
+     •  Transactions on Networking, IEEE/ACM, Tang
+ Visiting professorships and fellowships
+ We also engage with the wider community through our visiting research positions which include:
+     •  Visiting Associate Professor, IT University of Copenhagen, Denmark, 2016-2017,
+        Abdelnour-Nocera
+     •  Honorary Research Fellow, School of Medicine, Imperial College London, 2015-present,
+        Zolgharni
+     •  Foreign Expert, Ministry of Education China Foreign Expert Programme (equivalent to
+        Royal Society International Fellowship), Beijing University of Posts and
+        Telecommunications, 2017-present, Loo.
+                                                                                         Page 17

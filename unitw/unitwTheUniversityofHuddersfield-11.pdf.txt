@@ -1,0 +1,843 @@
+Unit-level environment template (REF5b)
+ Institution: University of Huddersfield
+ Unit of Assessment: UoA11 Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+ Context and Structure
+ The Unit’s research at The University of Huddersfield is centred in the Department of Computer
+ Science within the School of Computing and Engineering, with all staff entered being members
+ of that department. The Unit has grown significantly in research mass within the census period,
+ with 27.2 FTE staff being entered compared to 14.4 FTE in 2014. The Unit benefits from strong
+ ties to the School’s other department, Engineering and Technology, with which it shares some
+ research groups and funded projects.
+ Computer Science research submitted to the Unit is organised in several groupings:
+     1. PARK: (Planning, Autonomy and Representation of Knowledge), the largest and longest
+          running group, with specialisms in Automated Planning and Semantic Web, led by
+          Antoniou and McCluskey. It developed our Impact Case Study “New AI technologies for
+          enriching and recovering value from urban data with applications to traffic management",
+          and recently opened two application-focussed Centres with external partners, the Centre
+          for Intelligent Transport Management (CITM), and the Centre of Artificial Intelligence for
+          Mental Health (CAIMH).
+     2. CVIC: (Centre for Visual and Immersive Computing), with specialisms in real-time CCTV
+          analysis, augmented reality and machine vision for smart factory automation, led by Xu,
+          who developed our Impact Case Study "Enabling commercial impact from innovations in
+          visual computing".
+     3. CCS: (Centre for Cyber Security), a recently established Centre with specialisms in
+          applying AI techniques to intrusion detection and access control, led by Parkinson;
+     4. CIndA: (Centre for Industrial Analytics), a recently established Centre with specialisms in
+          IoT and Cloud Architectures, and strong links to CERN, led by Hill and Lane.
+     5. CMDS (Centre for Mathematics and Data Science), a joint venture with Engineering and
+          Technology to support mathematical research and teaching within the School, whose
+          members include Murtagh and Titarenko.
+     6. TAML (Technology Acceptance and Mobile Learning) research group, whose leaders
+          Ward and Lu created our Impact Case Study "Enabling better mobile learning for digital
+          skills development".
+ Development of the Unit’s Research and Impact Strategy
+ The Department of Business Energy and Industrial Strategy first issued a policy document in
+ 2013 outlining their envisioned global grand challenges. In September 2019 this document was
+ updated with primary grand challenges. The University’s long term strategy has been based on
+ supporting “areas of strategic research importance” (ASRIs), consistent with these global grand
+ challenges, to foster an interdisciplinary societal underpinning of research throughout the
+ University.
+ The ASRIs relevant to the Unit must be viewed in a multi-disciplinary context, and include
+ Artificial Intelligence, Cyber Security, Internet of Things and Cloud Computing, Intelligent
+                                                                                               Page 1
+
+
+Unit-level environment template (REF5b)
+ Manufacturing and Maintenance, Autonomous Systems, Data Science, Big Data
+ Analytics and Visualisation. The University has published a 5-year strategy map with
+ clear aims in each area of the University’s activities (cf Institutional Level Statement -
+ ILS). The University’s long-term vision has research growth at its core, influencing our
+ objectives below. The ILS contextualises this research focus: no academic members of
+ staff are on teaching only contracts, and 100% of all academic staff are to be publishing
+ at international excellence levels. For the Unit’s staff this translates to the following
+ strategy with clear objectives:
+ 1) Structure research around Research Centres with an ASRI focus: the structure of the Unit
+      into a group of subject-related Centres provides the intellectual support for academics to
+      grow within an environment which fosters collaborative research. The Unit initially had two
+      centres covering ASRIs (PARK and CVIV) at the start of this census period and since then
+      we have sought to expand these to include other ASRIs. This leads to our first 2 objectives:
+          obj-a) consolidation and further investment in established research centres.
+          obj-b) cultivation of new interdisciplinary areas of both research and impact, in line with
+           University ASRIs.
+ 2) Steer research activity to being pervasive and outward-facing among academic staff: actions
+      such as internal funding and new staff recruitment are focussed around the research centre
+      ethos, with all staff being attached to existing centres, or research groups with the potential
+      to achieve centre status. Collaboration with national and international partners will be
+      encouraged to augment internal support and mentorship. This leads to our third objective,
+      which is a direct mapping of the University KPI on academic staff:
+          obj-c) increase the number of academic staff active at international level in computer
+           science research to include all academic staff.
+ 3) Focus the activities of Centres on achieving both academic, economic and societal impact:
+      centres primarily must be based on the research of international excellence, from which we
+      will then seek to achieve societal economic impact, utilising an interdisciplinary focus. This
+      leads to our 4th and 5th objectives:
+          obj-d) increase significantly the societal and economic impact of our research activities
+           both through established and through new research centres.
+          obj-e) increase significantly the academic impact of our research activities both through
+           international collaboration and quality and quantity of outputs.
+ Quantitatively, we equate the success of our strategy and the achievement of our objectives to
+ the doubling of metrics (funding, PhDs, internationally excellent publications, etc) between 2014
+ and 2021, and commit to a similar increase for the next period.
+ Current Research Growth and Vitality
+ To measure whether we are succeeding, firstly we can compare our performance using the
+ aspirations within the REF5 template for REF2014, and secondly, we show how during this
+ census period we are meeting our strategy objectives.
+                                                                                                  Page 2
+
+
+Unit-level environment template (REF5b)
+ Our UoA 11 REF5 submitted to REF2014 stated that we would double our research outcomes
+ by the end of the subsequent REF period. We have achieved these aims in good measure as
+ follows:
+           the number of PhDs awarded per year has more than doubled
+           the amount of external research income per year has more than doubled
+           the FTE of staff being submitted to REF2021 has almost doubled - 14.4 to 27.2
+           the number of research students enrolled in July 2020 was at least 50% higher
+              than the beginning of the current census period.
+ As an illustration of how we are meeting objectives obj-a) and obj-e), during the census period,
+ at least 44 outputs at CORE A / A* rated Artificial Intelligence conferences were published by
+ University staff from the PARK research centre alone. The table below details the year (first
+ row), the conference venues (second row) and the total publication numbers each year (third
+ row), with multiple papers at the same venue also shown. This gives clear evidence of the vitality
+ within PARK’s research environment which is leading to research of the highest quality.
+      2014          2015              2016       2017         2018         2019           2020
+    3*ICAPS         AAAI,          2*AAAI,      AAAI,        2*AAAI,       AAAI,         AAAI,
+                  3*IJCAI,           ICLP,    2*ICAPS,       2*ICCS,      ICAPS,       2*ICAPS,
+                    IROS             IEEE-      IJCAI,       2*IEEE-     AAMAS,          ICLP,
+                                  CDC, KR,    2*K-CAP,        FUZZ,       2*ICCS,        ICCS,
+                                    IJCNN       ESWC          ICLP        4*IEEE-        IEEE-
+                                                                         FUZZ, K-        FUZZ
+                                                                            CAP
+        3              5                6          7            7            10             6
+ To illustrate our progress on obj-b), we started the assessment period with existing
+ strengths in Artificial Intelligence and Visual Computing (PARK, CVIC). Initial applications
+ of automated planning to security led Parkinson to create the CCS which now includes
+ areas of block chain, cryptography, and network security, and has supported the creation
+ of new degrees in BSc Cyber Security with Computer Science and MSc Cyber Security
+ and Digital Forensics. New professorial appointments Hill and Lane initiated research in
+ cloud architectures and IoT and their application to complex industrial data, and forged
+ the creation of the CIndA. New initiatives also include interdisciplinary research, for
+ example two new Computer Science Department Professorial appointments Murtagh
+ and Lee (Lee is submitted to UoA 12) have led to the establishment of the CMDS, a joint
+ venture with Engineering. The School’s composition of Computing and Engineering has
+ also led to interdisciplinarity, for example 4 staff in PARK are being submitted to UoA 12.
+ An exemplar illustrating the effect of our strategy’s focus on interdisciplinary research is the new
+ £1.8M Smart Rolling Stock Maintenance project funded via the European Regional Development
+ Fund and supported by the Northern Powerhouse. The project is led by the University’s Institute
+ of Railway Research (IRR) (UoA 12) in collaboration with PARK, and involves a range of key
+ industry partners including Northern Trains Ltd, Porterbrook and Unipart Rail over the course of
+ its three-year run (2020-2023). PARK leaders Antoniou and McCluskey are Co-Is with
+ responsibility for delivering automated planning and scheduling solutions for rolling stock
+ maintenance management, autonomy for the robotic devices involved in maintenance, and for
+ ontology development underlying system and process models within maintenance depots.
+                                                                                                 Page 3
+
+
+Unit-level environment template (REF5b)
+ With regard to obj-c), we can point to the body of staff being submitted to REF to indicate
+ degree of pervasiveness of research culture through the department: of academic staff in
+ the Department not REF-submitted, either their research falls into a different Unit, they
+ are yet to secure a PhD, and/or they are at a teaching assistant or research assistant
+ status.
+ We are delivering on obj-d) as evidenced by our three Impact Case Studies (named
+ above, in Transport Management, Mobile Learning and Computer Vision and
+ Visualisation), as well as delivering significant impact to Health (Antoniou) and Security
+ (Parkinson), detailed in the sections below.
+ Support for Research Growth
+ Researchers apply for funding via a wide variety of mechanisms as shown by our REF period
+ funding profile in Section 3. To help researchers engage in these activities University
+ investments in the School include a Research and Business Development team (the RBD team)
+ which include two Business Development staff, a Research Development Manager, and an
+ Impact Officer. Coupled with the growth of pre- and post-award teams to support
+ academics/researchers in securing and delivering new research projects, these investments in
+ supporting infrastructure have helped to deliver research income and consequent research
+ impact (described in more detail in Section 3 of this document). The Unit (primarily though the
+ RBD team) also draws heavily on the University central resources to support technology transfer
+ activities, as well as the growing legal and contracts teams that help facilitate
+ contractual/collaboration arrangements with industry partners to achieve impact.
+ Three particular factors guarantee the sustainability of our progress in growth of research and
+ impact:
+ Institutional Support: Over the census period, the University has invested ~£7.9M institutionally
+ in supporting delivery of its Research Strategy (via the “University Research Fund” or URF), and
+ examples of the effectiveness of these funds are given in this document. This will continue into
+ the next research period (cf ILS).
+ New Application-Focussed Initiatives: 2020 saw the creation of several new, exciting initiatives in
+ terms of interdisciplinary positioning of the Unit’s research outputs:
+     ●    the creation of CITM (cf Context and Structure), a collaboration between members of
+          PARK and staff from Kirklees Local Council, SimplifAI Systems Ltd, to deploy AI
+          technology to autonomously perform urban transport management;
+     ●    the creation of CAIMH (cf Context and Structure), a collaboration between members of
+          PARK and the University’s School of Human and Health Sciences and South-West
+          Yorkshire Partnership NHS Foundation Trust, in the application of AI techniques to
+          ADHD, autism and suicide prevention;
+     ●    the coordination of a Framework Research Collaboration Agreement by members of
+          CindA with CERN’s Beam Instrumentation Group to deploy novel opto-electronic sensing
+          and associated signal detection and processing.
+ New Significant Research Awards: As well as the interdisciplinary £1.8M Smart Rolling Stock
+ Maintenance award mentioned above, in 2020 Vallati received a prestigious UKRI Future
+ Leaders Fellowship award (FLF) entitled “Artificial Intelligence for Autonomic Urban Traffic
+                                                                                              Page 4
+
+
+Unit-level environment template (REF5b)
+ Control“. The FLF, in partnership with Transport for Greater Manchester, Kirklees Council, and
+ SimplifAI Systems Ltd, will last four years, will last four years initially with the opportunity to
+ extend to seven years, with a grant of £1.4M.
+ Research Governance
+ Research activity in the School is overseen by the School Research and Enterprise Committee
+ (SREC). Membership of SREC includes all professors and others in the School with a strategic
+ role. Day to day research management including allocation of University funding and oversight of
+ REF activity is coordinated by the School-wide REF Operations Group. In the Unit, Centre
+ Leaders are members of the SREC and the REF Operations Group, and with the Unit Co-
+ ordinator and Head of Department are responsible for developing Unit-level strategies such as
+ those in this document.
+ Open Research
+ The Unit is committed to ensuring publicly funded research is openly accessible, transparent,
+ collaborative and efficient. We use systems the University has invested in to promote open
+ research and open access to research outputs, and research data management (e.g. Elsevier’s
+ PURE information system). Where conflicts may occur (e.g. industry funded research, new IP
+ requiring protection prior to publication) support is provided to researchers from the RBD team to
+ proactively manage issues within the context of the Institution’s policies.
+ An example of open access is the Phishing Database set up by McCluskey’s research student
+ Rami Mohammad in the UCI Machine Learning repository, with 100-200 downloads every month
+ in the last year as evidenced in http://eprints.hud.ac.uk/id/eprint/24330/.
+ An example of open research is Antoniou’s EU-funded project Semdata www.semdata-
+ project.eu/ won under the FP7 Marie Curie International Researcher Exchange Scheme, in the
+ area of semantic data management.
+ Research Integrity
+ The Unit is committed to having a culture that promotes research integrity, in line with the
+ University’s commitment to the Concordat to Support Research Integrity. An institutional Code
+ of Practice for Research provides the framework under which researchers operate, and all new
+ projects and proposals are subject to ethical review and approval as part of a standard sign-off
+ process prior to project approval. Where specific ethical concerns may exist, the School
+ Research Ethics Committee provides guidance and support to researchers, as well as a link to
+ the Institution’s University Research Committee which has overall governance of research
+ integrity. As an example of this approach, Antoniou recently obtained IRAS approval for a
+ project he is leading with South-West Yorkshire Partnership NHS Foundation Trust on suicide
+ risk assessment.
+ 2. People
+ Staffing Strategy
+ Staffing strategy within the Unit has underpinned our research strategy, with an ambition to
+ grow high quality research with impact. Therefore, a successful research track-record is a pre-
+ requisite for all new academic and researcher staff appointments, with all expected to have a
+ PhD, and to have a research record that fits into our Centre-based culture (at the time of the
+                                                                                                     Page 5
+
+
+Unit-level environment template (REF5b)
+ census, 90% of computer science academic staff had PhDs). In the case of senior
+ appointments there is an expectation that track-record will include significant high-quality
+ research outputs, evidence of securing competitively awarded research funding, and of
+ successful collaboration with external partners. In the case of early career appointments,
+ evidence of the potential to develop these outputs is a key element of the recruitment process.
+ In order to achieve the increase in research over this REF period we have applied this strategy,
+ increasing the number of full time Professors from 3 at the end of REF2014, to currently 9
+ Professors, and making in total 13 new appointments out of the 29 (head count) submitted staff.
+ These new appointments have built up strength in existing Centres, and enabled creation of
+ new Centres such as the CindA and CMDS. Over the REF period our REF2014 QR funds and
+ Central internal research funding support (URF) have been used predominantly to pay for
+ research fellows to assist research centres deliver on their research growth. Three of these
+ research fellows initially supported by internal funding are now members of the Full Time
+ Lecturing staff (Chen-T, Tachzimidis and Bargiannis).
+ The University introduced a Research Excellence Scheme (RESS) in 2016 which aims to
+ provide opportunities to excellent research staff from other Institutions to join the University on
+ indefinite contracts. During the REF period this has amounted to two professorial appointments
+ in this Unit, linked to specific ASRIs: Murtagh (Data Science) and Lane (IoT and Cloud
+ Computing). Murtagh subsequently formed the cross-school Mathematics Group which has
+ added substantially to teaching and research and supports the CMDS.
+ Staff development strategy for all staff pursuing a career in research
+ In terms of staff development and advancement, the Unit adheres to the national Concordat to
+ Support the Career Development of Researchers, which sets out the seven key principles for
+ funders and employers of researchers in the UK. The Unit aims to support staff according to
+ these principles whatever their career stage and believes a supportive culture enhances
+ researcher performance, improves staff retention, and aids recruitment of both staff and post-
+ graduate students. All staff undergo an annual personal development review/appraisal which
+ includes consideration of research performance and planning, including identification of specific
+ training and development needs/opportunities. Research performance is an important metric for
+ successful career progression of all academics, with indicators such as research outputs,
+ income and successful Post Graduate Researcher (PGR) supervision essential for progression
+ to senior academic/researcher positions. During the current REF period 4 staff were promoted
+ internally to Professor (Faber, Ward, Crampton, and Xu) and 3 to Reader (Parkinson, Vallati,
+ and Venters).
+ In terms of development and training, the Unit has access to a large institutional staff
+ development portfolio which is mapped against the Vitae Researcher Development Framework.
+ The Unit has actively engaged with the University’s initiative – for example, in an initiative with
+ the Chartered Management Institute for senior and mid-level staff to achieve Level 7
+ management qualifications and obtain Chartered Manager status. In the REF period 5 senior
+ academics – Hill, Antoniou, Carter, Ward, and Crampton in the Unit have so far achieved this
+ goal.
+ The School’s RBD team has also established a Researchers’ Network (aimed primarily towards
+ early career staff but open to all) and are running regular seminars and workshops on topics of
+ interest and value to the community (e.g. the funding landscape, IP protection and exploitation,
+ how to build industry partnerships, maximising impact from research, etc.). These are designed
+                                                                                                 Page 6
+
+
+Unit-level environment template (REF5b)
+ to supplement centrally provided training and are practical/operationally focussed, encouraging
+ researchers to share their own experiences and challenges with colleagues. The team are at the
+ heart of support for staff: their effectiveness was recognised by the University as they won the
+ Outstanding Contribution to Research and Innovation Support award in 2015.
+ Support for Career Development of Researchers
+ All new academic staff appointees are provided with an introduction to the various support
+ structures with regards to research such as Pre-Award, Post-Award, PURE and the RBD team.
+ Each member of staff is assigned a mentor, and a research group (normally part of a Research
+ Centre). Staff benefit from mentoring within the context of their respective research groups, all of
+ which hold regular (typically weekly) seminar series where researchers can present and discuss
+ their work with peers and their senior group members and by providing help as appropriate to
+ identify key collaborators, establishing likely funding sources and assisting in drafting bids. Staff
+ early in their career are actively encouraged and supported in gaining experience of supporting
+ undergraduate and/or postgraduate teaching activities. Both Parkinson and Vallati, in
+ particular, achieved success supported by the Department’s development infrastructure: both
+ won Researcher in Residence awards from The Catapult Network. Within the University, Vallati
+ was nominated for Outstanding Early Career Researcher (2015), and Parkinson won University
+ research supervisor of the year 2020.
+ There is much evidence for the success of our early career support: all three ECRs from the
+ Department submitted in REF2014 (Vallati, Batsakis and Chrpa) now have teaching
+ responsibilities, and two of them have senior positions - Vallati is Reader in the Department, and
+ Chrpa is now Assistant Professor at Prague Technical University. Parkinson was an
+ undergraduate and doctoral student at The University: subsequently he became a lecturer and
+ has attained Readership status, and now is leader of the CCS. The University runs
+ interdisciplinary sandpits which are aimed particularly to encourage early career staff, and have
+ supported Bargiannis, Valatti and Tachmazidis. The School has a Research Development
+ Manager (Dr David MacDougal) to guide staff in their early career on the path to grant
+ application success.
+ The School supports Sabbatical Leave and Leave of Absence where it would enable an
+ academic to carry out a specific programme of research and development, or the completion of
+ a commissioned book or research paper or the preparation of a major research grant
+ application. For example, Ward developed the iDEA method during a 12-month sabbatical
+ leave within Buckingham Palace, leading to TAML’s Impact Case Study.
+ The Unit takes advantage of the University’s Collaborative Ventures Fund (CVF) which provides
+ up to £2,500 of internal funding for academics to work on short feasibility projects for external
+ companies at no cost to them. This has led to key relationships being developed resulting in
+ KTP projects, sponsored PhDs, Innovate-UK funded projects, with more details in Section 4.
+ Equality, Diversity and Inclusivity
+ The Unit is committed to creating and maintaining a culture of research diversity and recognises
+ that a positive and supportive environment where researchers from all backgrounds can flourish
+ will significantly support the Unit’s future ambitions.
+                                                                                                 Page 7
+
+
+Unit-level environment template (REF5b)
+ Similarly, the University is committed to EDI and has robust policies and codes of practice to
+ guide and support staff and PGRs. In 2020, the University signed up to the Race Equality
+ Charter (REC) and completed the Investing in Ethnicity Maturity Matrix to inform the REC action
+ plan. In 2018, the University was accredited as a Disability Confident Employer and was a
+ signatory to the Mindful Employer Charter; it is also a Stonewall Champion and participated in
+ the Stonewall Equality Index in 2019. The University has four staff networks (LGBTQI+, BAME,
+ Women and Disability) run by members with support from the University EDI Officer. The
+ University has Athena Swan Bronze accreditation and the School in which the Unit sits is also
+ working towards an Athena Swan Bronze award.
+ EDI is also a priority within the University’s REF2021 Code of Practice, and a detailed Equality
+ and Impact Assessment (EIA) has been completed as part of the process of selecting staff
+ outputs for inclusion within the REF assessment process. EDI influences our behaviour in the
+ Unit, for example it is mandatory for senior staff to undertake the University’s on-line
+ ‘unconscious bias’ and ‘diversity in the workplace’ modules.
+ An equality impact assessment was undertaken for the Unit and was used in the final
+ identification of output pool prior to submission. The most significant factor in UoA11 affecting
+ SRR/IR selection was postgraduate qualification, for example more than one third of staff who
+ were identified as not-SRR are still studying for a doctorate degree.
+ Regarding PGR students, personal learning support plans (PLSP) are developed for all who
+ require one. This is written following an interview between the PGR and the central University
+ Disability Team. Support is provided for those who declare a disability and is determined by the
+ content of the PLSP, whether this be specific display screen equipment or support from the
+ School Guidance Team.
+ PGR Student Recruitment, Development and Progression
+ Student Recruitment
+ At the end of the census period the Unit had 64 doctoral research students enrolled (43 FT and
+ 21 PT, a rise of 50% from the start of the census period), with nearly two thirds of them being
+ international. Recruitment of PGRs follows a robust recruitment process with all
+ projects/potential projects being advertised through a variety of channels, including the
+ University’s main application platform ‘Coursefinder’. The Unit follows the University wide
+ recruitment process for all of its doctoral research students, which includes a review of the
+ proposals by the research group/supervisor, interviews, completion of a Pre-Enrolment Form
+ and ensuring all the relevant checks are completed before the applicant is offered a place at the
+ University.
+ Internal funding has been provided to accelerate growth in research and enterprise and one
+ scheme which is available to potential research students is the fee waiver, where University fees
+ are fully or partly waived on the basis of merit. Since the beginning of the census period, 46 fee
+ waivers have been awarded to PhD and Masters by Research students. Examples of external
+ funding include Murtagh’s 4-year EPSRC NPIF award “Mathematical Foundations of Optical
+ Nano and Micro Mass Spectroscopy” which commenced October 2018. The Unit also benefits
+ from opportunities to collaborate within our sister engineering department’s EPSRC Doctoral
+ Training Programme, which fully funds a number (currently 12) of PhD studentships each year.
+                                                                                                Page 8
+
+
+Unit-level environment template (REF5b)
+ Details of monitoring and progression-support mechanisms:
+ All doctoral research students are required to submit a Research Plan and Skills Audit after three
+ months (pro rata for part time and after two months for Masters). The purpose of this is to enable
+ students to develop a clear plan for their research project, to explore the skills and training which
+ will be required, gain any required ethics approval, to perform an initial literature search and from
+ this to identify their research question.
+ Records of supervisions are kept by both students and supervisors in the University’s SkillsForge
+ platform. Progression vivas are held after 9 and 21 months, for which students are required to
+ submit an annual report detailing their progress, and then give a short presentation to a panel
+ consisting of two academics from the subject area who are not involved in the student’s
+ supervision (this allows also for frank discussion of the student’s level of satisfaction with the
+ supervision provided). For progression to be approved, the examiners must be satisfied that the
+ student has made sufficient progress both intellectually and in terms of timescale for completion.
+ Research training needs form part of the discussion in these vivas.
+ Continued support in the preparation for these milestones is provided primarily by the supervision
+ team; generally comprising of a main supervisor, second supervisor and personal tutor. Additional
+ provision is available within the Unit by our Academic Skills Tutor and from a central provision
+ within the Academic English Centre, which provides a variety of targeted workshops and courses.
+ Organised courses on areas such as academic writing, plagiarism and reviewing literature are
+ complemented by tailored one to one support if required. For example, the five half-day sessions
+ of the Essential Journal Writing Skills Course are mandatory for all full-time doctoral research
+ students and introduces the art of producing original research articles with a focus on crafting
+ introductions and reviewing literature with detailed guidance on paraphrasing, referencing and
+ avoiding plagiarism. All doctoral research students receive an electronic newsletter which
+ provides an overview of the upcoming courses and workshops.
+ To ensure that the voice of the doctoral research student is heard and considered, the Unit runs
+ a PGR Student Forum twice per annum with membership comprising of the Director of Graduate
+ Education (DoGE), four student representatives (across all Units within the School of Computing
+ and Engineering), one Student’s Union representative, two academics, one library representative,
+ one technician and one secretary. The Forum has a Terms of Reference and is formally recorded.
+ All School and University Committees have representation from a doctoral research student, again
+ to ensure the voice of the PGR is heard and considered.
+ In addition to the high-level academic support and development as described above, examples of
+ additional resources available include training on research ethics and integrity in our on-line
+ Researcher Environment, our Teaching Assistant Preparation Programme and the University's
+ Careers and Employability Service. Research students are encouraged to engage with internal
+ events such as our Three Minute Thesis competition and the annual PGR Conference as well as
+ presenting at external conferences and academic meetings. The Unit provides financial support
+ to each doctoral research student in the form of a £300 contribution towards a national conference
+ and £500 towards an international conference, through our Conference Presentation Fund. For
+ an example of its effectiveness, during the UK PlanSIG Workshop in 2020, out of the 11 papers
+ presented, 3 had current PhD students in PARK as first authors (R.Reba, S.Mund and H.Jaazaa).
+ 3. Income, infrastructure and facilities
+                                                                                                 Page 9
+
+
+Unit-level environment template (REF5b)
+ Strategy for generating income
+ Utilise the Research Centre structure: the Research Strategy detailed in the first section of this
+ document hinges on growth in research and impact. The structure of the Unit into a set of ASRI-
+ related Centres provides the intellectual support for academics to grow within an environment
+ which fosters mentorship and collaborative research. The success of the PARK group is
+ evidence of this, and the other, new Centres are likewise providing the same kind of
+ environment. As an example, the CCS became a standalone research centre in 2017 (formally
+ the academics were part of PARK research centre). This has resulted in more focus on cyber
+ security research and a total of £260k of income has been generated by Parkinson via a variety
+ of different grants and sources including UKRI, government, Innovate UK, KTP and industry
+ investment.
+ Reinvest Research Income into Centres: in order to help grow research and research income
+ within each centre, the School has a strategy of reinvesting any research surpluses back into
+ that research centre. This has supported obj-a) in our strategy, with research centres
+ (particularly PARK) being enabled to grow their resources by employing new research fellows
+ and offering PhD bursaries.
+ Provide close mentorship and bid development advice: as covered in Section 2 above, the
+ School and University have a range of support mechanisms for supporting grant bidding,
+ particularly those relatively inexperienced. With 13 new academic appointments in the census
+ period, developing the bid-winning potential of each member of staff is of paramount importance.
+ For example, Vallati’s successful bid for a UKRI Future Leaders Fellowship started years before
+ with mentorship and subject assistance within PARK, as well as the benefit of international
+ collaborations. The identification of this particular mechanism was recommended and assisted
+ by our Research Development Manager (see Section 1) with industrial connections cemented by
+ our RBD team. While every external bid in the School has to be peer reviewed and signed off
+ before submission, the development of Vallati’s bid in particular was monitored, reviewed and
+ supported by his mentor, the Research Development Manager, and other School-wide senior
+ staff, to maximise his chance of success.
+ Develop and grow commercialisation opportunities: the School and Unit has been increasing
+ support for achievement of societal impact (strategic objective obj-d)), and the development of
+ more user-led research. This is consistent with University Strategy map KPI of 15% of research
+ outputs by 2025 to be generated in collaboration with end users. Progress has been facilitated
+ by the increased support within the RBD team (with two new appointments since 2014) as well
+ as the development of a Research Finance Support Team. This extra support has been
+ particularly important in the commercialisation of our Urban Transport Management research
+ (more details in PARK’s ICS). Also, Lane has secured £50k from the ERA foundation and £30k
+ from the Royal Academy of Engineering to develop both education activities and technical
+ engagement with manufacturing SMEs to support them with the adoption of Industrial Digital
+ Technologies.
+ Submitted Unit’s Income
+ UoA 11 has had a steady portfolio of research income year on year underpinned by a combined
+ investment in new academics, new research centres, research support infrastructure, mentoring
+ and development of academic staff. The research funding for the census period has increased
+                                                                                             Page 10
+
+
+Unit-level environment template (REF5b)
+ compared to the last REF period by a per-year factor of more than two (total income for the
+ REF2014 period was £589K and total income for the current census period is £1,983K).
+ We continue to maintain a strategy of developing a mixed portfolio of grant funding resulting in a
+ balance between Industry, UKRI, EU and Government funding. While EU income has declined,
+ commercial income has increased, and with recent funding successes, Research Council grant
+ income should also rise to compensate for this (see Table below).
+ There has been a significant increase in bids during this REF period from a greater number of
+ academics. Our bidding portfolio has also increased from £2.5M worth of bids in academic year
+ 15/16 to £3.7M of bids in academic year 19/20. This aligns with the increased support both
+ centrally and with the School to facilitate the bidding process, provide training and support and
+ the increased academic mentoring with research centres.
+   Percentage Income per Annum and Income Sources
+                 2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20 Total
+   BEIS            25.9%     41.9%        63.7%        7.0%     6.9%      14.2%      12.5% 22.2%
+   Research
+   Councils,
+   The Royal
+   Society etc
+   UK-based          0.0%      0.0%         0.0%       0.0%     0.0%        3.3%     19.7%    3.3%
+   charities
+   (open
+   competitive
+   process)
+   UK central      10.8%       2.7%         6.7%     25.2%     61.4%      55.1%      19.7% 29.8%
+   government
+   bodies/local
+   authorities
+   UK industry,      0.0%      0.0%       11.5%      29.2%     14.7%      14.3%      40.2% 15.6%
+   commerce
+   and public
+   corporations
+   UK other          0.0%      0.0%         0.0%       9.0%     0.0%        0.0%      0.0%    1.0%
+   sources
+   EU              63.4%     55.4%        18.1%      29.5%     17.0%      13.2%       6.1% 27.9%
+   government
+   bodies
+   EU-based          0.0%      0.0%         0.0%       0.0%     0.0%        0.0%      1.8%    0.3%
+   charities
+   (open
+   competitive
+   process)
+ Exemplars of Success in Grant Income and Commercialisation
+ As part of growing commercialisation opportunities in the Unit, five Knowledge Transfer
+ Partnerships have been awarded within the census period (growing from zero) and totalling
+ £800K of current and potential future research grant income. In order to continue growing the
+                                                                                              Page 11
+
+
+Unit-level environment template (REF5b)
+ number of KTPs, a strategy of maintaining a portfolio of three KTPs running at any one time was
+ agreed. By the end of this REF period the Unit has successfully achieved this outcome (current
+ KTPs with ValueChain, Brandon Medical and Andel Ltd).
+ Alongside the KTP target, there has been a focus on working with our company partners to
+ apply for Innovate UK grants and to look at commercialisation opportunities. An exemplar is
+ McCluskey and Vallati’s collaboration with Transport Consultants which led to grants of
+ progressive size: starting with an internal CVF of £5000, this led to a consortium project
+ including British Telecom and Transport for Greater Manchester winning funding from the
+ Innovate UK Competition “Solving Urban Challenges with Data” (2015 - 2016). This resulted in
+ a Transport-Consultants-led Innovate UK First of a Kind collaboration of approximately £1M, of
+ which PARK secured £150,000. This further led to the establishment of a joint venture company
+ (SimplifAI Systems Ltd), between PARK and the Transport Consultants, of which the University
+ owns 15% of shares, and the establishment of the collaboratively-run CITM detailed in Section 1
+ above.
+ Infrastructure and facilities
+ The School has invested in a dedicated state-of-the-art space for PGR students including hot-
+ desking facilities for over 50 students, lockers, meeting rooms, chill out area, kitchen facilities,
+ and a dedicated admin team. A new Technical Services Manager has also been appointed
+ bringing all the technical and IT technicians under one management structure resulting in more
+ joined-up support for our researchers.
+ Staff and research students have access to a wide range of computer facilities, humanoid and
+ other robots, servers and specialist computer software. For example, the deterministic track of
+ the 2014 IPC (International Planning Competition) which was organised by Vallati, McCluskey
+ and Chrpa, and attracted 86 entries (i.e. planning software) from all continents of the world,
+ would not have been technically possible without the use of the School’s inhouse high
+ performance computing facilities. Apart from the contribution to the discipline, this infrastructure
+ provided the foundation for a huge amount of empirical investigation, resulting in a substantial
+ article by the organisers in Knowledge Engineering Review 2018 and an earlier AI Magazine
+ article that together have attracted well over 100 google cites by December 2020.
+ The University’s Innovation Centre (the “3M BIC”) is housed opposite our Department's building
+ and contains an Industrial Digital Technology demonstration laboratory. Lane, for example, has
+ used this facility to support his ERA Foundation funded initiative, in collaboration with National
+ Physical Laboratory staff, to engage with manufacturing SMEs to foster the adoption of Industry
+ 4.0 technologies.
+ 4. Collaboration and contribution to the research base, economy and society
+ Overview of Support for Collaborations
+ Collaborations in the widest sense are an essential ingredient in achieving all 5 of our research
+ strategy’s objectives, where the Unit is seeking to rapidly raise its research profile nationally and
+ internationally. Consequently, as well as winning direct external funding, we have at our disposal
+ both Central University mechanisms and School mechanisms to help us deliver them. These
+ collaborations range world-wide, are often interdisciplinary in nature, and often provide the basis
+ for the academic and societal impact of the pioneering research undertaken within the Unit.
+                                                                                                Page 12
+
+
+Unit-level environment template (REF5b)
+ Our School’s impact strategy is strongly aligned to the Unit’s overall strategy (c.f. obj-d in
+ section 1). Its aim is to foster close collaboration with industry partners to accelerate knowledge
+ transfer and the adoption of new technologies to deliver impact. This includes extensive support
+ for the use of funded mechanisms such as KTPs, Innovate UK Collaborative R&D programmes
+ (e.g. SMART grants). Seed-funding grants such as the CVF detailed in Section 2 are often used
+ to lead to these larger collaborations, being the prime collaborations with research users (e.g.
+ the PARK’s involvement in Urban Transport Management started using a University
+ Collaborative Funding Voucher of £5000 and led to over a million pounds of investment in this
+ area from Innovate UK and Venture Capitalist funding – more details are given in PARK’s Impact
+ Case Study “New AI technologies for enriching and recovering value from urban data with
+ applications to traffic management”).
+ For collaborative support in general, the Unit has received:
+      ●  Support for collaboration from the University Centre. URF is competitively obtained
+         and is predominantly used to support collaborations. URF funds have been used for
+         promoting interdisciplinary groups (e.g. CAIMH led by Antoniou detailed below), and for
+         promoting international collaboration (e.g. the Robotics Centre led by McCluskey
+         detailed below). For example, URF strand “Research Networking Fund” supports full-time
+         and part-time postgraduate researcher visits to centres of research excellence.
+      ●  Support mechanisms for collaboration from the within School include use of support
+         staff (described in the People section above), and the use of funding devolved from
+         Quality Related income (for example research fellow Franco was funded via QR to
+         support PARK’s Urban Transport Management research).
+ Exemplars of Collaboration - Academic Networks led by Unit Staff
+ The EU-funded project Mirel (https://www.mirelproject.eu/) under the H2020 Marie Sklodowska
+ Curie Research and Innovation Staff Exchange scheme in the area of AI for law, was led by
+ Antonoiu as PI. The project was important in advancing the research agenda and state of
+ mining and reasoning with legal texts and is currently producing a reference book on AI and
+ Law. University of Huddersfield researchers visited institutions including University of Bologna,
+ University of Luxembourg, CSIRO, Stanford University and Zhejiang University, and hosted
+ international researchers and research students from China, Australia and Argentina. For
+ example, Vallati visited the Universidad Nacional del Sur (Argentina), leading to a jointly written
+ Scimago Q1 journal publication. Funded by Mirel, he also gave invited talks on knowledge
+ engineering for AI Planning at the University of Tokyo, Japan (June 2019), and at Universidad
+ Nacional del Sur, Argentina (July 2017).
+ The EU-funded project Semdata www.semdata-project.eu/ under the FP7 Marie Curie
+ International Researcher Exchange Scheme, in the area of semantic data management, with PI
+ Antoniou, was important in advancing the research agenda and state-of-the-art of open data
+ curation and quality, stream data querying and reasoning with big data. University of
+ Huddersfield researchers visited international institutions such as Stanford University, Wright
+ State University and RMIT, and hosted international researchers and research students from
+ China, Australia and Ukraine.
+ The COST European Network in “Autonomic Transport Support Systems” (TUD 1102, 2011 -
+ 2015), chaired by McCluskey, had the participation of scientists from 24 European countries.
+                                                                                                Page 13
+
+
+Unit-level environment template (REF5b)
+ Departmental staff and students participated through scientific visits and participation in
+ workshops and competitions. The main outputs of the network were an edited, refereed book
+ “Autonomic Transport Support Systems” published by Springer (DOI 10.1007/978-3-319-25808-
+ 9), two international competitions, two training schools, various focussed workshops, and 45
+ short term scientific visits. As an example of the latter, in June 2015, the Network funded Vallati
+ to visit the TU Delft university in The Netherlands. The visit led to a number of subsequent
+ publications, including one in the AAAI-2016 conference, and eventually led to a patent
+ described below filed by SimplifAI Systems Ltd.
+ University Research Funding supported the Department’s Robots Research Initiative [2014-
+ 2017] with £86,986 supporting a sequence of high profile international collaborations,
+ underpinned by purchases of humanoid robots and support staff. The project funded the visit of
+ Dr Tiago Vaquero from MIT/CalTech in June 2016 to collaborate on robot research; in 2015
+ Chrpa visited the Robotics labs at LSTS, University of Porto, and the Icelandic Institute of
+ Intelligent Machines (IIIM), applying PARK’s expertise in Automated Planning to robotic
+ applications. The visits led to joint publications, including a publication at the premiere robotics
+ conference IROS, and joint Huddersfield - MIT organisation of the 2016 international competition
+ ICKEPS [https://ickeps2016.wordpress.com/] at ICAPS 2016, London.
+ Exemplars of Collaboration - Interdisciplinary Research led by Unit Staff
+ Lane is Technical Coordinator for a Framework Research Collaboration Agreement with
+ CERN. This has led to three PhD projects between CERN and CIndA, and a successful bid for
+ EU ATRACT funding for €100k in total. He holds a Visiting Scientist post at CERN in the Beam
+ Instrumentation Group in the Beams Department and works on novel opto-electronic sensing
+ and associated signal detection and processing for the CERN accelerator complex. He is also
+ the lead investigator of Huddersfield's association with the ATLAS experiment at CERN as a
+ Technical Institute providing software, simulation and system design support to the trigger and
+ data acquisition activity. Huddersfield is the first UK university to be accepted by ATLAS as a
+ Technical Institute.
+ Antoniou received support from the University Research Fund to drive interdisciplinary research
+ across campus, with the aim of establishing an AI Institute. Based on this funding, he was able
+ to reach out and establish a lasting working relation with South-West Yorkshire Partnership NHS
+ Foundation Trust. Co-funded initiatives between the University and Trust developed world-
+ leading AI solutions in the areas of suicide risk assessment and adult ADHD diagnosis, while a
+ new initiative started in 2020 towards developing an AI algorithm for diagnosing autism. Potential
+ benefits include more accurate prediction of suicide and cost-effective decision support solutions
+ for diagnosing ADHD and autism providing significant cost savings to the NHS through higher
+ productivity per specialist clinician. These cost reducing effects are also the foundation for
+ funding received by Research England through Grow MedTech towards possible
+ commercialisation of the ADHD solution.
+ McCluskey was PI and overall manager of the EPSRC project “Machine Learning and
+ Adaptation of Domain Models to Support Real Time Planning in Autonomous Systems
+ (EP/J011991/1 and EP/J011800/1, 2012 - 2016), collaborating with Prof Austin Tate of the
+ University of Edinburgh, and Schlumberger at Schlumbeger-Gould research Centre at
+ Cambridge. This was funded as part of the first tranche of the EPSRC/Industrial initiative in
+ Autonomous and Intelligent Systems (2012-2017), aiming to create a sustainable world-leading
+                                                                                                Page 14
+
+
+Unit-level environment template (REF5b)
+ robotics and autonomous systems industry in the UK. It supported a network of nine projects
+ across 16 universities. Industrial partners in the network were BAE Systems, Schlumberger,
+ National Nuclear Laboratory (NNL), Sellafield Ltd, Network Rail, SCISYS, DSTL and the UK
+ Space Agency. Many outcomes for Huddersfield followed including McCluskey’s further work
+ with the DSTL on the future of autonomous agents (http://eprints.hud.ac.uk/id/eprint/31984/).
+ As well as the above, the £1.8M ESIF grant “Smart Rolling Stock Maintenance” (2019-2023)
+ detailed in Section 1 is a good example of such interdisciplinary research.
+ Exemplars of Collaboration - Research Users and Societal and Economic Impact
+ The Unit has won 5 Knowledge Transfer Partnerships since 2014, details of the most recent 4
+ follow:
+ Impact via Knowledge Transfer Projects:
+      - Axia Digital / Citizen Connect Ltd (PN-10103). This KTP led to the development of a
+         new secure and customisable architecture for producing bespoke digital portfolio
+         solutions, which are being used by clients with c.600k users worldwide. (PI: Parkinson)
+      - Mainstream Measurements Ltd (PN-10565) This project culminated in the release of
+         the Mainstream MODBUS communications adapter, which provides a secure
+         communication interface for remote data acquisition, control, and integration. The
+         contribution of the Associate (Sean Howson) to the project won the UK KTP’s ``Future
+         Innovator'' award in 2019
+         http://wateractive.co.uk/products/120k_rd_project_opens_up_markets_worldwide_for_wa
+         ter_flow_measurement_company. (PI: Parkinson)
+      - Valuechain.com (PN-11073). This three-year programme will provide the company with
+         the capability to embed machine learning algorithms into its supply chain management
+         software. Based on the KTP’s work, Valuechain have secured a new Innovate UK /
+         Aerospace Technology Institute project in collaboration with Digital Catapult and Airbus.
+         (PI:Crampton)
+      - Brandon Medical (PN-10961) This joint work with our Department of Engineering
+         Technology is aimed at improving product and service quality driven by the use of
+         automation and data analytics in the manufacture of medical lighting and healthcare
+         devices (Co-I: Hill).
+      - Building on the sensing and data processing work carried out at CERN within CIndA,
+         KTP has been won with Andel Ltd. This is yet to commence, but aims to develop a novel
+         leak detection cable and associated signal processing to physically locate leaks across a
+         wide range of scenarios including data centres and buried pipework. (PI: Lane)
+ Impact Summary within Our Impact Case Studies
+ PARK’s ICS (McCluskey et al) demonstrates impact with research users British Telecom, SMEs
+ and Transport Authorities. CVV’s ICS (Xu et al) work in computer vision, visualisation, machine
+ learning, and their software found extensive use in real-world tasks such as tracking and
+ semantic segmentation. TAML’s ICS (Ward and Lu) shows that their iDea Portal and WRS
+ technology has led to impact in educational settings across over 190 countries, including being
+ used to teach the UK computing curriculum in schools.
+ Collaborations and Societal Contributions in Health:
+ Antoniou’s established collaboration with the NHS Foundation Trust (SWYPFT) referred to
+ above, has led to AI solutions for adult ADHD diagnosis is being used in the clinical service of
+ SWYT, and has received funding from Research England, through Grow Medtech (a Yorkshire
+                                                                                             Page 15
+
+
+Unit-level environment template (REF5b)
+ universities collaboration funded by Research England Connecting Capability Fund), towards
+ possible commercialisation. Completed research and progress reports have been published in
+ relevant journals and conferences in mental health (e.g. Crisis journal) and computer science
+ (e.g. Applied Artificial Intelligence). Vallati established collaboration with the Hospital Policlinico
+ Gemelli (Rome) and with the Brescia Hospital in the area of process mining for healthcare. This
+ interaction led to a number of publications, and to the release of an R package called PmineR
+ (http://www.pminer.info/progetti/website/main.php) that can be freely used for process discovery
+ and conformance checking.
+ Public Engagement:
+ The UoA is committed to the Concordat for Engaging the Public with Research, with the
+ University Centre providing an Engagement Fund for training in public engagement. Specific
+ examples include:
+     - Vallati uses his research expertise to write articles in Magazines such as The
+          Conversation (https://theconversation.com/will-ai-take-over-quantum-theory-suggests-
+          otherwise-126567) and in Academic blogs
+          (http://blogs.hud.ac.uk/academics/2020/march/will-driverless-vehicles-take-over/).
+     - McCluskey delivers a talk each year to local Schools based on his research in
+          Autonomy entitled “From Self Driving Cars to Thinking Robots – the advent of
+          Autonomous Intelligent Systems”.
+ Wider public engagement by researchers has primarily been through formally organised events
+ such as University European Researcher Nights in 2016 and 2017 (where over 3,000 members
+ of the public attended the University for open events showcasing our research) delivering
+ presentations and, more importantly, hands on activities. Researchers have also developed
+ public lectures showcasing research in off-campus locations. These “Café Scientifique” events
+ have proven popular and have been running since 2015 in conjunction with researchers from the
+ School of Applied School Sciences.
+ Contribution to the Research Base
+ Keynote Talks
+ Many staff in the unit have given external invited talks, below we list only some examples of
+ Keynotes talks:
+ Hill was Keynote Speaker for the 7th International Conference on Smart City and Informatization
+ 2017: “Realising Smart Manufacturing with the Industrial Internet of Things”;
+ Xu was Keynote Speaker for the 2017 International Conference on Sensing and Imaging,
+ Chengdu, China, and Keynote Speaker for the 2016 International Workshop on Signal Processing
+ with Applications in Scene Investigation.
+ Lu has given several keynotes talks including “Big data vs. Environment - a Challenge in Both
+ Areas”, International Conference on Change, Innovation, Informatics and Disruptive Technology,
+ 2016, London, UK; the Fourth International Conference on Advanced Communications and
+ Computation, France, 2014.
+ Antoniou was Keynote Speaker at the 4th International Conference on Web Intelligence, Mining
+ and Semantics, Thessaloniki, Greece; ONTOBRAS 2015: Brazilian Seminar on Ontologies, Sao
+ Paulo, Brazil; IISA 2019: Information, Intelligence, Systems and Applications, Patras, Greece;
+ PRICAI 2019: Pacifi Rim International Conference on Artificial Intelligence, Suva, Fiji; and WISE
+ 2020: 21st International Conference on Web Information Systems Engineering, Amsterdam,
+ Netherlands.
+                                                                                                 Page 16
+
+
+Unit-level environment template (REF5b)
+ Editorials
+ Staff are or have been editors of prestigious journals in the area, with some examples below:
+        Antoniou is on the Editorial Board of the Artificial Intelligence Journal, Knowledge and
+         Information Systems and International Journal of Artificial Intelligence Tools; and he is
+         Guest Editor of Artificial Intelligence in Medicine (2019-2020) and was Guest editor for
+         International Journal of Artificial Intelligence Tools, Special Issue on Advances of AI
+         (selection of papers from MIWAI 2015, 2014, 2013.
+        Faber was on the Editorial Board for Journal of Artificial Intelligence Research - Editorial
+         Board for Advances in Artificial Intelligence.
+        Lane was Guest Editor, Special Issue of MDPI Sensors Journal (Q2 in SJR) on Industrial
+         Internet of Things.
+        Allen is an editor of a new journal, Journal of Emerging Trends in Computer Science and
+         Engineering.
+        Vallati is member of the Editorial Board of the Artificial Intelligence in Medicine Journal,
+         and of the Journal of Creative Music Systems. Also, he was guest editor of the Fundamenta
+         Informaticae special issue on selected papers from RCRA-18.
+        Lu is Guest Editor for two special issues in the International Journal of Information
+         Retrieval Research, Special Issue on Ontology and Innovation: Part 1 and Part 2. She is
+         the founder and Editor in Chief for International Journal of Information Retrieval Research,
+         IGI Global Ltd. USA since 2012.
+        Chen T. is Lead Guest Editor for Artificial Intelligence in Medicine’s forthcoming Special
+         Issue on Medical Analytics for Healthcare Intelligence.
+ Conference Organisation and Management
+ Staff have acted as organisers of many conferences and workshops. Some examples are given
+ below:
+      Antoniou was PC Co-Chair of IEEE International Conference on Knowledge Graphs
+         2020, General Co-Chair of JIST 2016 and Conference Co-Chair of MIWAI 2015.
+      Faber was General Chair of the 9th International Conference on Web Reasoning and
+         Rule Systems (RR 2015) and Chair of the First Workshop on Trends and Applications of
+         Answer Set Programming (TAASP 2016).
+      Hill was General Co-Chair of The 8th IEEE International Conference on Smart City and
+         Informatization, Guangzhou, China, 2020; and General Co-Chair 14th IEEE International
+         Conference on Ubiquitous Computing and Communications (IUCC 2015), Liverpool, UK,
+         October 26–28, 2015.
+      Xu was Program Chair for 22nd IEEE International Conference on Automation and
+         Computing (IEEE ICAC’16), and General Chair for the IEEE ICAC’17 Conference.
+      Lu was Scientific Committee Chair of International Conference on Communication,
+         Management and Information Technology at ICCMIT'17, Warsaw, Poland and at
+         ICCMIT'18, Madrid, Spain.
+      Vallati was Co-Chair of the International Symposium on Combinatorial Search (SoCS),
+         May, 2020. He was conference co-chair of the 13th International Symposium on
+         Combinatorial Search (SoCS 2020).
+      Parkinson was Co-Chair of International Conference on Automated Planning and
+         Scheduling (ICAPS) Application track at ICAPS-19 in Berkeley (CA), USA, and in Nancy,
+         France, 2020. He has been co-chair of SPARK, the Scheduling and Planning
+         Applications woRKshop workshop at ICAPS-17, ICAPS-18, ICAPS-19 and ICAPS-20. He
+                                                                                              Page 17
+
+
+Unit-level environment template (REF5b)
+        was Chair of PLANSIG workshop, University of Huddersfield (2016), and is Area Editor of
+        EAI Endorsed Transactions on Security and Safety.
+       Qin was Program Co-Chair, The 9th International Symposium on Internet of Ubiquitous
+        and Pervasive Things (IUPT 2019), Leuven, Belgium, April 29 - May 2, 2019; Program
+        Co-Chair, The 8th International Symposium on Internet of Ubiquitous and Pervasive
+        Things (IUPT 2018). Porto, Portugal, May 8-11, 2018; and Program Co-Chair, The 7th
+        International Symposium on Internet of Ubiquitous and Pervasive Things (IUPT 2017),
+        Madeira, Portugal, May 16-19, 2017.
+ Examples of Prizes won by Saff
+      Xu won Best Paper Award, An Innovative Crowd Segmentation Approach based on
+        Social Force Modelling, Yu Hao, Zhijie Xu, Ying Liu, Jing Wang, Jiulun Fan, presented at
+        ADVCOMP 2018, The Twelfth International Conference on Advanced Engineering
+        Computing and Applications in Sciences, Athens, Greece, November 18-22, 2018. ISBN:
+        978-1-61208-677-4
+        https://www.iaria.org/conferences2018/awardsADVCOMP18/advcomp2018_a2.pdf
+      Faber led the team (himself, and 2 PhD students) that took first place in the 2014 FLoC
+        Olympics Answer Set Programming (ASP) Modelling Competition at the FLoC Olympic
+        Games, instituted by the Federated Logic Conference, and held in the Vienna Summer of
+        Logic, July 2014. Results page:
+        https://www.mat.unical.it/aspcomp2014/FrontPage#liveevents
+      Hill won Best Paper Award, A Multi-layer Security Model for 5G-enabled Industrial
+        Internet of Things, Hussain Al-Aqrabi, Anju Johnson, Richard Hill, Phil Lane, Lu Liu,
+        presented iSCI2019, The 7th IEEE International Conference on Smart City and
+        Informatization, Guangzhou, China, November 12-15, 2019. ISBN: 978-981-15-1301-5.
+        He received ‘IEEE Outstanding Leadership Award’ at the 14th IEEE International
+        Conference on Ubiquitous Computing and Communications (IUCC 2015), Liverpool, UK,
+        October 26–28, 2015.
+      Vallati won first prize in the temporal track of the 2018 edition of the International
+        Planning Competition, with a system called TemPoRaL (https://ipc2018-
+        temporal.bitbucket.io/). He won first prize in the PR track of the 2nd International
+        Competition on Computational Models of Argumentation (ICCMA), in 2017
+        (http://argumentationcompetition.org/2017/), with a system called ArgSemSAT.
+ Competition Organisation
+      Vallati was co-organiser of the 2019 Sparkle Planning Challenge
+        (http://ada.liacs.nl/events/sparkle-planning-19/) - an international competition of the AI
+        Planning community aimed at assessing the complementarity of existing planning
+        techniques.
+      McCluskey, Chrpa and Vallati were co-organisers of the 2016 international competition
+        ICKEPS (https://ickeps2016.wordpress.com/organisers/) with Dr T Vaquero of MIT.
+      Vallati, McCluskey and Chrpa formed the organising team of the deterministic track of
+        the 2014 IPC (International Planning Competition) (https://helios.hud.ac.uk/scommv/IPC-
+        14/).
+                                                                                              Page 18

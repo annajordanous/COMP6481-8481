@@ -1,0 +1,951 @@
+Unit-level environment template (REF5b)
+ Institution: University of Southampton
+ Unit of Assessment: 11 Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+ 1.1 Overview
+ The School of Electronics and Computer Science (ECS) has 95 academic (CAT A) staff
+ (including 39 professors) split across UoAs 11 and 12, of which 51 staff (20%F) are being
+ returned in UoA11. Situated in the Faculty of Engineering and Physical Sciences, ECS,
+ established in 1947, is the oldest school of its kind in the UK and has an annual economy of
+ £46M (£25M for UoA11). The interdisciplinary nature of ECS reflects its highly interconnected
+ and collaborative philosophy. UoA11 draws especially upon, and benefits from, numerous other
+ disciplines as evidenced below. This is a key element to our strong environment, both for the
+ generation of new insights and for the translation of fundamental research into meaningful
+ economic, societal and human impact. Our environment has resulted in key achievements over
+ the past REF period, including:
+      •   An influential government artificial intelligence (AI) review entitled “Growing the AI
+          Industry in the UK”, which has shaped the government’s AI agenda (§4.2.1).
+      •   The only computer science (CS) Regius professor chair in the UK.
+      •   Renewal of the GCHQ Cyber Security Academy Centre of Excellence.
+      •   3 new interdisciplinary centres around AI, digital health and the internet of things (IoT).
+      •   A £1.5M Shell-funded centre with engineering focusing on digital maritime.
+      •   Over £40M funding awarded to UoA11 including a CDT, 2 EPSRC platform grants and
+          leading the £12M (total value) UKRI Trustworthy Autonomous Systems (TAS) Hub.
+      •   Over the REF period, we increased the percentage of female academic staff in CS from
+          11% to 20%, and of female PGR students from 26% to 32%.
+ The Unit is wholly situated in ECS with academic staff split across five research groups for line
+ management purposes. As shown in Table 1, AIC brings together pioneering research in AI,
+ human-computer systems, complexity science and health/wellbeing. CPS undertakes research
+ covering electronics and computer science that enables advances in engineering of cyber-
+ physical systems. CSY brings together interdisciplinary expertise in whole-systems security
+ bridging software, hardware and human factors. VLC produces internationally leading research
+ in machine learning and computer vision. WAIS studies socio-technical systems at scale, using
+ a combination of data, computational and social science methods to understand interactions
+ among information systems that compose the Web and the Internet. Two groups, VLC and CPS,
+ are split with UoA12.
+                                      Table 1: Research Groups
+                      Group                             Head          UoA11 Count        UoA11 FTE
+   Agents, Interaction and Complexity (AIC)       Norman                15 (4F/11M)          14.96
+   Cyber-Physical Systems (CPS)                   Gunn                   5 (0F/5M)            5.00
+   Cybersecurity (CSY)                            Sassone                7 (1F/6M)            6.40
+   Vision, Learning and Control (VLC)             Prugel-Bennett        10 (1F/9M)            8.80
+   Web and Internet Science (WAIS)                Carr                  14 (4F/10M)          12.10
+   Total                                                               51 (10F/41M)          47.26
+                                                                                                  Page 1
+
+
+Unit-level environment template (REF5b)
+ In addition, there are three cross-cutting interdisciplinary research centres with UoA11 staff
+ members: Centre for Machine Intelligence (CMI, Ramchurn), the Centre for Internet of Things
+ and Pervasive Systems (CIoT, Merrett), and the Centre for Health Technology (CHT, Chapman
+ & White).
+ UoA11 is also leading the recently established interdisciplinary UKRI Trustworthy Autonomous
+ Systems (TAS) Hub, in collaboration with King’s College London and University of Nottingham
+ (https://www.tas.ac.uk/, Ramchurn (PI), Butler, Chapman, Evers, Hall (Co-Is)).
+ Also, several long-standing University-wide centres are led by UoA11 staff. The Web Science
+ Institute (WSI, Directors: Carr & Hall (WAIS) and Leonard (Sociology)) is jointly led by UoA11
+ and social sciences. ECS is also home to both the UKRI-funded Software Sustainability Institute
+ (SSI, PI: Carr) the world-leading hub for research software best practice, and the Southampton
+ Research Software Group (RSG) which has a similar role but at the local level. Southampton is
+ also home to one of 19 National Academic Centres of Excellence in Cyber Security Research
+ (ACE-CSR), led by Sassone, recognising Southampton as an internationally leading institute for
+ research on cybersecurity. ECS is furthermore home to the IT Innovation Centre which focuses
+ on enterprise and applied research, and its staff are on enterprise contracts (rather than
+ balanced pathways, REF5a§3.1). Finally, since 2018, Southampton is a member of the Alan
+ Turing Institute (ATI) which has strong engagement from UoA11. Figure 1 provides an overview.
+                                Figure 1: Overview of Unit Structure
+ 1.2 Achievement of strategic aims 2014-2020
+ Our 2014-20 research strategy aimed to deliver world-class research and impact in a diverse
+ range of interdisciplinary areas including formal methods, cyber security, AI and healthcare.
+ During the 2016/17 academic year we conducted a thorough review of our overall strategy and
+ structure. We identified the need to establish a new interdisciplinary group in Cyber Security and
+ a refocusing of the CPS group (formerly Electronic and Software Systems). A clear need to
+ develop additional cross-cutting research centres was also identified. This led to CMI, CIoT
+ (which evolved from the existing Pervasive Systems Centre) and CHT, along with continuing
+ centres delivering research excellence, impact, industry collaborations and funding.
+ Another important development has been the retirement of senior academics (e.g. Poppleton
+ and Wald) and some of our top academics taking up prestigious positions elsewhere (e.g.
+ Shadbolt became Principal of Jesus College, Oxford in 2015 and Jennings became Vice-
+ Provost at Imperial in 2016). Our strategy has been to replace these positions by predominantly
+ early career researchers (ECRs). Indeed, 22 (6F/16M) of the 51 UoA11 returned staff were hired
+ over the REF period, of which 18 (6F/12M) were ECRs. Despite fewer senior staff, we were able
+ to achieve and, in some cases, exceed our targets. Our aims following REF2014 were:
+                                                                                               Page 2
+
+
+Unit-level environment template (REF5b)
+ Aim 1: Deliver excellent science.
+ Over the REF period we have published almost 2000 research papers (conferences and
+ journals). One indication of quality is the assessment of those indexed by Scopus, where 47%
+ were in the top 25% (by CiteScore Percentile), and 83% in the top 50%, with papers in these
+ categories increasing over the past 2-3 years. Our overall field-weighted citation impact was
+ 1.67 in 2018, and 1.99 in 2019, compared to 1.48 average over 2014-2019, with around 19% in
+ the top 10% for citations. Despite fewer staff we attracted more than £47M of new grant awards
+ (§3.2).
+ Aim 2: Address major societal challenges.
+ We have restructured our groups and created the cross-cutting centres focusing on major
+ challenges, including AI, cyber security, IoT and healthcare. These centres have led to some
+ significant success such as the £12M TAS Hub and £1.5M Shell-funded Centre for Maritime
+ Futures (CMF) (§3.1), the development of which have been enabled by collaborative activities
+ organised by CMI. The TAS Hub will address the societal issues around AI, and responsible
+ innovation. The focus of the CMF is to use digital technologies including AI to reduce carbon
+ emissions from shipping.
+ Aim 3: Maximise research impact.
+ We have extensively engaged with University-level services including Public Policy
+ Southampton (PP|S), Public Engagement with Research unit (PERu), Future Worlds,
+ SetSquared (REF5a§2.3), increased our consultancy income (39 organisations; £2.1M income),
+ and initiated new partnerships with industry and government (§4). In addition, we attracted more
+ than £12M of impact-oriented funding including industry funding (§3.2).
+ Aim 4: Develop research leaders.
+ Following the research strategy set out in REF2014, we have continued investment in CS and
+ appointed 131 research staff (26%F:74%M), of which 25 were senior research fellows, lecturers
+ and above (32%F:68%M). There were 18 promotions over the REF period.
+ During the last REF period ECS proposed to grow the size of our Graduate School. In addition to
+ core EPSRC DTP and additional school funding (§2.2), an important part of the training strategy
+ included the establishment of Centres for Doctoral Training (CDTs). These include the UKRI-
+ funded centres: Web Science (EP/L016117/1) and Next-Generation Computational Modelling
+ (EP/L015382/1, led by Engineering) which both started in 2014, as well as the recent Machine
+ Intelligence for Nano-electronic Devices and Systems (MINDS) CDT (EP/S024298/1, started
+ April 2019) and AI for the Future of Society (AIFS, jointly funded by ECS and industry). This
+ strategy has led to an increase in the number of students being awarded PhDs, from an average
+ 28/year in REF2014 to 34/year in REF2021.
+ 1.3 Future research strategy
+ Our ambition for UoA11 centres around four key pillars:
+ 1. Enterprise
+ Establishing and sustaining long-term partnerships with industry and government organisations
+ remains a key strategy. Partnership links are established and fostered in many ways, including
+ through consultancy, Industry Days, KTPs, and engagement with ECS and University
+ interdisciplinary institutes (REF5a§2.6) as well as other organisations within the University such
+ as Research and Innovation Services (RIS). We will continue supporting our interdisciplinary
+ centres, regularly revisiting them to see if refocusing is needed. We will further build
+ collaborations between the IT Innovation centre and the research groups on application-focused
+ grants. Furthermore, we maintain our 50% PhD funding pledge (§2.2.1), whereby the costs of
+ studentships are shared between ECS and external partners, to foster long-term collaborations
+ with industry.
+                                                                                               Page 3
+
+
+Unit-level environment template (REF5b)
+ 2. Grow research base in key areas
+ We will continue to build on our research strengths including formal methods, cybersecurity (e.g.
+ through CSY group and ACE-CSR) the internet of things (e.g. through the CPS group and CIoT),
+ and expand in the following areas:
+ AI and autonomous systems. Central to this will be the TAS Hub with a strong focus on
+ human-centred AI. The research from this newly established hub will build on extensive
+ expertise in this area, including the award-winning ORCHID programme (§4). The hub is led by
+ Southampton establishing a UK-wide collaborative platform to deliver world-leading best practice
+ for the design, regulation and operation of ‘socially beneficial’ autonomous systems which are
+ both trustworthy in principle, and trusted in practice by individuals, society and government. This
+ strand of research will be further supported through Stein’s recent prestigious £1.4M Turing
+ Fellowship award on Citizen-Centric AI Systems (EP/V022067/1), as well as our connection to
+ the ATI. The CMI will continue to play a key role in developing and shaping the AI agenda in
+ ECS and across the University, and we aim to appoint a new chair in human-centred AI.
+ Healthcare and wellbeing. This research will build on our extensive existing work and
+ established links, such as schraefel’s prestigious EPSRC Fellowship on building a healthy
+ nation (§3.2). The CHT will play an important role to form new collaborations and expand
+ research funding in this area. There will be an increased emphasis on data-driven approaches
+ for healthcare, driven by our recent NHS Digital Security Toolkit accreditation which enables the
+ processing of pseudonymised NHS data (§4.1). Applications include improved health systems
+ operations management, drug discovery, and precision and personalised medicine.
+ 3. Training the next generation
+ Training PhD students remains core to maintaining a vibrant research community. Our aim is to
+ continue training high-quality PhD students through the two CDTs led by ECS (MINDS and
+ Future Society), as well as DTP funding. We will use the DTP funding to support strategic
+ Faculty initiatives, including studentships for new cross-disciplinary research centres, improve
+ the proportion of DTP funding allocated to ECR supervisors, and improve the use of the 50%
+ rule (where costs are shared with industry investment). We will also take steps to improve the
+ rates of thesis submission within the funding period and implement measures to further improve
+ on equality, diversity and inclusion (EDI).
+ 4. Increase the number and quality of UKRI submitted proposals and fellowships
+ Although we have met our targets for overall funding over the past REF period, we see
+ opportunities to continue to improve our success rates. To this end, we will improve our
+ mentoring and workshop initiatives, and deliver an improved internal review process, where
+ each proposal is reviewed by two independent academics. In addition, we are discussing ways
+ to reduce teaching loads for staff preparing proposals.
+ 1.4 Impact strategy
+ ECS has developed a comprehensive strategy to cultivate, coordinate and establish a broad
+ range of activities that delivers economic, institutional, and societal benefits to both University
+ and non-academic partners. The strategy aims to increase industry funded partnerships of all
+ types, fostering a culture that supports translation of theory to practice. We actively support staff
+ to pursue significant impact activities through reductions in other duties. Staff can also take short
+ term secondments to industry, or part-time buy-out from the University (§2.1).
+ The ECS strategy for enabling impact is facilitated through a wide range of activities and
+ engagement in interdisciplinary research: long-term partnerships with industry fostered by, for
+ example, the Cyber Security Academy and the ATI; the aforementioned ECS Centres (CMI,
+ CIoT, CHT); dedicated impact champion, enterprise director and committees to advise on
+ strategy including incentivisation for enterprise activity by staff and students; an Industrial
+ Advisory Board (IAB), which includes senior representatives from technology-focused
+ companies and provides guidance on education, research and enterprise strategy; a
+ consultancy unit, ECS partners, and many University-level partnerships and initiatives
+ (REF5a§2), including Future Worlds, SETsquared, Z21, RIS and PP|S, some of which are led by
+                                                                                                 Page 4
+
+
+Unit-level environment template (REF5b)
+ and/or originated from ECS and all of which have contributed to the impact agenda. Z21 is a
+ partnership between the University of Southampton (UoS) and the Solent Local Enterprise
+ Partnership (LEP) supporting the development of Minimum Viable Products (MVP) and providing
+ pre-seed funding.
+ Our impact case studies (ICSs) benefited from the ECS approach to impact. For example, w.r.t
+ ICS11-04, our approach to interdisciplinary research (§1.5) led to a collaboration between
+ UoA11 and UoA4, where behaviour interventions through the Royal College of Nursing resulted
+ in reduced occurrence of hand dermatitis, and a reduction of antibiotic prescriptions in the UK
+ and internationally. The promotion of open research and research integrity (§1.6) and the
+ industrial links with the Ordnance Survey and others enabled wide impact with open image
+ capturing and analysis libraries in ICS11-06. Collaboration with the Open Data Institute, the
+ interdisciplinary Web Science Institute, and the leading role that ECS academics have in the
+ Web Science Trust network of laboratories (§1.6), enabled the development of two data-driven
+ innovation incubators, ODINE and DataPitch in ICS11-07; those have been independently
+ assessed to have contributed to the creation of 896 jobs and unlocked €132.4M in revenues in
+ the UK and Europe. The promotion of open research and research integrity (§1.6), and industrial
+ engagement via ECS Partners enabled £0.6M commercial income for consulting and training to
+ businesses on software verification and achieved widespread use of open-source software
+ modelling and verification tools as detailed in ICS11-09.
+ Going forwards, we will maintain our existing strong culture for generating impact through
+ established structures and organisations. We will reflect tangible and significant impact activities
+ in the workload model and provide incentivisation and resources for these activities. We will
+ continue to use Future Worlds as the preferred vehicle for marketing ECS research with impact
+ potential, encouraging the costing of Future Worlds support in grant applications. We aim to
+ provide a comprehensive overview of schemes and support to generate impact, including
+ different options for commercialisation and blueprints for spinouts. In addition, we plan to
+ develop further mentoring and training especially for PhD students and postdoctoral researchers
+ around responsible research and innovation (RRI) and non-academic impact, using the MINDS
+ CDT as a model. The MINDS iPhD programme integrates RRI and impact training and practice
+ throughout, embedding a culture of impact early on. Students learn to think about impact on
+ policy, society and the economy and how to communicate effectively with a wide variety of
+ stakeholders. This training, along with the CDT Outreach Ambassadors programme, will be
+ rolled out across ECS with a view to influencing PhD and research staff development across the
+ institution.
+ 1.5 Interdisciplinarity
+ Collaborative research across disciplines is at the heart of our research philosophy and is
+ evident within our group structures, where two of our groups (VLC and CPS) and our centres
+ (especially CIoT and CHT) have academic members from both UoA11 and UoA12. These
+ collaborative links are not isolated to groups, however, as illustrated by the EPSRC platform
+ grant “Wearable and Autonomous Computing for Future Smart Cities” (EP/P010164/1), which
+ recognises sustained interdisciplinary research excellence across AIC, CPS and the Smart
+ Electronic Materials and Systems (SEMS, UoA12) groups, and the MINDS CDT which involves
+ CS and nanotechnology and combines forces between AIC and the Zepler Institute for
+ Photonics and Nanoelectronics. We also have close collaborations with the rest of engineering,
+ as evidenced by the Shell-funded Centre for Maritime Futures, a collaboration between CMI and
+ SMMI.
+                                                                                               Page 5
+
+
+Unit-level environment template (REF5b)
+                 Figure 2: Southampton Publications by Subject Area for UoA11
+                                  Source: Scopus, December 2020.
+ Interdisciplinarity extends beyond engineering. Figure 2 shows that over 50% of papers are
+ cross-disciplinary. Over 25% of the new awards over the past REF period are shared with other
+ UoAs within the University (§3.2), and 39% of our PhD students are co-supervised with other
+ UoAs.
+ 1.6 Open research and research integrity
+ ECS, specifically UoA11, is at the forefront of open science, data ethics and governance. The
+ first of 18 recommendations from Hall’s AI review addresses the need to facilitate safe data-
+ sharing by the creation of data trusts, which led to activities on standards for data trusts within
+ the Royal Society and the Law Society of London. Also, Hall has been named Chair of the Ada
+ Lovelace Institute for data ethics. Others, including O’Hara, Tiropanis, Simperl and schraefel
+ have influenced policy around data governance (§4.2.1).
+ ECS has championed many open data initiatives. Shadbolt launched the Open Data Institute in
+ 2011 and EPrints, developed by ECS 20 years ago, is the world’s leading open-source digital
+ repository platform, having been adopted by 675+ institutional and subject repositories world-
+ wide (REF5a§2.3). The Web Observatory (https://www.webscience.org/web-observatory/) was
+ developed by academics from the WAIS group towards a global catalogue of datasets,
+ applications and projects related to research on the Web, in collaboration with laboratories in the
+ Web Science Trust network and the Worldwide Universities Network. Simperl led ODINE (2015-
+ 2017), an EU-funded incubator for open data businesses, followed by the EU-funded Data Pitch
+ open innovation programme to encourage corporate and public-sector organisations to share
+ data with start-ups and SMEs that work with data (see ICS11-07). In addition, three other ICSs
+ have achieved impact through the development of open-source software: ICS11-04 (tools for
+ behavioural interventions), ICS11-6 (image processing and analysis tools) and ICS11-09 (formal
+ modelling and verification tools). Furthermore, ECS has contributed to creating free and open
+ training materials about digital accessibility with wide reach (§4.2.2). Finally, both SSI and RSG
+ champion the use of open software within the University and the UK, for example, collaborating
+ with the Wellcome Trust on openness of software and producing parts of the Trust’s funding
+ policy on this subject.
+ Regarding research integrity, all research involving human subjects and data, including projects
+ using social media and secondary data sources, is reviewed by the Faculty Research Ethics
+ Committee (FREC), applying University Ethics procedures (REF5a§2.8). All staff and PhD
+ students undertake mandatory Faculty-wide training in ethics and research integrity.
+ Reproducible research practices are strongly encouraged with researcher staff, academics and
+ research students alike publishing code and datasets via EPrints with library assigned DOIs. The
+                                                                                                 Page 6
+
+
+Unit-level environment template (REF5b)
+ University is a signatory to the Concordat for Research Integrity, and there is a dedicated
+ concordat group in ECS with representation from each research group.
+ 2. People
+ 2.1 Staffing strategy and staff development
+ 2.1.1 Recruitment policy
+ The staffing strategy is implemented through a regular review process and outcomes are
+ incorporated into the Faculty Strategic Plan. A central tenet of our procedures revolves around
+ seeking the best talent worldwide, and subsequently developing tomorrow’s research leaders.
+ CS has seen a growth in areas of AI and cyber-security, and we have made strategic
+ appointments in these areas including Hu (M) who is a leader in cyber physical hardware
+ security, Norman (M) who is a leader in multi-agent systems, and Staab (M) who is a leader in
+ semantic web. In addition, our focus has been on nurturing and attracting talented ECRs
+ including those from leading universities and companies in the world: Oxford: Konstantinidis
+ (M), Marchioni (M), Zhang (M), Atamli (M); Bristol: Rastegari (F), York: Tarapore (M);
+ Imperial: Evers (F), Karafili (F); UCL: Cai (M); Surrey: Kim (M); CMU: Sogokon (M); Rome:
+ Aniello (M); Goldsmiths: Farrahi (F); MITRE Corp.: Chapman (F, recently promoted to full
+ professor). By having an environment that recognises the potential of outstanding, home-grown
+ researchers, appointments have also been made from the best of our own: Hoang (M), Hare
+ (M), Packer (F), Ibanez Gonzalez (M) and Middleton (M, originally on an enterprise pathway in
+ the IT Innovation group).
+ Ensuring diversity is a key part of our recruitment strategy has led to significant changes to our
+ policies. Marketing and advertising are written in gender-neutral language to equally represent
+ male and female traits, and we have family-friendly policies supporting flexible/part-time working
+ (§2.1.4). Candidates from under-represented groups are proactively approached and
+ encouraged to apply. All shortlisting and interview panels are mixed gender. Membership of the
+ interview panel is proscribed by role within the University and recent panels have included at
+ least two women (chair and group representative). As a result, since 2014, female academic
+ staff in UoA11 has grown from 11% in 2013/14 to 20% in 2019/20, which is well above the
+ Russell Group benchmark (14%). Over the same period, the proportion of BAME academic staff
+ has grown from 9% to 25%.
+ 2.1.2 Supporting early career researchers
+ The standard balanced pathway for academics has a 40/40/20 teaching/research/admin
+ workload. However, newly appointed academic staff have a reduced teaching load for the first 3
+ years with a gradual increase from 40% to 100% of their normal teaching load. They are all
+ appointed mentors, allocated a PhD DTP studentship and £5k start-up. ECRs are given priority
+ in the allocation of studentships. New staff work with their Head of Group/line manager during
+ probation on a comprehensive personal research plan and, regardless of level, are supported by
+ a senior academic colleague from within their research group who provides dedicated support
+ and guidance. In addition, ECRs are encouraged to engage with the ECS Mentoring
+ Programme, through which we match those seeking more focussed support in areas of interest,
+ such as seeking funding or outreach. The mentoring initiative is led by the Senior Mentor, who
+ reports to the ECS Equality, Diversity and Inclusion (EDI) Committee. Mentoring is a confidential
+ process, intended to be a separate activity from regular managerial support and induction.
+ New staff are also supported through regular workshops covering topics such as finance, non-
+ academic impact and other key aspects of an effective proposal. Successful applicants, more
+ experienced researchers, and senior academic and professional services colleagues facilitate
+ these events, with follow-up typically supported through ECS Mentoring. ECS also has an
+ internal Grant Review Scheme in which all applications receive detailed feedback from two
+ academics. In 2018 we introduced an ECS Fellowship Champion, who runs workshops to
+ promote fellowships (including talks by female fellowship holders), and mentors applicants. ECS
+                                                                                               Page 7
+
+
+Unit-level environment template (REF5b)
+ also runs mock interview panels for those reaching the interview stage of grants/fellowships
+ (uptake 100%).
+ The University is a signatory to the Concordat to Support the Career Development of
+ Researchers. Research Associates (RAs) are encouraged, and enabled, to explore career
+ development opportunities, including workshops on developing a fellowship application, public
+ policy impact, and outreach and public engagement in research. Initiatives such as short-term
+ competitive seed-funding managed through our centres (CMI, CIoT, CHT & WSI) provide a
+ means for research staff to develop research ideas and initiatives that are expected to lead to
+ more significant activities. Additionally, two platform grants (Future Smart Cities and AutoTrust)
+ have Flexible Innovation Funds. Researchers from across ECS can write short, EPSRC-like
+ proposals capturing their own ideas, pitching them to senior academic colleagues, with
+ successful proposals giving RAs the opportunity to plan, work independently on, and lead
+ research projects.
+ 2.1.3 Appraisal, recognition and promotion
+ ECS operates an open workload model that includes all teaching, administration and research
+ duties. Enterprise and impact are explicitly reflected in promotion and seen as an essential part
+ of the strong unit. All academic and research staff are appraised annually by their line manager
+ through a confidential system designed to review their career progression and explicitly consider
+ plans for progression and promotion. The University actively supports the recognition of success
+ through schemes such as the annual Vice Chancellor’s Awards (e.g. Hare), and Early Career
+ Awards (Tran-Thanh).
+ ECS holds an internal review panel that evaluates all submitted applications and provides
+ feedback to applicants. This allows applicants to improve their case prior to formal submission to
+ the Faculty. Unsuccessful candidates are offered continued mentoring support to strengthen
+ their case. Between 2013/14 and 2019/20, eight UoA11 staff were promoted to Associate
+ Professor (8M/0F) and six to Professor (5M/1F). Promotions for women are below what is
+ expected, and we have taken extensive measures to improve the success rate including
+ encouraging more women to apply. Specifically, in 2016 ECS introduced promotion workshops
+ with the aim to better inform staff of both the application process and criteria that need to be
+ satisfied for successful promotion. Since 2019 we have held both mixed and female-only
+ versions of these workshops. See also §2.3. Furthermore, as part of our Athena Swan action
+ plan, we actively identify and nominate female staff for prizes and influential external
+ committees. Participation in committees is strongly supported through appraisal and promotion
+ criteria.
+ 2.1.4 Flexible working and maternity leave
+ The University maternity provision provides up to 52 weeks’ statutory maternity leave
+ (regardless of length of service or contract type). Teaching and supervision are covered by
+ paying postdoctoral fellows who want career experience, employing teaching fellows, or by
+ transferring duties to academic staff who are underloaded. In the most recent instance, the
+ University funded a full-time teaching fellow to cover two staff on maternity, both during their
+ leave and after returning to work. In ECS five periods of maternity leave were taken by UoA11
+ staff between 2013 and 2020. The Faculty has a policy that all ERE staff on fixed-term contracts
+ are eligible to receive fully-funded occupational maternity pay. In 2013 ECS introduced the
+ additional policy that (where the funding body allows) staff can choose to extend their contract
+ rather than hiring in cover, since this is often to their benefit. Up to ten ‘Keeping-in-touch’/ twenty
+ ’Shared parental leave in touch’ (KIT/SPLIT) days are offered, whereby staff can undertake a
+ limited amount of work without affecting statutory pay (e.g. to ease a return to work).
+ Arrangements for return to work are made according to an individual’s level, roles,
+ responsibilities and needs (e.g. a phased return to work can smooth the transition). Teaching
+ and administration are reduced by 70% for the first year following leave to ease the transition
+ and provide extra time to resume research activities. In April 2019 ECS also invested in a
+ permanent ‘quiet room’ for mums to express/breastfeed with facilities to store milk safely.
+                                                                                                   Page 8
+
+
+Unit-level environment template (REF5b)
+ The University has a formal Flexible Working Policy which includes a process for considering
+ requests for staff to change working pattern, or to change from/to part-time contracts. Requests
+ to change hours are discussed initially with line-managers. Under research-funded contracts
+ they can be approved by the grant-holder; for Faculty-funded posts Head of School and Faculty
+ approval are required. During the REF period, 23 requests to decrease hours and 26 to increase
+ hours were made and all were approved. The gender break-down of requests (20%F) is in-line
+ with our overall staff profile (19%F).
+ 2.1.5 Merit-based sabbatical programme and secondments
+ Southampton offers the opportunity for sabbatical leave every four years (REF5a§3.2). In ECS,
+ the guidelines for applying include: scope (research plans and measurable objectives);
+ relevance and fit to strategic direction of research (group and individual); funding (staff are
+ encouraged to apply for external funding to support study leave); return from sabbatical and
+ return to normal duties. We also operate an extended sabbatical scheme for secondment or buy-
+ out into companies; e.g. Ramchurn was seconded 50% to North Star Solar from 6/2018 -
+ 6/2019, and 50% to Empati Ltd until 6/2020.
+ 2.2 Research Students
+ 2.2.1 Funding and recruitment
+ Funding of CS students comes from CDTs (Web Science, AI for Future of Society and MINDS
+ CDTs led by CS, and NGCM led by engineering), DTP funds, CASE studentships, industry and
+ other schemes such as the China Scholarship Council (CSC) partnership scheme (whereby the
+ University waves the fees), Southcoast DTP, Spitfire, and EU ITN. Over the REF period, ECS
+ has also allocated additional funding of £220k/year for PGRs over and above the DTP funds
+ (e.g. to cover international fees in order to utilise UKRI flexibility). Industry funding is through
+ CASE studentships and ECS’ matched funding guarantee (50:50 with external funds).
+ When recruiting, we actively approach female applicants especially from our local students. Our
+ Careers Hub Director (F) runs the ECS Careers Hub and, since 2017, we have a “PhD
+ Opportunities in ECS” stand promoting projects and funding. ECS also runs an annual UG
+ Summer Internship Scheme to encourage the pipeline to PhD, funding ~25 students to
+ undertake research in ECS over 12 weeks. Since 2017, we individually contact all female UGs
+ with marks >70% to promote the scheme and prominently feature women in promotional
+ materials. The proportion of awards to female UGs (24% in 2018) exceeds the proportion of
+ females UGs (CS 16%, EEE 13% 2018/19). Over the entire REF period, we recruited more than
+ 300 new PGR students (33%F) and the percentages of female PGR students studying CS have
+ increased from 25% in 2013/14 to 32% in 2019/20.
+ 2.2.2 Monitoring mechanisms and progression
+ The PGR Tracker tool, developed within the ECS Graduate School in the previous REF period,
+ has now been adopted across the University and is seen as an exemplar of best practice for
+ progression monitoring. This enables formal recording of all the training activities undertaken by
+ each student (including compulsory modules on data management, research ethics and EDI, as
+ well as optional modules on everything from Teaching and Demonstrating to Presentation Skills
+ to ECS-specific technical and research-skills modules). The Doctoral Programme Director (DPD)
+ for CS (Hare) together with the Graduate School team use reports from PGR Tracker data to
+ identify potential problems with progression before they become an issue and provide support to
+ students and supervisors. The DPD also provides a monthly progression report, broken down by
+ research group and supervisors, which is discussed at monthly heads of research group
+ meetings.
+ 2.2.3 Skills development and preparation for future career
+ The University Doctoral College, the Faculty Graduate School and ECS provide a broad range of
+ courses to enhance research-centred learning and transferable skills training to optimise the
+ development of postgraduate students. Through Academic Needs Analysis (ANA), each student
+ is provided with a structured and supportive process enabling them to reflect on their own
+ learning and achievements, and to plan for their personal, educational and career development.
+                                                                                                    Page 9
+
+
+Unit-level environment template (REF5b)
+ Subject-specific training is delivered at Faculty, School and research group levels, which
+ includes formal lecture courses, seminar programmes, reading groups, through to taking formal
+ UG or PGT modules, etc. Eight Faculty-led PGR modules include research methodologies (with
+ interdisciplinary and experimental methods), responsible research, ethics and outreach. This
+ complements central provision including presentation and writing skills. Our students can also
+ join training programmes, such as the Software carpentry sessions run by SSI. Some CDTs
+ have career-oriented modules and training events such as the MINDS CDT on Impact and
+ Communication Strategies which teaches students about pathways to impact and responsible
+ research and innovation. Students are also encouraged to attend summer schools and doctoral
+ mentoring programs, both local and external.
+ Each ECS PGR student has a personal Research Training Support Grant (RTSG) of
+ £1,200/annum, to present papers at conferences, attend summer schools and buy necessary
+ consumables for research that is not otherwise available. Our students are also encouraged to
+ be actively involved in conferences as volunteers, session organisers and as reviewers.
+ Students often undertake industrial internships or visit different institutions during their research
+ programme with the support of their supervisory team, and have also won funding to transfer
+ knowledge and build impact from their work. For example, Andrew Hill was awarded an EPSRC
+ National Productivity Investment Fund placement grant (2019) to work with the Zoological
+ Society of London for 6 months. Within the MINDS CDT, each student is paired with an industrial
+ partner, and as part of their PhD programme, undertakes an internship with the partner.
+ The Future Worlds start-up accelerator takes a leading role in developing the entrepreneurial
+ skills of our students, providing expert coaching for those developing commercialisation ideas;
+ for example, Daniel Martinho-Corbishley and Jaime Lomeli launched AuraVision and Iris Kramer
+ has launched ArchEO based upon her PhD research. The culture of developing impact from
+ research within ECS is further illustrated by the work of Tim Matthews and Ryal Beal working
+ with Ramchurn to launch the analytics company Sentient Sports (§4.2.3).
+ 2.3 Equality, diversity and inclusion
+ ECS received an Athena SWAN (AS) Bronze award in 2012. While the AS action plan helped
+ deliver changes, initially, the activity was insufficiently embedded in the ECS operational
+ structure. Consequently, we lost our AS Bronze status and created the ECS EDI Committee in
+ 2016/17 to address this. Membership comprises representatives from every major area in ECS,
+ all research groups and job families (REF5a§3.1). The ECS Athena SWAN Self-Assessment
+ Team (SAT) is a subcommittee which focuses on identifying and addressing gender inequality.
+ The Head of School is both a co-chair of the ECS EDI Committee and a member of the SAT.
+ The restructure delivered key initiatives, some of which (e.g. the ECS Mentoring Scheme,
+ promotion workshops, and quiet room) have already been mentioned. Others include
+ International Day Against Homophobia, Transphobia and Biphobia (IDAHTB), Female Staff
+ Forum, Wellbeing Champions, and a new Code of Conduct. The restructuring of the EDI
+ Committee now makes it an integral part of how ECS operates, and the mechanisms in place
+ have proved effective in delivering actions. This is evidenced by our successful 2019 Bronze AS
+ Award. The action plan developed in this submission has been formally adopted by the EDI
+ Committee and approved by ECS Board, with actions distributed to individuals and groups
+ throughout ECS as indicated. We will submit our Silver AS application in 2021.
+ In line with this plan and the University’s REF2021 Code of Practice, REF champions
+ participated in unconscious-bias training sessions. For selecting REF outputs, individual
+ academics proposed up to five papers which were assessed by a minimum of two independent
+ reviewers from other research groups to prevent bias. The reviewers were selected based on
+ group and gender representation and were given a similar number of papers to review. The final
+ selection was done through the University’s outputs optimisation algorithm, with a custom
+ feature to prefer a balance of papers per person and by gender in case of similar scores.
+                                                                                                 Page 10
+
+
+Unit-level environment template (REF5b)
+ 3. Income, infrastructure and facilities
+ 3.1 Strategy for generating Income
+ A key element of our funding strategy from REF2014 was to diversify income, drawing upon a
+ wider range of funding sources. This includes supporting new collaborations, particularly across
+ disciplines, by allocating core funding for CIoT, CHT and CMI. The School invests £85K annually
+ on seed funding for research activities, and part of this fund has been used to kick-start these
+ centres. The plans for each of these centres focus on them becoming financially self-sustaining
+ in a similar way to WSI. The centres run regular events, bringing together academics from
+ across the University, industry, government and third sector partners. The CMI Showcase
+ brought together over 200 participants including 60 companies in 2019. Similarly, the CHT has
+ held regular “Clinicians meet Engineers” events. These interdisciplinary events have enabled
+ substantial current and future funding through the MINDS CDT, TAS Hub (commenced
+ 01/09/2020, EP/V00784X/1), the Shell CMF, and HD-Sec (commenced 01/08/2020,
+ EP/V000489/1). We have been successful in extending our funding sources, including
+ Leverhulme Trust, John Templeton Foundation, the DASA, AXA, Shell and NIHR. During the
+ assessment period, we have also played a leading role in the University by establishing a
+ number of strategic partnerships with industry and government partners including Roke Manor,
+ DSTL, Thales and GCHQ.
+ Support for developing proposals is provided at many levels. We strongly engage with the
+ University’s Research and Innovation Services (RIS, REF5a§1.5), who provide training as well
+ as support for EU and UKRI grants, including business engagement officers to support
+ InnovateUK grants and other industry collaborations. The University’s Research Finance Hub
+ provides support for financial planning. We provide additional dedicated training and support
+ within ECS and across the Faculty, including an annual Research Week event with tutorials and
+ Q&A sessions on diverse funding mechanisms. ECS support is particularly focussed on ECRs
+ and colleagues joining us from outside the UK, as well as underrepresented groups. All ECRs,
+ for example, are supported through the process of developing a New Investigator Award (NIA)
+ proposal with one-to-one mentoring, and access to a writing consultant. ECRs have also
+ benefitted from the CPHC “Chair in 10 Years” workshops. Colleagues who have been successful
+ with specific funders or schemes (e.g. Leverhulme, or programme grants) are paired with those
+ planning proposals. Subject-specific mentoring and review is supported through research
+ groups, and ECS has an internal grant reviewing process. This process simulates the real
+ review process, including the allocation of referees and mock interviews. The ECS support is
+ targeted at women by having female role models and speakers, highlighting grant successes by
+ woman, and running events specifically for women. For example, CMI organised a “Women in
+ AI” event in 2019 with high-profile female speakers.
+ 3.2 Major grants
+ Over the REF period, our income expenditure totalled £43M (£5.7M P/A) and we were awarded
+ 166 new grants worth over £47M for UoA11. Our research has been supported by three
+ programme grants: ORCHID (PI Jennings, now Imperial, £5.5M, 2011-2016); SOCIAM (PI
+ Shadbolt, now Oxford, £6.2M, 2012-2015) with continued funding led by Oxford (PI Shadbolt,
+ CI Hall, £2.7M, 2015-2018), PRiME (PI Al-Hashimi, CI Butler, £5.6M, 2013-2018). In 2016,
+ ORCHID won the Collaborate to Innovate award. We have also secured an EPSRC Fellowship
+ for schraefel (£1.6M, 2020-2025) and two platform grants: “Wearable and Autonomous
+ Computing for Future Smart Cities” (PI Beeby (UOA12), CI Ramchurn, £1.4M, 2017-2021), and
+ AutoTrust (PI schraefel, £1.6M, 2018-2023, £886K to Southampton).
+ Research training has been supported by two competitively won CDTs: Web Science Innovation
+ (PI Hall, £3.7M, 2014-2023) and MINDS (PI Norman, £5.8M, 2019-2027).
+ Major interdisciplinary projects include the NERC-funded “Does developmental plasticity
+ influence speciation?” (PI Ezard (UOA7), CI Watson, £1.6M, 2017-2022), EPSRC-funded “Early
+ detection of contact distress for Enhanced performance monitoring and predictive inspection of
+ machines” (PI Wood (UOA12), CI Niranjan, £1.1M, 2019-2022), EPSRC-funded GCRF-funded
+                                                                                              Page 11
+
+
+Unit-level environment template (REF5b)
+ “BRECcIA” project (PI Sheffield (UOA14), CI Ramchurn, £5.5M, 2017-2021, £3.6M to
+ Southampton), the EPSRC Network of Excellence “Artificial and Augmented Intelligence for
+ Automated Scientific Discovery” (PI Frey (UoA8), CI Niranjan, £1.2M, 2018-2022), EPSRC-
+ funded “Joining the dots: from data to insight” (PI Brodzki (UoA10, CI Niranjan and includes CIs
+ from UoA10 and UoA5, £1.2M, 2015-2019) and the Shell-funded “Centre for Maritime Futures”
+ (PI Hudson (UOA12), CI Ramchurn/Gerding, £1.5M, 2019-2024).
+ International collaboration is a further characteristic of our research portfolio with more than
+ £22M worth of H2020 EU funding, as well as the US/UK DAIS ITA (PI Stein, £728K, 2016-2021)
+ and the “Centre for Spatial Computational Learning” led by Imperial (CI Hare, £1.2M, 2019-
+ 2022) among others.
+ Substantial impact-oriented funding includes the EPSRC-funded “Software Sustainability
+ Institute” (PI Carr, £3M, 2015-2023), and the H2020 projects “Open Data Incubator Europe” (PI
+ Simperl, now KCL, £4.9M, 2015-2017). New UK industry and central government funding
+ totalled £4.2M including £1.25M Innovate UK funding and £1.3M from industry.
+ 3.3 Facilities and infrastructure
+ We have invested in research laboratories to support both existing research strengths and to
+ directly support the research of ECRs. In 2019, for example, we invested £110K in a new
+ Robotics research lab, including the cost of a TIAGo robotics platform, which supports a range of
+ projects including resilient robotics (Tarapore) and human-robot collaboration (Evers,
+ Ramchurn). The UKRI AI MINDS CDT lab was established in 2019 with £82K of investment
+ from ECS, providing the centre with an environment to support collaborative research and cohort
+ building. We invested in an £70k IoT testbed facility including a £50k contribution from GCHQ.
+ This interdisciplinary multi-purpose environment serves a variety of research activities in the
+ area of cybersecurity and IoT more generally.
+ Compute-intensive research is supported through the IRIDIS cluster. The University invested
+ £50M into this resource over the REF period (REF5a§4.2). Further investment totalling £192K
+ (24 NVidia RTX8000 GPUs across six cluster nodes) has been made jointly by Faculty, ECS
+ and the MINDS CDT for the exclusive use of ECS staff and research students, particularly in
+ support of AI research.
+ 3.4 Impact
+ An important route to impact for our research is through consultancy, supported through a
+ dedicated Business Development Manager (Darlington) and ECS Partners Ltd. UoA11 staff
+ have provided consultancy to over 39 different organisations totalling £2.1M. ECS Partners
+ assists with licencing academic IP and the translation of research via, e.g., the creation of spin-
+ out companies, thus maximising research impact in diverse areas, and supports early routes to
+ market for potential impact cases, including over £0.6M to commercialise a formal verification
+ toolbox developed by Butler and others (§1.4).
+ Economic impact is further facilitated through Future Worlds (REF5a§2.3). This accelerator
+ started life in ECS and is now a world-leading start-up incubator which nurtures aspiring
+ entrepreneurs and cutting-edge technologies through one-to-one support and a network of
+ seasoned founders, investors and millionaire entrepreneurs. Future Worlds has led to over 30
+ start-ups launching or raising investment totalling over £5.8m, including five involving CS staff
+ and/or PGR students (§4.2.3).
+ In addition, SETsquared’s Innovation to Commercialisation of University Research (ICURe)
+ programme, provides support for potential University start-ups and spinouts, and has helped
+ establish several successful routes to commercialisation, including Blupoint (§4.2.3).
+ Furthermore, the WSI has an initiative Zero-to-one (Z21), a £500K collaboration with the Solent
+ Local Enterprise Partnership. Z21 has provided £200K of minimum viable product and pre-seed
+ funding for seven start-ups (involving 12 ECS staff and students) since its inception in 2017.
+ These initiatives have led to £1.2M worth of Innovate UK projects over the REF period including
+ three Knowledge Transfer Partnerships (KTPs, §4.2).
+                                                                                                Page 12
+
+
+Unit-level environment template (REF5b)
+ Enterprise activities are at the heart of the IT Innovation Centre (§1.1). A centre of excellence in
+ applied research and knowledge exchange, it takes fundamental research through higher
+ technology readiness levels towards the development of ideas for commercial exploitation. IT
+ Innovation also leads the ECS industrial strategy working with other ECS groups and centres to
+ establish industry and public sector propositions, and a culture of collaboration for effecting
+ partnerships. IT Innovation leads the regional initiative Coalition for Innovation and Digital Health
+ Research (CIDHR) across Hampshire and the Isle of Wight to build research and innovation
+ pipelines into health and care systems, working with University Hospitals Southampton NHS
+ Foundation Trust Public Health and the NHS Scientist Training Programme.
+ Impact is further facilitated through the three centres, which provide a primary point of contact for
+ industry and government collaborations, and the organisation of the aforementioned events.
+ Policy impact is facilitated through the University’s public policy unit (REF5a§2.9), which
+ connects researchers to policymakers and provides a range of services around impact including
+ training, secondments, and policy consultations (§4.2.1). §4.2 provides impact highlights
+ achieved over the REF period.
+ 4. Collaboration and contribution to the research base, economy and society
+ 4.1 Research collaborations
+ CS has a strong track record in building collaborations with other institutions and with industry.
+ Arrangements in place to support this at University level include RIS (REF5a§1.5). In addition,
+ as member of the ATI, we have dedicated staff in ECS to encourage participation. At the census
+ date we had five ATI pilot projects led by CS staff, seven CS ATI fellows (§4.4.1), and another
+ seven where CS staff are co-investigators. Almost all grants have an interdisciplinary component
+ or are joined with other institutions including industry. In particular, the recently awarded TAS
+ Hub facilitates engagement with over 60 partners in areas ranging from computing and robotics
+ to social sciences and the humanities. ECS supports industrial partnership within the WSI-
+ fostered Centre on AI for the Future Society within the Web Science Institute (WSI) and,
+ previously, within the Web Science CDT.
+ ECS also has extensive collaborations, strategic partnerships, secondments and knowledge
+ exchange activities with industry, NGOs, and government organisations. Examples include:
+    •   Collaboration with researchers in Turkey, the UN (ILO) and industry on the use of sensor
+        fusion and stream reasoning algorithms for real-time health and safety regulation
+        monitoring in workplaces (incl. mining operations). British Council/Tubitak, €268K, 2017-
+        19.
+    •   Cyber security: “Chief Scientific Officer” at the Italian Ministry of Economy and Finance
+        (Sassone); secondment of researchers as “Technical Fellows” to The UK Cabinet Office
+        (Ferdous, Margheri); pilot of blockchain-based systems for “exporter bonds” at the
+        Department of International Trade (Margheri); managing mobile phone numbers at Ofcom
+        (Margheri, Sassone); peer-to-peer trading of energy at Ministry of Science & Technology,
+        India (Lombardi, Margheri, Sassone); large-scale secure payroll at the Italian Ministry of
+        Economy and Finance (Aniello, Margheri, Sassone); and taxation in Malta (Margheri,
+        Sassone).
+    •   Academic appointments: Endersby (formerly Head of Division DSTL, now CEO of the
+        MET Office), visiting Professor in the CSY group, she sits on the CSA Strategy Board and
+        contributes to our strategy for enabling impact through her role as mentor with Future
+        Worlds. Jennings, Pro-VC research at Imperial, as Visiting Professor in AIC, contributed
+        to PhD supervision and collaborated on several projects including DAIS-ITA. Stanford-
+        Clark, CTO IBM UK is a Visiting Professor in AIC. Meers, Fellow at DSTL and Head of AI
+        Labs at DSTL, is an Adjunct Professor in ECS, RAEng Visiting Professor and sits on the
+        industrial advisory board, contributing to the TAS Hub. Wilby from Thales is Adjunct
+        Professor in ECS and advises on several ongoing research projects.
+                                                                                                Page 13
+
+
+Unit-level environment template (REF5b)
+    •   The Arm-ECS partnership celebrated its 10th anniversary in 2018. This Industry-University
+        collaborative initiative focuses on advanced hardware and software co-design, has been
+        cited as an exemplar for such partnerships by the EPSRC, and was invited to contribute to
+        the Dowling Review of Business-University Research Collaborations. It was awarded
+        ‘University Research Group of the Year’ in 2015 by the UK technology industry body,
+        TechWorks.
+    •   NHS: IT Innovation is one of six University groups to secure the NHS Digital Security
+        Toolkit accreditation allowing research teams to process NHS data within a secure and
+        ethical environment. The activity has led to significant local, regional, national and
+        international collaborations. Partnerships with NHS organisations (e.g. University Hospital
+        Southampton (UHS) and Wessex NHS Trusts) and local authorities (Southampton City
+        Council (SCC)) have been established in response to COVID and wider challenges of
+        digital health. ECS is now digital lead within the recently established Wessex Academic
+        Health Sciences Centre and has formed the Social Data Foundation
+        (www.socialdatafoundation.org) as a partnership between University, UHS and SCC
+        tackling challenges of health and social care transformation.
+    •   Shell is funding the Centre for Maritime Futures (CMF) through a £1.5M gift donation.
+    •   Roke Manor sponsored Sassone’s Royal Academy of Engineering (RAEng) Chair and is
+        a key partner in MINDS CDT.
+    •   GCHQ sponsors the Cyber Security Academy, a GCHQ centre of excellence hosted by
+        ECS and funds several projects.
+ 4.2 Contributions to economy and society
+ 4.2.1 Policy impact
+ ECS has extensive impact on policy through high profile academics such as Hall, Sassone and
+ Jennings. In addition, policy impact is facilitated through the University’s public policy unit,
+ which connects researchers to policymakers and provides a range of services around impact
+ including training, secondments, and policy consultations.
+ Notable examples include:
+      •   Hall is member of the UK Government AI Council and is their AI Skills Champion. She
+          co-authored the influential AI review entitled “Growing the AI Industry in the UK”,
+          commissioned by DCMS and BEIS, and has shaped the government’s AI agenda.
+          https://bit.ly/2qExHdU. This led to the establishment of the Office for AI. Hall is a member
+          of the World Economic Forum’s Global Futures Council on the Digital Economy, and
+          participated in several UK government roles: UK Government AI Sector deal (2018);
+          Final report of the Global Commission on Internet Governance: One Internet (2016);
+          RUSI report "A Democratic Licence to Operate: Report of the Independent Surveillance
+          Review" (2015).
+      •   Jennings was HM Government Chief Scientific Advisor for National Security to the UK
+          government (2010-2015).
+      •   Simperl was invited to co-author a White Paper on engagement models for data trusts,
+          presented to the Office for AI, the Government Office for Science and the Department for
+          the Environment and Rural Affairs.
+      •   Sassone is member of the Strategic Cyber Governance Group of the South East
+          Regional Organised Crime Unit of the Police; Chief Scientific Officer for project Noi-PA of
+          Ministry of Economy and Finance (Italy).
+      •   O’Hara’s work has impacted policies around data governance. His anonymisation work
+          led to the Anonymisation Decision-making Framework, published in 2016 by the UK
+          Anonymisation Network (UKAN) and adapted for Australian law in 2017 with CSIRO and
+                                                                                                 Page 14
+
+
+Unit-level environment template (REF5b)
+          for GDPR in 2020. Since 2019, Hall and O’Hara have worked with the Royal Society and
+          the Law Society of London to produce standards for data trusts.
+     •    Snow (PDRA, AIC group, 2015-2019) was seconded to DEFRA (July-October 2018),
+          and authored a report on behaviour change interventions focussed on indoor air quality.
+     •    Tiropanis contributed to the EIT Digital report on "European Digital Infrastructure and
+          Data Sovereignty - A Policy Perspective" (June 2020).
+     •    Middleton was AI expert to UK Cabinet Office on “use of AI in policing” (2019).
+     •    schraefel was a member of the of the World Economic Forum (WEF)’s data policy
+          working group in 2019-2020 and was invited to work with Facebook on their privacy-by-
+          design approach which contributed to the WEF’s report on “Redesigning Data Privacy:
+          Reimagining Notice & Consent for human technology interaction” (July 2020).
+ Policy impact was also achieved by our enterprise-focused institutes (§1.1), e.g.:
+     •    SSI has significant influence on policy with regards to recognising software as an
+          important part of research, leading to 28 Research Software Engineer groups across the
+          UK, and the development of the e-infrastructure section of the 10-year UKRI roadmap.
+     •    Pickering (IT Innovation) co-chaired the Global Research Data Alliance Legal and Ethics
+          working group producing guidance for researchers and policy makers during COVID-19.
+     •    Boniface (IT Innovation) led an interdisciplinary team to forecast the impact of COVID-19
+          on hospitals providing insight to UHS and regional decision-makers.
+ 4.2.2 Broader contributions to the economy and society
+ In addition to the impact described in §1.4 and §3.4, highlights include:
+ Health and wellbeing: In 2016 schraefel set up the wellthlab (https://www.wellthlab.ac.uk/) with
+ the vision to “make normal better for all at scale”. The lab’s mission is to develop, research,
+ innovate, and question how interactive technologies and services can improve health and well-
+ being. This has led to a series of international workshops on the “inbodied interaction” approach
+ to computational interactive technology which schraefel has developed and has been featured
+ in a special issue of IX magazine, the leading forum of the ACM for human computer interaction.
+ This work has also been shared in an international summer school sponsored by the ACM and
+ hosted at the UoS with participants from ten countries. This methodology is being adopted in the
+ human-computer interaction undergraduate and post graduate curriculum in the UK and abroad,
+ as schraefel has been helping groups including Cardiff, Edinburgh, Bath, Lancaster, Sheffield,
+ Swansea, Brigham Young, UCSD, LSM and others to incorporate the approach into their regular
+ HCI teaching. schraefel is also the University’s Health and Wellbeing Champion and co-founder
+ of the LivingLab for leading wellbeing as lived research on the University campus.
+ Accessible technology: Research by Wald et al on technologies to address gaps in media
+ accessibility is reflected on the LexDis website (https://www.lexdis.org.uk) that provides
+ strategies and support to approximately 10,000 users annually. Because of its recognised
+ impact, LexDis was chosen in 2019 to host the national guidance information for the new UK
+ accessibility regulations. This work also led to the creation of free and open training materials on
+ digital accessibility and inclusive teaching and learning environments that have been used within
+ a series of Massive Open Online Courses (2016-2018) with over 20,000 registrants.
+ Furthermore, through an Innovate UK Knowledge Transfer Partnership (KTP) project
+ (investigators: Wills, Wald) with Microlink PLC, technologies for automated accessibility
+ assessments were produced leading to a turnover and profit increase for the partnering
+ company; this had a further impact in the companies employing disabled people, and to the UK
+ economy by reducing the cost of benefits and increasing tax revenue.
+ Disaster response: In the aftermath of the deadly earthquake in Nepal in 2015, algorithms
+ developed by Ramchurn et al as part of the ORCHID project enabled the processing of large
+ volumes of satellite and aerial imagery, and identified likely impacted locations not yet visited by
+                                                                                               Page 15
+
+
+Unit-level environment template (REF5b)
+ emergency response workers. This benefitted rescue work by Rescue Global who were partners
+ on the project.
+ Smart environmental monitoring: In 2018, a team from ECS included Rogers and two CS
+ PhD students (Hill and Prince) who designed and developed AudioMoth
+ (https://www.openacousticdevices.info), acoustic technology for identifying species and
+ gunshots based on machine learning techniques. This technology has been deployed for the
+ purpose of conservation in 687 projects across six continents and enabled the identification of
+ three new orthoptera species in Brazil, and conservation projects by the Bat Conservation Trust
+ in the UK, as well as the Belize Forest Department in its 25km2 Tapir Mountain Nature Reserve.
+ Hill later applied similar technology at the London Zoo where he completed a secondment.
+ Apart from the KTP on accessible technologies (see above) impact is achieved through two
+ additional KTPs: With The ai Corporation (investigator: Niranjan) fundamental research on
+ outlier detection in the area of bioinformatics is applied to a credit card fraud detection system of
+ the partnering company. ExecView (investigator: Wills) is embedding the latest research in
+ business psychology and gamification in its software for project and programme management
+ support.
+ 4.2.3 Spin-outs
+ The ECS enterprise strategy has resulted in several novel spin-outs during the REF period:
+ ArchAI (https://www.archai.io/) was founded by CS PhD student Iris Kramer. Using deep-
+ learning AI for archaeological surveys to reduce the need for manual field assessment, ArchAI
+ received £70K investment from Future Worlds dragons (https://futureworlds.com/ai-
+ archaeologist-tops-triple-investment-success-in-future-worlds-dragons-den/) and was valued at
+ £770k in November 2020. This led to further funding and an RAEng Enterprise Fellowship
+ (outside of the REF period) for its CEO, Iris.
+ AuraVision (https://futureworlds.com/discover-aura-vision-labs/) was founded in 2017 by former
+ CS PhD students with the help of Future Worlds and Z21 funding and resulted from the student’s
+ PhD work.
+ Blu.Network (formerly BluPoint; Co-founder: Wills) delivers educational materials and health
+ information to people in remote areas using solar-powered content servers. The spin-out was
+ formed in 2015 winning an ICURe programme award and received £500K funding from Innovate
+ UK. The company attracted new investors and, as Blu.Network, is deploying pilots in many
+ diverse locations including Dixons Carphone in South Africa.
+ Empati Ltd. (Director: Ramchurn), incorporated in July 2019, is building on research for energy-
+ saving, agent-based algorithms. By the end of the census period, Empati had received external
+ investment of £2M and been granted ‘notices to proceed’ by UK Export Finance for solar energy
+ projects in Colombia and South Asia totalling £500M.
+ ResearchProof (Lombardi, https://www.researchproof.com/) has recently been awarded an EU
+ H2020 “SME Instrument Phase1” grant, and Phase1 and Phase2 “Seal of Excellence”. Microsoft
+ has shown an interest in the project and in May 2018 offered to support the development of a
+ prototype R&D lab in Zurich.
+ Sentient Sport (Director: Ramchurn, www.sentientsports.com) was launched in April 2020 with
+ help of Future Worlds and uses AI to optimise decision making in sports. It builds on the AI
+ research by Ramchurn and his former PhD student Ryan Beal.
+ https://futureworlds.com/sentient-sports-ai-powered-player-recruitment/
+ SPYDERISK (https://spyderisk.com/) was founded in 2019 by members of the IT Innovation
+ group and provides tools to automate cyber risk assessment for compliance and certification
+ (e.g. ISO 27001).
+ WEBDROP Ltd (Co-director: Tiropanis), incorporated in July 2019, provides an online secure
+ data sharing service. Z21 provided MVP and pre-seed funding, while Future Worlds provided
+ mentoring.
+                                                                                                Page 16
+
+
+Unit-level environment template (REF5b)
+ 4.3 Public engagement and outreach
+ Research focused outreach in ECS is led by the Director of Outreach and Recruitment (Merrett,
+ UOA12) together with a dedicated Outreach Manager. As a result of her work, Pau (F) has won
+ WiSET and UoS Dean’s Awards for championing women in STEM. In addition, about 75% of
+ staff at all levels participate in outreach activities. During the REF period we have engaged with
+ over 39,000 young people aged 11-17, and participated in 280 talks and events including: an
+ annual summer taster course, annual Science and Engineering Day, taster days, school
+ assemblies, school lessons, after-school club sessions, teacher breakfast sessions and careers
+ fairs. We also engage with local events such as Pint of Science and the British Science Festival,
+ and major events including the Farnborough Airshow and the BBC Countryfile Show through the
+ University’s PERu. In her role as the MINDS CDT Outreach and EDI Champion, Pau has
+ established an Outreach Ambassadors programme, providing enhanced training for research
+ students in outreach leadership. As this develops, we plan to use this as the basis for a
+ programme across ECS, extending it to research staff.
+ An important part of our outreach strategy is to tackle gender imbalance and increase female
+ participation in STEM. Since 2017, we have created four ‘A-level Physics Kits’ demonstrating CS
+ principles. These were piloted with female students and each year we send 250 sets to local
+ schools and train teachers to use them. Also, since 2014, ECS has hosted the annual
+ Smallpeice residential summer school on topics including CS and robotics, with 50 students from
+ 40 schools around the UK (averaging 38%F) and led by a female ECS academic. ECS also
+ annually hosts a range of school visits within its teaching laboratories, and our policy is to ask
+ schools to bring a 50:50 gender group. We also have ‘Women in Tech’ days with 10-50 female
+ students.
+ schraefel initiated and leads the national seminar series with international experts on how to
+ improve engagement of women as undergrads in CS (https://cphc.ac.uk/cphc-seminar-series-
+ the-women-into-computer-science-experience/), which has over 800 members. This has also led
+ to the Heads of CS ENGAGE group that continue to explore this space.
+ 4.4 Esteem
+ 4.4.1 Prestigious memberships and titles
+ UoA11 has a total of 38 prestigious memberships and titles from 17 current and former staff
+ (former staff are Jennings, Shadbolt, Moreau, Simperl; they were at Southampton during the
+ REF period with titles before they left; Wald retired). Specifically:
+ 10 FBCS (Butler, Hall: DistFBCS, Jennings, Moreau, Niranjan, Sassone, Simperl, Shadbolt,
+ schraefel, Hu); 5 FIET (Nixon, Ramchurn, Hall, Hu, Wills); 3 FREng (Hall, Jennings,
+ Shadbolt); 3 EurAI Fellows (Staab, Jennings, Shadbolt); 2 RAEng Chairs (Sassone: Roke,
+ schraefel: Microsoft); 7 Turing Fellows (Brede, Chapman, Konstantinidis, Ramchurn,
+ Simperl, Stein, Wald); 3 Orders of Chivalry: Hall (DBE), Jennings (CB), Shadbolt (KBE).
+ Others: FRS (Hall); BMVA Distinguished Fellow (Nixon, 2015), IAPR Fellow (Nixon); AAAI
+ fellow (Jennings); Regius Professor (Jennings 2014-2016, Hall 2018-).
+ Other significant memberships include:
+ Butler: Chair of IFIP Working Group 2.3 Programming Methodology (2013-2019).
+ Hall: Chair of the Ada Lovelace Institute, (2017); member of AI Council UK Government;
+ member of the World Economic Forum’s Global Futures Council on the Digital Economy; BT
+ Technical Advisory Board
+ Sassone: Academia Europaea, elected member; Member and founding president of ETAPSeV,
+ the European Association for Theory and Practice of Software; Member of the Board and of the
+ Council of the EATCS, the European Association of Theoretical Computer Science; Member and
+ former chair of the EATCS Awards Panel; Member of the IFIP Technical Committee TC1,
+ Foundations of Computer Science; Member of the UKCRC.
+                                                                                               Page 17
+
+
+Unit-level environment template (REF5b)
+ Staab: Advisory board member of L3S Research Center, Hannover (2012-2018); Board member
+ of Semantic Web Science Association (2015-2018); Chair of Web Science Trust Network of
+ Research Labs (since 2015).
+ Funded Fellowships include:
+ Cai: Issac Newton Trust (2015), Wellcome Trust (2014- 2015).
+ Marchioni: Marie-Curie (2012-2014).
+ schraefel: EPSRC Established Career Fellowship (2020).
+ Tarapore: Marie-Curie (2015-2017).
+ 4.4.2 Major roles at conferences
+ During the REF period, 20 of our current (at census date) UoA11 staff had a total of 48 chair
+ roles at international conferences, e.g. as general or programme (co-)chair, including ACM
+ Hypertext 2019 (Millard, Programme Chair), Ubicomp 2019 (Farrahi, General Chair), ACM
+ SigCHI 2017 (Program Chair) and 2017 International Joint Conference on Biometrics (Nixon,
+ General Chair). In addition, most staff at all levels are engaged as regular members or senior
+ members of program committees at top conferences (e.g. AAAI, IJCAI, AAMAS)
+ 4.4.3 Conference plenaries and keynotes
+ During the REF period, 15 current UoA11 staff gave over 70 plenary and keynote talks at
+ conferences and other major events: Chapman (1), Hare (1), Hall (34), Hu (5), Rastegari (1),
+ Mahmoodi (1), Middleton (3), Martinez (1), Millard (1), Nixon (7), Ramchurn (1), schraefel
+ (1), Staab (11), Tiropanis (2). These include a plenary at ACM CHI 2017 (schraefel) and the
+ World Summit AI (Hall).
+ 4.4.4 Journal editorial boards
+ Over the REF period, 12 UoA11 staff were members of editorial boards or editors of 29 scientific
+ journals: Butler (3), Cirstea (1), Farrahi (1), Hare (1), Hu (6), Gerding (2), Mahmoodi (2),
+ Millard (1), Sassone (4), schraefel (2), Staab (5), Wills (2). This includes Editor in Chief of IET
+ Cyber-Physical Systems (Hu) and Advanced Research in Computing and Software Science
+ (Sassone).In addition, 13 staff were guest editors for 28 special issues: Butler (4), Chapman
+ (1), Cirstea (2), Hoang (1), Hu (5), Mahmoodi (2), Marchioni (1), Middleton (1), Norman (1),
+ Ramchurn (2), schraefel (1), Stein (1), Wills (6).
+ 4.4.5 Honours and awards
+ 13 staff received 17 best paper awards: Evers (HSCMA 2017); Gerding (IEEE/WIC/ACM WI-
+ IAT 2015); Stein (AAMAS 2016 Best Innovative Applications Paper); Millard (ACM Hypertext
+ 2016 Engelbart Best Paper Award, E-Learn 2014 Outstanding Paper Award); Hare (CrowdBias
+ Workshop); Hu (IEEE Systems Journal 2018); Karafili (Best Poster MCAA General Assembly
+ 2019); O’Hara (WebSci’16); Nixon (CAIP 2015); Ramchurn (AAMAS 2015); schraefel (IADIS
+ WWW/Internet 2015; UbiComp '13); Staab (Outstanding Contribution Design 2018, Best Video
+ ETRA '18, Best Student Paper IEEE CBMS 2017); Tarapore (International Society of Artificial
+ Life Award for Outstanding Paper 2016).
+ Other prestigious awards include:
+     •   Ramchurn: IJCAI-JAIR awards honourable mention, 2016
+         (https://www.jair.org/index.php/jair/IJCAIJAIR) .
+     •   Jennings and Ramchurn: The Engineer’s “Collaborate to Innovate” Award for ORCHID
+         Programme Grant (2016) (Ramchurn was Co-I with Jennings PI).
+     •   Butler: Microsoft Software Engineering Innovation Award, 2014.
+     •   Cai: Best Thesis Award, Hong Kong Mathematical Society, June 2014.
+     •   Hall: Recipient of MRC Sufferage Science Award, London Institute of Medical Sciences
+         (MRC, 2016); Recognised as 1 of 50 most Inspiring Women in Technology, Inspiring Fifty
+                                                                                             Page 18
+
+
+Unit-level environment template (REF5b)
+         (2016); Outstanding Contribution to ACM Award (2014); Recognition of being 1 of 100
+         Leading Practising Scientists, Science Council (2014); Lifetime Achievement Award,
+         FDM Everywoman in Technology (2014); Honorary degrees: DSc Hong Kong Bapist
+         University (2020); DSc The Open University (2015); DSc University of Bradford (2015),
+         DSc University College London (2014).
+     •   Martinez: American Geophysical Union, Leptoukh prize 2017
+     •   Tarapore: Awarded Popular Science “Best of What’s New” in the Engineering category
+         (2015).
+ 4.4.6 Funding body and other memberships
+ A total of 22 current staff have contributed to UKRI panels and equivalent international bodies.
+ Specifically, 10 staff are full EPSRC College Members (Butler, Hall, Martinez, Nixon, Norman,
+ Niranjan, Ramchurn, Sassone, schraefel, Watson). A further 4 have sat on UKRI panels
+ and/or acted as reviewer (Cirstea, Gerding, Marchioni, Martinez). Finally, many have
+ contributed to other panels, e.g. Brede (NWO), Cirstea (NWO, ERC), Butler (ERC, AXA, ANR,
+ etc) Gerding (NSERC), Niranjan (ERC, Hong Kong), Millard (QNRF), O’Hara (COJR, NSERC,
+ SSHRC), Prugel-Bennett (Catalonia, Sweden), Ramchurn (Mauritius, Norwegian etc),
+ schraefel (NSERC, SSHRC, CHIR), Tiropanis (NSERC, Leverhume, ERC), Kim (Hong Kong),
+ Staab (ERC), Weal (ESF).
+                                                                                            Page 19

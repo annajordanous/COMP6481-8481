@@ -1,0 +1,888 @@
+Unit-level environment template (REF5b)
+ Institution: Aston University
+ Unit of Assessment: 11 Computer Science and Informatics
+ 1. Unit Context and Structure, Research and Impact strategy
+ 1.1 Context and Structure
+ Aston University was founded in 1895 to support business, local industry and the community, with
+ science and engineering at its core (Institutional Level Environment Statement, ILES1.1). Inclusion
+ and impact are two strong themes running within Aston’s strategy and our success in these areas
+ was recognised in 2020 by several national awards including the “University of the Year”
+ accolade from The Guardian and the “Entrepreneurial University of the Year” award from The
+ Times Higher Education (ILES1.2).
+ Within Aston, the College of Engineering and Physical Sciences (EPS) maintains a high-quality
+ collaborative research environment with focused investment in areas where we can demonstrate
+ internationally leading research with significant impact. The College is submitting research to
+ UoA11 and UoA12. Since 2014, we have enhanced our agile and supportive environment to
+ enable staff to win international, national and regional funding leading to impactful research.
+ Reflecting this, most of our publications involve international co-authors (significantly above
+ sector-average for UoA11) and the majority of our impact case studies are international in scale.
+ For example, Bastin’s development of biodiversity tools at the European Commission’s Joint
+ Research Centre (JRC) has had world-wide impact.
+ The EPS structure (Figure 1) results from the wider re-organization within the University in 2020
+ (ILES2.1). EPS comprises three Schools, each of cognate disciplines: Engineering and
+ Technology; Informatics and Digital Engineering; and Infrastructure and Sustainable Engineering.
+ ASTUTE, EBRI and AIPT, described below, are our overarching Research Institutes. This
+ structure supports an interdisciplinary approach to research and impact, as well as addressing a
+ growing requirement for multi-disciplinary skills for scientists and engineers at all levels (ILES2.9).
+ Aston’s submission to UoA11 comprises Computer Scientists and Mathematicians who sit within
+ the School of Informatics and Digital Engineering and ASTUTE.
+                     Figure 1: College structure showing Schools, Departments
+                    and Research Institutes and related impact case study areas
+                                                                                                  Page 1
+
+
+Unit-level environment template (REF5b)
+ Knowledge Exchange (KE), underpinned by our research expertise, is fundamental to the College
+ ethos and aligns with Aston’s strategy that emphasises the importance of impact by structuring
+ thinking directly around Aston’s three beneficiary groups: (i) its students, (ii) business, professions
+ and the public sector and (iii) the region and society (ILES1.1). Our research contributes
+ significantly to the regional economy where we have strong collaborations with large companies
+ and SMEs (ILES1.4). Aston is a leading UK university for consultancy and Knowledge Transfer
+ Partnerships (KTPs) – reflecting our strong links with SMEs – and this enables us to identify trends
+ within sectors and opportunities for more in-depth interactions and value-added partnerships.
+ Aston has the largest current KTP portfolio (27) of Midlands Universities, and the 8th largest
+ portfolio in the UK. ASTUTE staff won awards at Innovate UK’s ‘Best of the Best’ KTP Awards in
+ consecutive years: in 2020, The Most Effective KTP initiative, for their work developing the
+ Computer Science Industry Club (Section 4.5) to support KE, and in 2019 in The Best Future
+ Innovator category for a collaboration with Sarissa Biomedical. Industry Club member, Majestic (a
+ Birmingham-based independent technology company providing the largest commercial link
+ database in the world) won the Princess Royal Award for Training in 2018 for their work in a
+ partnership with Aston University to develop a placement year for gifted students. Additionally,
+ one of our ERDF funded innovation projects – Think Beyond Data – will on completion have
+ contributed over £4m GVA to the regional economy.
+ Research Institutes
+ Following REF2014, our priority has been to develop more cohesion between subject-specific
+ research areas. To address this, we have three multi-faceted, collaborative Research Institutes.
+ The Aston Institute of Photonic Technologies (AIPT) and the Energy and Bioproducts Research
+ Institute (EBRI) were two of the four initial University Research Institutes (URIs) created in 2019
+ (ILES2.5). Each URI represents an area of critical mass undertaking excellent research with
+ impact. The Aston Institute for Urban Technologies and the Environment (ASTUTE) was
+ established as a third College Institute in 2018. ASTUTE consolidates interdisciplinary research
+ activities in informatics, materials and logistics to respond to the strategic research challenges in
+ developing low-carbon and sustainable urban environments. Our aspiration is for ASTUTE to
+ obtain URI status in the next REF period. Category A staff submitted to UoA11 are all members
+ of ASTUTE. In addition, reflecting the interdisciplinarity and collaborative nature of our research
+ across the College, 55 Category A staff returned to UoA12 are also members of ASTUTE.
+ The research areas of each of the Institutes are:
+     •    ASTUTE brings together technologies and capabilities that are key to enabling sustainable
+          living in the city of the future. At the heart of the Institute’s vision is the idea that
+          technologies should be developed for the benefit of the urban citizen, contributing to an
+          improved quality of life by enhancing mobility, creating a greener, more sustainable
+          environment and extracting the maximum benefit from the vast quantities of data
+          generated by modern pervasive computing systems. ASTUTE enhances the relationship
+          between researchers from different but complementary fields such as logistics and data
+          analytics or machine learning, enabling them to tackle the major interdisciplinary
+          challenges facing the modern city under the pillars of Digital Engineering, Mobility, Health
+          and Energy.
+     •    AIPT focuses on the science and technology of light, integrating both blue-sky and applied
+          research with education and industrial collaboration. Areas of research excellence include
+          optical communications, fibre devices, biophotonics and free-space optics.
+     •    EBRI carries out world-leading research into new and innovative ways of converting
+          biomass into sources of sustainable energy, using thermochemical, biological and catalytic
+          processes. EBRI members engage with colleagues nationally and internationally on supply
+          chains, business models, policy, regulation and system performance.
+                                                                                                  Page 2
+
+
+Unit-level environment template (REF5b)
+ 1.2 Research Strategy
+ Aston’s Research Strategy (ILES2.3) is to prioritise impactful, collaborative, excellent and
+ financially sustainable research. Since 2014, EPS strategy has evolved to align with the UK
+ Government’s Industrial Strategy Grand Challenges and UN Sustainable Development Goals to
+ enable us to tackle some of the big societal challenges in an impactful way. Examples involving
+ ASTUTE members are showcased in our impact case studies (ICS):
+     •   Sustainable cities and communities – where Clark’s (UoA11) ICS “Digital Twins for
+         Complex System Engineering” demonstrates the impact of his work with Tata Consultancy
+         Services (TCS) Research. He developed a new agent programming technology for
+         simulating and analysing complex enterprise systems using digital twin principles. The
+         results have been used in the field by TCS to improve their ability to provide client
+         demonstrators and commercial solutions, and the technology has been productized by
+         TCS as TwinX™.
+     •   Good health and wellbeing - Buckingham’s (UoA11) ICS “The Galatean Risk and Safety
+         Technology, GRiST: a web-based system for collaborative mental-health assessment and
+         management” describes a mental-health clinical decision support system that is delivered
+         by Aston as a cloud-computing service. It is used around the clock by NHS, charity and
+         private hospital practitioners to assess and manage risks associated with mental-health
+         problems. A second ICS, “ECG-derived biosignals for improved healthcare outcomes and
+         a Real-time Adaptive Predictive Indicator of Deterioration (RAPID)” describes how
+         research by Herzallah (UoA12) and Lowe (UoA11) led to product improvements in adult
+         and paediatric healthcare after novel algorithms were implemented into a commercial
+         system developed by world-leading digital healthcare company, Isansys.
+     •   Life on Land – where Bastin’s (UoA11) ICS “Development and application of the Digital
+         Observatory for Protected Areas” stemmed from a research collaboration with the
+         European Commission’s Joint Research Centre that ultimately saw Bastin as lead
+         developer of the Digital Observatory for Protected Areas (DOPA). DOPA’s suite of tools
+         and services are a reliable, transparent and evidence-based source of policy-relevant data
+         for government departments, agencies and Non-Governmental Organisations (NGOs)
+         worldwide, including the UN’s Convention on Biological Diversity and the European
+         Commission.
+ The strategic aims of EPS are:
+ Excellence – Strengthening our research environment
+ This strategic strand is led by the Executive Dean (PVC-ED) and the Heads of Institutes (HoIs).
+ The key areas of priority are:
+   •     Strengthen the interaction between related research activities in informatics,
+         logistics and materials. This has been achieved by aligning existing areas of activity to
+         strategic research priorities on infrastructure and urban systems. This led to the formation
+         of ASTUTE, supported by some strategic appointments in Civil Engineering. By grouping
+         staff thematically, we have created a more supportive and effective research environment
+         with growing interdisciplinary research (IDR) links e.g., Saad (ASTUTE) is an investigator
+         on the £6m TRANSNET programme grant, where he is applying machine learning
+         techniques to optical communications with AIPT.
+   •     Strengthen our Institutes as centres of excellence by investing in their facilities and
+         infrastructure. This led to investment for AIPT of £7.7m in estates, £1.4m in equipment
+         and £500k in research funding to ensure state of the art facilities. Similarly, for EBRI it
+         resulted in £1.5m investment in estates, £1m in equipment and £1.5m in research funding.
+         For Computer Science and Mathematics, we have implemented a £4.5m programme of
+         office refurbishment to bring staff and PhD students into higher grade spaces with
+         communal areas to encourage team support and cross fertilisation of ideas.
+                                                                                               Page 3
+
+
+Unit-level environment template (REF5b)
+   •     Create a vibrant research community. To address this, we have built on the IDR
+         approach to capitalise on connected staff (ILES2.9 and 2.10). To increase research
+         networking, various IDR activities have been instigated such as “show-and-tell” and
+         workshop events for researchers and external visitors in areas such as Digital Engineering,
+         Photonics and Sustainable Engineering. We also pump prime the development of
+         international collaborations using Aston’s International Collaboration Fund, e.g., the
+         hosting of Professor Takeshi Akinaga (Akita University) by Generalis in 2019 led to the
+         subsequent award of an EU RISE project (824022).
+ We will continue to support the development of the Institutes, for example, by further strengthening
+ the high-quality research environment (increased peer mentoring and reviewing for papers and
+ grants), impact (newly launched innovation weeks), business development activities and
+ increasing support for KE activities (ILES4.12). We continue to horizon-scan and nurture emerging
+ areas, e.g., we are currently developing activities in circular economy and health engineering. In
+ addition, we will increase the involvement of social scientists, whose expertise will contribute to
+ the early social acceptability of rapidly developing technologies, such as driverless electric cars
+ and artificial intelligence. These issues align closely with the Living with Technology and Data and
+ Infrastructure focus of ESRC’s plan.
+ Excellence - Strengthening our people
+ This strategic strand is led by the PVC-ED, Associate Dean (Research) (ADR) and HoIs. The key
+ areas of priority are:
+   •     Grow the number of active researchers in the College and increase the numbers of
+         researchers working within the Institutes. The number of REF Category A staff has
+         grown to 34FTE in UoA11 (from 18.20FTE in REF2014). This growth is due to recruitment
+         of new staff on Teaching and Research contracts, plus the change to submission of 100%
+         eligible staff. In addition, we have used strategic senior appointments to strengthen and
+         consolidate specific research areas, e.g., Sawyer in Digital Health and Clark in Multi-agent
+         Systems. Future growth areas for EPS are sustainable engineering and digital engineering,
+         the latter encompassed by UoA11.
+   •     Develop our future research leaders. Mentoring (ILES3.9) and training have proven to
+         be effective, e.g., Xu came to Aston as Senior Lecturer in Manufacturing Engineering in
+         2017. Strong support led to a rapid development in his research leadership skills. He was
+         promoted to a personal chair in 2020 and is now leading the Digital Engineering initiative
+         within ASTUTE.
+   •     Strengthen the diversity and inclusivity of our research community. We are making
+         significant progress in this ongoing project (see Section 2). EPS has moved from Athena
+         Swan Bronze to Silver in this REF period and will apply for Gold in 2021.
+   •     Improve the PhD experience. Alongside the work of the Aston Graduate School
+         (ILES3.15-3.19), we developed a comprehensive PGR training programme with an annual
+         cohort of 15-30 PhD students (typically 7-8 in UoA11). Funding secured from the EPSRC
+         Doctoral Training Programme as well as University investments is underpinning this
+         initiative. For PGRs currently registered in UoA11, 33% are female and 48% are BAME
+         indicating that we are on track to meet our 2025 diversity targets (see Section 2).
+ Impact Strategy
+ This strategic strand is led by the Deputy Dean (Enterprise and International) (DDEI) working
+ closely with the HoIs. The key areas of priority are:
+   •     To increase the amount of industry driven research and commercial activity. Support
+         from professional services colleagues in Research and Knowledge Exchange (RKE)
+         (ILES1.3, 3.10, 4.5) has facilitated a threefold increase in the annual awards from Industry
+         sources over the REF period with a further twofold increase in annual awards from ERDF
+         projects focused on KE.
+                                                                                                Page 4
+
+
+Unit-level environment template (REF5b)
+  •      Promoting links to regional companies. ERDF funding has been used to work directly
+         across all Institutes to support over 500 SMEs over the REF period. For example, ASTUTE
+         has supported ERDF projects in data analytics, machine learning, supply chain
+         management, low carbon industry, additive manufacturing and smart materials. In addition,
+         a series of seminars has been established in ASTUTE to bring together companies in a
+         particular sector with relevant academics along with Business Development Managers in
+         RKE (ILES4.4), who proactively seek out opportunities for KTP projects (ILES2.6) (e.g., a
+         workshop on Digital Engineering (10/2019) had speakers from MTC, Rolls-Royce and
+         Arcadis).
+  •      Supporting impact through investment and flexible contracts. We have used
+         secondments and investment in equipment to support academics in accelerating impact
+         For example, Cornford worked part time at Aston to 2018, during which time he was able
+         to use his research in machine learning and statistical methods to grow the Birmingham
+         software development base of IGI Ltd, a company that specialises in geochemistry & basin
+         modelling consultancy. Bastin’s work with the JRC was also enable by two secondments.
+ Through our Institutes and related business development support activities (ILES4.13) we robustly
+ monitor our impact pipeline and support activities at different stages of maturity with financial
+ support, appropriate networking and marketing. An annual programme of ‘Innovation Weeks’ is
+ being used for team building and to train staff and PhD students who can move technology further
+ along the technology readiness levels and address some of the skills gaps we see in SMEs. To
+ encourage staff in this area, impact has been made a key element of Aston’s Research Strategy
+ and is explicitly considered in promotion applications (ILES3.3).
+ Collaboration Strategy
+ This strategic strand is led by the ADR with the HoIs and DDEI. The key areas of priority are:
+  •      Increase international collaborations for staff and students using both internal funding
+         (e.g., the International Collaboration Fund (ILES2.9)) and applications to organisations,
+         including the Leverhulme Trust, Royal Society, the Daiwa Foundation and the EU RISE
+         scheme. Of all outputs published by staff in UoA11 during the REF period, 65% of
+         publications have overseas co-authors, 5% ahead of the sector average for the disciplines.
+  •      Continue to build and support our industry collaborations. Over the REF period we
+         have developed a portfolio of regional projects to support SMEs (see examples in Section
+         3.2) and increased our KTP portfolio (Section 4.5). We also launched the award-winning
+         Industry Club in computer science and then rolled out the model across EPS (Section 4.5).
+  •      Helping to cement Aston’s position as a Civic University. We are positioning ASTUTE
+         as the go-to place for regional bodies seeking solutions to the challenges that lie in the way
+         of Birmingham transitioning to a zero-carbon future. This has required us to establish good
+         relationships with the West Midlands Combined Authority, the Local Enterprise
+         Partnerships and Transport for West Midlands and we are planning knowledge sharing
+         sessions (learning-lunches) with the Digital team within Birmingham City
+         Council. ASTUTE is a member of the Birmingham Smart City Alliance. As leaders of the
+         Greater Birmingham and Solihull Institute of Technology (GBSIoT) Applied Research
+         stream we are organising joint industry-academia hot-topic-based workshops and case
+         studies to encourage increased collaborative funding applications.
+ Sustainability Strategy
+ This strategic strand is led by the ADR with the HoIs. The key areas of priority are:
+  •      Broaden the portfolio of funders and increase the amount of UKRI and commercial
+         funding. We work with professional services departments to ensure the financial
+         sustainability of EPS research. Colleagues from the funding teams of RKE and Finance
+         (ILES4.4) work closely with the ADR, HoIs and Departmental Research Directors to share
+         intelligence about the funding landscape and strategically plan our response, pooling
+                                                                                                  Page 5
+
+
+Unit-level environment template (REF5b)
+         resources and contacts appropriately. The core professional services team meet monthly
+         to ensure that information about funding opportunities is shared effectively, and that the
+         necessary resources are put in place to support the pipeline of bidding activity. The
+         Strategic Funding Manager and International Funding Manager work with individuals and
+         Research Institutes to plan grant capture strategies and refine grant applications. EPS has
+         increasingly adopted a cohort-based approach to support groups of individuals who are
+         preparing bids to the same type of call, for example, the EPSRC New Horizons call where
+         we had two successful awards, one from an ECR. Similarly, colleagues in RKE run an
+         annual Grant Writing Programme to support a group of researchers who are applying for
+         their first Research Council grants (ILES4.5). All bids go through the University’s internal
+         Peer Review process prior to submission, with the objective of supporting researchers to
+         improve the quality of bids submitted. Due diligence checks, match-funding decisions and
+         sign-off of bids also go through a clearly defined process designed to improve the
+         University’s management of our institutional commitments and to ensure financial probity
+         and sustainability (ILES2.8).
+   •     Increase the proportion of staff actively seeking and winning funding by improving
+         support for early-stage researchers. All ECRs now complete a Career Development
+         Plan and it is one of the ways we operationalise the Concordat to Support the Career
+         Development of Researchers (ILES3.13). The Career Development Plan is a framework
+         that brings together all the help available internally supporting ECRs to plot their own
+         professional development pathway. At Aston, the ECRs participate in the “ECR Forum”
+         (ILES3.14) to enhance their ability to work across disciplines, build effective networks and
+         provide focused developmental opportunities.
+ The success of our College strategy is reflected in EPS being in a much stronger position than in
+ 2014, with our combined research income and income-in-kind for this REF period being £58m, up
+ from £23m in REF2014 (£6.2m, up from £4.1m in UoA11). EPS has contributed just over half of
+ the University’s annual research awards over the REF period. The Research Institutes are
+ providing support for staff and students with the critical mass needed to further strengthen external
+ recognition and momentum.
+ 2. People
+ 2.1 Overview
+ The leadership and governance of EPS has been strengthened significantly since REF2014.
+ Changes include the appointment in 2017 of Professor Sarah Hainsworth OBE FREng, as Pro-
+ Vice-Chancellor and Executive Dean, and the appointment of Professors Tony Clark and Kate
+ Sugden as Deputy Deans in 2018. All three have strong track records in impactful research and
+ understand the challenges of balancing teaching and research commitments. Professor Patricia
+ Thornley took over the Associate Dean (Research) role from Professor David Webb in 2019,
+ ensuring a continuation of strong and effective research leadership. The ADR works with the
+ Director of Research Degree Programmes (Dr Aniko Ekart) and PGR Tutor (Professor Wen Cao).
+ These two roles exist to specifically support research students within the College and share the
+ administrative load, a move that has turned out to be highly beneficial in the pandemic. Our
+ Research Institutes are headed by Professors Webb (ASTUTE), Sergei Turitsyn (AIPT) and
+ Thornley (EBRI).
+ 2.2 Staffing Strategy
+ Significant work has been undertaken over the REF period to ensure that EPS operates in an
+ efficient, cohesive and inclusive manner, allowing people to develop their research careers in a
+ supportive environment. The EPS staffing strategy places equal value on (a) the appointment of
+ external staff in areas that need stronger leadership or to build critical mass, and (b) the
+ development and support of the existing team to create future research leaders.
+                                                                                                Page 6
+
+
+Unit-level environment template (REF5b)
+ Since REF2014 we have increased the number of staff in the College to reduce a high student
+ staff ratio and ensure that the staff have time for research (Figure 2). For this REF return, Aston
+ committed to a 100% submission of eligible staff. In UoA11, this has resulted in almost double the
+ number of staff being submitted to REF2021 (34.0FTE, all of whom are on Teaching and
+ Research contracts (6 ECR)) compared to REF2014 (18.2FTE). At the same time, the research
+ only staff population in EPS has also seen significant growth of 47% from 62 to 91FTE, providing
+ a vibrant community of early career researchers.
+                           Figure 2: Staffing Levels for EPS (UoA11 and 12)
+ New academic appointments are made where there is clear alignment between the appointees’
+ expertise, our existing research activity and our beneficiaries-led research strategy. This has
+ enabled us to build a genuinely collaborative and interdisciplinary research environment. For
+ example, the recent appointment of Alexakis in Civil Engineering not only brings research
+ expertise in structural monitoring to that Department, but he also contributes to optical sensing in
+ AIPT and machine learning in ASTUTE.
+ 2.3 Equality Diversity and Inclusion (EDI) Strategy
+ Aston is committed to EDI in recruitment, promotion and access to education (ILES3.4-3.6). EPS
+ (UoA11 and 12) has been a leader within the University in this area (for example, it was the first
+ College to achieve Athena Swan Bronze and Silver awards) with significant activity across gender,
+ race and inclusion. The driving philosophy behind our work in this area is that the creation of an
+ inclusive environment is a pre-requisite for the promotion of EDI, and this requires activity against
+ different strands:
+   •     Diversity in Leadership – The EPS Senior Management team (July 2020) was 43.5%
+         female and 56.5% male which is exceptional for an engineering-and-science-focused
+         College. In terms of ethnicity the split is 77.3% white, 22.7% BAME – this is above the
+         sector average but would benefit from further improvement to reflect our region and student
+         population. We have just appointed our first female Head of Computer Science – Professor
+         Lumsden.
+   •     EPS has been at the forefront of Aston’s Athena Swan initiatives obtaining Silver in
+         2014 – Prior to the COVID pandemic we were planning to submit a Gold application in
+         autumn 2020 but this is now delayed until 2021. Our Athena Swan activity in EPS has led
+         to an improvement in EDI data analytics across the University. Actions put in place in EPS
+         in the REF period include selected training, mentoring and wide advertising of vacant roles
+         within the College to allow staff to build experience. As part of the Athena Swan initiative,
+         we have developed a teaching load model that looks more broadly at the time contribution
+         for teaching-related activities as well as standard lecturing time to reach a more equitable
+         distribution of load and ensure all T&R staff have time for research.
+                                                                                                Page 7
+
+
+Unit-level environment template (REF5b)
+  •     Race Equality – EPS’s Director of Operations (Gill-Knobbs) leads on Aston’s Race
+        Equality Charter, which Aston signed up to in 2019, supported by the Associate PVC for
+        EDI. The University-wide Group (ILES3.5, Figure 4) is currently working through the results
+        of the Race Equality Charter Survey and this will generate targeted activities to support
+        staff and students. The Group also instigated the process for Aston to join the BBSTEM
+        Alliance (Black British Professions in STEM) to support our Black research students where
+        numbers are low. The motivation for this came from a working group set up specifically for
+        Black staff and students following the BLM movement early in 2020. BBSTEM was founded
+        by EPS graduate Kayisha Payne and provides support in terms of industrial mentors and
+        corporate insight days which students can access for free. There is also support for PhD
+        students through an online community. A BAME staff network has been established and
+        includes research staff. The network will be running research focused events and providing
+        support for researchers.
+  •     LGBT+ – EPS Deputy Dean Kate Sugden chairs Aston’s Working Group on LGBT+ staff
+        (2019-20) (ILES3.5, Figure 4). This also contributes to the open and inclusive culture of
+        the College and wider University.
+  •     Gender Pay Gap – The University aims to eliminate its Gender Pay Gap of 19.5% (2017)
+        by 2025 by focusing on consistency of starting salary and pay parity on promotion and
+        within professorial bands (ILES3.6). EPS has a significantly smaller pay gap than
+        elsewhere in the University; over the REF period, EPS has decreased its pay gap from
+        5.5% (2013) to 2.4% (2020). This has resulted from more consistent mentoring around
+        promotions and more openness in advertising available roles and responsibilities and
+        training programmes - changes brought in as part of Athena Swan.
+  •     External Diversity Activities – EPS staff have also shown significant contribution in this
+        area. For example, Hainsworth is Chair of the RAEng Diversity and Inclusion Committee
+        (09/2019-present) and was Deputy Chair for 2 years before that. Through this Committee,
+        she has made a significant contribution to the development of the RAEng Fellowship Fit
+        for the Future campaign and the delivery of the new Diversity and Inclusion Framework.
+        Sugden was elected the Diversity Champion for IET Council (2018-19) and is currently on
+        the Board of Trustees for Foothold https://www.myfoothold.org/, a charity supporting
+        engineers and their families with unexpected life challenges. RAEng Visiting Professor
+        Dawn Bonfield's work supported the addition of “inclusive engineering design” into
+        accreditation by the Joint Board of Moderators (JBM) as well as similar revision of the
+        Engineering Accreditation guidelines, AHEP.
+  •     Widening Participation – Mindful of the development of our future researchers we have
+        twice hosted the transformative RAEng Graduate Engineering Engagement Programme at
+        Aston to increase the transition of engineering graduates from diverse backgrounds into
+        the engineering sector. We have also encouraged Research Institutes to provide paid
+        internships for students to experience working in a research environment. We supported
+        the formation of the WEST (Women in Engineering, Science and Technology) society in
+        2017, and Bonfield pro-actively mentored these students, who rapidly gained confidence
+        and experience. In 2020, WEST progressed from a student affiliated group to a newly
+        formed social enterprise, and engaged in a funded project in Nigeria, all with the help and
+        advice of Bonfield. Through WEST we have sponsored students to attend the annual
+        Women’s Engineering Society. Finally, Aston contributes to the Widening Participation
+        strand of the Institute of Coding.
+                                                                                             Page 8
+
+
+Unit-level environment template (REF5b)
+ 2.4 Support for Staff
+ Research Culture
+ In EPS we promote a positive research culture to support our academics and researchers
+ throughout the research lifecycle, including:
+     •   Opportunities to discuss and formulate ideas for research proposals through mentoring;
+         staff networks and line management; an active seminar series led by the Research
+         Institutes; and publicising of relevant upcoming funding opportunities by RKE.
+     •   Research proposal development, in particular for ECRs (including coaching, writing
+         cohorts and formative peer review), with strong support from EPS staff and RKE (ILES4.4-
+         4.5).
+     •   Support for all aspects of research integrity and ethics including support for ethical approval
+         (ILES2.11-2.12).
+     •   Support for the dissemination of outcomes of research that transcends traditional
+         publication routes (Aston Open Data Policy (ILES2.14) and Open Access Policy
+         (ILES2.15)) and includes dedicated staff in RKE proactively providing links to potential
+         partners in business, government and industry to translate the outcomes of research into
+         impact (ILES4.12).
+     •   To highlight the importance of research in our strategy, EPS introduced protected weeks
+         within the annual timetable when staff can focus exclusively on research activities.
+ Training and support for ECRs and postdoctoral researchers (PDRs)
+ We are fully committed to implementing the key principles of the Concordat to Support the Career
+ Development of Researchers and indeed Aston has held the “HR Excellence in Research Award”
+ since 2010 (ILES3.13). The University-wide ECR Forum includes the ECR Development
+ Programme (ILES3.14), which includes a range of training courses and workshops run by two
+ specialist members of staff. New research staff receive a Welcome Pack that gathers in one place
+ all the information and documents they will need relating to university services and career
+ development. The activities run by the ECR Forum, including the Annual ECR Interdisciplinary
+ Conference, provide an opportunity for PDRs and ECRs to meet potential collaborators and
+ friends from across the University and develop a mutually supportive network.
+ As part of their induction, academic ECRs are assigned a dedicated research mentor: a colleague
+ who sits outside their line management structure, has a strong research track record, and who
+ acts as a confidential, independent, critical friend. New female appointments are given the option
+ of a female mentor. Additionally, the University facilitates cross-College mentoring relationships
+ (ILES3.9).
+ The Institutes provide vibrant "homes" for new researchers, so that they can experience
+ interdisciplinary interactions beyond their departmental affiliation, engage in constructive research
+ development and knowledge exchange, and meet with research users in the industrial, business
+ and policy communities, via our regular seminars and workshops.
+ Staff Training
+ In addition to University-wide training provision (ILES1.5iv, 2.10, 2.12, 3.10, 3.14, 3.16, 4.13) we
+ have introduced a series of initiatives within EPS, which we continue to adapt as the research
+ landscape changes. Recent examples are set out in Table 1.
+                                                                                                  Page 9
+
+
+Unit-level environment template (REF5b)
+                               Table 1: EPS Staff Training Provision
+  Training for PhD         Alongside the extensive Graduate School introductory programme
+  students and PDRs        there is also: An Introduction to Research in EPS; Support for
+                           Fellowship applications
+  Training for ECRs        Introduction to Research in EPS; Building a Track Record; Working
+                           with EPSRC; Working with Industry; Working with the EU, Research
+                           Support; Introduction to REF; Supervising Postdocs and PGRs;
+                           Impact and How to Generate It; Publishing Considerations, Planning
+                           for Future Promotion based on Research; Early Career Fellowships
+  Training for all staff   Health and Safety Awareness; Equality and Diversity*; GDPR*; Cyber
+                           Security*; Research Student Supervision*; Introduction to
+                           Unconscious Bias*, Recruitment within the Equalities Framework –
+                           *courses compulsory for all EPS staff
+ Staff Grades and Promotions
+ The annually monitored data shown in Figure 3 gives the distribution of staff in EPS split by gender.
+ Grade 7 is Teaching Assistant level. Grades 8 and 9 are Lecturers. Grade 10+ are Senior
+ Lecturers and above.
+                             Figure 3: Gender split of T&R and R staff
+ EPS manages promotions in a fair and equitable way. Over the REF period, 130 applications
+ for promotion were received by the College. Of these, 15 were promoted directly (to grade 8 or 9)
+ and 63 (for higher grades) went forward to the University Promotions Board. The overall success
+ rate there was 85.7%, 89% for female staff and 90% for BAME staff compared to 84% for male
+                                                                                               Page 10
+
+
+Unit-level environment template (REF5b)
+ staff and 83.3% for white staff. Overall, there is no significant statistical difference in success rates
+ between the protected groups observed.
+ Selection of Outputs
+ Section D of our Code of Practice sets out the process for selecting outputs, with the peer review
+ process for outputs set out in Appendix 6. Two workshops were run for EPS staff to explain these
+ processes, and those involved in selecting outputs also participated in a comprehensive EDI
+ training session which was developed in conjunction with Advance HE. A further workshop was
+ run for ECR staff to introduce them to the REF process.
+ Our REF Individual Circumstances process (Code of Practice, Appendices 7 and 8) was run
+ independently by RKE. In line with our commitment to an inclusive return, all employees who
+ submitted a declaration of individual circumstances were invited to indicate if they would be like to
+ be contacted by an HR Business Partner to discuss their circumstances, and any support that they
+ may have required.
+ As part of our REF preparation, we have conducted three Equality Impact Assessments of output
+ attributions. Colleagues in RKE and HR have compared outputs attributed to all Category A staff
+ (using FTE, not headcount) with those outputs attributed to those with protected characteristics
+ (gender, age, disability and ethnicity). The inclusive nature of our return is reflected in our final
+ Equality Impact Assessment (conducted 01/2021).
+ UoA11 proposed 234 outputs in total, of which 71 are attributed against an FTE of 34 Category A
+ staff against an attribution target of 85. The UoA11 selection displays a consistent percentage of
+ attributions (mean 37%) across all protected characteristics (Figure 4). Small sample sizes explain
+ any differences.
+                        Figure 4: Alignment of %FTE and output attributions by
+                                  protected characteristics for UoA11
+                                                                                                   Page 11
+
+
+Unit-level environment template (REF5b)
+ 2.5 Strategy for Training and Supervision of PGR Students
+ Aston’s Graduate School (AGS) was established in 2010 to provide a supportive environment for
+ all research students across the University (ILES3.15-3.18). Integrated with this central provision
+ is subject-specific postgraduate training and development provided within EPS, providing a strong
+ local research environment, where PhD students are supported in their development towards
+ becoming independent researchers.
+ Since 2014, the following significant changes have been made in terms of how we recruit and
+ manage PhD students, in order to achieve and develop a vibrant research environment:
+ Recruitment – A rigorous student recruitment process is in place to ensure that PGRs have the
+ best possible chance of successfully completing their PhD on time. All interview teams must
+ include an independent senior academic with a track record of successful PhD supervision who is
+ able to advise on the suitability of the candidate. English Language training is offered to students
+ for whom English is not their first language (ILES3.19). Typically, 15-30 fully-funded studentships
+ are allocated annually via a highly competitive call, in which both the quality and strategic fit of the
+ project and the suitability of the proposed student are assessed by an experienced panel. Students
+ are increasingly recruited to related cohorts to provide peer support. Strategic priority for these
+ studentships has shifted from an initial focus on co-funding studentships with industry (aligned
+ with our industry-focused research strategy) to concentrating on pump-priming the research
+ careers of our new lecturers, following a significant expansion of new academic staff in EPS. All
+ staff with supervision responsibility are required to complete mandatory supervision training, which
+ must be updated every three years, regardless of career stage (ILES3.16).
+ Arrival – Following each quarterly start date, there is a comprehensive welcome and induction
+ session provided by the Director of Research Degree Programmes, where students are guided
+ through all the relevant documentation, development opportunities and the expectations placed
+ on them. In consultation with the supervisor, the student undertakes a training needs analysis to
+ identify the development needed to support both their PhD work and their future career goals.
+ During the PhD – AGS provides comprehensive PGR support for all students (ILES3.15-3.19). A
+ formal quarterly and annual monitoring process is in place to ensure students are making sufficient
+ progress and are well supported by their academic supervisors. In addition, international students
+ are invited to networking events for international students and staff, to help them feel included in
+ the research community and make links with others who may have similar experiences.
+ In response to data from the 2017 Postgraduate Research Experience Survey (PRES), several
+ new initiatives were instigated including:
+      •   Increased contribution of up to £1500 towards attending a conference to present a paper
+          or poster. This is available to all students who have completed their qualifying examination.
+      •   A Postgraduate Student-Staff Liaison Committee to provide a direct link between PGR
+          students and senior management via the AGS Management Committee (ILES3.15). In
+          addition, student representatives meet with the ADR and Director of Research Degree
+          Programmes to discuss any College-level issues they may be having. As an example,
+          reports of issues with aging computers led to a College policy whereby all incoming PGRs
+          are given a new PC on arrival.
+      •   We introduced an EPS PGR Conference in 2018, organised by postgraduate student
+          representatives of the Liaison Committee. This was much appreciated by the students and
+          the idea has been taken up by AGS, which now also facilitates University-wide weekly
+          events such the Interdisciplinary Seminar Series (ILES2.10).
+ Student networks – Our PhD students are integrated into the research community and relevant
+ networks to provide peer support. Our office spaces have been redeveloped to ensure that
+ students sit within the academic groups and share communal spaces. The Women in Science and
+ Technology group provides networking support across all student groups and regularly hosts
+ visiting speakers from industry. ASTUTE holds monthly research seminars for all its staff; these
+ have an interdisciplinary focus and help create links between different research specialisms.
+                                                                                                Page 12
+
+
+Unit-level environment template (REF5b)
+ These are organised by an ECR to help develop management and organisational skills and raise
+ their profile.
+ Graduate Outcomes – The most recent (2017/18) Graduate Outcomes survey available for the
+ assessment period (27 EPS responses) showed that 96% of EPS PGR graduates found graduate
+ level positions. 30% took up Postdoctoral Research Assistant positions, 15% secured academic
+ positions, 18% continued in further education, and the remaining 33% went into professional-level
+ work in industry.
+ Diversity of PGR student body – EPS has prioritised diversification of our PGR population by
+ ensuring fair recruitment processes. The Home BAME PGR student population has risen from
+ 39% (2015/16) to 43% (2019/20). In terms of gender, our objective is 40% female PGR by 2025
+ and we have improved steadily from 29% female PhD students in 2015/16 to 38% female in
+ 2019/20. Our current intake across the College is 50% female and 64% BME, indicating we are
+ on track to meet our diversity targets. This improvement stems from targeted interventions, such
+ as: (a) involving our own UG students more in projects related to research, (b) supporting student
+ networks that cross over the PG/UG divide so that there are appropriate role models, (c) more
+ widespread advertising of opportunities (d) interview practices including mixed panels.
+ Figure 5 shows diversity data covering the REF period for the Computer Science and Mathematics
+ Departments, which map closely to UoA11.
+                           Figure 5: Diversity data for Computer Science and
+                            Mathematics PGR students - over the REF period
+ 3. Income, Infrastructure and Facilities
+ The overall aim of EPS in this REF period has been to build the strength of our teams,
+ infrastructure and facilities in areas where we can deliver impact on an international scale and use
+ this to drive growth in research activity.
+ The move towards Institutes, and the increasing focus of our research into related disciplines,
+ allowed us to invest in infrastructure to benefit large groups of individual researchers. Through this
+ approach, we have brought together research teams to create a more dynamic, interactive and
+ supportive environment. This has included £4.5m investment in new, clustered staff workspaces
+ which co-locate Computer Science and Mathematics academic staff, researchers and research
+ students. Where appropriate, researchers are encouraged to belong to, and access, more than
+ one Research Institute to encourage interdisciplinary interactions, for example, there are Civil and
+ Biomedical engineers from ASTUTE who have AIPT laboratory space and Mechanical Engineers
+ working in EBRI and ASTUTE. The total capital expenditure over the REF period on EPS research
+ was £16.6m.
+                                                                                               Page 13
+
+
+Unit-level environment template (REF5b)
+ 3.1 Research Income and Awards
+ The UoA11 Income has grown from £4.1m in REF 2014 to £6.2m in REF2021, the annual
+ breakdown for which is shown in Figure 6.
+                                 Figure 6: UoA11 Research Income
+ UoA11’s annual research awards have grown from less than £750k in 2013/14 to over £2m in
+ 2019/20 (Figure 7). At College level, EPS has grown its annual research awards substantially from
+ £8.4m in 2013/14 to an average of £15.7m/year in the last three years of this REF period. This
+ growth will drive an increase in research income in the next REF period.
+                                 Figure 7: UoA11 Research Awards
+ 3.2 Infrastructure and Facilities Pertaining to Research
+ Our investment in infrastructure and facilities has underpinned the growth in income and awards.
+ For UoA11, it is important to note that these activities take place within a larger support framework
+ at both College and University level. Specialist centralised research support is led by the PVC
+ Research and the Executive Director of Business Engagement (ILES4.4). EPS benefits from a
+ high-performing team who generate fruitful industrial connections, support large collaborative
+ grant applications and project manage large projects. This has resulted in the College’s strong
+ position in KTP grants where we are a sector leader and have substantial EU research funding
+ (16 of the University’s 19 current KTP projects are in UoA11). Furthermore, there exists a critical
+ mass of colleagues with experience in successful knowledge exchange, who act as impact
+ champions and mentors. All our Institutes have embedded business engagement teams that use
+ ERDF funding to provide the infrastructure and support collaboration with regional businesses,
+ which is matched by an equal funding contribution from the University. The facilities and
+ infrastructure for each of the Research Institutes is summarised below.
+                                                                                                Page 14
+
+
+Unit-level environment template (REF5b)
+ Aston Institute for Urban Technologies and the Environment
+ In addition to having access to the AIPT and EBRI facilities described below, ASTUTE also has
+ facilities that support the variety of research activities in the Institute, including:
+      •   The Aston Laboratory for Immersive Virtual Environments, resulting from a £3.9m
+          investment in 2015, provides motion capture, room-scale virtual reality and EEG recording
+          equipment, enabling research into visual perception, social cognition, and social vision.
+          This is complemented by the Aston Interactive Media Lab, which is dedicated to human-
+          computer interaction, primarily applied to mobile technologies.
+      •   The Aston Robotics, Vision and Intelligent Systems lab houses a variety of predominantly
+          social robots and aims to improve mankind’s quality of life by enabling intelligent robots,
+          virtual agents and autonomous systems with perceptual and cognitive capabilities.
+      •   Investment of £80k from GBS Institute of Technology has enabled a laboratory dedicated
+          to Cyber Security. Vulnerable network systems can be simulated, attacked and defended
+          within an isolated environment.
+      •   Our significant activity around data analytics and AI is supported by a range of computing
+          options. Researchers can access individual GPU-based workstations, a new shared server
+          (8GPU, 20 core, 512 GB, £50k), cloud-based processing (e.g., Amazon Web Services)
+          and the Tier 2 HPC facility of Midlands Innovation (ILES1.5).
+      •   We have a wide range of facilities supporting our research on future transport including
+          equipment to test high-performance electrical machines, power converters and EV
+          batteries to enable bespoke design as well as the ability to assess the performance of
+          engines running on biofuels
+      •   Researchers investigating functional materials have accessed £2.4m of beam time during
+          this REF period.
+ Since the formation of ASTUTE in 2018, the number of KTP projects in the Institute has increased
+ from 5 to 17. In terms of fundamental research, Aston’s two successes in the recent EPSRC New
+ Horizons call were both from ASTUTE members (one an ECR) and 2020 saw the submission of
+ a successful EU FET proposal in collaboration with colleagues in Health and Life Sciences plus
+ international partners.
+ ERDF projects continue to deliver measurable benefit to our regional beneficiaries. The Think
+ Beyond Data project aimed at enabling SMEs to make better use of their data, to develop new
+ services and products, to leverage large public datasets, and to develop a workforce that is highly
+ skilled in leading-edge analytical techniques. An evaluation report by Hatch Regeneris
+ (2020) noted that the team supported 60 companies, with estimated additional GVA expected to
+ reach almost £4m, providing £6.45 GVA for every £1 ERDF funding invested. This excellent value
+ for money is reflected in the subsequent extension of the project.
+ A second project, Smarterials - Promoting Functional Materials, in SMEs, sits between ASTUTE
+ and EBRI. This project commenced in 09/2018 and will run until 08/2021. It is designed to help 66
+ SMEs develop their use of functional materials and grow their business through a partnership with
+ Aston University built on research, testing and expertise in material science. The collaborations
+ with industry have been diverse: from working with a fuel additive manufacturer to verify the
+ efficiency gains that it brings to an engine, to working with a wind turbine developer to create
+ prototype designs from optimum materials.
+                                                                                              Page 15
+
+
+Unit-level environment template (REF5b)
+ Aston Institute of Photonic Technologies
+ AIPT has outstanding facilities and infrastructure enhanced by recent major strategic investment
+ by Aston University. This includes a £7.3m investment in 2017 into a new, 1200 square metre,
+ state-of-the-art suite of 30 laboratories for the Institute, including optical communication, fibre
+ device fabrication, laser, medical and biophotonics laboratories. In parallel, Aston invested around
+ £5m into equipment, with a further £3m invested in equipment after AIPT was awarded University
+ Research Institute status in 2019. The breadth of these facilities makes AIPT a partner of choice
+ for many businesses and universities giving AIPT an impressive reach. This includes a portfolio
+ of ~60 industrial and international collaborations, 60 patents, and five spin-out companies.
+ AIPT’s global status is further confirmed by the coordination (as a single beneficiary) of a major
+ €3m Marie S. Curie COFUND MULTIPLY Photonics Training Programme, with 50 world leading
+ partners, from MIT to the Max Plank institute for the Science of Light.
+ Energy and Bioproducts Research Institute
+ EBRI’s dedicated building incorporates unique, state-of-the-art laboratories, collaborative office
+ space, dedicated meeting/engagement rooms, and social facilities to support its academic and
+ industry facing teams in accelerating the commercial development of low-carbon energy and
+ products. The facilities are the result of a £20m investment to support the development of a
+ regional bioenergy supply chain and to promote the adoption of innovative new bioenergy
+ technologies across the West Midlands region. EBRI’s research extends from fundamental
+ science through engineering challenges, social responses to technologies, economic context and
+ policy development. It leads the £6m national flagship EPSRC/BBSRC-funded Supergen
+ Bioenergy Hub research centre of excellence which works with academia, industry, government
+ and societal stakeholders to develop sustainable bioenergy systems that support the UK’s
+ transition to an affordable, resilient, low-carbon energy future.
+ 4. Collaboration and Contribution to the Research Base, Economy and Society
+ 4.1 Introduction
+ EPS values collaboration with academic, industry and policy partners, both nationally and
+ internationally. In addition, wide-ranging activities in Knowledge Exchange such as KTP and
+ business focused ERDF funding have generated strong links to industry – especially the technical
+ SME community.
+ 4.2 International Collaboration and Networks
+ Our Research Institutes collaborate with high-performing institutions and industry partners around
+ the world, allowing regular exchange of people and ideas. This has in turn enabled our research
+ to create impact on an international scale. For example:
+     •    In our UoA11 ICSs: “Development and Application of the Digital Observatory for Protected
+          Areas”, which resulted in tools that have been used globally, and “Digital Twins”, which
+          arose from a longstanding collaboration of Clark with Tata Consultancy Services (TCS)
+          Research in India. The first ICS arose from time spent working at the European
+          Commission’s Joint Research Centre and the second from an ongoing research
+          collaboration that involves annual research visits to the company, where Clark is funded
+          as a Research Advisor. In 2019, Clark’s work won a TCS Innovation Award in competition
+          with over 6000 entries.
+     •    Buckingham’s collaboration with Johns Hopkins University investigated racial bias during
+          clinical diagnosis in the UK and the US; a Race Equality Foundation report used the
+          findings to recommend improvements for Black people’s healthcare.
+     •    Little, Arora and Raykov worked with a number of international partners including MIT,
+          Johns Hopkins University and the Michael J Fox Foundation on ground-breaking work on
+                                                                                               Page 16
+
+
+Unit-level environment template (REF5b)
+         the use of smartphones for detecting and monitoring the symptoms of Parkinson’s disease
+         and the large-scale deployment of wearable sensor to monitor Parkinson’s Patients for the
+         Parkinson@Home study. The end goal of this work is to establish a better platform for the
+         long-term management of Parkinson’s disease and improved drug efficacy tests.
+     •   Several staff have longstanding international collaborations: Lumsden and Campelo both
+         hold Adjunct Professorships at Canadian universities (University of New Brunswick and
+         Dalhousie University); Nerukh holds a Visiting Scientist position at RIKEN in Japan and
+         supervises PhD students at Kiev University, supported by funding from the EU Research
+         and Innovation Staff Exchange (RISE) scheme.
+     •   Since 2014, EPS has received funding for 18 international networking RISE projects, as
+         lead and partner, providing £9m to support collaborative research, networking and training
+         with industry and academia across the world. They have enabled collaboration with
+         academics from 40 countries on applied and theoretical projects; examples from UoA11
+         range from “Computing with Infinite Data” to “Fractures Across Scales, Materials,
+         Processes and Disciplines”.
+     •   Aston is within the top ten UK recipients for the highly competitive FET programme and
+         the projects that Aston leads are excellent examples of IDR, e.g., the recently successful
+         application for the £4m NeuChip project with Aston Principal Investigator (PI) Dr Rhein
+         Parri (Institute of Neurodevelopment), Co-PI Prof David Saad (ASTUTE, Mathematics). The
+         project partners are the University of Barcelona, 3Brain (industry), Technion (Israel), CNRS
+         Paris (France) and Loughborough University (UK).
+     •   In addition to the International Collaboration Fund (ILES2.9), UoA11 academics exploit a
+         range of other funding mechanisms including Royal Society International Exchange,
+         RIKEN Japan, Japan Society for the Promotion of Science Bridge Fellowship, EU
+         Twinning, Erasmus+, Leverhulme Trust Distinguished Visiting Professorship, Erasmus+
+         and British Council. Furthermore, our policy of recruiting from the widest possible field
+         brings staff members from across the globe with ready-made international links e.g., from
+         Computer Science, Campelo has strong links to Brazil (particularly the power industry
+         there), while in Mathematics, Nerukh has ongoing collaborations in Ukraine, and
+         Chattopadhyay with India.
+ 4.3 Academic Outputs (UoA11)
+ Our networking strategy has produced a significant impact on international collaborative outputs.
+ Of the 1908 published outputs by UoA11 Category A staff in this REF period, 65% were the result
+ of international collaboration vs a sector average of about 60% for the disciplines (SciVal,
+ December 2020). Of the internationally collaborative papers, 53% were from partners within
+ Europe 26% from Asia Pacific and 11% from North America.
+ 4.4 Research Community
+ In addition to our funded networks, EPS strongly encourages colleagues to contribute to the wider
+ research community. This includes:
+  •      Journal editing: Associate Editor (2019-present) of IEEE Transactions on Software
+         Engineering (Bencomo); Editorial Board Member (2019-present) of the Journal of Software
+         and Systems Modeling (Bencomo); Frontiers Research Topic Editor (2020, Bernardet);
+         Editorial Board Member (2019- present) of the Journal of Software and Systems Modeling
+         (Bencomo); Editor (2019) of a special issue of the International Journal of Computer
+         Integrated Manufacturing, Volume 32, Issue 4-5 (Ekart); Editor in Chief (2008-present) of
+         the International Journal of Mobile Human Computer Interaction (Lumsden); Guest Editor
+         (2016–2017) of Science & Justice (Morrison); Guest Editor (2016–2019) of Speech
+         Communication (Morrison); Editorial Board Member (2012-present) of Scientific Reports
+         (Saad); and Associate Editor (2006-present) of IEEE Intelligent Systems (Zhuge).
+                                                                                               Page 17
+
+
+Unit-level environment template (REF5b)
+  •     Contribution to conference organisation: Member (2020-present) of the IEEE Technical
+        Council on Software Engineering (Bencomo); Program Committee Member (2020) for the
+        International Conference on Autonomous Agents and Multiagent Systems (Bernardet),
+        Program Committee Member for 2020 CHI (Human Factors in Computing Systems)
+        (Bernardet); Programme Committee Member (2013-present) of the KES International
+        Conference on Innovation in Medicine and Healthcare (Buckingham); Programme
+        Committee Co-Chair for ISEC 2021 (Clark); Publication Chair (2018), Chair (2019), Co-
+        Chair (2020) for the 7th, 8th and 9th EvoMUSART, the International Conference on
+        Computational Intelligence in Music, Sound, Art and Design (Ekart); Chair (2017), Co-Chair
+        (2018) of the Digital Entertainment Technologies and Arts track at the Genetic and
+        Evolutionary Computation Conference (Ekart); Programme and Steering Committee
+        Member for the European Conference on Genetic Programming throughout the period
+        (Ekart); Conference Chair (2015) for the IMA (Institute of Mathematics and its Applications)
+        Conference on Mathematics of Robotics (Holderbaum); Committee Member, Mobile HCI
+        2015 2nd Workshop on Designing with Older Adults: Towards a Complete Methodology
+        Workshop (Lumsden); Associate Chair (Papers), Interaction Design & Children 2016
+        Doctoral Consortium Chair (Lumsden); Associate Chair (Papers) NordiCHI'2020
+        (Lumsden); Committee Member (2014-2020) for the European Symposium on Artificial
+        Neural Networks ESANN (Saad); and Co-organiser (2015) of the Royal Society meeting
+        on Communication Networks Beyond the Capacity Crunch (Ellis, Saad and Payne
+        (Southampton)).
+ 4.5 Knowledge Exchange
+ Within EPS we have a variety of platforms to engage with industrial partners, government and
+ Professional Engineering Institutions, which work together to support knowledge exchange and
+ present a coherent pathway for company–university interactions. These include:
+  •     European Regional Development Funding (ERDF) - This allows each Research Institute
+        a platform for regional knowledge exchange with six projects associated with ASTUTE
+        running on the REF census date (AgriTech, Smarterials, UK Centric Supply Chains, Low
+        Carbon SMEs, Think Beyond Data, ETICC). In 2020 alone, 200 enterprises were
+        supported by EPS through these projects. All ERDF-funded business support programmes
+        are independently evaluated upon completion. Analysis from these evaluations show
+        participating companies benefit from faster growth, sustainable job creation, graduates
+        retained in the region and increased GVA; for an example, see the description of Think
+        Beyond Data in Section 3.2.
+  •     Knowledge Transfer Partnerships (KTPs) - We have grown our KTP activity, with strong
+        centralised support and referrals from the ERDF projects and the Industry Clubs. Aston’s
+        portfolio is dominated by EPS projects; there have been 32 KTP projects over the REF
+        period, totalling £6,374,896 in funding, and 19 of these have been from UoA11. In terms
+        of outputs, analysis of KTP reports showed Aston generated on average 1107% return-on-
+        investment (ILES1.4). We host a high profile annual KTP poster event, which allows our
+        beneficiaries and research teams to network and understand the benefits of knowledge
+        exchange and promote wider KE opportunities. In UoA11, recent KTP success includes
+        the 2019 Future Innovators Award for KTP associate Gallo working with Sarissa
+        Biomedical.
+  •     Industry Clubs (ICs) - The award-winning EPS model of ICs, which originated in
+        Computer Science (CS), has since been rolled out across the College and has generated
+        significant benefit to both students and researchers. The objective is to harness cutting-
+        edge industry expertise to generate high-level graduate opportunities, enhance the skills
+        of students and develop new research opportunities. The CS IC brings together students,
+        academic members of staff and around 15 local technology businesses who provide both
+        financial and in-kind support. It has supported >80 placements and graduate roles, guest
+        lectures, company input into student projects, Insight days and curriculum input. Within
+        UoA11, the ICs have provided the basis for 15 KTP projects worth> £3m, joint funding for
+                                                                                             Page 18
+
+
+Unit-level environment template (REF5b)
+          4 PhD studentships (Geospatial Insight, Beazley and Arcadis) and a £590k EPSRC project
+          (EP/T017627/1).
+   •      Collaborative Research Grants – In UoA11 we have also had success with collaborative
+          Innovate UK research projects, including Lumsden’s “Mapmydiabetes”, a collaboration
+          with Mapmyhealth Ltd providing mobile diabetes education and self-management support,
+          and He’s “Big Data Content Analytics with particular reference to Probabilistic Neural Topic
+          Models”, which involved the development of a content analytics toolset with Foldingspace.
+   •      Informing policy Buckingham’s research applying computer science in the health sector
+          has had significant impact (ICS ‘The Galatean Risk and Safety Technology – Grist’); his
+          work on clinical bias due to race has prompted the Race Equality Foundation to
+          recommend improvements for Black people's health care. The international scale of the
+          policy impact of Bastin's development of the Digital Observatory for Protected Areas is
+          highlighted in Section 1.2.
+ 4.6 Wider Contribution to Society
+ The Aston Strategy 2018-23 has our beneficiaries approach at its core (ILES1.1), and EPS has a
+ strong history of outreach and masterclasses to engage the wider community with our research
+ activities, driving our student diversity and our strong links to business and the region; indeed
+ outreach is explicitly written into many of our grant applications. Examples of our higher profile
+ events where a strong link between science and arts boosts accessibility include:
+     •    Lightfest (2015) was a flagship UK initiative for the UNESCO International Year of Light
+          celebrations. Held at the newly opened Library of Birmingham, it was funded as a
+          European Commission Researchers Night activity, attracted 12,500 visitors and involved
+          100 researchers and 33 additional Aston volunteers. A follow-up event Cityfest, focused
+          on Smart Cities was due to run at the Birmingham Museum in 2020 but was delayed due
+          to Covid (re-scheduled for July 2022).
+     •    EPS was invited to participate in a high-profile event in Hong Kong SPARK: The Science
+          and Art of Creativity (2019) which was organised by the British Council. The ASTUTE-
+          focused Aston stand concentrated on Smart Cities and how technology, data and logistics
+          linked together. The event was featured in China Daily Hong Kong.
+     •    EPS has been an active contributor to The Big Bang Fair with our STEM Superhero
+          exhibits and research volunteers translating science and engineering into superpowers.
+          Colleagues have also regularly contributed to activities such as Pint of Science and Cafe
+          Scientifique, e.g., “Artificial Intelligence” (Lewis).
+ Broader Public Engagement - EPS have encouraged (and trained) staff to write for the
+ Conversation (https://theconversation.com/uk) to engage the wider public with STEM. Media
+ training and marketing support has also been offered as part of our public engagement strategy
+ and ASTUTE coverage in the period 2018-2020 included:
+   •      2018 saw the launch of ‘Vegetable Maths Masters’, a smartphone app to encourage
+          children to consume more vegetables by integrating different methods known to increase
+          interest in, and eagerness to try them. It was developed by researchers at Aston (Farrow
+          (Psychology, UoA3) and Lumsden (UoA11)), Loughborough and De Montfort Universities,
+          in association with the British Psychological Society. Coverage of this appeared in the Daily
+          Mail, The Mirror, HeartFM and various global online news channels.
+   •      2018 also saw research from Lewis on how smartphone battery life can be significantly
+          extended by moving processing to the cloud widely covered (BBC World Service (starts at
+          19 minutes), The Daily Mail, The News International (Pakistan), and Xinhua News Agency).
+   •      One project from the Think Beyond Data ERDF project on route-optimisation for transport
+          was picked up by 25 websites including The Engineer (2020). The research suggested
+                                                                                                Page 19
+
+
+Unit-level environment template (REF5b)
+         commercial vehicle fleets operating in large towns and cities could halve their emissions
+         and better meet clean air targets using technology inspired by the behaviour of ants.
+  •      PhD student, Salawu (supervised by Lumsden), had his work on a new app widely shared.
+         The app uses novel artificial intelligence (AI) algorithms to combat trolling and bullying
+         online. Bullstop, is the only anti-cyberbullying app that integrates directly to social media
+         platforms to protect users from bullies and trolls messaging them directly. The App has 4.7
+         stars on Google Play.
+  •      Following on from a Nature Communications paper, Chattopadhyay’s proposal of a new
+         way to use machine learning to define what poverty really means in different contexts was
+         featured in ZME Science (2020).
+ Looking to the future - Aston's College of Engineering and Physical Sciences will build on
+ existing partnerships and forge new links at local, national and international level. By investing in
+ our research infrastructures and the staff and doctoral students who make up our research
+ community, EPS will continue to produce excellent, impactful and sustainable research for the
+ benefit of society throughout the lifespan, and the advancement of science and engineering.
+                                                                                               Page 20

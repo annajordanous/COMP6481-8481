@@ -1,0 +1,986 @@
+Unit-level environment template (REF5b)
+ Institution: University of Birmingham
+ Unit of Assessment: UoA11, Computer Science and Informatics
+ 1 Unit context and structure, research and impact strategy
+ 1.1    Overview
+ The School of Computer Science (the UoA) is one of seven schools in the College of
+ Engineering and Physical Sciences, which in turn is one of five colleges comprising the
+ University. We are submitting 48 Category A members of staff across 5 Themes, described in
+ 1.2.
+ Over the assessment period, the School has strengthened its position as a major research
+ centre and further advanced its international standing. We are among the top 10 UK computer
+ science departments in the worldwide CS Rankings table. Ten staff were awarded prestigious
+ personal Research Fellowships. We contributed to defining University, national and international
+ research agendas through leadership of four interdisciplinary institutes, membership of planning
+ and steering committees, organisation of major international conferences, and over 60 editorial
+ board positions of international journals.
+ There has been major investment in staffing and infrastructure. Of the returned 48 Category A
+ staff, 22 joined during the assessment period, and for all except four this was their first academic
+ appointment. We have attracted young researchers from internationally renowned institutions,
+ including Oxford, Carnegie Mellon, Princeton, and Max Planck Institutes. Investment into
+ infrastructure and facilities (£45M+) facilitated the uptake of our research by industry and
+ beneficiaries, and subsequent impact. We strengthened our engagement with other disciplines,
+ including biosciences, engineering, humanities, law, mathematics and medicine.
+ The synergy between our fundamental and applied research has fuelled collaboration with over
+ 80 companies, from local SMEs to major international corporations. Through patents, licences
+ and collaborative projects, our activities impacted the automotive, robotics, cybersecurity,
+ education, healthcare and manufacturing sectors.
+ 1.2    Structure and outlook
+ An important strategy since the last REF has been consolidation of our research into five
+ research Themes (leads underlined below): Artificial Intelligence, Theoretical Computer
+ Science, Cyber Security, Human-Centred Computing and Computational Life Sciences. All
+ have seen substantial investment in people, geared towards promising early career researchers
+ (ECRs, 2.1.1). This has already borne fruit for interdisciplinary research (1.3.vi), income creation
+ (3.1) and impact (1.4), and bodes well for future sustainability.
+ Cyber Security (“Cyber”)
+ [Chothia, Galindo, Garcia, Ordean, Oswald, Petit, Ritter, Sinha Roy, Ryan]
+ Expertise covers a broad range of areas within computer security, including applied
+ cryptography, automotive security, cloud security, electronic voting, formal verification, secure
+ infrastructure and hardware, IoT and wireless security. Members work closely with national
+ regulatory agencies, government departments and funding bodies such as GCHQ, National
+ Cyber Security Centre (NCSC), Rail Safety & Standards Board, and Department for Digital,
+ Culture, Media & Sport (DCMS); and collaborate with major businesses including Jaguar Land
+ Rover, HP, Huawei, Microsoft, IBM, Google, Deloitte, BT and the National Grid, as well as
+ regional partners (4.1).
+ The international standing of our research was confirmed by the award of NCSC-EPSRC
+ Academic Centre of Excellence in Cyber Security Research in 2017. The University’s Dynamic
+ Investment Fund has injected £5M into our work, supporting delivery of three Impact Case
+ Studies (ICS-1 automotive security, ICS-2 banking app security, ICS-3 malware detection). Five
+                                                                                                Page 1
+
+
+Unit-level environment template (REF5b)
+ new appointments (Galindo, Ordean, Oswald, Petit, Sinha Roy) have strengthened expertise in
+ cryptography, security of embedded systems, hardware security and post-quantum
+ cryptography.
+ 2021-2026 Objectives: The future continuation of high-impact industry-relevant research is
+ safeguarded by Garcia’s Birmingham Fellowship (REF5a-3.4.1) followed by a 5-year EPSRC
+ Fellowship, 5-year Hewlett-Packard funding for Ryan, and a joint post with Fetch.ai for Galindo.
+ Fourteen ongoing projects, funded to a total of £3.5M by EPSRC, GCHQ and industry (HP,
+ Samsung) will contribute to future impact in car, device (TEE, IoT) and railway security (in
+ collaboration with the Birmingham Centre for Railway Research and Education, the largest
+ university-based centre of its kind in Europe), and to legal aspects of privacy.
+ Theoretical Computer Science (“Theory”)
+ [Ahrens, Backens, Chitnis, Das, Escardó, Ghica, Jung, Levy, Parker, Rahli, Reddy]
+ Theory is one of the largest research groups in the world focusing on the logical foundations of
+ computer science. Our international standing allowed us to attract winners of five competitive
+ fellowships: two Birmingham Fellowships (Ahrens, Zeilberger), two Royal Society University
+ Fellowships (Kraus, Vicary), and a UKRI Future Leaders Fellowship (Das). New appointments in
+ type theory (Ahrens, Rahli), theory of quantum computation (Backens), algorithms and
+ complexity (Chitnis), verification (Rahli), and proof theory (Das) have broadened the scope of
+ our research.
+ In the last two years, we secured over £2M from Research Councils, Royal Society, EU and
+ other organisations including Microsoft (Structural Foundation for Heterogeneous Computation)
+ and DARPA (Building Resource Adaptive Software Systems). We collaborate widely and
+ productively with internationally leading researchers and institutions (4.1). Owing to our
+ exceptional strength in type theory we have been playing a leading role in the emerging field of
+ univalent mathematics through landmark publications, prolific contributions to the UniMath library
+ (Ahrens, ranked 2nd for contributions) and running successful research schools (2017, 2019). Via
+ the Midlands Graduate School in the Foundations of Computing Science (4.4) we have
+ contributed to the education of over 400 PhD students and industry professionals who will
+ sustain theoretical research into the future.
+ 2021-2026 Objectives: We will continue to build on the exceptional depth and breadth of our
+ research, and exploit the links that arise naturally between members around logic (Das, Jung,
+ Levy, Parker, Rahli), type theory (Ahrens, Escardó, Ghica, Rahli), automata theory (Das,
+ Parker), complexity (Backens, Chitnis, Das), verification (Parker, Rahli), programming languages
+ (Ghica, Levy, Reddy) and semantics (Escardo, Jung, Levy, Reddy). This will allow us to tackle
+ both foundational and practical problems in distributed computing, autonomous systems,
+ probabilistic and quantum computation, among others.
+ Artificial Intelligence (“AI”)
+ [Barnden, Chang, He, Kaban, Kerber, Lee, Lehre, Leonardis, Li, Mansouri, Minku, Rowe,
+ Sloman, Sridharan, Tiňo, Wang, Yao]
+ This Theme integrates former separate robotics, machine learning, natural computation and
+ computer vision groups with an increased focus on a common set of foundational methods. This
+ has materially contributed to the University’s successful partnership with the Alan Turing Institute
+ (ATI, REF5a-2.1.5) and has brought £5M investment which supports five fellowships in the
+ School (Kaban, Rowe, Tiňo, Sloman, Styles). We appointed seven young colleagues (Chang,
+ Lehre, Li, Mansouri, Minku, Sridharan, Wang), strengthening and interconnecting research in
+ computer vision, robotics and natural computation. Foundations of machine learning (ML) was
+ expanded by the appointment of Lehre (who has recently been awarded a Turing AI
+ Acceleration Fellowship) and the award of a 5-year EPSRC Fellowship to Kaban. Our AI
+ research has significantly benefitted from School, University and EPSRC investment in Tier-2
+ high-performance computing infrastructure (3.4).
+                                                                                              Page 2
+
+
+Unit-level environment template (REF5b)
+ The significance of our foundational research can be demonstrated by the impact it has made on
+ other disciplines: Kaban’s highly cited theoretical work (ML2015, AiStats2014) found applications
+ in genomics, medicine, meteorology, defence, computer vision, traffic optimisation and many
+ others; Tiňo’s work on learning in model space underpinned novel findings on the progression of
+ Alzheimer’s disease, gravitational waves, decision making, pharmokinetic models and
+ metabolomics. Leonardis’ and Sridharan’s research on visual object tracking and grasping has
+ contributed to the development of neurorehabilitation therapies and has been employed in
+ robotic retrieval of nuclear waste. Lehre’s and Yao’s impact on the ML field is evidenced by the
+ number of citations for papers published in the assessment period: 700+ and 9000+
+ respectively. Likewise, Chang’s 2014-2020 work on computer vision and human-robot
+ interaction was cited 3000+ times and Sridharan’s ML-for-robotics research gained 450 citations.
+ Since 2014, our research standing was recognised by appointments to senior university and
+ external posts (1.3.vi) and several prestigious international awards (4.4).
+ 2021-2026 Objectives: The strength of our foundational research and our association with more
+ than 10 University of Birmingham institutes and centres (1.3.vi) provides huge opportunities for
+ future theoretical, interdisciplinary and industrial work. Applied AI research will continue to
+ contribute to security, transport, automotive, software engineering, manufacturing, society, and
+ healthcare, with most work involving ongoing worldwide collaborations with both academic
+ researchers (4.1) and industry, commerce and societal beneficiaries (4.2). The forthcoming Tier-
+ 2 facility for high-performance computing (3.4) will significantly enhance our capacity to tackle
+ real-world challenges.
+ Human-Centred Computing (“HCC”)
+ [Baber, Bahsoon, Beale, Gould, Hendley, Howes, Russell, Sorge, Yeung]
+ Three senior appointments have expanded capabilities in this Theme: Russell works in speech
+ and language science and technology, with over 150 research papers in these areas; Baber (Sir
+ Frederic Bartlett medal winner) specialises in sensor-based human-technology interaction;
+ Yeung (Interdisciplinary Professorial Fellow; 0.2 FTE CS) is contributing expertise in legal and
+ ethical implications of technological development and technology policy-making. Yeung and
+ Howes are pursuing new ideas for human rights-centred design of AI systems (The Oxford
+ Handbook of AI Ethics, 2019), an area we plan to grow in the future.
+ Other agenda-setting and highly cited publications in this Theme include a highly influential
+ publication on computational rationality (Howes, TopiCS 6(2), 140+ citations) and a ‘manifesto’
+ discussing usability, societal impact and implications of cloud computing (Bahsoon, CSUR 51(5),
+ 120+ citations). Bahsoon’s ideas on self-adaptive, self-aware and self-expressive computing
+ systems have attracted much attention, particularly in AI and software engineering communities
+ (1200+ citations for papers published since 2014). Applied research continues to deliver societal
+ impact: Baber and Russell’s interactive system CogWatch for assisting rehabilitation of stroke
+ patients is undergoing an NHS clinical trial; Sorge’s research has improved access to STEM
+ literature for millions of users with visual and print impairments worldwide (ICS-4).
+ 2021-2026 Objectives: As the impact of computing technology and AI on all aspects of society
+ accelerates, we will focus our research on three areas: investigating the societal impact,
+ explainability of, and trust in, AI, jointly with our AI and CLS colleagues in natural computation,
+ robotics, computer vision and healthcare applications; educational, ethical and governance
+ implications of AI, building on our links with the School of Law and the Finnish Center for AI; and
+ SE issues concerned with the design, building and deployment of AI-based computer systems.
+ Computational Life Sciences (“CLS”)
+ [Claridge, Dehghani, Duan, Little, Styles, Terry]
+ This inherently interdisciplinary Theme has a scientific base in AI, mathematics and physics and
+ aims to interpret data, including images, generated from a wide range of fields in the life
+ sciences and medicine, and to develop practical applications benefitting bioscience research
+ and healthcare. High-calibre appointments have broadened our expertise, opened new impact
+ avenues and expanded connections to related disciplines: Little (statistical ML for health); Duan
+                                                                                                 Page 3
+
+
+Unit-level environment template (REF5b)
+ (ML for medical imaging); and Terry (0.2 FTE CS, systems modelling and quantitative
+ biomedicine, a joint appointment with Medicine and Mathematics).
+ We hold leadership positions in four Birmingham interdisciplinary institutes and are active
+ members of two health-focused centres (1.3.vi). We have made noteworthy scientific
+ contributions to the development of the field as evidenced by numerous publications in journals
+ such as the Nature-group research journals, IEEE TMI and Pattern Recognition, and highly cited
+ post-2014 papers (e.g. Dehghani: 3000+, Little: 2300+, Duan: 1000+). Our work is also
+ impacting allied disciplines as shown by publications in diverse physics, chemistry, microscopy,
+ genetics, and major medical journals. Our research is taken up by the healthcare and
+ pharmaceutical industries and healthcare organisations, translating into benefits to society (4.2).
+ We have contributed to the education of future generations of researchers through leadership of
+ two CDTs (PSIBS, Sci-Phy, 1.3.v), the international NIRFAST workshops and the EU ITN
+ BitMap.
+ 2021-2026 Objectives: Our efforts will increasingly focus on the development of ML methods
+ that lead to step changes in pre-clinical and medical imaging and data analysis, particularly in
+ multimodal optical imaging and advanced microscopies. We will draw on novel methodologies
+ from the AI Theme and benefit from having world-class university colleagues as biomedical
+ collaborators. Three top-rank 2021-starters will bring fresh theoretical ideas and expand the
+ existing interdisciplinary research links with Medicine, Biosciences and Engineering: Krull (CS
+ lecturer), a pioneer of AI-based microscopy image denoising; Guggenheim (Royal Society
+ University Research Fellow, joint with Medicine), the developer of a novel photo-acoustic
+ imaging technology; and Wheeler (Interdisciplinary Birmingham Fellow, joint with Health
+ Sciences), a data scientist joining from the Sanger Institute. Further collaborations and funding
+ opportunities will arise through the Health Innovation Campus (REF5a-4.2.2), a university-wide
+ initiative to build a state-of-the-art campus for medical research (opening in 2023).
+ 1.3     Review of REF 2014 objectives and future strategy
+ Computer Science at Birmingham focuses on long-term, fundamental research challenges of
+ relevance to the discipline and society in general. Our vision is to deliver world-class research
+ outputs and outcomes with long-lasting impact by appointing and supporting outstanding
+ young researchers, developing and attracting research leaders, training the next generation
+ of researchers, and engaging with other disciplines, industry and public services, all in a
+ supportive, collaborative and stimulating environment.
+ In the reporting period we have stayed true to this vision, and have comprehensively delivered
+ on all the strategic objectives formulated in REF2014.
+         (i) Delivering world-class research outputs.
+         The School is placed 7th among UK departments in CS Rankings, a table based on a
+         department’s publication record in recognised top conferences. Our work also appears in
+         some of the subject’s highest-ranking journals (4.1) and scores highly on citations,
+         demonstrating the influence of our work. Given that new starters constitute nearly half of
+         our current staff, this demonstrates the effectiveness of our support mechanisms and
+         places us in an excellent position for the future.
+         (ii) Delivering outcomes with long-lasting impact.
+         The four submitted ICSs exemplify the effectiveness of our impact strategy (1.4): the spin-
+         out company Lastline (ICS-3) provides sophisticated anti-malware products protecting
+         over 20 million users worldwide; the Speech-Rule-Engine software (over 1M downloads
+         since 2015) improves access to mathematical and scientific literature for visually impaired
+         users via tools such as Google ChromeVox (ICS-4); our cybersecurity research led to
+         improved car security, impacting on hundreds of millions of vehicles from 33
+         manufacturers worldwide (ICS-1); and our (responsibly disclosed) work on banking apps
+         protects tens of millions of users worldwide from fraud (ICS-2).
+                                                                                               Page 4
+
+
+Unit-level environment template (REF5b)
+       New security protocols are currently undergoing standardisation before their final
+       deployment as a part of the European Rail Traffic Management System (4.2). Software for
+       remote monitoring and detection of Parkinson's is used in clinical trials by leading
+       international companies (Pfizer, UCB Biopharma). Our non-invasive screening technology
+       for skin lesions is deployed in 35 countries worldwide. We contribute to the growth of the
+       research base and future impact through hosting and running graduate schools and
+       leading CDTs which, since 2014, have trained several hundred PhD students and
+       industrial researchers (3.2). We are safeguarding future impact by actively promoting and
+       training for entrepreneurial skills (1.4, 2.1.5).
+       (iii) Appointing and supporting outstanding young researchers.
+       We are proud to have been able to recruit young researchers from the most renowned
+       institutions in the world, including Oxford, Carnegie Mellon, Princeton, Sanger and Max
+       Planck Institutes. These appointments have allowed us to strategically grow research
+       capacity in existing areas as well as establish new directions, such as type theory, post-
+       quantum cryptography, AI for software engineering and photoacoustic imaging. 80% of our
+       appointees are new entrants to lecturing careers. That they feature strongly in our
+       research outputs (2.3) and grant capture (3.1), demonstrates both their high calibre and
+       the effectiveness of our caring ethos and multifaceted support mechanisms (2.1.3).
+       (iv) Developing future research leaders
+       In addition to promoting the University’s Developing Leaders programmes (REF5a-3.4.4),
+       we have established an active support scheme (2.1.2) where grant applications are peer-
+       reviewed by experienced colleagues, and candidates are supported by a series of mock
+       interviews with panels including both discipline-based and external staff. In the reporting
+       period all fellowship applicants who reached the interview stage have been successful
+       (3.1). Promotions to Chair (8) and Reader (6) have been actively encouraged via HoS-led
+       Performance Development Reviews (PDRs) by inviting promising colleagues to apply
+       (2.1.2), and by actions designed to encourage minority applicants (2.1.2, 2.3). We have
+       supported career trajectories of staff who have taken on senior management positions in
+       the University. This includes the appointment of Styles to the role of Director of the
+       Institute for Interdisciplinary Data Science and AI; Baber to Deputy Director of Research
+       for the College, and Rowe to Deputy Pro Vice-Chancellor for Strategic Projects. They all
+       remain full members of the School and are thus able to continue to pursue their individual
+       research agendas.
+       (v) Training the next generation of researchers
+       We are strongly committed to and invested in training the next generation of researchers.
+       In the REF period 218 students (146.1 FTE) graduated under our supervision, including
+       over 40 (14.5 FTE) interdisciplinary students in two CDTs (2.2.2). The effectiveness of our
+       training and supervision (2.2) is evidenced by the increase in PhDs awarded (+135%) and
+       a completion rate consistently above 80%. We have contributed to the education of over
+       400 PhD students via the Midlands Graduate School consortium and trained tens of ECRs
+       through the EU funded Marie Curie ITN and RISE programmes (2.2, 4.4).
+       (vi) Engaging with other disciplines, industry and public services
+       We have made great strides towards our long-standing aim of initiating, encouraging and
+       supporting interdisciplinary work. We have established the Centre for Cyber Security
+       and Privacy, one of the EPSRC-GCHQ Academic Centres of Excellence. We are co-
+       founders of the Centre for Computational Neuroscience and Cognitive Robotics, the
+       Human-Computer Interaction Centre and the USTC-Birmingham Joint Research Centre in
+       Intelligent Computation and Its Applications. Styles is the founding Director of the Institute
+       for Interdisciplinary Data Science and AI.
+       We are also active partners in the cross-institutional Centre of Membrane Proteins and
+       Receptors, Birmingham Centre for Human Brain Health, Institute for Metabolism and
+       Systems Research, System Science for Health Consortium, Centre for Computational
+                                                                                               Page 5
+
+
+Unit-level environment template (REF5b)
+        Biology, Centre for Predictive Modelling in Healthcare and the Birmingham Centre for
+        Railway Research and Education.
+        We have co-led two CDTs, Physical Sciences of Imaging in the Biomedical Sciences
+        (PSIBS) and Physical Sciences for Health (Sci-Phy), which provide interdisciplinary
+        training at the interface between chemistry, physics, life sciences, engineering and CS.
+        Each student is supervised by researchers from three different disciplines, for example:
+        CS, chemistry and biomedicine for mapping the molecular characteristics of cancer via
+        analysis of hyperspectral mass-spectrometry data; dentistry, CS and engineering for high-
+        speed imaging to improve dental ultrasonic plaque removal.
+        Examples of individual collaborations and joint industrial, business, and public service
+        projects are given in 4.1and 4.2.
+        We have laid strong foundations for future sustainability. In addition to appointing young
+        staff with strong interdisciplinary portfolios (Sinha Roy, Chen, Duan, Little), we helped
+        establish two Interdisciplinary Professorial Fellow positions, in Law, Ethics and Informatics,
+        and in Systems Modelling & Quantitative Biomedicine. Two interdisciplinary Birmingham
+        Fellows are joining CLS. Furthermore, we have negotiated part-time contracts for five
+        colleagues who have transitioned into an industry-sponsored research laboratory, thus
+        fostering and facilitating the interchange of ideas between academia and industry, and
+        opening new avenues for impact (2.1.5).
+        (vii) Creating an inclusive, supportive, collaborative and stimulating environment
+        We have maintained a culture of openness and inclusion demonstrated by open
+        membership of School committees, prominence of EDI considerations in School business
+        (2.3), no formal barriers between research Themes, equitable access to funding,
+        resources and infrastructure, and peer sharing of research practices. Well-equipped
+        research laboratories (3.4), cross-disciplinary links across campus, wide academic and
+        external networks (4.1), collaborations and organisational structures supporting research
+        and impact (3.2) and a supportive policy on flexible working (2.3), create an attractive
+        working environment for all staff. Proactive career-development policies, training
+        opportunities for professional and personal development, and measures for rewarding
+        achievements, have made staff feel supported and the School appealing as a place of
+        employment (2.1).
+ Overall, in the reporting period the above strategies have established the School as both a
+ destination for talent of the very highest calibre and a diversity of backgrounds, and a
+ collaborator of choice for partners from other disciplines and outside academia, thus contributing
+ to the growth, impact and sustainability of the discipline at a national and international level.
+ Having proved effective, these principles will continue to guide our strategy into the future.
+ 1.4    Enabling impact
+ Since 2014, the School has seen significant growth in research with reach and impact beyond
+ academia. This has resulted from the implementation of a four-point strategy (see below) which
+ will continue into the next assessment period. Strategic issues are addressed here, with further
+ details presented in later sections.
+        Raising awareness. Impact is formally included on the agenda in PDRs for all staff,
+        including discussion of potential opportunities and recommendations for relevant training
+        (2.1.5). These items are also covered in induction meetings for new staff conducted by the
+        Head of Staff Development. University-wide developments aimed at supporting impact are
+        channelled to the School by the Deputy PVC for Research Impact (REF5a-2.1.3).
+        Identifying opportunities. To proactively bring forthcoming opportunities to the attention
+        of relevant staff we established a Research Facilitator post (3.3), complementing the
+        University Research Development service (REF5a-4.1). To identify openings for
+        exploitation with partners beyond academia we used opportunities presented by annual
+        Research Days, annual Industrial Advisory Board meetings, career fairs, direct links
+                                                                                                 Page 6
+
+
+Unit-level environment template (REF5b)
+        through colleagues with joint industrial appointments or who took senior positions outside
+        academia, sponsors of PhD projects, etc. (2.1.5). Our investment in interdisciplinary
+        appointments has opened up new avenues for impact. The growth of external
+        engagements was also fuelled by our active search for partners to exploit our basic
+        research and by addressing the needs that we ourselves have identified.
+        Building capacity. In recognition of the long timescales often involved in getting research
+        “ready” for external uptake, the School has invested in lead-in measures such as
+        specialised laboratory facilities, study leaves, small-scale grants for blue-skies
+        investigations and travel grants for industrial visits (3).
+        Supporting routes to commercialisation and/or dissemination. University of
+        Birmingham Enterprise Ltd (UoBEL, REF5a-4.1) has been an important two-way route to
+        commercialisation and dissemination. A significant proportion of staff have benefitted from
+        enterprise training and professional assistance leading to a significant volume of patents,
+        licenses, records of invention and spin-out companies (2.1.5). UoBEL is also acting as a
+        broker for businesses coming to the University to access the intellectual property, know-
+        how and expertise available in the School, including support for PIs seeking to engage
+        with external partners. Joint appointments and other means identified above provide direct
+        access to industry and ease translation. We are making use of the institutional EPSRC
+        Impact Acceleration Account and business partnering provided by Innovate UK.
+ The above strategies have materially contributed to both the submitted ICSs and the abundance
+ of projects in our current impact pipeline. As an illustration: the car security (ICS-1) and secure
+ banking (ICS-2) work benefitted from investment in cybersecurity staff and laboratory equipment
+ (3.4); success of anti-malware products (ICS-3) has origins in the co-founding of a company by a
+ staff member; worldwide availability of software enabling on-line access to STEM materials for
+ the visually impaired (ICS-4) began with a study leave at Google.
+ Many of the collaborations (detailed in 4.2) have either already made significant impact in
+ important business and societal areas (e.g. secure designs for IoT, contactless card security,
+ mobile health monitoring, screening for diseases) or show strong early signs of success (e.g.
+ trustworthy voting, supply chain security, rail security protocols, engine optimisation, vehicle
+ route optimisation, adaptive software systems and architectures, cloud computing, imaging
+ techniques for drug discovery, health monitoring and diagnosis).
+ 1.5    Progress towards an open research environment
+ We are committed to compliance with the Concordat on Open Research Data and Plan-S,
+ supported by the University’s Open Research Group (REF5a-2.2). Data sets, postprints of all
+ publications and theses (unless sensitive) are submitted to the institutional repository from
+ where they become freely accessible via the University’s Research Portal (REF5a-2.2, REF5a-
+ 4.5). Like many computer science establishments, we make our software available via open
+ repositories. Examples include the probabilistic model checker PRISM (Parker et al., ~80,000
+ downloads to date), Speech Rule Engine (ICS-4, over one million downloads in 5 years),
+ software for optical molecular imaging NIRFAST (Dehghani co-lead and developer) and the
+ UniMath library of Coq code (started at Princeton with Ahrens as a key contributor). As a matter
+ of principle, the Cyber Security group releases tools and proof-of-concept code as open source.
+ Our commitment to open publishing is via editorial roles at gold open access journals including
+ Logical Methods in Computer Science, Compositionality, Mathematical Foundations of
+ Computing, Biomedical Optics Express, Medical Image Analysis, Frontiers in Psychology, Digital
+ Biomarkers and others. Where it has not been possible to publish in such outlets, we draw upon
+ the institutional open access fund (REF5a-2.2), which complements support provided by UKRI
+ and the Wellcome Trust.
+ 1.6    Research integrity
+ We adhere to the University’s Code of Practice for Research Ethics (REF5a-2.2), and provide bi-
+ annual training on research integrity, GDPR and ethical self-assessment in line with the UK
+                                                                                                 Page 7
+
+
+Unit-level environment template (REF5b)
+ National Concordat to Support Research Integrity. Training is part of the induction process for
+ new staff (2.1.3) and the compulsory Research Methods module for PhD students (2.2.4). The
+ Research Ethics Officer provides internal oversight and best practice advice. No infringements
+ have occurred during the reporting period. As an illustration of the effectiveness of our
+ processes see our work in applied security (ICS-1 and 2) where the protocol for responsible
+ disclosure was followed and GCHQ/NCSC and trade bodies were informed and engaged
+ throughout.
+                                                                                             Page 8
+
+
+Unit-level environment template (REF5b)
+ 2 People
+ 2.1    Staffing strategy and staff development
+ The School actively supports the career and professional development of its members at all
+ stages in adherence to the three principles of the Concordat to Support the Career Development
+ of Researchers: environment and culture (2.1.2), employment (2.1.1) and professional and
+ career development (2.1.2-2.1.5).
+ 2.1.1    Recruitment
+ Consistent with our decision to consolidate research around five Themes, we pursued
+ recruitment strategies aimed at ensuring critical mass in each, broadening the scope, enhancing
+ diversity, and building sustainability by bringing in new talent. As a result, we have expanded
+ and strengthened all the Themes: Cyber by appointing 5 academics, Theory 5, AI 6, HCC 3, and
+ CLS 3, with 80% of new recruits being first-time lecturers. Like existing Category A staff, all new
+ recruits are on open contracts (which include a probationary period, 2.1.3). We were able to
+ address succession in leadership roles internally, via promotion rather than recruitment.
+ Following our inclusiveness ethos and to ensure fair representation, all School academics are
+ engaged in the faculty search process, encouraged to suggest candidates and invited to
+ evaluate applications. Shortlisting is conducted by a group of experts in relevant areas, bearing
+ in mind the protected characteristics of candidates. Unconscious bias and diversity training is
+ provided to all staff. To enhance gender diversity, all non-male applicants are considered by the
+ shortlisting group, irrespective of whether they were longlisted. Interview panels, chaired by a
+ College representative, include at least two non-male staff members. The recruitment process is
+ overseen and monitored by the School EDI team (2.3). As a result of these actions we recruited
+ 3 female, 1 non-binary and 9 BAME academic staff members during the assessment period,
+ significantly increasing diversity among our staff.
+ 2.1.2    Support and development
+ The School supports its staff throughout all career stages, embracing a culture of collegiality,
+ intellectual stimulation and high achievement, and respecting the principles of the Concordat.
+ There are no formal barriers between the research Themes. Attendance and membership of
+ most School committees is open to all staff and PhD students. For example, our Research
+ Committee has representatives from all Themes and all levels of seniority: 3 professors, 3 senior
+ lecturers, 2 lecturers (one ECR), 2 RFs and 1 RS, of which 3 are female and 2 from ethnic
+ minority backgrounds. The most recent meeting had 7 guest participants, 3 of them lecturers
+ appointed in 2019.
+ The Head of School carries out an annual PDR for all academic staff which focuses equally on
+ personal development and the School’s strategic objectives. This includes advancing career
+ aspirations, identifying funding opportunities, enhancing leadership skills and planning pathways
+ to promotion. Material outcomes of these reviews are that: 29% of staff were promoted in the
+ assessment period, including 8 to Chairs; the School has a portfolio of 9 potential ICSs (from
+ which four were chosen for submission); and engagement with industry has significantly
+ widened (2.1.5, 4.2).
+ Staff are encouraged to take advantage of the University’s Developing Leaders programmes
+ (REF5a-3.4.4) aimed at more senior academic staff, including Senior Leadership, Research
+ Leadership, Aditi Leadership (for BAME academics) and Aurora Leadership (for female ECRs).
+ The effectiveness of these programmes can be seen in a number of research leadership roles
+ entrusted to staff from our School (1.3.iv).
+ The Workplace Wellbeing team (REF5a-3.4.5) provides an Employee Advice and Listening
+ Service to support staff facing work or personal issues, an Employee Disability Service and an
+ Occupational Health Service. In recognition of the commitment and work towards supporting
+ research staff, the University’s European HR Excellence in Research Award was renewed in
+ 2016 and 2020.
+                                                                                                Page 9
+
+
+Unit-level environment template (REF5b)
+ 2.1.3   Supporting and integrating ECR staff
+ The School’s reorganisation around five Themes has facilitated the welcome and integration of
+ new colleagues through mentoring, joint PhD supervision, sharing established links with
+ industry, and encouragement to give and host weekly seminars and bring in visitors and
+ collaborators.
+ New academic staff follow a personal probationary development plan (PPDP), with 50% reduced
+ teaching and administrative loads, and are allocated a mentor to develop their initial academic
+ objectives. Oversight and support are provided by the Head of Staff Development, a senior
+ academic (Claridge). New starters also benefit from a pump-priming fund, a PhD studentship
+ and prioritised access to Research Committee support funds (3.3).
+ An extensive induction programme is provided at School, College and University levels, led
+ locally by the Head of Staff Development. At School level it comprises workshops on lecture
+ preparation, maintaining research momentum and protecting work-home balance. To develop
+ grant writing skills, Research Committee oversees an internal review process of draft
+ applications. A tangible outcome of this has been that 43% of the total 2019/20 School grant
+ capture came from projects led by new starters, although they comprise just 27% of our
+ Category A staff. A College-funded scheme provides personalised coaching by an external
+ educational expert, involving practical advice, observations, group discussions and one-to-one
+ feedback. This is well received not only as professional training but also as a means of
+ developing confidence and bonding. The University’s central induction programme is delivered
+ simultaneously to academic and professional services staff to promote future co-operation.
+ Mandatory online training covers EDI, Information Security Awareness, GDPR, and Health and
+ Safety.
+ The College offers the Postdoctoral and Early-Career Researcher Career Development and
+ Training (PERCAT) scheme to support the PDR/ECR community, covering research, teaching,
+ entrepreneurship, management, research funding, fellowships, interviewing and EDI. PERCAT
+ also gives voice to ECRs when setting College strategy. The School fully respects the
+ entitlement given by the Concordat for all PDRs and ECRs to spend 2 hours per week
+ undertaking career enhancement activities.
+ 2.1.4   Sabbaticals
+ All academic staff are encouraged to apply for sabbatical leave, and between 3 and 8 do so in
+ any one year. Subject to a compelling research or impact plan, this allows them to take a term’s
+ leave after 3 years, or a full year’s leave after 6 years of service. Applications are reviewed and
+ refined by Research Committee and the Head of School, and then forwarded to the College for
+ final approval. During the assessment period, 22 staff were granted leave. Sorge’s work
+ culminating in ICS-4 is the direct result of a one-year sabbatical spent at Google Research Labs.
+ 2.1.5   Interchange with industry, enabling and rewarding impact
+ Our strategy towards stimulating and facilitating impact is described in 1.4. Here we describe
+ concrete measures and outcomes. Further outcomes can be found in 4.2.
+ Since 2016, we have combined our annual Research Day with the meeting of the Industrial
+ Advisory Board, leading to new collaborations and PhD sponsorships. The latest 2019 Research
+ Day was dedicated to our Cyber Security work and attracted over 40 representatives from
+ commercial and governmental organisations, including Facebook, Lloyds Bank, PwC, Huawei,
+ KPMG, Honda, BAE Systems, Capgemini, HP, and the National Cyber Security Centre. This
+ successful format will be repeated annually, the next topic covering programming languages and
+ verification research.
+ In the reporting period, about a third of our academic and PGR staff attended University of
+ Birmingham Enterprise (UoBEL) training sessions, including Medici Enterprise Skills seminars
+ on topics including consultancy, collaboration with business, licensing a technology and
+ spinning-out a company. Via UoBEL, 13 staff carried out consultancy work; 3 spin-out
+ companies have been established (CloudTomo, 3D Engine, Mokkapot) and more are in the
+ pipeline; 6 patent applications have been filed and granted, and a further 5 applied for; 30
+                                                                                               Page 10
+
+
+Unit-level environment template (REF5b)
+ records of invention have been registered, 4 new licenses signed, and 6 IP agreements granted.
+ Sectors include automotive, autonomous robotics, cybersecurity, education, healthcare and
+ manufacturing.
+ The increased openness to industry also generated new career opportunities for staff. For
+ example, Ryan is now funded 80% by HP, Leonardis and Ghica are seconded 80% to Huawei
+ Research Labs, and Galindo 80% to Fetch.ai. Sorge has taken his research (ICS-4) as the basis
+ for the spin-out company Progressive Accessibility Solutions. Links back to the School have
+ been retained to facilitate knowledge transfer and provide career opportunities for students and
+ PGRs.
+ Staff whose research substantially contributed to industrial innovation, economic or societal
+ impact were promoted to chairs (Dehghani, Garcia, Ghica, Sorge).
+ 2.2     Support and training of research students
+ Our PhD student population has undergone substantial growth in both numbers and diversity.
+ The total number of PhDs awarded increased by 135%, from 57 in the previous REF period to
+ 134 in 2014-2019 (Covid-19 related extensions affected the 2019/20 numbers). We attract
+ students from diverse ethnic backgrounds; the non-white proportion of PGRs stands at 63%,
+ having grown by 71% from 38 to 65. 29.4% of our PhD students identify as female, slightly
+ above the HESA sector benchmark of 26.9% and, typically, 16% of joiners are mature students.
+ 2.2.1    Recruitment
+ The School encourages its members (especially ECRs) to advertise the availability of PhD
+ scholarships to their research communities. Applications are received and processed by Central
+ Admissions who at this stage do not collect information about protected characteristics thus
+ ensuring unbiased handling. Promising applicants are interviewed by the prospective supervisor
+ and one further academic. A team led by the Director of Postgraduate Admissions then makes
+ decisions about offers of funding, based on academic promise and the balance across
+ supervisors, and mindful of EDI issues.
+ 2.2.2    Studentships
+ The School benefits from a wide range of sources for PhD funding. In the reporting period the
+ EPSRC DTA funded over 20 students. More than 40 (co-supervised) students were supported
+ by the EPSRC CDTs PSIBS and Sci-Phy, a quarter of whom benefitted from collaboration and
+ in-kind assistance from external partners including NPL, QinetiQ, AstraZeneca, Thermo Fisher
+ Scientific, Renishaw, and UCB. GCHQ funded 8 Cyber Security PhDs. 14 PhDs were supported
+ by the Birmingham-SUSTech split-site programme. Six students were competitively co-funded
+ by Birmingham-Melbourne Priestley Scholarships (REF5a-2.1.8). Industrially funded
+ studentships were provided by, among others, Honda Europe and Jaguar Land Rover.
+ Institutional funds were used creatively to augment externally funded projects and to provide
+ ECRs with their first supervision experience; more than 50 PGRs were supported in this way.
+ 2.2.3    Monitoring and support
+ Research students work with one or two supervisors with whom they meet on a weekly basis. A
+ Thesis Group adds support of two further academics; it meets twice yearly to consider a report
+ by the student, to engage in detailed technical discussions and to follow through a checklist of
+ skills needs and general well-being. If any potential problem is identified, remedial action is
+ recommended, including training or outside expert help. Thesis Group reports are subsequently
+ reviewed and actioned by the Research Student Monitoring Group (RSMG). A key step of the
+ monitoring process is the Thesis Proposal, a substantial report due 12 months after admission.
+ Its acceptance by RSMG almost always indicates successful completion of the PhD programme.
+ A completion rate well above 80% since 2007 attests to the effectiveness of our processes.
+ 2.2.4    Skills development and career preparation
+ PhD students are provided with a range of opportunities to help them prepare for future careers.
+ During their first year, they complete a formal Research Skills module run by the School. Thesis
+ Groups refer students to training courses offered by the University Graduate School and the
+                                                                                               Page 11
+
+
+Unit-level environment template (REF5b)
+ Birmingham Academic Skills Gateway, to meet development needs in line with Vitae’s
+ Researcher Development Framework (REF5a-3.2). Teaching training is offered to all PGRs who
+ work as Teaching Assistants. Subject-specific training is provided by summer schools to which
+ several members of the School contribute (4.4), and every PhD student is guaranteed
+ participation.
+ In line with the expectations of our discipline, PhD students are encouraged to disseminate their
+ results at international conferences and to further their careers by networking at such events.
+ The largest part of our research support fund is used to enable conference visits.
+ Conversely, our research students contribute to the life of the School by active membership of
+ committees, playing a particularly important role in Research and Liaison committees. In our
+ participative culture they feel free to take their own initiatives, contributing to the vibrancy of the
+ School’s research life. One example is CSoC Research Training, a PhD-led series of sessions
+ running since 2015; in addition to science subjects, topics include research ethics, thesis
+ evaluation, publication reviews and handling rejections. Cake Talks, informal meetings
+ combining research networking and socialising, have continued since 2002 as have Lab
+ Lunches. To celebrate success we have introduced twice-yearly showcasing events where
+ recently graduated research students present their work.
+ 2.3    Supporting equality and diversity
+ The University is a charter member of Athena SWAN and Race Equality Charter, holding Bronze
+ Awards in both. It is also one of the awardees of the EPSRC Inclusion Matters scheme led by a
+ School professor (Rowe). An EDI Lead (Baber) provides local leadership, supported by
+ University and College EDI officers. Examples of initiatives, both staff- and student-originated,
+ include posters celebrating LGBT computer scientists, naming School rooms after female
+ computing pioneers and successfully promoting participation in the BCS Women network, Ada
+ Lovelace Days, Black History Month and similar events. EDI is a standing item on the agenda of
+ all the main School committees.
+ Over 25% of our academic staff and 63% of PGRs are drawn from ethnic minorities. 29.4% of
+ our PhD students identify as female, but gender balance of academic staff remains a challenge.
+ Under our new recruitment regime (2.1.1) the proportion of non-male staff in the REF period
+ grew from a low of 2 to 5, an increase from 4% to 10%. Two female staff are professors; one
+ was promoted in 2018 as a direct result of targeted support by the School Staffing Committee.
+ We actively participate in actions aimed at levelling opportunities for female staff. The School
+ instigated female-specific grant writing workshops run by Professor Averil MacDonald. Claridge
+ is a member of the Female Professors Network which provides input on gender-related issues to
+ University senior management. She contributes to the University-wide seminar series Inspiring
+ Women. Backens was a speaker in London Hopper Colloquium 2020.
+ The School implements the University’s supportive policy on flexible working (REF5a-3.4.5). All
+ requests for parenting or caring leave (from staff of any gender) were granted. Seminars and
+ School events are timed to accommodate all members with parental duties.
+ Outputs for this REF submission were selected according to quality, employment status
+ (preferring category-A), and career stage. As a result, 34% of our submissions are by new
+ starters although they constitute only 29% of the author pool. The team overseeing this process
+ underwent EDI training and followed the University’s REF Code of Practice to ensure that the
+ submission is truly representative of diversity of the School. All staff were invited to contribute to
+ the writing of this environment template and the 2020 Research Day was devoted to a
+ discussion of our future research priorities.
+                                                                                                  Page 12
+
+
+Unit-level environment template (REF5b)
+ 3 Income, infrastructure and facilities
+ 3.1     Research funding and income strategy
+ Our strategy for 2014-2021 was to:
+         make strategic appointments to diversify and access new funding streams (1.2, new CLS
+          Theme);
+         recruit talented staff with strong potential to attract research income (2.1.1);
+         strengthen operational infrastructure to support staff in grant capture, from preparation to
+          submission and post-award (3.3);
+         provide staff with the time to prepare competitive applications, using supportive PDRs
+          (2.1.2) and responsive workload management.
+ The successful implementation of our income strategy has led to an overall 84% increase, from
+ £11.4M in REF2014 to £20.9M in this assessment period, with growth in all major funding
+ streams. New starters brought in 43% of 2019/20 awards, strongly contributing to the overall
+ 25% increase since 2018/19, and marking firm upward trajectory in the context of a large
+ generational change in our staffing profile.
+                  Income in £M
+               10
+                8
+                6
+                4
+                2
+                0
+                    Research Councils EU gov and charity UK gov and charity Other sources
+                                              REF 2014    REF 2021
+ Our strategy has delivered notable successes for individual researchers (1.2) as well as cross-
+ institutional consortia (4.1); has brought in large awards (e.g. Leonardis’ £840K EPSRC
+ computer vision grant) and smaller grants with significant impact (e.g. for the Cyber Security
+ Lab, 3.4); and has enabled both discipline-based (e.g. Ghica’s £430K EPSRC grant
+ Diagrammatic Languages) and cross-disciplinary work (3.2). Proactive advertising and
+ encouraging applications for prestigious fellowships resulted in a 100% success rate from
+ selection to award in the last three years (3 EPSRC, 2 UKRI, 5 ATI). These achievements
+ continue beyond the reporting period, with more than £5m in large grants captured since August
+ 2020.
+ Objectives for 2021-2026 are to:
+         expand our cross-disciplinary funding successes to accelerate translation of CLS and AI
+          work, including via Birmingham Health Innovation Campus (REF5a-4.2.2);
+         capitalise on the University’s affiliations with the Rosalind Franklin and Turing Institutes
+          (REF5a-2.1.5);
+         build on our staff secondments (2.1.5) to grow funding from industry and governmental
+          agencies;
+         continue to support all staff to sustain success in winning high-profile fellowships and
+          grants;
+         nurture and accelerate the careers of the next generation of researchers.
+                                                                                                 Page 13
+
+
+Unit-level environment template (REF5b)
+ 3.2    Organisational infrastructure supporting research and impact
+ Strategic reorganisation into five research Themes has substantially increased critical mass in
+ each Theme, improved support for research staff and enabled tighter focus on potentially
+ impactful areas. Recruitment targeted on ECRs brought the injection of new ideas to the
+ Themes, thus safeguarding sustainability and vitality. The laboratory-based Themes benefitted
+ from substantial investment in infrastructure and facilities (3.4). These, in turn, contributed to
+ increased engagement with industry and beneficiaries, and subsequent impact (4, ICSs).
+ Beyond the School, we play an active and leading role in many interdisciplinary initiatives across
+ campus (REF5a-4.2.3). The Centre of Excellence in Cyber Security Research was created with
+ £5M University investment, widening the scope of our GCHQ-accredited activity. Our
+ membership of the Alan Turing Institute, supported by a further £5M of institutional funds,
+ benefits the School’s AI, HCC, and CLS Themes with fellowships and postdoctoral funding. The
+ COMPARE consortium, aimed at developing and exploiting novel computational methods for
+ visualising single membrane proteins, involves collaboration between Medicine, Dental
+ Sciences, Computer Science and Chemistry in Nottingham and Birmingham, and was
+ established through a £10M University grant. The University also invested £15M into the Centre
+ for Human Brain Health, which works closely with the CLS Theme using novel computational
+ imaging techniques to investigate neural function, and £10M into a joint initiative between the
+ Institute for Metabolism and Systems Research, the School of Mathematics, and Computer
+ Science, led by a new appointee (Terry).
+ 3.3    Operational and scholarly infrastructure
+ We are housed in a modern, dedicated, and fully accessible building with offices and
+ laboratories accommodating staff, PDRAs and research students. Open spaces, meeting rooms
+ and breakout spaces provide the environment for small-group meetings and seminars. The 4-
+ storey atrium is used for workshops, conference breaks and School social gatherings. Located
+ directly opposite are the University’s Murray Centre and the Colab, providing state-of-the-art
+ laboratories.
+ A dedicated team of three internally managed senior computer officers provides support for both
+ software and hardware, as well as continually developing and enhancing the computer
+ infrastructure to meet our specialised research needs.
+ Proactive dissemination of funding opportunities and pre-grant support is provided by the
+ Research Facilitator, a dedicated member of administrative staff; since her appointment, we
+ have seen a dramatic upturn in our external funding activities and an increase in success rates.
+ She works as part of a team of 10 research support staff at College level, itself aligned with
+ institutional-level services (REF5a-4.1). Post-award support is provided by three officers working
+ across the School, assisting with open-access processes and special events.
+ Research Committee has a dedicated budget to support research at all levels (travel, minor
+ equipment, research visitors, workshop and summer school organisation). It also administers the
+ Ramsay Fund, aimed specifically at blue-skies research and ECRs. Research Committee
+ members are drawn from across all research Themes and are fully representative of the entire
+ School population. Meetings are open to all staff and minutes are held in a School-accessible
+ online repository.
+ 3.4    Infrastructure and facilities
+ The School boasts three dedicated research laboratories, supported by grants from a wide
+ range of funders, and enabling staff from three groups and over 60 PhD students and PDRs to
+ engage in interdisciplinary impactful research.
+ The Cyber Security Lab was launched in 2014 and has since been awarded over 10 grants
+ (nearly £1M in total) from GCHQ, enabling the provision of sophisticated equipment and
+ capabilities to analyse embedded and IoT devices. This included in-kind donation of a Land
+ Rover Evoque to conduct automotive penetration testing on a real vehicle. The lab is housed in
+ a large purpose-built facility supporting 18 PhD students and PDRAs. These investments
+                                                                                                Page 14
+
+
+Unit-level environment template (REF5b)
+ resulted in impactful research into car security systems (ICS-1) and secure banking (ICS-2). The
+ lab carried out numerous impactful projects: the Plundervolt proof-of-concept code enabled Intel
+ to verify a vulnerability in their CPUs and resulted in them rolling out a microcode patch to all of
+ their CPUs worldwide; the Tale of Two Worlds work revealed 35 vulnerabilities in 8 major open-
+ source shielding frameworks for Intel SGX, RISC-V and others, leading to numerous security
+ patches in the open-source projects, including the Intel SGX-SDK, Microsoft Open Enclave,
+ Google Asylo, and the Rust compiler.
+ The Digital Dark Room provides space and facilities for developing novel imaging systems and
+ for experiments requiring controlled lighting conditions for medical imaging research. At 20m 2, it
+ houses state-of-the-art equipment including several large optical tables, 3D printer, 3D camera,
+ integrating sphere, microscopes, calibrated light sources, spectrometers, and components for
+ constructing bespoke optical imaging systems. The lab is used by academic staff and over 20
+ PhD students and PDRAs. It has secured over £3.5M in grants from EPSRC, NC3RS, Wellcome
+ Trust, NIH and EU, and received over £500k of smaller grants and in-kind contributions
+ (equipment, data, expertise) from charities, NHS, and industry, including GSK and AstraZeneca.
+ Systems currently under development include molecular imaging for preclinical research, optical
+ imaging of the human hand for arthritis diagnosis, non-contact optical system for monitoring of
+ wound healing, multispectral ophthalmic imaging for early detection of age-related macular
+ degeneration, and photoacoustic imaging. These projects, some already undergoing clinical
+ evaluation, are prominent examples of the School’s impact pipeline (1.4).
+ The Intelligent Robotics lab is housed in a 116m2 purpose-built space providing state-of-the-
+ art facilities for research in robotics and computer vision. It has a large fleet of mobile and
+ humanoid robot platforms equipped with actuators and sensors for multi-modal input. A
+ sophisticated multi-camera motion capture system is complemented by devices with VR/AR
+ capabilities. Facilities for manipulation research include a custom-built bi-manual half-humanoid
+ torso with a stereo head, 7 DoF arms, and swappable grippers. It serves staff, 25 PDRAs and
+ PhD students, and has been supported by more than £1M in grants from EPSRC and EU, and
+ by contributions in kind from major industrial sponsors including Samsung.
+ Within the assessment period, AI research has benefitted from a large boost to the provision of
+ institutional computing facilities. BEARAI provides high-performance computing on the largest
+ IBM PowerAI cluster in the UK (11 nodes each with 144 cores, 1TB RAM, 4 Nvidia V100 GPUs).
+ Locally, the School has invested £170K in a new ML laboratory hosting 70 workstations with
+ high-performance GPUs and large data storage capacity, and a dedicated GPU cluster for large
+ workloads. Most recently, EPSRC has awarded a grant of £4M (Styles, applied for in the
+ reporting period) to build a national Tier-2 facility for high-performance computing, which, with its
+ 2.4 petaflop capability, will be firmly in the upper half of the top 500 list of supercomputers in the
+ world.
+                                                                                                 Page 15
+
+
+Unit-level environment template (REF5b)
+ 4 Collaboration and contribution to the research base, economy and society
+ The arrangements put in place since 2014 to support the expansion and sustainability of our
+ research portfolio have brought significant increases in our external research engagement and
+ impact. In the reporting period, we have collaborated with over 125 organisations from 30+
+ countries worldwide, working with universities, research institutes, governmental bodies, public
+ sector institutions, and industry. Our portfolio is aligned with EPSRC ‘Capability’ and ‘Challenge’
+ themes, with major contributions to Cyber-Security, ICT (especially theoretical underpinnings of
+ computer science and AI), Mathematical Sciences and Healthcare Technologies. We worked
+ jointly with external partners across other themes including Energy (AI), Engineering (AI, CLS,
+ HCC), Global Uncertainties (Theory, AI, HCC), Digital Economy (HCC), Physical Sciences (AI,
+ CLS) and Environmental Change (AI), further evidencing the breadth of our interdisciplinarity.
+ 4.1     Academic networks and collaborations
+ This section highlights academic research collaborations, with the non-academic sector
+ addressed in 4.2.
+ Cyber Security is a founding member of the NCSC Research Institute on Secure Hardware and
+ Embedded Systems, led by O'Neill (Belfast). We have three active projects within that institute,
+ spanning both ‘offensive’ and ‘constructive’ aspects of cybersecurity. We collaborate with
+ leading academics in Cambridge (Watson, Moore), Bristol, and NUS and NTU (Singapore). Our
+ work with Gruss (Graz) and van Bulck, Piessens, Wouters, Gierlichs and Preneel (Leuven) has
+ led to four high-impact papers that have received wide media coverage. The Du-Vote voting
+ protocol developed by Ryan in collaboration with Cornell and HP Laboratories is being
+ considered by Smartmatic (US) for deployment in future elections. Work with Boureanu (Surrey)
+ led to security improvements in Apple Pay and MasterCard.
+ Theory collaborates widely with leading researchers and institutions across the world. We
+ hosted over 20 visiting scholars from 11 countries, including Turing Award winner Dana Scott
+ (Berkeley), and received research presentations from over 100 external speakers. We have
+ received reciprocal invitations to dedicated ‘research semesters’ at the universities of Princeton,
+ Oslo, Paris, Bonn, Cambridge and others. We co-authored influential papers with Altenkirch,
+ Constable, Cormode, Feldmann, Jacobs, Shulman and Voevodsky, among others. Jung, with
+ colleagues in France, Singapore and China, published in 2018 the solution to the 20-year old
+ Ho-Zhao problem. A 2014 paper by Parker and colleagues from Oxford, Brno and IST Austria is
+ the second-highest cited ATVA paper since 2015. His work with Kwiatkowska (Oxford) won the
+ 2016 HVC award for the most influential work in the last five years in formal verification. The
+ PRINCESS project in collaboration with DARPA, Harvard and USC generated papers in top
+ venues such as ESORICS and FM. The EU project Computing with Infinite Data enabled staff
+ exchanges with 20 partner organisations outside Europe (Korea, Russia, Japan, New Zealand,
+ US, Singapore).
+ AI has received major funding from the EU through numerous projects, enabling collaboration
+ with partners in over 20 European academic institutions, as well as industry (4.2). We have
+ considerable academic collaborations in UK (Oxford, Cambridge, Imperial, UCL, Manchester),
+ USA (CMU, Princeton, Oxford, Stanford, Yale), China, Singapore, Australia and South Korea.
+ Within the USA, one prominent collaborator is Tim Menzies, former research chair at NASA.
+ These partnerships have resulted in joint publications in top AI journals (Artificial Intelligence,
+ Journal of Machine Learning Research) and conferences (AAAI, IJCAI, ICML), open software
+ (RT-GENE, one of the most downloaded eye-gaze packages) and co-leading impactful events at
+ major conferences (annual international workshop on eye-gaze at ICCV and ECCV). We have
+ filed patents in EU countries (e.g. on control of drill mining machines in Sweden). Robotics
+ research in collaboration with UK universities, the National Nuclear Laboratory, and government
+ agencies in France has led to the implementation of advanced nuclear decommissioning
+ techniques at Fukushima and Sellafield. Work with Seoul National University has produced
+ novel methods in visual object tracking (published in CVPR’16-18, cited 475+ times).
+ HCC research is carried out with academic partners across different disciplines including law,
+ psychology, AI, and software engineering. Howes held visiting positions at Michigan and the
+                                                                                                 Page 16
+
+
+Unit-level environment template (REF5b)
+ Finnish Center for AI, jointly publishing in prestigious outlets (ACM CHI, ACM TOCHI,
+ Psychological Review). Bahsoon co-authored over 25 highly cited papers bridging AI and
+ software engineering. His agenda-setting 2018 CSUR paper Manifesto for future generation
+ cloud computing, co-authored with 21 internationally leading scientists from the UK, Europe,
+ Australia and the US, has received over 100 citations to date. Sorge’s assistive technology work
+ (ICS-4) has involved extensive international collaborations with academics at universities,
+ charitable bodies and international standards organisations (e.g. W3C). Russell, in collaboration
+ with TU Munich and UP Madrid, delivered a real-time interactive system for stroke patient
+ rehabilitation. Gould’s recent paper with colleagues from UCL and Northumbria was submitted
+ as evidence to the UK Parliament and led to a by-invitation seminar for a House of Lords
+ committee examining the effects of the pandemic.
+ CLS’s interdisciplinary research builds on collaborations with clinicians, bioscientists and
+ physical scientists. Pioneering research by Little on the use of digital health technologies in
+ Parkinson’s disease led to invited positions at the Oxford Nuffield Department of Clinical
+ Neurosciences and MIT Media Lab. His publications with leading neuroscientists are highly cited
+ in international journals (Nature Communications, Nature Genetics, JAMA Neurology, Journal of
+ Neurology). The iPhone app mPower, for real-time tracking of Parkinson’s disease symptoms,
+ resulted from collaboration with neurologists at the University of Rochester. Dehghani’s work
+ with Washington University and Dartmouth College resulted in over 20 publications in high
+ ranking journals (Biomedical Optics, Neurophotonics, Physics in Medicine), including a
+ trailblazing paper on high-density diffuse optical tomography in Nature Photonics. Project
+ BitMap, involving 10 European partners, developed instruments for non-invasive brain
+ monitoring, resulted in 50+ papers and created standardisation procedures now promoted by the
+ EU Commission. Duan’s collaborators include leading researchers from Imperial, Wuhan,
+ Chengdu, and Singapore. Their papers consistently score high citations (4 with 50+ since 2016;
+ 17 with 20+) in journals including Nature Machine Intelligence, IEEE TMI and Pattern
+ Recognition.
+ 4.2     Engagement with users and beneficiaries
+ Security. We collaborate with major companies (Intel, Infineon, Huawei, IBM, Thales, HP,
+ Samsung) on hardware security, leading to improved designs, attack prevention strategies and
+ security updates, see (3.4) for examples. Research on secure designs for IoT processors is
+ carried out with ARM, Ericsson and Soitec. Ongoing research consultancies and collaborations
+ with Veridify Security, TRL Technology, GCHQ, RITICS, NCSC, Siemens, Mastercard and Visa
+ involve IoT cybersecurity, cloud security, trustworthy voting, secure communications, contactless
+ card security, and supply chain security.
+ Transport & automotive. National Rail and the Rail Safety and Standards Board, are partners
+ in research for the European Rail Traffic Management System. Hyundai sponsors research on
+ in-vehicle driver monitoring. Ford, BMW, Honda and Tata Steel are our collaborators on several
+ projects on engine optimisation and vehicle dynamics. Collaboration with Inventive Cogs on
+ vehicle routing has resulted in a patent submission.
+ Technology. The PRINCESS project Building Resource Adaptive Software Systems is funded
+ by DARPA. Airbus is a collaborator on an EPiCS project developing self-aware and self-
+ expressive software architectures. The Stable Prediction of Defect-Inducing Software Changes
+ project is partnered with Microsoft, who also provide support for research on cloud verification.
+ Long-standing research collaboration with the Home Office utilises our expertise in speech
+ recognition. Volvo, SAAB and 6 other companies are partners in the Swedish Knowledge
+ Foundation project Semantic Robots, with several patents already filed. A 3D imaging
+ technology for bespoke footwear design has been patented and licensed to spin-out 3d Engine
+ Ltd.
+ Society. Work on enhancing educational inclusion by enabling accessible rendering of
+ mathematical expressions on the web, has involved over 20 collaborators from charities, major
+ STEM publishers and standards organisations (ICS-4). Research on speech technologies for
+                                                                                               Page 17
+
+
+Unit-level environment template (REF5b)
+ children was sponsored by Disney Research. Work on human decision making is funded by the
+ UK Ministry of Defence.
+ Healthcare. Leading pharmaceutical companies (GSK, AstraZeneca, UCB) and NPL have
+ supported research on multispectral and chemical imaging for drug discovery. Oxford
+ Nanoimaging and Thermo Fisher Scientific are collaborators in molecular imaging research.
+ HemoPhotonics, PicoQuant Innovations and European hospitals were partners in the EU BitMap
+ project developing neuromonitoring devices. The EU LUCA project developed a point-of-care,
+ low-cost device for thyroid screening with companies Vermon, Echo Control Medical and
+ HemoPhotonics. Renishaw and Nikon supported development of 3D scanning technologies for
+ stereotactic neurosurgery. UK Biobank, Siemens, Philips and NHS hospitals are partners in the
+ EPSRC SmartHeart programme. Within EU CogWatch, we work on speech technologies for
+ assisting disability with RGB Medical Devices, Headwise Ltd. and the Stroke Association.
+ Software for remote monitoring and detection of Parkinson's is used in clinical trials across the
+ world and by international pharmaceutical companies (Pfizer, UCB Biopharma). SIAscopy, a
+ non-invasive screening technology for skin lesions, is deployed in 35 countries worldwide,
+ including the Boots Mole Scanning service.
+ 4.3    Engagement with wider society
+ 4.3.1   Public engagement
+ We encourage and support staff and students to engage with schools, local communities, local
+ business and groups of individuals. Examples include Midlands Digital Health Public Debate
+ (Styles), Birmingham Artificial Intelligence Meetup (Jung, Chang), Birmingham Eastside Gallery
+ (Sloman) and numerous ‘Pint of Science’ talks. Further afield, we took part in British Science
+ Festivals (Little, Ryan), presented multiple local TEDx talks and gave inspirational talks on
+ increasing STEM participation for teachers and visually impaired students (Sorge).
+ Ghica champions the teaching of abstract mathematical concepts to primary school pupils via
+ blogs and training sessions at the Association of Teachers of Mathematics. Final-year
+ undergraduates on the ‘Teaching CS in Schools’ module visit schools as ambassadors, reaching
+ over 2000 pupils annually and stimulating interest in computer science. All students in our CDTs
+ are registered as STEM ambassadors and co-organise the annual 'Meet the Scientist' event at
+ the Birmingham Thinktank Science Museum.
+ 4.3.2   Presence in the media
+ In the reporting period, the School’s research obtained wide media coverage, with examples
+ including newspapers (Times, Independent, Guardian, Times Higher), professional journals and
+ magazines (Nature News, Nature Outlook, New Scientist), radio (BBC Radio 4, Radio 5 Live,
+ The World Tonight), television (BBC Newsnight) and the internet (YouTube, Yahoo! News,
+ Wired, ZDNet). During the assessment period over a quarter of our academics gained media
+ exposure related to their research.
+ Two notable examples relate to our research into car security: vulnerabilities in vehicle keyless
+ entry systems of VW Group vehicles resulted in over 130 news items across international media;
+ findings on insecure cryptographic designs of vehicle immobilisers (ICS-1) generated over 150
+ articles in the international press. Research on new cryptographic protocol testing for banking
+ (ICS-2) had extensive coverage in the business press.
+ Other topics included electronic voting (BBC Newsnight), railway security (Forbes), medical
+ imaging (Times, BBC), Parkinson’s disease diagnosis (BBC, Guardian, CNN, NPR), AI
+ technology (Nature News, BBC, Daily Mail) and general science issues (New Scientist, Nature
+ Technology, WIRED).
+ 4.4    Indicators of wider influence, contributions to and recognition by the research base
+ Fellowships. Over 25% of our academics hold senior status (Fellowships) of professional
+ bodies including IEEE (Yao), BCS (Baber, Beale), RSA (Bahsoon), IMA (Russell), ATI (Kaban,
+ Lehre, Tiňo, Rowe, Sloman, Styles) and Optical Society of America (Dehghani).
+                                                                                              Page 18
+
+
+Unit-level environment template (REF5b)
+ Editorships. Half of all academic staff, across all research Themes, are involved in journal
+ editorial work as Associate Editors and Editors-in-Chief (17 staff, 29 journals) and Editorial
+ Boards members (19 staff, 32 journals).
+ Conferences. During the assessment period, over 50 keynote or invited plenary talks were
+ delivered by School members. We (co-)chaired nearly 30 international conferences. Almost
+ everyone serves regularly on steering and programme committees for national and international
+ conferences.
+ Professional bodies. Yao served as president of the IEEE Computational Intelligence Society
+ (2014-15). Four academics chaired or co-chaired IEEE Computational Intelligence Society
+ technical committees: Theoretical Foundations of Bio-inspired Computation (Lehre), Many-
+ Objective Optimisation (Li), High Dimensional Data Analysis (Kaban), Data Mining (Tiňo) and
+ Neural Networks (Tiňo). Baber serves on the REF Panel B12.
+ Other bodies include: UKCRC (Beale, Barnden, Jung, Ryan, Sloman); W3C (Sorge); Huawei’s
+ Security Advisory Board (Ryan); DSTL SERAPIS framework (Baber); Parkinson’s UK College of
+ Experts, and DOH Dementia Innovation Unit Citizen Science Platform (Little); GlaxoSmithKline
+ Bioimaging Expertise Network, EPSRC Integrated Bioimaging Network, and Strategic Advisory
+ Board of the Rosalind Franklin Institute (Styles); IEEE CIS Data Mining, and Big Data Analytics
+ Technical Committee (Tiňo); IEEE CIS High Dimensional Data Mining (Kaban); ATI (Rowe).
+ Grants committees. Ten academics are members of the EPSRC Peer Review College. Outside
+ the UK, colleagues served on grant committees in Austria, Finland, Germany and Ireland. Over
+ half of School members reviewed research proposals for UK organisations, EU ERC, and
+ research councils in 19 countries around the world.
+ Academic publications. All School members contributed to this service to the research
+ community, with some reviewing over 60 papers since 2014.
+ Journals included core subjects (Theoretical Computer Science, Formal Aspects of Computing,
+ IEEE Transactions on Software Engineering, Logical Methods in Computer Science, Artificial
+ Intelligence); high-ranking outlets: Nature, IEEE Transactions (Neural Networks and Learning
+ Systems, Evolutionary Computation, Medical Imaging); and interdisciplinary journals (Cognitive
+ Science, Ergonomics, HCI, Bioinformatics, Biomedical Optics, Neuroimaging, Symbolic Logic,
+ Physica, Quantitative Finance).
+ Prizes and best paper awards. Both staff and PhD students won best paper awards at
+ conferences across a range of our research Themes. Examples include: Haifa Verification
+ Conference (Parker, 2016), IEEE Congress on Evolutionary Computation (Li, 2014),
+ International Conference on Simulated Evolution and Learning (Li, 2017), International
+ Conference on Intelligent Data Engineering and Automated Learning (Tiňo, 2016), International
+ Symposium on Algorithms and Computation (Lehre, 2014), ACM Human Factors in Computing
+ Systems (Howes, 2014, 2017), International Web for All (Sorge, Lee, 2015), ACM/IEEE
+ Empirical Software Engineering and Measurement (Minku, 2015), IEEE Transactions on
+ Evolutionary Computation Outstanding Paper Awards (Yao, 2016, 2017); IEEE Congress on
+ Evolutionary Computation (Kaban, 2015), Speech and Language Technologies in Education
+ (Russell, 2017), European Conference on Computer Systems (Chothia, 2019), Software
+ Engineering for Adaptive and Self-Managing System (Bahsoon, 2020), Natural Language &
+ Information Systems (Lee, 2020).
+ Collaborative arrangements for PGR training. The Theory Theme has a long-standing
+ regional collaboration via the Midlands Graduate School in the Foundations of Computing
+ Science. EPSRC CDT programmes PSIBS and Sci-Phy were awarded a University of
+ Birmingham Teaching Academy Award for Educational Enhancement & Innovation. School
+ members run numerous international summer schools and training workshops across all the
+ Themes: ‘Naturalistic Decision Making’, ‘Machine Learning’, ‘Software Engineering’,
+ ‘Denotational Semantics’, ‘Programming Languages’, ‘Optics & Photonics’ and more than 10
+ others. EU Marie Curie programmes funded ITN BitMap, ECOLE and RISE with contribution to
+ the School of over £300,000.
+                                                                                              Page 19
+
+
+Unit-level environment template (REF5b)
+ Other indicators of influence and recognition. Yao was awarded the 2020 IEEE Frank
+ Rosenblatt Award and IEEE Computational Intelligence Society 2017 Meritorious Service Award.
+ He is a Distinguished Lecturer of the IEEE Computational Intelligence Society, and is ranked 6th
+ in the UK G2R and 177th in the World G2R. Sloman is the 2020 American Philosophical
+ Association Barwise Prize winner. Baber delivered the 2014 Chartered Institute of Ergonomics
+ and Human Factors Donald Broadbent Lecture. Howes was a 2016 Marshall Weinberg Fellow at
+ the University of Michigan. Long-term visiting positions were held at USTC, Finnish Center for
+ AI, CMU, Israeli Center for Algorithms, and Universities of Michigan, Melbourne, and Illinois.
+ Escardó was invited to visit a number of prominent research institutes including Newton Institute
+ for Mathematical Sciences, Institute Henri Poincaré, Norwegian Center for Advanced Study and
+ Hausdorff Research Institute for Mathematics (Bonn).
+                                                                                            Page 20

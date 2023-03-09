@@ -1,0 +1,1189 @@
+Unit-level environment template (REF5b)
+  Institution: University of Bristol
+  Unit of Assessment: 11: Computer Science and Informatics
+  1. Unit context and structure, research and impact strategy
+Context and structure
+Computer Science and Informatics (CS&I) is a key area of research within the School of Computer
+Science, Electrical and Electronic Engineering, and Engineering Mathematics (SCEEM), in the
+Faculty of Engineering. It encompasses a thriving research community of internationally-
+recognised scholars who are making significant contributions to industrial and societal challenges.
+Since REF2014, the digitalisation of all areas of life has continued to accelerate and over this REF
+period, we have made many important contributions to the building of a new digital world. The
+breadth and quality of our research, our training provision and our partnerships ensure our work
+has meaning and impact.
+There have been significant internal and external investments in SCEEM during this REF period,
+with £26m investment from the University of Bristol (UoB) supplemented by major investments
+from funders and industry. The result is that we are submitting 59.15 FTE staff (41.6 FTE in
+REF2014, >90% of the staff body) who lead a research community of 62 PDRAs and 129 PGRs.
+We offer colleagues access to internationally-leading research facilities and infrastructure, and
+provide colleagues at all career stages with a vibrant, supportive and collegial research
+environment. Being embedded in a highly integrated Faculty of Engineering has supported
+particularly rich and diverse internal and external interactions and collaborations, a highly co-
+creative approach to research, and strong commitment to engaging with research users in diverse
+ways. We also have comprehensive support for all aspects of research from UoB’s Research and
+Enterprise Development Division (RED, see Institutional Environment Statement (REF5a)) and, at
+Faculty-level, from the Faculty’s Industrial Liaison Office (ILO) which enables us to make significant
+contributions to end-users at scale. Our research aspirations are further supported by a dedicated
+Faculty team of 67.4 FTE technical professionals and 44 research support staff.
+                        Figure 1: Overview of UoA11 over the REF period.
+                                                                                                Page 1
+
+
+Unit-level environment template (REF5b)
+Research Achievements
+This REF period saw substantial income growth, exceptional CDT success, development of
+stronger and deeper industry links, significant external impact, and a large number of competitive
+fellowships secured.
+In REF 2014, the UoA11 research strategy was: “attract the best staff and students; target strategic
+collaboration with industry and to collaborate with the best researchers nationally and
+internationally”. This section sets out our achievements against these goals.
+Total UoA11 submissible research income for 2013-2020 was £39m, representing a 146%
+increase over REF 2014 (£15.8m). Research income was £131k per staff p.a. compared to £76k in
+REF 2014, a 72% increase. Funding highlights include:
+     •  The Isambard GW4 Tier 2 HPC Centre for Advanced Architectures (£7.1m [Isambard 1]
+        2016-2021 and [Isambard 2] 2020-2023, McIntosh-Smith)
+     •  EPSRC Platform Grant in Vision Science (£1.2m, Bull)
+     •  Three European Research Council (ERC) Advanced Grants (Cristianini, Oswald, Smart)
+     •  Recent major awards, including
+            o MyWorld Strength in Places programme for the Creative Sector (£46m, with £30m
+                from UKRI, Bull)
+            o Bristol Digital Futures Institute (BDFI) (£100m, with £29m from Research England),
+                led by UoA12 and Social Sciences, but with significant input from UoA11.
+We have supported UoA11 staff in securing 18 highly-competitive individual fellowships, including
+(ECRs in bold):
+     •  Seven EPSRC Fellowships (Chitchyan, Clifford, Damen, Fraser, Metatla, O’Kane, Smart)
+     •  Leverhulme Research Fellowship (Achim)
+     •  Leverhulme Leadership Award (Lepora)
+     •  Two Leverhulme Early Career Fellowships (Roudaut, Katsenou)
+     •  Royal Society University Research Fellowship (David)
+     •  Royal Society Industrial Fellowship (Nunez-Yanez)
+     •  RAEng Senior Research Fellowship (Pamunuwa)
+     •  Two Royal Society Advanced Newton Research Fellowships (Carranza, Mayol-Cuevas)
+     •  Marie Curie Rise Scheme Fellowship (Smart)
+     •  Marie Curie Experienced Research Fellowship (Katsenou)
+Exceptional success in the 2019 EPSRC call for Centres for Doctoral Training (CDTs) reflects our
+track record in providing excellent training in a supportive environment (as evidenced by two
+EPSRC CDTs awarded in 2013: in Communications and Robotics). Among six new CDTs across
+the Faculty of Engineering, those directly related to UoA11 (Director or Co-Director) are:
+     •  Trust, Identity, Privacy and Security in Large-scale Infrastructures (£6.2m, 2019-2027)
+     •  Interactive Artificial Intelligence (£6.8m, 2019-2027)
+     •  FARSCOPE-TU CDT in Future Autonomous Robotic Systems (£4.8m, 2019-2028)
+     •  Digital Health and Care (£6.3m, 2019-2027).
+We also co-host a Wellcome Trust PhD Programme in Neural Dynamics (£1.9m, 2016-2023).
+                                                                                              Page 2
+
+
+Unit-level environment template (REF5b)
+Thales and Liverpool Victoria General Insurance (LV=GI) have both located technical teams within
+the Faculty to benefit from academic expertise and to facilitate collaboration. Bristol is home to one
+of just seven ARM Centres of Excellence and UoA11 leads or participates in two EPSRC
+Prosperity Partnerships involving multi-national companies (Thales and Rolls-Royce).
+There was significant internal and external investment during the period. UoB committed c. £23.5m
+from its Estates Strategy and a further £2.5m for equipment, augmented by >£7m in capital
+investment from EPSRC in high-performance computing. From 2023, UoB’s Temple Quarter
+Enterprise Campus (TQEC, see REF5a) will be home to new facilities to support research in digital
+technology led by UoA11 (AI, Cybersecurity, Vision, and Interaction).
+The Faculty’s EDI strategy produced an increase in female staff (17.7% of UoA11 staff, 9.5% in
+2014), including three professors in UoA11 (none in 2014). Our international staff (40%) come from
+18 countries. Table 4 (page 24) shows that 98.4% of the submitted REF outputs involve
+collaboration, and our global reach is demonstrated by the fact that 48% of the outputs have an
+international collaborator.
+Research Strategy
+In early 2016, under UoB’s Vision and Strategy, the Faculty of Engineering developed an ambitious
+growth strategy to make a perpetual, positive impact in the world. This was refreshed in 2020
+under a renewed Faculty leadership team. The underpinning priorities are to:
+     •   apply world-leading research to grand societal challenges
+     •   inspire and develop future leaders through a challenging educational offering
+     •   partner with local and global innovators to accelerate impact
+     •   advance equity and diversity
+To achieve our ambitions, our future research objectives for 2020 and beyond are to:
+     •   demonstrate academic leadership of the highest calibre and develop future leaders
+     •   continue to grow our research reputation
+     •   recruit, retain and invest in our great staff and students
+     •   enhance stewardship of our key research partnerships
+     •   increase and diversify our external research funding
+     •   celebrate diversity within our community and encourage inclusivity in all we do
+Research Structure
+Our research groups encourage inter-generational idea sharing, mentoring and training, from PGR
+through postdoc and early-career academic to professorial level. A critical mass of expertise in
+each discipline also supports collaboration between the five research groups in UoA11, with many
+staff belonging to more than one research group and hence contribute to both discipline-based and
+inter-disciplinary research:
+Artificial Intelligence and Autonomy (AI&A)
+AI&A has 21 academics, 28 research associates, and 50 PGR students. It is led by Liu, who is a
+member of the EPSRC ICT Strategic Advisory Team (ICT SAT). It was supported by 70 grants and
+income of £8.9m.
+                                                                                                Page 3
+
+
+Unit-level environment template (REF5b)
+AI&A works across four domains, each led by a champion: Machine Learning (Flach), Robotics
+and Autonomy (Lepora), Neural Computation (Houghton) and Financial Data Analytics (Cliff).
+Machine Learning’s strength in putting "humans in the loop" in artificial intelligence systems led to
+the award of the Interactive Artificial Intelligence CDT. Robotics and Autonomy anticipates a future
+which integrates traditional robot control with modern machine learning and insights from nature.
+Neural Computation seeks insights into computation and mathematics by studying how the brain
+works, and Financial Data Analytics is concerned with the application of machine learning in the
+financial sector and its relationship with the sector’s legal and regulatory framework.
+The group is well-connected to the Alan Turing Institute, UoB’s JGI, the Bristol Robotics Laboratory
+(BRL) and international academic networks. AI&A has more than 30 external partners including
+Facebook, Google, Microsoft, FiveAI, Amazon, EDF Energy and Dyson, and make significant
+contributions to several important cross-disciplinary grants including the large-scale digital health
+project SPHERE (Flach, Santos-Rodriguez; £15.2m).
+Cybersecurity and Cryptography (C&C)
+C&C has nine academics, 12 research associates, and 22 PGR students. Leadership is provided
+by Rashid, who chairs the Scientific Advisory Board of EPSRC-NCSC Research Institute on
+Sociotechnical Cyber Security (RISCS) and served on two UK government cyber expert groups. It
+was supported by 54 grants and income of £9.8m.
+The Cybersecurity domain (champion: Rashid), formed in January 2018, leads on security and
+vulnerability analysis of cyber-physical systems, including the development of novel
+countermeasures (e.g. intrusion detection systems, vulnerability analysis tools, novel security
+architectures, and human and organisational factors) along with data science approaches to
+cybercriminal activities and countermeasures.
+Research in the Cryptography domain (champion: Page), established in 2000 by Prof. Smart, is
+focused on the hardware and software needed to implement secure systems and spans a broad
+range of theoretical and practical aspects, from foundational research and number theory to design
+and formal security analysis of cryptographic protocols. Current specialisms include high-
+assurance design and implementation techniques, implementation attacks, and post-quantum
+cryptography.
+Strong combined research capabilities have made UoB a major centre for cybersecurity and
+cryptography research from the mathematical to the practical. Rashid leads the National Cyber
+Security Programme, the Cyber Security Body of Knowledge (CyBOK) project, which has defined
+foundations for the field and underpins national certification of academic degrees by the National
+Cyber Security Centre (NCSC). The group leads projects as part of major national programmes
+(RISCS, RITICS, RISE, PETRAS, Discribe), hosts a CDT in Cyber Security, and plays an
+important role in the RF Open Attack Surface as part of the £2.23m SWAN prosperity partnership.
+Key collaborators include NCSC, Vodafone, Google, HP, Airbus and Thales. The group also has
+close relationships with the Heilbronn Institute for Mathematical Research.
+Visual Information Laboratory (VI-Lab)
+VI-Lab has 10 academics, 14 research associates, and 28 PGR students. It is led by Bull who is a
+Fellow of both the IEEE and IET, and PI of a Platform Grant in Vision Science (Vision for the
+Future, 2014-2019). It was supported by 65 grants with income of £7.7m.
+                                                                                                Page 4
+
+
+Unit-level environment template (REF5b)
+VI-Lab's international reputation is built on fundamental and applied interdisciplinary research
+encompassing computer vision, image processing and visual communications. VI-Lab is a key
+element of the Bristol Vision Institute (BVI, of which Bull is founder and Director), an
+interdisciplinary organisation of 160 associates which promotes research collaboration in vision
+science and its applications, across computer science, engineering, biology, psychology, medicine,
+and the creative arts.
+In egocentric vision, Damen led the collection and release of EPIC-KITCHENS, the world’s most
+comprehensive dataset for in-home health monitoring and activity analysis. Consequently, Damen
+was one of only 20 academics worldwide to be named a Nokia Research Collaborator in 2016, as
+well as a Facebook Research Collaborator in 2019. Other highlights are Burghardt’s animal
+biometric method, deployed by Save Our Seas Foundation to track and identify great white sharks,
+and research expertise in computer vision, utilised by Amazon, Samsung, Perceptual Robotics
+(Mayol-Cuevas, Calway) and others.
+Research excellence and longstanding collaborations with the creative sector in the South-West
+have culminated in the ISCF/AHRC Bristol and Bath Creative Industry Cluster and leadership of
+the £46m MyWorld project, whereby UoA11 researchers connect regional and national creative
+partners (e.g. the BBC, Aardman Animations, Bristol Old Vic) with global tech giants (Netflix,
+Google, Microsoft), to forge new creative sector opportunities in the South West.
+Fundamentals of Computing (FoC)
+FoC comprises 14 academics, 14 research associates, and 19 PGR students, led by McIntosh-
+Smith, who is Technical Chair of the £50m UKRI ARCHER2 national HPC service design and
+procurement project and sits on the EPSRC's e-infrastructure strategic advisory team as well as
+the EPSRC resource allocation panel for the UK's national supercomputer resource. The group is
+supported by 61 grants with an income of £7.6m and a further £7.1m of EPSRC capital grants.
+The group works across four domains of interest, each led by a champion. High-Performance
+Computing (McIntosh-Smith) focuses on the application of heterogeneous and many-core
+computing to solve large-scale scientific problems with a focus on energy-efficient adaptive
+computing for scientific, video and machine learning applications. Algorithms and
+Complexity (Clifford) aims to provide scalable solutions to existing problems and to understand
+the limits of what is possible. Programming Languages (Wang) spans theoretical foundations,
+language design and implementation, program analysis and synthesis and works with both agile
+start-ups, like DiffBlue and industry giants, like GitHub, whose code navigation features are
+powered by our work on algebraic effects (see impact case study on GitHub). Trustworthy
+Systems (Eder) focusses on all aspects of trustworthiness throughout the system stack, from
+hardware to software, (e.g. safety and functional correctness, predictability, security, privacy), as
+well as traditional dependability (integrity, robustness, reliability and graceful degradation).
+By uniting these domains, the group provides a multi-faceted understanding of key issues like
+reliability, scalability, and reusability. The group co-leads (with AI&A) the £3m functionality node
+under the UKRI Trustworthy Autonomous Systems Call and Pamunuwa was awarded an RAEng
+Senior Research Fellowship with Microsemi. Industry partners include Cray, Arm, the Met Office,
+Huawei, Intel/Altera, NVIDIA, Fujitsu, XMOS, Graphcore, XILINX, AWE, and Rolls-Royce.
+                                                                                                 Page 5
+
+
+Unit-level environment template (REF5b)
+Bristol Interaction Group (BIG)
+BIG has eight academics, 10 research associates, and 10 PGR students, and is led by Roudaut.
+The group is supported by 32 grants and £5m research income.
+The group’s research includes novel interactive devices, and their deployment and evaluation in
+everyday settings such as healthcare, sustainability and fabrication, including the recent
+development of artificial skin. The relationship between technology and everyday life “in the wild” is
+evolving to inform health, care and wellbeing projects (diabetes, multiple sclerosis, mental health,
+hearing loss and older-adult care). The HCI group works with industry partners such as Quin and
+PassiveSystems, grassroots activists such as WeAreNotWaiting and Hearing Hacks, public bodies
+such as Bristol City Council and the BBC, and charities such as Knowle West Media Centre.
+BIG is proud to be a very inclusive team: 14 researchers and eight of the academics are female
+and many balance successful careers with family commitments. Major successes during the REF
+period include:
+    •   EPSRC Leadership Fellowship (Fraser)
+    •   £1m EPSRC grant on Virtual Realities (Cater)
+    •   EPSRC Fellowship (Metatla)
+    •   EPSRC Environment Change Challenge Fellowship (Chitchyan)
+Funding was obtained from XMOS, Texas instruments, Royal Society, Microsoft Research,
+AHRC, Ultraleap, Leverhulme Trust, Nvidia and EC. The group set up strong interactions with
+industrial partners such as Nokia, Microsoft Research, Tactual Labs, Kooth, and Quin.
+Impact Strategy
+We want all our researchers to maximise the impact of their research. Support and training are
+coordinated by the School Impact Director, who sits on the School Management Team. The Impact
+Director helps academics and research groups recognise and facilitate the wider impact of their
+work. He also works closely with the ILO and RED teams (see REF5a) to prepare Innovate UK,
+EPSRC IAA and ISCF proposals and advise on the management of IP and the setting up of spin-
+out and start-up companies.
+We are continually developing ways to:
+    •   encourage and support diverse impact activities which build on academic research
+        success: e.g. industrial secondments and co-funded posts.
+    •   develop meaningful relationships with end-users for effective collaboration and technology
+        transfer, thus maximising the benefit of our research to society, e.g. partnership with
+        LV=GI.
+    •   recognise and reward those who actively engage with impact activities (up to two of ten
+        promotion criteria relate to engagement and impact).
+We have made significant progress in creating impact through:
+    •   Judicious use of the EPSRC Impact Acceleration Account. Over the REF period, UoA11
+        secured 30 IAA projects (value £840k) to support commercialisation, knowledge transfer
+        secondments, and early-career researcher kick-starter grants. This underpinned two of the
+        impact case studies: Ultraleap and XMOS. The IAA also supported the appointment of a
+                                                                                                Page 6
+
+
+Unit-level environment template (REF5b)
+        Business Fellow (McIntosh-Smith) to lead industry-facing activities that showcase and
+        promote research impact.
+    •   Supporting staff to secure intellectual property through patents where appropriate: e.g.
+        Pamunuwa’s work with Microsemi.
+    •   Two new External Advisory Boards for the Department of Computer Science (one with a
+        specific focus on data science) to complement the long-standing Industrial Advisory Board
+        in the Department of Engineering Maths. These are regularly consulted on research
+        strategy.
+    •   Impact workshops and training events for academics and postgraduate students.
+    •   Funding for summer undergraduate internships focussed on impact.
+    •   Embedding impact training in our CDTs and ensuring that industrial partners provide
+        opportunities for collaborative projects.
+    •   Establishing new companies such as Unbound Tech, Mogrify, and Perceptual Robotics and
+        continuing to support our more-established spin-out companies; Ultrahaptics (now
+        Ultraleap) and XMOS (both impact case studies), which have seen continued success and
+        growth (e.g. XMOS itself spun out a successful new company called Graphcore, which to
+        date has raised $710m in investment and is valued at $2.8B).
+    •   Strengthening existing partnerships through EPSRC Prosperity Partnerships (Thales, Rolls-
+        Royce) and embedding industrial partners in UoA11 (Thales, LV=GI).
+    •   Visiting industrial fellows, hosting industry on campus, and secondments of academic staff
+        to commercial organisations (see Section 2).
+Impact Example: In 2017 global technology company Thales Group chose the University of Bristol
+(UoB) as its first UK strategic partner university. Thales has worked with UoB for 20 years on
+several joint UK/EU-based research projects, while supporting over 15 doctoral students. Thales’
+programme (security, communications, sensors, autonomy and complex systems), focusses on
+the Faculty of Engineering.
+        “Thales has a real capacity to innovate through collaboration across the entire
+        high-tech ecosystem, including with start-ups and universities. We are proud to
+        broaden our partnerships by working with the University of Bristol, which has
+        excellent research facilities and high-quality students looking at complex technical
+        challenges.” Marko Erman, Thales Chief Technical Officer
+PolicyBristol facilitates engagement with local councils and central government (see REF5a).
+Several academics have served as consultants or advisors to major UK and EU governmental
+departments and regulatory bodies (see Section 4) and have been called to serve as senior expert
+witnesses in major civil and criminal legal cases (Cartlidge, Cliff, May).
+The research of Preist and Schien makes it possible to assess the energy (and climate change)
+impacts of digital services across the internet. Guardian News and Media used their research to
+enhance their Corporate Social Responsibility Policy, adopting a new environmental KPI. The BBC
+used it to change practice in both R&D and board-level strategy, by assessing change in UK
+electricity demand induced by different strategies for the broadcast-to-streaming switchover.
+                                                                                              Page 7
+
+
+Unit-level environment template (REF5b)
+Interdisciplinary Research
+We work within and across research groups, across Faculties, with other institutions and
+organisations both nationally and internationally to maximise our success, recognising that
+collegiality, collaboration, and partnership are at the heart of impactful research.
+In line with UoB strategy to foster interdisciplinary research (see REF5a) we strongly encourage
+researchers to explore collaborations outside their research groups through engagement with:
+     •  cross-Faculty research centres (e.g. BVI, Bristol Neuroscience (BN))
+     •  University Research Institutes (Jean Golding Institute (JGI), BDFI, and Elizabeth Blackwell
+        Institute (EBI))
+     •  inter-University partnerships (e.g. GW4 and BRL with UWE)
+     •  third-party organisations (e.g. Bristol VR Lab in collaboration with UWE, Bath Spa
+        University, Rocketmakers - funded by Innovate UK and the West of England Combined
+        Authority)
+     •  international links (e.g. Smart at KU Leuven (Belgium), Mayol-Cuevas at Amazon (USA),
+        Warinschi at Dfinity (Switzerland)).
+Not only does this facilitate innovative research ideas but exposure to interdisciplinary,
+intersectoral and international research experiences has been shown to positively influence
+research integrity.
+To support such interdisciplinary work, the RED team works with the SCEEM Research
+Committee, tracking available sources of research funding to support interdisciplinary research,
+and proactively encouraging individual researchers to apply for specific funding calls as they arise.
+Working across Faculties: VI-Lab, AI&A and C&C have been active participants in BDFI (see
+Section 2 of REF5a). The AI&A group is closely involved with the JGI. CNS works in collaboration
+with BN, while BIG uses participatory design to work with medics and patients to create innovative
+therapies.
+Working across universities: UoB is part of the GW4 alliance, along with Bath, Cardiff and Exeter,
+and this provides a framework for collaboration in order to strengthen the economy across the
+region through undertaking pioneering research with industry partners.
+Example: The GW4/Met Office/Cray Inc. Isambard computer is the world’s first ARM-based
+production supercomputer, and as the Isambard impact case study demonstrates, provided the
+template for a new generation of ARM-based supercomputers, creating a new market worth
+hundreds of millions of dollars.
+Working with other organisations: In recognition of our research strength in data science and
+strategic desire to grow these activities, UoB joined the Alan Turing Institute in 2018. Five
+academics in UoA11 are Turing Fellows (Flach, Houghton, McIntosh-Smith, Palomares
+Carrascosa, Rashid) and have engaged in the Ethics Advisory Board and in grant-funded projects.
+In 2020, Bristol was chosen as one of two centres for the Enrichment Scheme and will welcome 15
+PhD students in October 2021. Flach's Turing Fellowship was supported by a two-year grant
+entitled "Towards a Measurement Theory for Data Science and AI": the project resulted in two
+                                                                                              Page 8
+
+
+Unit-level environment template (REF5b)
+conference papers, an invited journal submission, a tutorial, and open-source software. The work
+attracted international attention, leading to five invited talks and several seminars.
+Open Research
+As detailed in the REF5a, UoB and UoA11 are committed to open access to research. Pre-final-
+print copies of publications are routinely placed as open access on our institutional document
+servers, arXiv and bioRxiv, following the requirements of major funding agencies. Our research
+data is accessible via UoB’s Research Data Storage Facility, which provides secure, long-term
+data storage systems. Where computational code is a key deliverable, researchers are
+encouraged to make the source-code written as research tools freely available via public-domain
+open-source repositories such as GitHub, thereby enabling peer scrutiny, replication, and
+extension of our work. A key code navigation tool in GitHub was re-implemented based on
+research in UoA11 (see GitHub impact case study).
+Research Integrity
+UoB is committed to meeting the commitments of the Concordat to support Research Integrity and
+is a member of UKRN, a network of over 40 UK institutions that works with researchers,
+universities, and a range of stakeholders to promote initiatives that further research rigour,
+robustness and quality. Furthermore, UoB is a signatory to the Declaration on Research
+Assessment (DORA - see REF5a).
+As CS&I research increasingly relies on data and/or considers how humans interact with
+technology, our researchers adhere to special procedures for working with and collecting data from
+living participants. We require ethical working to be embedded, from the planning stage to write-up
+and publication. We emphasise through training and open dialogue that students and staff are
+expected to undertake research in an ethical manner. The Faculty Ethics Committee (chaired by
+Houghton) upholds robust values around responsible innovation, ensuring that research projects
+are conducted professionally and ethically through a constructive, supportive and facilitative
+dialogue with researchers.
+  2. People
+Overview
+It is our ambition to shape the digital world by ensuring that our staff and PGR students reach their
+fullest potential as computer scientists and engineers. We seek to recruit from the widest possible
+pool of candidates, to encourage creativity, and to create a supportive, inclusive community in
+which all colleagues can flourish. We are mindful of the importance of maintaining a balance
+between senior academics and early-career researchers to maximise the scope for active
+collaboration and mentoring, and to ensure succession planning through training and development.
+We are submitting 21 professors (three female), 25 readers/senior lecturers/associate professors
+(five female), 15 lecturers (two female), one senior research fellow (female). We acknowledge a
+historic lack of diversity and have been striving to improve equity and inclusion so everyone can
+excel. Over the last six years, our approach has developed, and we are determined to ensure that
+the composition of our academic body and the culture and environment of SCEEM better reflect
+                                                                                               Page 9
+
+
+Unit-level environment template (REF5b)
+wider society. We take pride in having a culture of opportunity where all staff and all PGR students
+can flourish.
+                                     Figure 2: UoA11 REF staff submission.
+Staffing strategy and staff development
+It is our ambition to shape the digital world by supporting our staff and students to reach their
+fullest potential as computer scientists and engineers. We recruit from the widest possible pool of
+candidates, encourage a desire to be creative and enable a truly diverse and inclusive community
+to realise its vision. A balance between senior academics and early-career researchers maximises
+scope for active collaboration and mentoring and creates a pathway for succession-planning
+through training and development.
+A national skills shortage in computer science and engineering, strong demand from top-quality
+students and our sustained track record of research excellence resulted in UoB’s strategic decision
+to grow the Faculty. Since the last REF period, Faculty academic staff numbers (including research
+staff) have grown from 399 in July 2013 to 481 in July 2020 and our UoA11-returnable headcount
+grew by 48%, from 42 to 62. During the REF period UoA11 had a healthy turnover. Eleven
+pathway one academics, three professors (2.5 FTE), five senior lecturers/readers (4.5 FTE), and
+three lecturers left, while four professors, 11 senior lecturers/associate professors (10.2 FTE) and
+14 lecturers were recruited. The good record of promotion to professor (mirrored at more junior
+levels) is evidence for the success of our staff development.
+Notable high-level appointments (4 female):
+     •   strategic appointment: 2018 Rashid
+     •   senior appointments: 2015 Bullock, 2017 Liu, Nabney
+     •   promotions at professorial level: 2016 Eder, Mayol-Cuevas, McIntosh-Smith, Oswald (left
+         2019), 2017 Preist, 2018 Achim, Calway, Cater, Lepora.
+                                                                                              Page 10
+
+
+Unit-level environment template (REF5b)
+Strong early-career appointments with outstanding research potential (4 female):
+     •  2015 Katsenou, O’Donnell, Santos-Rodriguez
+     •  2017 Cartlidge, Chitchyan, O’Kane, Ramsay
+     •  2018 Bird, Konrad, Costa, Marshall, Pasquier, Wang
+     •  2019 Aitchison, Dupressoir, Edwards, Lapinskas, Martindale, McConville, Rawat
+     •  2020 Craggs, David, Kavvos, Metatla, Simpson.
+As an example of effective recruitment, we extended our expertise in cryptography into the domain
+of cybersecurity. Rashid was a strategic appointment from Lancaster in January 2018. His
+leadership in C&C resulted in five new computer science academic posts aligned with
+cybersecurity under UoB’s strategic investment programme.
+We successfully employed “proleptic” appointments to retain talented staff in a permanent
+academic post upon completing a substantial competitive research fellowship (for example,
+Chitchyan, EPSRC Environment Change Challenge Fellowship).
+Over the REF period, the following improvements to recruitment and selection procedures have
+helped increase diversity:
+     •  all advertisements stated that part-time and job-share applications will be considered and
+        link to our family and career network
+     •  gender-diverse interview panels
+     •  mandatory training for all panel members in EDI including avoiding unconscious bias
+     •  an EDI-related question was asked of interview candidates
+     •  separate male/female shortlists piloted
+Our future staffing strategy is to invest further in growing our staff complement: early-career
+academics to match the growth in education and research activities, and strategic appointments to
+deliver large-scale research projects (such as BDFI and MyWorld) and to develop other research
+strengths of the Faculty (for example, to support Digital Engineering and Sustainability).
+Career progression and promotions
+We strongly encourage staff to use the annual review process to discuss research objectives,
+obtain feedback on performance, identify development and training needs, and receive guidance
+on promotion. Individuals benefit from a wide range of internal courses and bespoke training,
+including proposal mock-panel interviews. Those in management roles are supported to undertake
+appropriate development programmes.
+Advice on promotions is provided through line managers and diversity in applications is
+encouraged through mentoring and CV-sharing. The Dean and HR lead an annual ‘demystifying
+promotions’ workshop to explain the process, so staff (particularly those from under-represented
+groups) have confidence to apply.
+Staff support
+We recognise the pressures and challenges associated with pursuing an academic career. The
+following Faculty activities and schemes, implemented during the REF period, support our
+academics in their research:
+                                                                                              Page 11
+
+
+Unit-level environment template (REF5b)
+    •    Our workload model ensures a fair and transparent balance between
+         teaching/administrative responsibilities and research.
+    •    A protected afternoon each week is used to ringfence dedicated research time.
+    •    Our timetabling constraints process offers all staff teaching duties scheduled around caring
+         responsibilities.
+    •    Line managers are encouraged to focus on a quality induction, with monthly School and
+         Faculty induction sessions. An online repository of materials is available to new starters
+         (with particular focus on ECRs).
+    •    Clear documentation is provided on what is expected from academics in terms of research,
+         education, PGR supervision, administrative and citizen duties and what support they can
+         expect.
+In response to staff survey feedback in November 2019, Faculty Board approved a Study Leave
+Policy for implementation from September 2021 (delayed by Covid-19). Eligibility criteria relate to
+the individual’s prior contributions to teaching, research and admin/citizenship. We will consider
+how study leave fits with the individual’s own development/ambitions/career plans and with broader
+research group/School/Faculty strategy/objectives. We are confident that study leave will enhance
+the research environment and quality of research outputs by allowing academics to focus on more
+ambitious projects. Periods of study leave to undertake research at other HEIs, in the UK,
+overseas or in industry, have been supported previously but a formal scheme will encourage staff
+to be more ambitious in their applications.
+Several staff have been supported so they can engage with both commercial and academic
+institutions in flexible ways that suit them and the partner, including:
+    •    partial secondments, (Mayol-Cuevas at Amazon, Warinschi at Dfinity)
+    •    partial buy-out (Martin, Senior Fellowship at BT)
+    •    visiting international positions (Achim, Université de la Cote d’Azur).
+Support for early-career researchers (ECRs)
+Of our UoA11 staff, 23.6% are ECRs. In their first two years, they are given a reduced workload
+(usually half), priority for PGR studentships, a mentor and personal start-up funding to pump-prime
+new activities and support attending conferences and developing industrial links. In addition to the
+UoB-level ECR career-development activities (e.g. grant-writing, leading research teams, and
+public engagement through Bristol Clear), the Faculty’s tailored ECR development framework
+offers training and networking activities, monthly meet-to-talk coffee sessions, research sandpits,
+individual mentoring and researcher group-mentoring. ECR-focused activities are coordinated by
+(later-stage) ECRs and supported by senior academics. For example, in the Faculty’s annual
+pump-priming call, over 70% of the projects funded have ECRs as co-applicants.
+UoA11 has 62 postdoctoral research associates (PDRAs). As noted in the REF5a, we are
+committed to the Concordat to Support the Career Development of Researchers. Staff are aware
+of the responsibilities for managers and the organisation in terms of recruitment and selection,
+recognition and value, support and career development and diversity and equality.
+The Faculty’s dedicated project manager for staff experience works with colleagues to deliver
+actions identified from the 2015 staff survey with a particular focus on PDRAs. We give our
+researchers a voice to raise concerns and shape their own experience. Through a network led by
+                                                                                               Page 12
+
+
+Unit-level environment template (REF5b)
+the PDRAs themselves, they can meet colleagues across the Faculty, benefit from lateral/peer
+mentoring and learn about the many UoB support functions. PDRA representatives (elected by the
+PDRAs) sit on the SCEEM Research Committee and feed into decisions about research strategy
+and targeted training.
+We have recognised that the precarious nature of fixed-term contracts generates stress for
+research staff and prevents them feeling truly included and valued as members of the community.
+We have moved away from fixed-term contracts towards open-ended contracts with fixed term
+funding. PDRAs are most at risk from uncertain funding and we are increasing efforts to provide
+them with opportunities to build skills and experience to enhance their employability, whether they
+remain in academia or move elsewhere (with both career choices encouraged as equally valid).
+Initiatives include student supervision, teaching, and running their own research projects (e.g.
+summer internships).
+Our early career pipeline: Our research strength and environment ensure that we are an attractive
+location for new early-career staff bringing independent fellowships to Bristol. During the REF
+period, UoA11 hosted 6 independently-funded Fellowships held by ECRs (see page 2).
+Support mechanisms, training and supervision of PGR students
+Our PGR student body grew from 70 in 2013/4 to 129 in 2019/20. We fully integrate PGR students
+into our rich research culture. They have world-class opportunities to support their development as
+leaders of future research, innovation and impact. Our supportive environment nurtures and
+develops deep technical expertise, creative problem-solving skills, technical and non-technical
+communication, and training in enterprise, innovation, and technology translation.
+                         Figure 3: Growth of the UoA11 PGR community.
+A small selection of examples of PGR student successes as follows:
+     •   Ellie Birbeck - best student paper, IEEE SSCI 2018
+     •   Tom Deakin - best paper, CUG 2019; serves on Khronos international standards body for
+         SYCL parallel programming language; proceedings chair for IOWCL workshop for three
+         years
+     •   Patrick Atkinson - language committee for OpenMP Architecture Review Board (2018)
+     •   Kacper Sokol - won funding from Thales in 2018 to develop fairness, accountability and
+         transparency forensics toolbox
+     •   Hazel Doughty - co-organised Women in Computer Vision at CVPR 2020
+                                                                                             Page 13
+
+
+Unit-level environment template (REF5b)
+Funding
+The Faculty’s track record of excellent postgraduate training resulted in exceptional success in
+both the 2013 and the 2019 EPSRC calls for Centres for Doctoral Training. Bristol was the most
+successful institution in the 2019 call, and the Faculty leads six centres and participates in a further
+two.
+In UoA11, we lead two new CDTs:
+    •   CDT in Interactive Artificial Intelligence (£6.84m, 2019-2027) (PI: Flach)
+    •   CDT in Trust, Identity, Privacy and Security in Large-Scale Infrastructures (TIPS-at-Scale)
+        (£6.24m, 2019-2027) (PI: Rashid)
+Researchers within UoA11 contribute strongly to the leadership of other CDTs:
+    •   CDT in Digital Health and Care (Co-I Santos-Rodriguez, £6.3m, 2019-2027) - see under
+        UoA12.
+    •   CDT in Future Autonomous and Robotic Systems: FARSCOPE CDT (Co-Director Liu,
+        £4.8m, 2017-2028) - also under UoA12.
+    •   Neural Dynamics (Co-Director: Houghton, Wellcome Trust, 2016-2023).
+    •   VI-Labs was also a key partner in the EU FP7 Marie Curie ITN ‘Provision’.
+Combining existing CDTs and Doctoral Training Partnerships, the Faculty’s doctoral training
+funding from EPSRC totals over £65m, £24m of which directly involves UoA11 (several of the
+CDTs span both UoA11 and UoA12 and have Co-Directors from both UoAs). Together with
+financial and in-kind support from industry and institutions, funding for postgraduate training
+exceeds £100m. We have been awarded 10 Industrial iCASE studentships. UoA11 has 129
+current PGR students and graduated 174 PhD students between Aug 2013 and July 2019.
+Recruitment
+CDT recruitment is managed by centre directors and managers. Non-CDT studentships are
+overseen by the Faculty Postgraduate Director (Howden, UoA12) and two School Postgraduate
+Directors (Marshall in SCEEM). All PGR applications are reviewed by at least three academic staff
+who have all undertaken EDI training. Greater awareness of the importance of diversity led to an
+increase in the recruitment of female and BAME students (see Table 1).
+Table 1: Gender and ethnicity of PGR students in UoA11.
+                Ethnicity                                   Gender
+  Year          BAME           White           Not          Female        Male         Other
+                                               Known
+  2013/14       29.6%          66.7%           3.7%         18%           82%          0%
+  2014/15       32%            64%             4%           16%           84%          0%
+  2015/16       26.9%          69.2%           3.8%         16%           84%          0%
+  2016/17       30.8%          65.4%           3.8%         19%           81%          0%
+  2017/18       29.6%          63%             7.4%         19%           81%          0%
+  2018/19       34.5%          58.6%           6.9%         24%           76%          0%
+  2019/20       32.4%          61.8%           5.9%         26%           74%          0%
+                                                                                               Page 14
+
+
+Unit-level environment template (REF5b)
+Monitoring and Support
+All students are supported by at least two supervisors. They can be from different departments or
+disciplines but at least one must have already supervised a PGR student to completion. We
+encourage industrial supervisors and international partners. Joint supervision benefits the student,
+provides valuable training for research staff and is an excellent collaborative interdisciplinary
+mechanism which enriches the student experience. Progress and support are reinforced by annual
+progress monitoring comprising a written report and interview (involving an independent assessor
+and interviewer) with detailed feedback.
+All postgraduates belong to a research group. Postdoctoral researchers are outstanding role
+models, for example, leading seminar series, delivering training courses and championing public
+engagement activities. A Faculty PGR conference, run by PGR students, has been run for the past
+two years to showcase the depth and breadth of research and allow students to get to know each
+other. Many CDTs also run their own conferences, with a focus on engaging with industry partners.
+UoA11 has a large number of PGR students completing their studies each year (Table 2). The
+growing number of students have led to a vibrant PGR community.
+Table 2: Doctoral awards and PhD students.
+                  Year             Number of doctoral            Number of students
+                                   awards (data from             (all years)
+                                   HESA)
+                  2013/14          28                            70
+                  2014/15          22                            73
+                  2015/16          18                            71
+                  2016/17          23                            84
+                  2017/18          19                            86
+                  2018/19          18                            103
+                  2019/20          15                            129
+The total number of doctorates awarded to students with supervisors from UoA11 over the REF
+period was 174, approximately 30 more than the total attributed to UoA11 from Table 2. This
+reflects positively on the frequency of inter-disciplinary collaboration and the degree to which co-
+supervision occurs with academics outside of UoA11.
+Research and Skills Training
+Students have mandatory talks covering induction, safety, facilities, and laboratory practices. CDTs
+offer bespoke courses (mandatory for CDT students) and we facilitate PGRs to be co-trained with
+CDT cohorts wherever practicable. Students are encouraged, where appropriate, to attend
+specialised MSc taught courses offered at Bristol.
+As described in the REF5a, in addition to discipline-specific training, our students can access a
+wide range of skills and career support offered by the Bristol Doctoral College. The Personal and
+Professional Development (PPD) programme offers the following professional support to all our
+research students:
+                                                                                                Page 15
+
+
+Unit-level environment template (REF5b)
+    •   networking opportunities
+    •   information on research grants
+    •   a bespoke online progress management tool
+    •   training in personal development and wellbeing
+    •   professional and career development
+    •   guidance on responsible research
+    •   training in conference presenting, CV writing, research ethics, public engagement, etc.
+UoB’s Careers Service Postgraduate Employability Advisor supports PGR students in identifying
+career options and preparing for the world of work. PGR students are encouraged to get involved
+with the Bristol PLUS award which is designed to enhance employability. Many of our graduates
+continue in research, 64% as PDRAs and 27% in industry or government.
+PGR students can work with the Basecamp Enterprise Team, who support start-ups and help
+develop enterprise and entrepreneurial skills. Through the New Enterprise Competition students
+pitch for start-up funding and UoB is a founding partner of the world’s top university business
+incubator, SETsquared, and the award-winning Engine Shed (see REF5a). Many of the CDTs
+provide bespoke enterprise and entrepreneurial training, such as the CDT in Cybersecurity, which
+incorporates an industrial placement.
+Promotion of equality and diversity
+The Faculty actively fosters and celebrates a diverse body of staff and students by implementing
+UoB EDI policy and through its own local practices. CS&I is well-known for having
+disproportionately male practitioners and we are committed to achieving 30% female
+representation among staff and students by 2030. CS&I has an international demographic; 21.4%
+of the Faculty’s academic and research staff have a Black, Asian or Minority Ethnic (BAME)
+background, mainly being overseas staff. Whilst we celebrate our international appeal, we strive to
+increase the proportion of academics from the UK BAME community. Among our 62 UoA11
+academics, 17.7% identify as female (increase from 9.5% in REF 2014) and 11.3% have a BAME
+background (11.9% in 2014).
+Examples of our commitment to EDI:
+    •   Faculty EDI committee established and chaired by the Dean with representatives from
+        academia, technical and professional services, the student body, LGBT+ community,
+        unions, Women and Non-binary staff network and the Black Asian and Minority Ethnic staff
+        network.
+    •   School EDI Champion (Philamore UoA12) is a member of the SCEEM Senior Management
+        Team.
+    •   Needs of staff with caring responsibilities and health issues are accommodated. Part-time
+        and job-share roles are increasing (two senior staff, one of whom was promoted to
+        Professor while on a part-time contract). UoB also supports academics returning from part-
+        time to full-time employment. Research funding (up to £10k) from the Returning Carers
+        Scheme has supported three academics from UoA11.
+    •   We shared with all line managers information to support staff returning from family-related
+        or compassionate leave related to Covid-19, in recognition of the additional challenges
+        facing staff.
+                                                                                             Page 16
+
+
+Unit-level environment template (REF5b)
+    •  Staff with caring responsibilities can claim additional costs involved in attending
+       conferences and interviews.
+    •  A new initiative, ‘Engineering Includes Me’, inspires staff and line managers by
+       demonstrating the benefits of supporting staff with diverse needs through case studies that
+       promote flexible working and other support mechanisms.
+    •  Female representation on all promotion panels helps ensure that time taken for parental
+       leave or flexible working is properly considered.
+    •  We actively support participation in the Aurora and Bristol FLI (Female Leaders Initiative)
+       programmes, as well as the Bristol Women’s Mentoring Network. This enabled SCEEM to
+       increase the number of female academics in senior leadership positions: Faculty PGT
+       Education Director (Cater), Associate Dean for Temple Quarter Research & Enterprise
+       (Liu), Head of Research Group (Roudaut).
+    •  Set up a system for reporting micro-aggressions, which was superseded by a UoB-wide
+       report-and-support tool.
+    •  Created a Women and Non-binary Staff Network for Faculty of Engineering and a network
+       for BAME staff jointly with the Faculty of Science.
+    •  Provided trans-awareness training to staff.
+The Black Lives Matter movement persuaded us that to effect real and lasting change we must be
+not merely neutral (non-racist/non-sexist/non-discriminatory), but actively anti-racist/anti-sexist/anti-
+discriminatory. There is a new appetite within the Faculty to listen to those who have been
+disadvantaged as a result of inequality, to take effective action and to make a concerted effort to
+reduce the number of micro-incivilities that people endure. We are determined to make our
+processes equitable, to make it clear that we value diversity and to make everyone feel welcome in
+our community.
+Creating a Positive Working Environment
+We want our people to feel valued in their work and to feel supported in managing their own
+wellbeing as well as their research, impact, and education activities. Our initiatives include:
+Wellbeing:
+    •  Protected Thursday afternoons: email-free time so staff can prioritise their work.
+    •  Weekly staff yoga sessions funded by the Faculty.
+    •  Staff encouraged to sign up to the UoB’s email charter, to lessen the burden of email.
+    •  Virtual coffee sessions and quizzes during lockdown.
+Space and facilities:
+    •  Wellness room. A lockable room to express milk, breastfeed, pray, or rest (for those with
+       long-term conditions).
+    •  A new café space, meeting places, accessible gender-neutral toilets have promoted a
+       sense of solidarity and inclusivity.
+    •  New teaching and seminar spaces have triple hearing loops, desk and lectern risers and
+       automatic doors, making them fully accessible.
+                                                                                                Page 17
+
+
+Unit-level environment template (REF5b)
+Community building:
+    •    Social gatherings are organised within core hours (School meetings, female and non-binary
+         lunches, morning/afternoon coffee sessions).
+    •    Family-friendly Faculty parties within core hours.
+Meetings:
+    •    All decision-making meetings take place in core hours.
+    •    A protected slot at monthly School meetings enable staff members to raise issues for
+         discussion at School level.
+EDI considerations for REF submission
+The REF submission itself was constructed with the primary goal of describing our research
+excellence across UoA11. This included the SCEEM Research Committee explaining and
+supporting the process for assessing independence to potential PDRA applicants. Heads of Group
+guided academics in writing the 100-word output statements. Extra unconscious bias training was
+provided to the UoA coordinator, and this informed the design of the internal review process for
+outputs. All review panels were representative of the makeup of staff in SCEEM, including female
+and BAME academics.
+ 3. Income, infrastructure and facilities
+Research funding and strategies for generating research income
+UoA11 offers colleagues
+    •    an excellent physical infrastructure in which to undertake research - one which was
+         augmented during this REF period by substantial UoB investments
+    •    an excellent research support infrastructure, for grant winning, industrial collaborations
+These features are reflected in a substantially improved grants record and CDT achievements
+reflecting not only the reputation and quality of our research, but also our success in building new
+collaborations around the globe. Our total research income over the REF period was £39m.
+Our strategy for research funding incorporates:
+    •    Supporting the vitality of research groups to enable them to develop a strong research
+         income stream. Each group produces a five-year plan (updated on an annual basis) that is
+         discussed with the Head of School and School Research Director.
+    •    Encouraging individuals to apply for externally-funded fellowships to realise their research
+         vision, from early-career to professorial level, and spanning basic research to
+         industrial/international secondments.
+    •    Investing in capital and equipment funding to underpin our current and future ambitions. A
+         key example is the Research England RPIF bid which secured £29m of capital funding for
+         BDFI which will be based in TQEC.
+    •    Maximising the leverage achieved by significant grants by investing in equipment,
+         academic posts, research support posts, studentships, and technicians. UoB supported the
+         MyWorld project with £3.7m of investment. Other successful bids have been supported by a
+         total of more than £1m and two academic posts.
+                                                                                                 Page 18
+
+
+Unit-level environment template (REF5b)
+   •   A Major Bids Process managed by RED that supports applications for major grants through
+       internal peer review and administrative support, for example, for ERC grants (Cristianini,
+       £1.2m, and Smart, £1m), EPSRC (Oswald, £1.2m, Cater, £1m, McIntosh-Smith, £3m and
+       £6m) and H2020 (Pamunuwa, £2.83m [Bristol £524k])
+   •   Providing internal pump priming and "Idea Accelerator" funding to researchers exploring
+       new research ideas or directions to underpin future grant applications, for example by
+       supporting conference travel or small equipment purchases.
+Table 3. External research income of UoA11 over the REF period.
+                          Funding source                       Amount
+                          EPSRC                                £18.71m
+                          Other research councils              £1.90m
+                          Charities                            £1.34m
+                          Industry                             £2.18m
+                          EU government bodies                 £8.98m
+                          Other                                £5.94m
+Evidence for the success of this strategy can be found in the following achievements:
+   •   Capitalising on major funding opportunities from a variety of funders such as RPIF (£29m
+       award), Innovate UK Strength in Places (£30m award), WECA (DETI, £250k), EPSRC
+       Prosperity Partnerships (TB-Phase with Thales, ASiMoV with Rolls-Royce), Platform grants
+       (Vision for the Future, £1.35m), EU Horizon 2020 (19 grants, £9m income).
+   •   The EPSRC CDTs which are led or co-led by UoA11 staff, totalling c. £24m.
+Other significant awards listed by research group:
+   • C&C:
+           o CyBoK: Cybersecurity Body of Knowledge (NCSC, 2017-2021, £2.34m, Rashid)
+               Implementing Multi-Party Computation Technology (ERC Advanced Grant, 2016-
+               2021, £1m/2.5m Euros, Smart)
+           o Leakage Aware Design Automation (LADA): Tools & Techniques for Software
+               Crypto Implementations (EPSRC, 2016-2020, £1.2m, Oswald/Page)
+           o SCARV: a side-channel hardened RISC-V platform (EPSRC, 2018-2023, £1m,
+               Page)
+           o Why Johnny doesn't write secure software? Secure software development by the
+               masses (EPSRC, 2018-2021, £854k, Rashid)
+   • VI-Lab:
+           o ISCF/AHRC Bristol and Bath Creative Industries Cluster (Bull) £6m
+           o Vision for the Future (EPSRC Platform Grant, 2015-2020, £1.3m, Bull)
+           o GLANCE: GLAnceable Nuances for Contextual Events (EPSRC, 2016-2021, £807k,
+               Mayol-Cuevas)
+           o An Integrated Vision and Control Architecture for Agile Robotic Exploration
+               (EPSRC, 2015-2020, £754k, Mayol-Cuevas)
+           o Assessment of Sea Surface Signatures for Naval Platforms Using SAR Imagery
+               (EPSRC, 2018-2021, £720k, Achim)
+                                                                                            Page 19
+
+
+Unit-level environment template (REF5b)
+              o  UMPIRE: United Model for the Perception of Interactions in Visioauditory
+                 Recognition (EPSRC, 2020-2025, £1m, Damen)
+    •    AI&I:
+              o Thales-Bristol Partnership in Hybrid Autonomous Systems Engineering (T-B
+                 PHASE) (EPSRC, 2017-2022, £2.1m, Bullock/Wilson)
+              o Think Big (ERC Advanced Grant, 2014-2019, £1.2m, Cristianini)
+              o CHAI: Cyber Hygiene in AI enabled domestic life (EPSRC, 2020-2023, £393k, Liu
+                 (part of a 5-institution grant of total value £1.9m).
+    •    BIG:
+              o Virtual Realities - Immersive Documentary Encounters (EPSRC, 2017-2020, £1.1m,
+                 Cater)
+              o Cross-modal Interactive Tools for Inclusive Learning (EPSRC, 2015-2021, £706k,
+                 Metatla)
+              o Interaction Design with Functional Plastics (EPSRC, 2015-2019, £1.6m, Fraser).
+              o Refactoring Energy Systems (EPSRC, 2017-2022, £953k, Chitchyan)
+    •    FoC:
+              o GW4 Tier 2 HPC Centre for Advanced Architectures (EPSRC, 2016-2021, £3m,
+                 McIntosh-Smith)
+              o GW4 Tier-2 HPC Centre for Advanced Architectures (EPSRC, 2020-2023, £4.1m,
+                 McIntosh-Smith)
+              o Next generation pattern matching (EPSRC, 2013-2019, £941k, Clifford)
+              o ZeroAmp (EU H2020, 2020-2024, £2.83m [Bristol £524k]) Pamunuwa).
+Organisational infrastructure supporting research and impact
+As part of our strategy, several policies help our academics succeed in their competitive funding
+applications. As noted in the REF5a, the RED Partnerships Team provides advice on fellowship
+and major funding bids, as well as interview training and mock panel interviews, equipment bids
+and programme grants. When fellowship candidates are invited to interview, RED organises
+interview training and mock panels with senior staff. The Faculty’s ESPRC fellowship success rate
+over the REF period is 36.4% (national success rate is 21%) with seven EPSRC fellowships
+awarded to UoA11 academics in the REF period, of a total of 18 externally-funded fellowships.
+In 2019, the Faculty introduced a formal pre-submission process for grant applications. It ensures
+that space, technical and project management support and any funding leverage are agreed by the
+relevant senior managers. It also provides all academics with internal peer review, feedback and
+support in writing funding applications, thus ensuring they have been prepared to the highest-
+possible standard. The ILO includes a team of 44 professionals providing post-award support,
+including project management, for major research activities.
+Infrastructure and Facilities
+The Faculty has enjoyed significant strategic expansion during the REF period with ongoing major
+investment to our estate. A new wing (>£19m) was added to one of the two main Faculty buildings
+in 2017, enhancing both our teaching and research spaces. Two research groups in UoA11 have
+moved into brand new office/research spaces in a newly acquired building in 2019 (1 Cathedral
+Square - 1CS), with more groups due to follow. UoB invested more than £1.7m in specialised
+facilities for UoA11 in the last six years. 1CS has been upgraded with research facilities, including
+computer vision labs, at a cost of £3.49m. Another building on the campus was repurposed for the
+                                                                                              Page 20
+
+
+Unit-level environment template (REF5b)
+Engineering Mathematics Department and its associated research staff. UoA11 has benefitted
+from a rolling programme of investment in facilities, equipment and refurbishment, run through the
+Faculty Space and Equipment Committee.
+TQEC will provide new facilities and offices for around 33 current academic staff from UoA11
+(AI&A, C&C, VI-Lab, BIG) and around 20 additional academic posts, supported by capital
+investments relating to BDFI (£29m), MyWorld (£30m), and QTIC (£35m, UoA12).
+Specialist research infrastructure investment: UoA11 uses UoB-level equipment and infrastructure,
+including:
+     •  The Advanced Computing Research Centre (ACRC), which hosts the BlueCrystal
+        supercomputers. Phase 4, featuring in the Top 500 supercomputers in the world in 2016,
+        includes around 16,000 cores and 64 NVIDIA P100 GPUs resulting in a peak 600 teraflops
+        of performance. In 2014 Bristol became an Intel Parallel Computing Center (IPCC), the first
+        such centre in the UK and the seventh worldwide. As part of this initiative, we are working
+        with Intel to modernise HPC codes so that they are ready for future many-core systems.
+        This work involved many important contributions from the HPC group, including
+        development and optimisation of key applications and mini-apps on Intel architectures, to
+        leverage the advanced technologies of Intel’s Xeon Phi including high-bandwidth memory.
+     •  The high-performance computer infrastructure (Blue Pebble) runs parallel to BlueCrystal
+        and supports the centralised purchasing and maintenance of individually-owned computer
+        resource, allowing research groups and researchers to easily purchase, for example, GPU
+        nodes without having to dedicate time to set up and run their cluster. This facility is in heavy
+        use by AI&A, particularly for machine-learning applications. The Centre Strategy commits
+        £2m per annum to meet the increasing demands of AI, big data and simulation resources
+        across UoB.
+Examples of specialised infrastructure at group level:
+Isambard HPC maintains an experimental cluster of some of the fastest and most exotic GPUs
+and accelerators in the world. In 2017, led by Simon McIntosh-Smith, the GW4 Alliance, along with
+partners Cray Inc. and the Met Office were awarded £3m by EPSRC (and a further £4.1m in 2020)
+to deliver a new production Tier 2 HPC system for UK-based researchers. The ‘Isambard’ system
+is exploring multiple advanced computer architectures, including 64-bit ARM, and focusses on
+exploring the performance of the UK’s most-used HPC codes. We have recently signed a strategic
+partnership with the Met Office and are in the process of appointing a seconded member of the
+Met Office to UoA11.
+BRL: The most comprehensive academic centre for multi-disciplinary robotics research in the UK.
+UoA11 staff lead four of the seventeen research themes at BRL: Robotic Vision (Mirmehdi co-
+lead); Swarm Robotics (Hauert); Tactile Robotics (Lepora) and Verification and Validation for
+Safety in Robots (Eder). The BRL is a collaborative partnership with UWE and home to a vibrant
+community of over 300 academics, researchers, and industry practitioners. Together, we are world
+leaders in current thinking on service robotics, intelligent autonomous systems and bio-
+engineering. The BRL’s state-of-the-art facilities cover an area of over 4,600sqm and include full
+mechanical workshops, wet-labs, rapid prototyping facilities, an ambient assisted-living studio,
+flying arena, a 16,000L test pool and 3 Vicon 3D positioning systems.
+                                                                                                 Page 21
+
+
+Unit-level environment template (REF5b)
+VI-Lab facilities: Newly-refurbished offices and labs at 1CS provide approximately 280sqm of
+researcher office space alongside 100sqm of new studio and subjective testing spaces, equipped
+with state-of-the-art acquisition, lighting and display equipment.
+Critical National Infrastructures (CNI) Testbed: A class-leading cyber security testbed for
+studying CNI and IoT security with a wide variety of devices and components to model a range of
+networks and deploy and test the effectiveness of security tools.
+Hardware Development and Analysis Laboratory: Supports work in the applied field of
+cryptographic engineering.
+MyWorld: This grant is transforming the creative sector in Bristol and Bath by creating world-
+leading accessible research facilities, including an instrumented auditorium, an intelligent research
+studio with gallery, a motion, activity and volumetric capture suite, an edit room, a subjective
+testing suite including a psychophysics laboratory, an immersive-technologies laboratory, and a
+deep-learning suite, alongside extensive office space researchers and partners.
+BN: Neuroscience, psychology and psychiatry at UoB is coordinated across bioscience, physical
+science and clinical departments and NHS Trusts by the interdisciplinary research network BN
+(460 students, PDRAs, fellows and tenured staff; total research income £55m). BN’s hubs and
+themes unify neuroscientists from molecular, cellular, physiological, psychological, computational,
+engineering, digital health, epidemiological, and clinical backgrounds. BN is therefore able to draw
+on, and contribute to, over £60m of investments in Bristol’s world-class £7.5m Elizabeth Blackwell
+Institute for Health Research, Animal Services Unit (£1m update in 2020), Wolfson Bioimaging
+Facility, £16m High Performance Computing Centre, £16m EPSRC Sensor Platform for Healthcare
+in the Residential Environment (SPHERE) project, £10m MRC Integrative Epidemiology Unit,
+£21m NIHR Biomedical Research Centre, £6.2m (from UoB, MRC and BHF), Translational
+Biomedical Research Centre, the Bristol Brain Centre at Southmead Hospital and the new Bristol
+Health Partners Academic Health Science Centre, created in 2020.
+BIG offers a state-of-the-art workshop to build interactive prototypes, with the latest in 3D-printing
+and laser-cutting machines and an aerosol jet X5 printer, a machine unique in the UK, allowing 3D-
+printing of ink such as conductive ink or macrocapsules on 3D surfaces; total spend £800k plus
+£170k on building works. The BIG facility also offers a strategic environment to start and explore
+new industrial opportunities, such as Handaxe (www.handaxe-cic.com) and Ultraleap
+(Ultraleap.com).
+The Faculty’s Technical Services team (67.4 FTE) provides expert support to enable the smooth
+and safe running of labs, workshops and research facilities.
+Use of cross-HEI UK/Overseas research infrastructure
+ARCHER is the UK National Supercomputing Service which provides an invaluable resource for
+researchers who study problems with a global impact. It is also part of the PRACE initiative, giving
+leading scientific users access to a European pool of supercomputers. McIntosh-Smith used
+ARCHER during the ASiMoV project and is a member of the Project Board for the delivery of its
+successor, ARCHER2.
+                                                                                               Page 22
+
+
+Unit-level environment template (REF5b)
+Microelectronics researchers make use of a foundry based in Cardiff University through the GW4
+equipment-sharing framework.
+ 4. Collaboration and contribution to the research base, economy and society
+Research Collaborations
+The ILO links industry partners to academic expertise, helping to facilitate new collaborations whilst
+also providing stewardship to support and develop long-standing collaborations with key partners
+across multiple research areas. It also hosts Faculty-wide research showcase events that
+celebrate both the breadth and depth of our research and enables existing and new industry
+contacts to engage with our academics and learn about the latest developments.
+Within UoA11, examples of industry collaboration include the staff secondments and joint
+appointments described in Section 2, and additionally Cartlidge’s Senior Lectureship sponsored by
+Refinitiv, Bullock’s Toshiba Chair, partners involved with the CDTs (c. 10 each), leading a UoB-
+wide data science partnership with LV=GI, Prosperity Partnerships with Thales and Rolls-Royce,
+an academic partnership with the Met Office, and continued engagement with companies which
+were spun out of UoB (e.g. Ultraleap, XMOS, Graphcore). We are an ARM Centre of Excellence,
+Centre of Excellence for Cybersecurity Research (ACE-CSR) and have the only UK strategic
+relationship with Netflix.
+We capitalise on dedicated funding opportunities both within UoB (such as the Benjamin Meaker
+Distinguished Visiting Professorships and the International Strategic Fund - five and four awards
+respectively) and from external funding bodies (such as H2020 and Global Challenges Research
+Fund) to facilitate collaborations with academic and industrial partners based outside the UK.
+Table 4 shows that most of UoA11’s outputs are the result of collaboration and, as is often found,
+papers with wider collaborations attract more citations.
+Table 4. UoA11 REF outputs by collaboration type.
+   Metric                    %          No. outputs   Citations       Average         Field-
+                                                                      number of       weighted
+                                                                      citations/      citation
+                                                                      publication     impact
+   International             47.9%      58            1723            29.7            5.36
+   Collaboration
+   UK collaboration          22.3%      27            708             26.2            3.65
+   Intra-institutional       28.1%      34            596             17.5            3.77
+   collaboration
+   No collaboration          1.6%       2             36              18.0            3.88
+                                                                                              Page 23
+
+
+Unit-level environment template (REF5b)
+Relationships with research users
+We encourage all researchers to actively engage with the public through a range of channels:
+    •    Faculty and UoB blogs, social media accounts and press releases
+    •    academics’ individual social media accounts (e.g. Hauert has 5,600 followers on Twitter
+         and she is president and co-founder of @Robohub, a non-profit dedicated to connecting
+         the robotics community to the world which has 21,300 Twitter followers)
+    •    travelling series of lectures in large venues, each attracting audiences of 1,000+
+         schoolchildren via GCSE Science Live and Science in Action (Cliff)
+    •    writing children’s books (Lepora)
+    •    public lectures on the web (Hauert)
+    •    appearances on radio and TV, including presenting and co-authoring an award-winning
+         one-hour science documentary ‘The Joy of Logic’ for BBC4 (Cliff).
+Our researchers take part in Pint of Science, Cafés Scientifiques and the Bristol Neuroscience
+Festival. Houghton choreographed a dance describing mathematical ideas in the work of Beckett
+which was performed by the John Scott Dance company and reviewed in national papers - the
+video of the work attracted 9,000 views.
+VI-Lab played a key role, working with the Bristol Mayor and colleagues across the creative sector,
+in attracting Channel 4’s new Creative Hub to Bristol. VI-Lab won the IEEE International Grand
+Challenge for Video Compression in 2017 and related work on video coding was applied by the
+BBC in creating programmes such as Blue Planet 2. This led to an MPEG VVC submission on
+Deep Visual Compression (ranked as one of the highest single-tool gains) and led to an invitation
+(Bull) to participate in the Alliance for Open Media.
+Media appearances include:
+    •    BBC Joy of Data (2016): Cliff and Flach
+    •    EU Parliament, BBC Radio: Cristianini
+    •    New Scientist Live: Hauser
+    •    Venice Film Festival 2019: Cater
+    •    BBC News Tonight, BBC Politics Live, German and Austrian national radio, print interviews
+         (Wired.com, New Scientist, The Verge): Schien
+    •    BBC Radio, BBC Digital Planet and Discovery Channel with interviews in The Economist,
+         IEEE Spectrum, New Scientist, El Pais (Spain), and Vocable Magazine (France): Mayol-
+         Cuevas
+    •    Impossible Garden (exhibition in Bristol Botanic Garden), BBC and Local news: Bull
+    •    OneShow (BBC) coverage of Friesian Cattle Identification: Burghardt
+Wider Contributions to Society
+    •    Board of Directors of Unbound Tech (Smart, 2013-2019)
+    •    Advisor to Enveil (Smart, 2017-present)
+    •    Zama (Smart, 2020-present)
+    •    Cosmian (Smart, 2019-present)
+    •    Advisor to SETL (Smart, 2016-2019)
+    •    Consulting to Unrest Ltd, Lux Health, and Airbus (Flach, 2016-2019)
+    •    Scientific Advisory Board of Adarga and XMOS (Flach, 2019-present)
+                                                                                            Page 24
+
+
+Unit-level environment template (REF5b)
+    •   Consultant for Diffblue Ltd (David, 2017-2019)
+    •   Consultant for Semafone Ltd (Dupressoir, 2018)
+Sustainability of the Discipline
+The CDTs are training a new generation of interdisciplinary researchers and future leaders. For
+example, the Cybersecurity CDT trains students to develop interdisciplinary approaches to tackle
+TIPS issues in the large-scale, hyper-connected infrastructures of the future. In the REPHRAIN
+project, a cybersecurity toolbox is being developed as a one-stop shared set of resources for
+researchers, practitioners, policymakers, regulators, and citizens. This will allow the public to
+contribute to a world-first Privacy Enhancing Technologies (PETs) testbed, datasets, benchmarks,
+reference scenarios and validated novel tools, method and prototypes. VI-Lab is a key partner in
+BVI, an internationally-leading interdisciplinary collaboration of some 160 researchers across
+computer science, engineering, psychology, biology, medicine and the creative arts.
+A key part of the research vision for TQEC (see REF5a) is to build on our expertise in application-
+based research to pioneer a co-creation and co-production approach across social, computer
+sciences, engineering and the arts, to bring researchers together with industrial and civic partners
+to define new methods for sociotechnical innovation and address cross-sector challenges. This is
+supported by UoA11’s involvement in flagship activities, such as the CDTs, BDFI, MyWorld, and
+REPHRAIN. Special facilities will be constructed in the next two years, including a co-creation
+research arena, public engagement spaces, and a reality emulator to enable sociotechnical
+research at realistic conditions and scale. These facilities are complemented by a Digital Health
+hub (to support ‘in the wild’ testing of devices and systems) and an immersive auditorium for large
+scale audience experience evaluation, based on a fusion of physiological measurements and
+collective behaviours to assess immersion.
+Influence and Recognition
+Editors and editorial boards:
+    •   Editors in chief:
+            o Machine Learning (Flach)
+            o IET journal of Computer Vision (Mirmehdi)
+            o Cyber Security Body of Knowledge (Rashid)
+    •   Associate editors:
+            o IET Computer and Digital Techniques (Nunez-Yanez)
+            o Pattern Recognition (Damen, Mirmehdi)
+            o Pattern Analysis and Applications (Damen, Mirmehdi)
+            o International Journal of Computer Vision (Damen)
+            o IET Computer Vision (Burghardt)
+            o IET Software (David)
+            o IEEE Transactions on Computational Imaging (Achim)
+            o Digital Signal Processing (Achim)
+            o IEEE Trans CSVT (Bull)
+            o IEEE TPAMI (Damen)
+            o Special Interest Group for Computer Interaction (Metatla)
+                                                                                               Page 25
+
+
+Unit-level environment template (REF5b)
+    •  Editorial boards:
+            o IEEE Transactions on Image Processing (Achim)
+            o Remote Sensing (Achim)
+Learned societies:
+    •  European Association for Data Science (Flach President, 2018)
+    •  International Association for Cryptologic Research (Smart Vice-President, 2014)
+    •  British Machine Vision Society (Mirmehdi Executive Member, 2000)
+    •  IET Vision & Imaging Network (Mirmehdi, 2014)
+    •  Bio Imaging and Signal Processing Technical Committee of the IEEE Signal Processing
+       Society (Achim, 2014-2015)
+    •  IEEE Geoscience and Remote Sensing Society’s Image Analysis and Data Fusion
+       Technical Committee (Achim, 2007)
+    •  UK DSTL ISTAR Concepts and Solutions Panel (Bull, 2015)
+    •  HEFCE REF2014 UoA-13 panel member (Bull)
+    •  IEEE Image, Video and Multimedia Tech Committee (Bull 2016)
+    •  Governing Board member of the IAPR (Mirmehdi)
+    •  Marie Curie Alumni Association (Nunez-Yanez, 2010)
+    •  EPSRC, Royal Society grant colleges and the EU Eureka network of review experts
+       (Nunez-Yanez, 2015)
+National advisory roles:
+    •  Academic Advisory Board for the UK Financial Conduct Authority (Cliff)
+    •  UK Government Office for Science Blackett Review of Financial Technology in the UK
+       (Cliff, 2014-15)
+    •  Advisory Board for the UK Financial Services Knowledge-Transfer Network (Cliff, 2010-
+       2014).
+    •  EPSRC ICT SAT (Liu, 2017-2021)
+    •  EPSRC Digital Economy SAT (Rashid, 2017-2021)
+    •  Chair of Scientific Advisory Board for the EPSRC-NCSC Research Institute on Science of
+       Cyber Security (Rashid, 2019-present)
+    •  EPSRC's e-infrastructure SAT member, (McIntosh-Smith, 2011-2014)
+    •  EPSRC Strategic Advisory Network (Bull, 2014-18)
+    •  Steering Group of EPSRC funded “Network on the V&V of Autonomous Systems” (Eder,
+       2015-present)
+    •  REF2021 Institutional Level Environment Statement Pilot Panel member (Liu)
+    •  Member of the Royal Society Dorothy Hodgkin Fellowship Panel (Eder, 2018-present)
+    •  Member of the UKRI Future Leader Fellowship peer review college (McIntosh-Smith, 2018-
+       present)
+    •  Steering Group member of the Innovate UK, Technology Strategy Board (Eder, 2012-2016)
+International advisory roles:
+    •  Invited by the UK government (BEIS) on the recommendation of EPSRC to be one of the
+       UK’s two representatives on the European e-infrastructure reflections group (e-IRG)
+       (McIntosh-Smith, 2018-present)
+    •  Member of two international standards bodies: Khronos’ OpenCL, 2012-present, and
+       OpenMP Architecture Review Board (ARB) 2016-present (McIntosh-Smith)
+                                                                                          Page 26
+
+
+Unit-level environment template (REF5b)
+   •   Advisory board of the ICTFootprint.EU H2020 project (Schien, 2016-2019)
+   •   Member of Amazon.com's Academic Advisory Council (Mayol-Cuevas, 2018-present).
+Major Fellows:
+   •   FBCS (Cliff)
+   •   FRS, FREng (May)
+   •   FIEEE (Bull, Pitas), FIET (Bull)
+   •   Fellow of the International Association of Cryptologic Research (Smart)
+   •   Fellow of the International Association for Pattern Recognition (Mirmehdi)
+   •   Fellow of the British Machine Vision Association (Mirmehdi).
+Awards and prizes:
+   •   IEEE Video Compression Grand Challenge winner (Bull, Zhang, Afonso)
+   •   HPCwire Readers’ Choice Award for Outstanding Leadership in HPC (McIntosh-Smith)
+   •   Samsung Electronics' Global Research Outreach Award (Mayol-Cuevas)
+   •   Google Faculty Research Award (Bull)
+   •   Outstanding Reviewer, CVPR (Damen)
+   •   Best Oral Presentation Award Committee Picture Coding Symposium 2019 (Katsenou)
+   •   HPCwire Readers’ Choice Award - 'Best HPC Collaboration:
+       Academia/Government/Industry’ (McIntosh-Smith)
+   •   CloudLightning’s list of the 20 most influential people in HPC and Supercomputing
+       (McIntosh-Smith)
+   •   R&D 100 award (McIntosh-Smith in collaboration with Sandia National Laboratory, AWE
+       Ltd, and Warwick University)
+   •   IBM best paper (Smart, 2014)
+   •   AHA conference with FPGA instrumentation for low energy computing (Nunez-Yanez,
+       2014)
+   •   ICALP best paper (Lapinskas, 2016)
+   •   Best paper Applied Reconfigurable Computing conference (Nunez-Yanez, 2016)
+   •   IPEC best paper (Lapinskas, 2017)
+   •   Best paper IEEE Computational Intelligence for Financial Engineering (Cliff, 2018)
+   •   Best paper CUG 2019 award in Montréal, Canada (Simon McIntosh-Smith, 2019)
+   •   Winner of basic and clinical sciences category - British Medical Association book awards
+       (Lepora, 2019).
+Conference Organisation
+We have provided general conference chairs for:
+   •   IndoCrypt (2017, Smart)
+   •   CT-RSA (2018, Smart)
+   •   International Conference on ICT for Sustainability (2020, Schien)
+   •   IEEE Picture Coding Symposium (2021) (Bull)
+Programme chairs include those provided for BMVC (2019) and symposium chairs include
+FENS (2020).
+                                                                                           Page 27
+
+
+Unit-level environment template (REF5b)
+VI-Lab staff have held 26 major conference organising committee positions including 12 general
+chair and five programme chair roles.
+Associate chairs:
+    •   CHI (2016, Roudaut)
+    •   MobileHCI (2017, Roudaut)
+    •   SIGACCESS 2020 and IDC 2020 (Metatla).
+Invited Talks (selected)
+Staff have delivered over 20 keynote/plenary and invited lectures including:
+    •   ISETC2018 (Achim)
+    •   IET ISP2015, Beyond 18, 19 and AoM Workshop (Bull)
+    •   Intl Workshop on Vision and Control for Autonomous Drones (Calway)
+    •   VISAPP 2019 and NCVPRIPG 2019 (Damen)
+    •   ISICS 2020, Pattern Recognition and Computer Vision Colloquium 2015, BMVA workshop
+        2015, Mexican Academy of Computing 2018, Spanish Technical Committee of Computer
+        Vision 2015 (Mayol-Cuevas)
+    •   Ministry of Defence (Hauser)
+    •   NFS funded Embodied Intelligence in Electronics workshop; ALIFE 2018 (Bullock)
+    •   VIVA2020, IEEE AI Test Conference 2020 (Eder)
+    •   PharmaTec Congress 2019 (Campbell)
+    •   Arm Partner Meeting 2019, P3MA, US DoD/DoE workshop 2019, OpenMPCon/IWOMP
+        2016 (McIntosh-Smith)
+    •   VizCHI 2019 (Metatla)
+    •   EuroCrypt 2017 (Smart)
+    •   BRACIS 2017, IDA 2020 (Flach)
+    •   FLOC mentoring workshop 2018, Facebook Testing and Verification Symposium 2019
+        (David)
+    •   Google and the Tyndall Centre for Climate Change on sustainable digital services (Schien,
+        2017).
+Collaborative PGR training
+Co-tutelle arrangements: Thessaloniki on MULTIDRONE project; University of Seville and Aristotle
+University of Thessaloniki.
+                                                                                          Page 28

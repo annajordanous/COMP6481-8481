@@ -1,0 +1,414 @@
+Institutional level environment template (REF5a)
+ Institution: University of Kent
+ 1. Context and mission
+ The University of Kent was founded in 1965 as a new kind of civic university with an
+ interdisciplinary ethos that would enable our research community to venture beyond traditional
+ disciplinary boundaries to address research questions of regional, national, and international
+ importance. This interdisciplinary ethos has endured, and is now complemented by a commitment
+ to research with the potential to achieve significant cultural, economic, and social impact. A key
+ strand in our mission as a civic university is to serve as a cultural and socio-economic hub for the
+ Kent and Medway region. A major step-change in this engagement with the region since 2014
+ was the opening in 2020 on our Canterbury campus of the Kent and Medway Medical School
+ (KMMS), in partnership with Canterbury Christ Church University. KMMS is an important addition
+ to our broader research and education portfolio in health, social care, and wellbeing. That portfolio
+ includes the East Kent Community Education Provider Network, the Computational Biology
+ Centre, the Personal Social Services Research Unit (PSSRU), the Tizard Centre, and the Centre
+ for Health Services Studies (CHSS). The latter hosts the National Institute for Health Research
+ (NIHR) Research Design Service South East, leads the NIHR Applied Research Collaboration,
+ Kent Surrey, and Sussex (ARCKSS), and has research expertise in public health, primary care,
+ health policy, health psychology, and palliative care. In addition to health, social care, and
+ wellbeing, our research strengths are reflected in our three recently established Signature
+ Research Themes – Environment, Food Systems, and Natural Resources; Future Human; and
+ Migration and Movement – as well as in our four research institutes and numerous research
+ centres.
+ The Kent and Medway area includes pockets of significant social and economic deprivation,
+ particularly along the coastal belt. To address these challenges, and to develop the Thames
+ Estuary Production Corridor, we work closely with regional partners. These include: the Beaney
+ House of Art and Knowledge (Canterbury); Discovery Park (Sandwich); Chatham Historic
+ Dockyard Trust (Medway); Canterbury Cathedral (with which we signed a memorandum of
+ understanding in 2013); and the Canterbury and District University of the Third Age. The University
+ is home to the Gulbenkian arts complex – an Arts Council England National Portfolio Organisation
+ – and the award-winning Colyer-Fergusson concert hall, as well as two other National Portfolio
+ Organisations: Cement Fields (formerly the Whitstable Biennial) and People United.
+ Beyond our regional and national focus, our International Partnerships directorate manages the
+ University’s International Visiting Academic Network, and coordinates events for the Global
+ Research Opportunities Workshop. Since 2014, our international partnership activities have
+ enabled a range of joint seed-funding programmes, including the Kent-Ghent call, which has
+ supported 45 research projects. We have recently launched an Interregional Internationalisation
+ Initiative (3i) with the universities of Ghent, Leuven, and Lille. Our international joint doctoral
+ programmes include: the EU-funded Text and Event in Early Modern Europe (TEEME), with
+ partner institutions in the Czech Republic, Germany, and Portugal; and MOVES: Migration and
+ Modernity: Historical and Cultural Challenges. In addition to our two main campuses in Canterbury
+ and Medway, we also benefit from two specialist postgraduate centres on the Continent: the
+ Brussels School of International Studies and the Paris School of Arts and Culture, as well as the
+ Kent-Paris Research Institute (a collaboration with Columbia University).
+ Having grown significantly over the past half-century, the University now consists of over 18,000
+ students (20% of whom are postgraduates) and an academic staff base of 952.82 FTE, of whom
+ 73.2% are on REF-eligible Education and Research (E&R) contracts and 26.8% on Education,
+ Scholarship, and Professional Practice (ES&P) contracts. In addition, we employ 251 research-
+ only staff, of whom 35 are independent and thus eligible for submission to the REF. Our academic
+ workforce profile reflects our dual-intensity commitment to research and education, and to
+ research-informed teaching in which our students are active participants. The breadth and depth
+ of our research portfolio is reflected in our submitting 26 Units of Assessment to REF2021,
+ including 84 impact case studies.
+                                                                                               Page 1
+
+
+Institutional level environment template (REF5a)
+ In 2019-20, the University undertook a large-scale reorganisation (Organising for Success),
+ designed in part to ensure that our interdisciplinary approach to research is appropriately
+ supported by our institutional structures in a 21st-century context. Our research and teaching
+ activities are now housed within six academic Divisions: Arts and Humanities; Computing,
+ Engineering and Mathematical Sciences; Human and Social Sciences; Kent Business School;
+ Law, Society and Social Justice; and Natural Sciences. Prior to this reorganisation, the University’s
+ academic units consisted of 19 single or multi-subject Schools and 3 Centres, within three
+ Faculties: Humanities; Sciences; and Social Sciences. Our new Divisions are fully integrated multi-
+ and interdisciplinary structures with localised professional service teams as well as Divisional
+ academic teams working across Schools and Departments. Our Divisional Directors of Research
+ and Innovation and their teams work closely with our central Research and Innovation Services
+ (RIS) team, to support research both within and across Divisions. In addition to the various Schools
+ and Departments within the six Divisions, our researchers also benefit from 4 research institutes
+ (three of which were established in 2020) and over 50 research centres. Our research institutes
+ are: the Durrell Institute of Conservation and Ecology (DICE), which received a Queen’s
+ Anniversary Prize in 2019; the Institute of Biotechnology and Molecular Medicine (IBaMM); the
+ Institute of Cyber Security for Society (iCSS); and the Institute of Cultural and Creative Industries
+ (iCCi), which will build on our 2018 memorandum of understanding with Arts Council England.
+ 2. Strategy
+ Enabling and actualising impact
+ At the heart of our institutional research strategy is the recognition that cutting-edge 21st-century
+ research needs to address global challenges, and to achieve a positive impact socially,
+ economically, and culturally. Our University Strategy 2025 places the emphasis squarely on
+ socially transformative interdisciplinary research across our institutional portfolio. Our three
+ University-wide Signature Research Themes reflect areas of particular strength in interdisciplinary
+ work, as well as our strategic priorities. These themes are supported by central resource (£150k
+ per annum plus six fully-funded PhD Studentships per annum), and are designed to be both
+ dynamic and responsive. In addition, we are supporting five new University-wide research
+ networks that have been developed alongside our SRTs since 2014. These networks are: Artificial
+ Intelligence in the Public Interest; Conflict, Security, Rights, and Violence; Digital Culture (these
+ three include iCSS); Heritage, Technologies, and Futures; and Inequalities and Diversity. With the
+ opening of our Medical School in 2020, we are also in a strong position to develop further our
+ research profile in health and wellbeing, complementing well-established strengths in social care.
+ The University is an active member of the Universities Policy Engagement Network, and our
+ researchers have contributed to the growth in research evidence being used by national policy-
+ makers. Recent examples include: one of our researchers being invited to sit on the panel of
+ experts convened for the House of Lords Science and Technology Committee in 2019 to consider
+ how science and technology can enable healthier living in old age; and another of our researchers
+ serving as an expert witness for both the Independent Inquiry into Child Sexual Abuse and the
+ Scottish Child Abuse Inquiry (2016-20). Our support for impactful research sits alongside our
+ longstanding commitment to public engagement with research, reflected in the Kent Public
+ Engagement with Research Network. With funding from the UKRI scheme Strategic Support to
+ Expedite Embedding Public Engagement with Research, we have worked closely with the National
+ Coordinating Centre for Public Engagement to create an action plan for the further development
+ of our infrastructure and our support for researchers to engage with the public.
+ Our Medway campus is home to Kent and Medway Television (KMTV), a public service OFCOM-
+ regulated television broadcaster. Part-owned by the University, this station transmits locally to the
+ county of Kent and to 13 million households across the UK through the wider local television
+ network. The opportunity to create research documentaries, as well as educational programmes
+ and events, that can reach a mass audience has established a unique pathway to impact for our
+ researchers, both regionally and nationally. Our ‘Think Kent’ programme curates all events and
+ activities designed for a non-specialist audience. The University participates in several national
+ and international festivals, including Being Human, Pint of Science, and Soapbox Science. Our
+                                                                                                Page 2
+
+
+Institutional level environment template (REF5a)
+ Public Engagement with Research Fund enables our researchers to establish relationships with
+ potential research beneficiaries and to test their ideas, often in preparation for research funding
+ applications. The Fund has supported the development of over 60 projects since 2016, including
+ a Festival of Ideas at Canterbury Cathedral.
+ To enhance the impact of our research, we have embedded knowledge, systems, and processes
+ within our institutional structures. Examples include: an annual University-wide Maximise Your
+ Research Impact conference; bespoke impact training through the University-wide Early Career
+ Researcher Network; regular sessions on achieving research impact delivered by the University’s
+ Office for Scholarly Communication; and one-to-one training and support for staff seeking to
+ achieve impact provided by the impact team in our Research and Innovation Services department.
+ Since 2014, we have invested over £300k from central University funds to support research with
+ the potential to achieve significant impact. We have also invested in impact capture software
+ provided by Vertigo Ventures, including training for all our researchers. We have established a
+ University-level Impact Strategy Group to share best practice across the institution, and we employ
+ two full-time Research Impact Officers within our central RIS team.
+ In 2018, the University signed a memorandum of understanding with Arts Council England to work
+ together on research in arts, health, and wellbeing, and to promote the engagement of children
+ and young adults in the Kent and Medway region with arts and culture, explicitly addressing
+ inequalities of opportunity. In 2019, the University was awarded £4.3 million from the Department
+ for Digital, Culture, Media and Sport’s Cultural Development Fund, administered by Arts Council
+ England on behalf of a partnership delivering the Thames Estuary Production Corridor vision. This
+ resource is supporting the development of cultural infrastructure, training, and capacity building
+ for local businesses, and the creation of over 500 creative industry jobs, while also providing skills
+ and qualifications to over 200 workers and 60 apprenticeship opportunities for young people in the
+ region. In order to lead in the development of collaborations between HEIs and regional
+ cultural organisations and networks such as the Kent Cultural Transformation Board and
+ the South East Creative Economy Network, we have recently partnered with other HEIs to
+ form the South-East Cultural Innovation Forum. Established in 2020 to build capacity in culture
+ and creativity, the University’s Institute of Cultural and Creative Industries (iCCi) supports our
+ ambitions to be a key partner in Medway’s strategic repositioning as a Creative City, with its bid
+ to be the UK City of Culture in 2025. The launch of iCCi has been supported by £608k in central
+ funding. Partnerships developed with industry and national bodies such as the Creative Industries
+ Federation are opening up new opportunities for innovative collaborative research with the
+ potential for significant impact over the next decade, as is our engagement with Creative Estuary.
+ Research integrity
+ Reflecting our institutional commitment to maintaining the highest standards of research
+ excellence and integrity, we uphold all the principles in the Concordat to Support Research
+ Integrity (UUK, 2012; revised in 2019), and support our researchers to ensure that they conduct
+ their research with the relevant ethical and legal standards through our Research Integrity: Code
+ of Ethical Practice for Research Policy. The University’s Research Ethics and Governance
+ Committee (REGC) regulates and monitors the work of the Research Ethics Advisory Groups
+ (REAGs) within our academic Divisions. (Prior to the establishment of the Divisional structure in
+ 2020, our REAGs sat at Faculty level.) To ensure the highest principles of ethical integrity, the
+ REGC reports directly to Senate and thence to the University Ethics Committee, with a report for
+ note being received by the University Research and Innovation Board.
+ Our Code of Practice for the Investigation of Allegations of Misconduct in Research sets out
+ examples of poor research practice that can lead to research misconduct, and the procedures for
+ the investigation of allegations of misconduct. The University has a whistleblowing process that
+ enables concerns regarding research integrity or research misconduct to be raised anonymously
+ and then formally investigated by the REGC.
+                                                                                                Page 3
+
+
+Institutional level environment template (REF5a)
+ Open research
+ As a civic university, we believe that open research enhances the sharing of leading-edge
+ knowledge and thus creates greater opportunities to achieve socially beneficial transformation.
+ Since 2014, our commitment to open research has been demonstrated by our being the second
+ HEI in the UK to establish an Office for Scholarly Communication (OSC). Our OSC supports
+ researchers with all aspects of open research across the research lifecycle. Training is provided
+ for our researchers on copyright, intellectual property, and engagement with the media. The OSC
+ participates regularly in national and international debates on metadata, metrics, and open access.
+ For the three-year term 2017-20, it was also represented on the LIBER Innovative Metrics Working
+ Group. The University is a signatory to the San Francisco Declaration on Research Assessment,
+ and subscribes to the principles of the Leiden Manifesto. In 2019, we hosted the first UK Scholarly
+ Communications Conference and also co-authored the Metric Tide Report.
+ Our Open Access (OA) and Data Management policies mandate OA via any route and facilitate
+ this through the Kent Academic Repository (containing 57,466 items, a third of which are openly
+ available) and the Kent Data Repository. Since 2014, we have invested £968k in OA, including
+ institutional funding of £327k in addition to UKRI grants and contributions to community initiatives.
+ OA is strongly encouraged for all outputs, and extends beyond the OA REF requirements. It is
+ embedded in our research skills training from undergraduate level upwards and also in the
+ management of our central Templeman Library resources. We participate in many Read and
+ Publish agreements.
+ Supporting interdisciplinary research
+ Our commitment to interdisciplinary research is a longstanding one, and a core part of our
+ institutional mission. To enable our researchers to take full advantage of regional, national, and
+ international opportunities for interdisciplinary research, in 2020 we established three University-
+ wide Signature Research Themes, these being supported by a University-level leadership team
+ from across all six academic Divisions. The importance of interdisciplinary research is also
+ reflected in our being a founding member of the Eastern Academic Research Consortium (Eastern
+ ARC), a strategic collaboration between the universities of Kent, Essex, and East Anglia launched
+ in 2013-14. Eastern ARC’s Enabling Innovation: Research to Application (EIRA) network
+ (supported since 2017 by the UKRI Connecting Capability Fund) has established a collaborative
+ environment focused on delivering knowledge exchange and research support to industry. In its
+ first five years, Eastern ARC’s three research themes were Digital Humanities, Synthetic Biology,
+ and Quantitative Social Science. In that period, the consortium funded 21 studentships and 9
+ fellowships, organised over 60 workshops and other events, resulting in more than £21.4 million
+ in research and innovation funding. In its second phase, starting in 2020, the consortium is
+ focusing on four areas of joint strength that address the UN’s Sustainable Development Goals:
+ Health Systems, Social Care and Wellbeing; Human Rights, Equality and Conflict; Sustainability,
+ Natural Resources and Food; and Culture, Connection and Creativity. It has appointed 14 thematic
+ champions across the three institutions to facilitate this, and has already provided seed funding
+ for 11 collaborative projects. Eastern ARC has also launched a research mentoring scheme, and
+ is coordinating the sharing of the three universities’ equipment and special collections, including
+ the British Cartoon Archive (Kent), the Essex Collection of Art from Latin America, and the Robert
+ and Lisa Sainsbury Collection (UEA). We lead the NIHR ARCKSS, a collaboration of universities
+ and NHS and social care organisations. This £13.5 million investment by NIHR, NHS, and local
+ authorities is strengthening research activity, capacity, and care services in the region.
+ 3. People
+ Staffing strategy
+ Our staffing strategy is designed to ensure that Kent is an inclusive, diverse, and attractive place
+ to work. We seek to recruit academics with the greatest potential to produce world-leading
+ research and the highest-quality research-informed educational experience. Our Staff
+ Recruitment Policy provides an overarching framework for the recruitment of staff, and promotes
+ equality of opportunity. All members of recruitment and other staffing-related panels are required
+                                                                                               Page 4
+
+
+Institutional level environment template (REF5a)
+ to undertake EDI training. The majority of our academic staff are appointed at lecturer level,
+ reflecting our commitment to supporting the next generation of researchers. Since 2014, we have
+ appointed 330 academic staff on Education and Research (E&R) contracts, 170 staff on
+ Education, Scholarship and Professional Practice (ES&P) contracts, and 41 staff on Academic
+ Teaching Only contracts. The University has also engaged 570 individuals onto its Graduate
+ Teaching Programme. As a result of the University-wide Academic Workforce Profile Project in
+ 2018, which was established in order to deliver on our commitment to anti-casualisation and to
+ ensuring the appropriate balance between E&R and ES&P staff across our academic units, we
+ created 14 new ES&P posts for staff hitherto on non-substantive contracts. The result of the project
+ reduced our non-substantive academic staff base by 66%.
+ For both E&R and ES&P staff appointed to entry-level positions, the standard probationary period
+ is three years. All Probationers are supported by a Probation Supervisor. Those Probationers who
+ are required to complete the Postgraduate Certificate of Higher Education also benefit from a
+ Mentor as well as significant teaching relief during their probationary period: normally a 50%
+ reduction in year one, 25% in year two, and 10% in year three. In the case of Probationers who
+ have already been awarded the PGCHE or a similar qualification on appointment, the standard
+ teaching relief is 10% over the three years of the probationary period. This teaching reduction
+ supports ECRs in developing their research profiles, and is complemented by additional research
+ funding at School/Department level for ECRs as well as research mentoring. Our new Divisional
+ research committees are required to include ECR representatives. Once our academic staff have
+ passed Probation, they are supported through an annual individual appraisal (‘Reflect, Plan,
+ Develop’) process. In addition, annual Individual Research Planning (IRP) meetings are arranged
+ for all staff on E&R contracts. All academic staff are eligible to apply for University-funded study
+ leave on a regular basis. The accrual period for one term’s internally funded study leave is
+ currently 72 weeks. Applications for study leave are supported by subject-specific research teams,
+ and are also planned at the annual IRPs.
+ In order to support the career development of our academic staff, in 2019 the University
+ established its new Academic Career Map (ACM), a fine-grained framework setting out University-
+ wide expectations for academic staff at all stages in their career, from Probationer and ECR
+ through to Professor. The ACM includes indicative examples of activities, standards, and
+ behaviours, and is designed to incentivise academic staff to undertake the highest-quality
+ research, with an emphasis on external engagement, impact, and research integrity. It also
+ highlights the importance of good citizenship, and of working collaboratively and supportively.
+ Since 2014, 190 academic staff have been promoted from Lecturer to Senior Lecturer, 105 to
+ Reader, and 68 to Professor. Our current professorial profile is 38% female and 62% male, while
+ 14% of our Readers and Professors are black, Asian, and minority ethnic.
+ The University’s Human Resources Leadership and Organisational Development team offers a
+ range of regular development programmes designed for academic staff at various career stages.
+ Courses offered since 2014 have included the Leadership for Areas of Significant Responsibility
+ and the New Senior Leaders programmes, with 155 academic staff (of whom 48% were female)
+ having been enrolled on these two programmes in that period. Also launched since 2014, the
+ Aurora programme addresses career progression barriers faced primarily by female academics.
+ In 2013, the University achieved the European Commission’s HR Excellence in Research Award,
+ reflecting our commitment to implementing the Researcher Development Concordat and the
+ European Charter for Researchers and Code of Conduct for their Recruitment. The University
+ successfully retained this Award in 2020, following its six-year review, validating our long-term
+ commitment to the career development of our researchers.
+ The health and wellbeing of our staff and students is an absolute priority, and this is an area that
+ has received significant additional resource since the outbreak of the Covid-19 pandemic. Support
+ is provided by the University Counselling Service, to which staff are able to self-refer and from
+ which they are entitled to up to five individual counselling sessions. The University’s Occupational
+ Health and Wellbeing Team provides guidance to line managers on how to support staff wellbeing.
+ The annual ‘Belong and Grow’ week of events led by our HR Learning and Organisational
+                                                                                               Page 5
+
+
+Institutional level environment template (REF5a)
+ Development team includes sessions covering topics such as EDI, Unconscious Bias, and
+ Wellbeing Awareness. Recent events have included an International Day against Homophobia,
+ Transphobia and Biphobia, a Staff Network Day, and a Deaf Awareness Week.
+ Support and training of research students
+ Providing the requisite support and training for our research students is one of the University’s
+ highest priorities, and is led by our Graduate and Researcher College (GRC), which in 2020
+ replaced our Graduate School (founded in 2008) in order to join up our postgraduate support with
+ researcher development across the whole academic life cycle. Like its predecessor, the GRC
+ regularly evaluates its programmes and activities based on student and staff feedback to ensure
+ that they continue to provide the highest-quality postgraduate research experience in line with the
+ guidance of the UK Quality Code for HE and the UKRI Expectations for Doctoral Training. In their
+ first term, all our PhD students undertake a Researcher Development Assessment to enable them
+ to produce a Personal Development Plan. Our Researcher Development Programme, which is
+ mapped onto the national Vitae Researcher Development Framework, offers over 300 research
+ and transferable skills training sessions annually. As well as networking and funding opportunities
+ for our postgraduate research community, including regular research cafés, an annual
+ postgraduate festival, mental health and wellbeing activities, and postgraduate experience
+ awards, since 2020 the GRC has also provided a compulsory development programme for
+ research degree supervisors. The GRC manages our well-established ECR Network, as well as
+ the annual ‘Grants Factory’ programme for staff at all career stages. In addition, the University’s
+ Unit for the Enhancement of Learning and Teaching provides a range of training opportunities for
+ our ECRs, including the PGCHE.
+ Our research students benefit from a number of well-established doctoral training partnerships
+ (DTPs). The University is a member of the Arts and Humanities Research Council (AHRC)
+ Consortium for the Humanities and the Arts South-East England (CHASE); the Economic and
+ Social Research Council (ESRC) South East Network for Social Sciences (SeNSS); the Natural
+ Environment Research Council (NERC) Advanced Research and Innovation in the Environmental
+ Sciences (ARIES) DTP; and the Biotechnology and Biological Sciences Research Council
+ (BBSRC) DTP: South Coast Biosciences (SoCoBio). In addition, we receive doctoral funding from
+ the Engineering and Physical Sciences Research Council (EPSRC) for 10-12 PhD studentships
+ per annum. All of our DPTs are managed by our Graduate and Researcher College, and provide
+ high-quality research training opportunities for our doctoral students and supervisors. In 2018, the
+ University established its own Global Challenges Doctoral Centre (GCDC), dedicated to research
+ projects that address the challenges to economic development and wellbeing in developing
+ countries. The GCDC is central to our Global Challenges Research Fund strategy.
+ In addition to our DTPs, our support for graduate research students is also reflected in our having
+ funded over 60 Vice-Chancellor’s Research Scholarships per annum across the University since
+ 2014. This scheme has provided financial support to PGRs (tuition fees at the home rate plus a
+ maintenance award at the UK Research Council rate) in return for a limited amount of UG
+ teaching, significantly increasing the number of high-quality junior researchers across our principal
+ research areas. From 2020, as part of our strategic orientation towards interdisciplinary research,
+ 6 of these VC’s Research Scholarships will be attached annually to our three Signature Research
+ Themes.
+ Equality and diversity in research careers
+ The University is committed to the creation and support of a balanced, inclusive, and diverse
+ community of researchers. This commitment is reflected in our having achieved an Athena SWAN
+ institutional Bronze Award in 2014, and our submitting an application for an institutional Silver
+ Award in 2020. Nine of our academic Schools have achieved Bronze Awards, and the School of
+ Mathematics, Statistics and Actuarial Science has held a Silver Award since 2018. We are a
+ Disability Confident Employer and a Stonewall Diversity Champion. Our EDI activities are led by
+ a dedicated team within Human Resources and supported by an EDI Champion on our University
+ Executive Group. In our new Divisional structure, Deputy Directors of Division are the Divisional
+                                                                                                Page 6
+
+
+Institutional level environment template (REF5a)
+ EDI leads, and are members of the University’s Senate EDI Committee. Other institutional
+ networks that serve to support equality and diversity for our researchers include our Disability Staff
+ Network, the LGBT+ Staff Network, and the Women’s Network. In 2020, we applied for
+ membership of the Advance HE Race Equality Charter.
+ As our University EDI Policy makes clear, we seek to ensure that our staff and students are not
+ subjected to any form of discrimination, including in relation to a protected characteristic, contract
+ type, or trade union membership. Line managers have direct responsibility, and all members of
+ staff and students have personal responsibility, for the implementation of our EDI Policy, ensuring
+ that our staff have equitable access to internal funding, support for external funding applications
+ and conference attendance, and all career development opportunities, including promotion and
+ rewards. Our academic Schools are responsible for ensuring that the individual circumstances of
+ all staff are taken fully into account when supporting them in their careers. In the new Divisional
+ structure, Divisional EDI leads are required members of Divisional Promotions Committees, and
+ our Executive Group EDI Champion sits on the University Promotions Committee.
+ In addition to our University EDI Policy, we have established a suite of other HR policies, as well
+ as resources, to ensure that EDI is fully embedded in our governance structures and activities.
+ These include our University policies on Dignity at Work, Flexible Working Practices, and Family
+ Friendly Practices, as well as information for staff and students on protected characteristics
+ legislation and accessibility resources. All new staff are required to complete an e-learning module
+ on EDI and unconscious bias, with regular top-up sessions being provided for existing staff.
+ The University offers a range of flexible working options that enable our staff to achieve a work/life
+ balance that meets their individual circumstances and needs. These options include homeworking,
+ temporary reduced hours, and term-time-only working, supporting staff with caring responsibilities,
+ those suffering from ill-health, and those returning from periods of leave (including parental and
+ sickness leave). Appropriately reduced teaching loads are arranged for those staff returning from
+ maternity and sickness leave.
+ 4. Income, infrastructure and facilities
+ Income
+ As outlined in our University Strategy 2025, one of our core ambitions for research and innovation
+ is to build significantly on our achievement in external income to support the highest-quality
+ research. Since 2014, the University has been awarded 1,383 external grants, with a total value
+ of £124 million. This income has been secured from an increasingly wide range of funders, both
+ national and international, including all of the UKRI research councils, as well as the British
+ Academy, the Leverhulme Trust, the National Institute for Health Research, the Wellcome Trust,
+ and the European Commission. In comparison with the previous REF cycle, our research income
+ has increased by an average of 25.6% per annum since 2014.
+ In order to support further growth in research income, our Research and Innovation Services (RIS)
+ department includes a Funding and Partnership Development team, a Grants and Contracts
+ Management team, and an Accounts Management team. In addition, each of our six Divisions
+ includes a professional services Research and Innovation Management team. The responsibilities
+ of both the RIS and the Divisional teams include identifying relevant external funding opportunities,
+ as well as working closely with researchers to support larger interdisciplinary cross-Divisional
+ applications. Since 2014, the University has invested £375k per annum to support the production
+ of large and complex collaborative funding applications, including support for pilot projects as well
+ as travel and subsistence.
+ Infrastructure and facilities to support research and to enable and actualise impact
+ Since 2014, the University has invested over £190 million in facilities and resources to support
+ research and education at our Canterbury and Medway campuses, with a particular focus on
+ actualising impact. Following consultation with the University population and local stakeholders,
+                                                                                                 Page 7
+
+
+Institutional level environment template (REF5a)
+ in April 2019 the University published a Framework Masterplan for the continued development of
+ the physical infrastructure of our main campus at Canterbury. Refurbishment and improvement of
+ existing buildings and plans for new physical infrastructure will provide additional space for
+ research activity. Immediate priorities include the development of around 12,000sqm of academic
+ and administrative floor space; an investment in excess of £100 million. Our total institutional
+ investment in laboratory space and equipment since 2014 has been £14.8 million.
+ Since 2014, the main Templeman Library redevelopment has been completed, increasing the size
+ of the Library by a third so that it now offers over 400 additional study spaces, as well as a 260-
+ seat lecture theatre, a Special Collections and Archives Reading Room, exhibition space, café,
+ and a PG-exclusive study space (the Senate Hub). In 2015, the Dockyard Church and the Sail
+ and Colour Loft (Medway) were completely refurbished to include both research and teaching
+ spaces. In 2016, the Wigoder Law Building opened, offering significantly improved learning
+ facilities for our Law students, including the Kennedy Wong Moot Court, where students can argue
+ moot points of law, and develop advocacy skills. In 2017, the Sibson Building opened, winning the
+ RIBA Regional and National Award. Housing the Kent Business School and the School of
+ Mathematics, Statistics and Actuarial Science, Sibson is equipped with lecture theatres and
+ seminar rooms, as well as breakout spaces for group work, computer labs, and our ASPIRE Lab
+ Space. In 2019, the Kennedy Building opened as the new home for the School of Economics; it
+ includes 4,000sqm of teaching space, IT suites, meeting rooms, breakout rooms, and social
+ spaces. Most recently, in summer 2020 the Kent and Medway Medical School building was
+ completed, with our first cohort of medical students commencing their studies in autumn 2020. Its
+ opening heralds a major new phase in our commitment to developing effective, equitable health
+ services across the region, as well as a robust clinical and applied health research base.
+                                                                                              Page 8

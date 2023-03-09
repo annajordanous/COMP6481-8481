@@ -1,0 +1,734 @@
+Unit-level environment template (REF5b)
+ Institution: University of Stirling
+ Unit of Assessment: B11
+ Section 1. Unit context and structure, research and impact strategy
+ Context and structure
+ The Division of Computing Science and Mathematics (CSM) in the Faculty of Natural Sciences
+ combines cutting-edge, fundamental research in computational and mathematical techniques and
+ technologies, together with their application to addressing societal challenges in environment,
+ food, health, society and industry. Over the course of this REF period, CSM’s research structure
+ and staffing has met the aim set out in REF2014 “to push the boundaries of the levels of complexity
+ that we are able to model and handle” in order to tackle and solve difficult practical problems. To
+ achieve this, we refined our research group organisation (Figure 1) to promote the close working
+ of the computing scientists and mathematicians across CSM on research challenges. Focussing
+ collaborations with academics in other disciplines and close engagement with industry and the
+ public sector further enhances this cooperative approach. Highlights of our achievements include:
+     •   Appointment of 8 new lecturers to broaden and consolidate our research strengths;
+     •   Impact through optimisation of industrial scheduling and automated software bug fixing;
+     •   Impact on public policy through predictive modelling of environmental issues;
+     •   Significant research collaboration, with 80% of our REF-submitted outputs being with
+         external collaborators, with 50% international across 14 countries;
+     •   New technical capacity, including high performance computing (HPC) for data science, an
+         internet of things (IoT) base station, and specialised hardware for low-power vision and
+         audition.
+ We are a Division with a diverse collaborative network across the University of Stirling (UoS) and
+ globally. We have evolved to be the data-driven, computational engine at the heart of each of the
+ UoS’s three major research themes of Cultures, Communities and Society; Global Security and
+ Resilience; and Living Well. Through our pro-active agenda we lead on 25% (3 of 12) of the
+ university-wide research programmes underpinning these themes.
+ Our UoA B11 submission consists of 18 FTE staff from CSM. So extensive is our mission-oriented
+ collaborative approach that six CSM staff are submitted to four other UoAs where they have their
+ most intense research collaborations (A3: Allied Health; A6: Agriculture, Food and Veterinary
+ Sciences; C14: Environmental Studies; C20: Social Work and Social Policy).
+ We organise our research under three broad research groups (Figure 1):
+     •   BIOlogical MODelling (BIOMOD) - predictive modelling of biological systems;
+     •   DAta science and Intelligent Systems (DAIS) - data-driven modelling and analytics for
+         wider applications in decision-support, scheduling and cyber-security; and
+     •   COMputational Mathematics and OptimisatioN (COMMON) - the rigorous development of
+         underpinning tools and techniques that are relevant to all application areas.
+                                                                                              Page 1
+
+
+Unit-level environment template (REF5b)
+ Figure1: CSM research groups; porous boundaries with joint PGRs, grants and publications.
+ All three groups contain computer scientists and mathematicians developing new techniques and
+ their application. Collaboration between groups is encouraged, with a third of our grant
+ applications including more than one research group.
+ Biological modelling (BIOMOD). B11 members: Cairns, Kirpichnikova, Norman, Shankland; .
+ BIOMOD uses predictive modelling and optimisation techniques to describe, analyse and
+ understand biological and socio-economic processes. Major application areas are (1) disease
+ diagnosis, spread and control in human, animal and plant populations; and (2) global food security,
+ particularly identifying vulnerabilities in the food chain. A fundamental focus is on the application
+ of multiple approaches to single problems: for example, from population-based to individual
+ (agent)-based models of disease spread, allowing mathematical analysis and computer
+ simulations to provide complementary views on the same problem Underpinning this is the
+ development of new, fundamental techniques for model generation, parameterisation and
+ comparison. Antimicrobial resistance is a significant topic with cross-group collaboration with
+ DAIS.
+ Data Science and Intelligent Systems (DAIS). B11 members: Adair, Bhowmik, Graham,
+ Haraldsson, Linson, Ochoa, Noguiera, Swingler; plus Hapca (C20). DAIS innovates brain-inspired
+ computational techniques, evolutionary computation, signal processing, search and optimisation
+ methodologies and applies them to a wide range of real-world, data-driven challenges. Application
+ areas include assistive living, health and social care, cybersecurity, environmental systems and
+ resource scheduling. Specialist areas include: analysis and visualisation of fitness landscapes;
+ computational vision and image processing, including topics ranging from image watermarking for
+ media security to low power vision and contextual image segmentation; automated software
+ engineering and brain-inspired algorithms.
+ Computational Mathematics and Optimisation (COMMON). B11 members: Bracciali,
+ Brownlee, Kolberg, Lee, Li, Maier; plus Farkas (A3). COMMON conducts research in
+ computational and mathematical methods for solving complex dynamic problems, including
+ symbolic computation and exponential analysis for signal processing; efficient parallel
+ computation, metaheuristic and stochastic search methods (with cross-group collaborations with
+ DAIS); and blockchain technologies. Leveraging this fundamental research, we apply new
+ methods and techniques to solve difficult challenges in, for example, lung and skin cancer
+ detection, remote sensing data processing, scheduling in the aviation, building and other
+                                                                                                Page 2
+
+
+Unit-level environment template (REF5b)
+ industries and power-efficient operation of computer and mobile networks (with cross-group
+ collaborations with BIOMOD). COMMON is a new research group that was formed in early 2019
+ to combine existing strengths in differential equation modelling and optimisation with significant
+ new expertise in important complementary domains, including signal processing and parallel
+ computation.
+ Research strategy
+ Our overall research strategy is to identify, understand and address complex societal challenges
+ using computational modelling and analysis. This is a core aim of each of the research groups. To
+ address this over-arching aim, we assemble within- and cross-group clusters of researchers to
+ develop solutions to challenges based on fundamental improvements in computational methods.
+ These methods typically combine traditional computational and mathematical techniques with
+ emerging data-driven approaches. The results are developed and deployed in close collaboration
+ with specialists in other academic disciplines and the ultimate end-users in the public sector and
+ industry. To fulfil this strategy, we work to satisfy the following two aims.
+ Aim 1: Develop new approaches to tackling complex societal challenges
+ Our research group structure and strategic staff appointments enables us to bring expertise in
+ data science, mathematical modelling, signal processing and optimisation, plus software and
+ hardware design for efficient computation to address complex challenges. Research groups
+ embody a spirit of openness that encourages the sharing of ideas and collaborative working, both
+ within and beyond individual RGs. This has led to joint publications and grant applications, plus
+ shared supervision of PhD and MSc students. Recent examples of the synergies we are exploiting
+ include:
+     •   Multimodal data analysis for monitoring aquatic invasive weeds in India: Royal Academy
+         of Engineering funded project (£300k) began in April 2020 involving DAIS and BIOMOD
+         members, researchers from Biological and Environmental Sciences and Psychology at
+         Stirling with external academic collaborators (U.K. and India) and other partners. Aquatic
+         weeds cause major decline in food production, with 40% of available freshwater in India
+         made unsuitable for fish production. This project uses computational modelling and image
+         analysis to predict the extent of water hyacinth, which alone infests 20-25% of utilisable
+         water in India. Serious gaming and other community engagement methods are used to
+         assess damage caused by weed infestation to local communities and economies;
+     •   Antimicrobial resistance is one of the top 10 threats to global health, as identified by the
+         World Health Organization. Key to minimising this risk is optimising the use of antibiotics.
+         Researchers from BIOMOD and DAIS, with collaborators in Stirling’s Institute of
+         Aquaculture, are using predictive modelling and multi-objective optimisation techniques
+         applied to scheduling of treatment to minimise the impact of antimicrobial resistance. Their
+         prediction of new, more efficient treatment regimes that reduce antibiotic usage is gaining
+         media attention (BBC radio interview plus Sunday Times article, Feb 2020);
+     •   An integrated approach across our three groups is combining start-of-the-art signal
+         processing techniques in exponential analysis with data driven methods to improve
+         sensing data analysis in diverse applications from antenna array design to malaria risk
+         detection where the challenge is to identify small water bodies from remote sensing data.
+         This research is carried out with collaborators in Biological and Environmental Sciences
+         Stirling. This work will greatly expand due to an EU Horizon 2020-funded EXPOWER
+         research and innovation staff exchange network, beginning in April 2021, enabling
+         collaboration with researchers in Belgium, Germany, France, Netherlands, USA, Canada,
+         South Africa and Taiwan.
+                                                                                               Page 3
+
+
+Unit-level environment template (REF5b)
+ Aim 2: Facilitate collaborative, interdisciplinary research
+ In addition to establishing a collegiate atmosphere that encourages collaboration within CSM, we
+ develop and nurture collaborations with other academics and stakeholders to identify and
+ understand complex challenges that can benefit from our approaches. Stirling’s ethos and scope
+ as an institution aids establishing close collaborative links across disciplines. We are highly
+ proactive in leveraging Stirling’s strengths in aquaculture, environmental sciences, health and
+ sports sciences, social sciences, psychology, business and management, law and philosophy to
+ add depth and range to our research. New contacts and collaborations have been formed through
+ concerted efforts to create and exploit interaction through cross-disciplinary “away days”,
+ participating in the annual Stirling Festival of Research and leading on university-wide research
+ programmes: Being Connected; Global Food Security and Contextual learning and processing in
+ humans and machines (CONTEXT)
+ These mechanisms, and the programmes, have provided the means to bring a broad range of
+ researchers together to discover the synergies that exist between disciplines, and what our data-
+ centric, computational perspective can bring to many areas. This has led to the submission of
+ larger, multidisciplinary grant applications. We have submitted 28% more applications but with a
+ rise of 177% in the value of bids per year since 2017.
+ Impact strategy
+ Impact lies at the heart of our research and we have further intensified impact within our research
+ culture through the Faculty Impact Strategy, which encompasses all researchers and research
+ students in the Faculty of Natural Sciences. This Strategy has three objectives:
+     •    to improve impact literacy through training and the sharing of best practice;
+     •    to enable identification of a wide range of potential and ambitious impact objectives;
+     •    to maintain an impact support structure; and, to recognise and track impact as it happens.
+ To achieve these, we have a CMS Impact Champion who coordinates with the Faculty’s Associate
+ Dean of Impact and the Faculty Impact Committee. Our impact case study authors act as ‘impact
+ ambassadors’, sharing knowledge, skills, connections and insights gained during their journeys to
+ successful impact creation. This collaborative approach allows us to proactively identify and
+ respond to challenges/opportunities that arise from changes in circumstances. We share our best
+ practice and learn from others across the institution through engagement with Impact Champions
+ in other faculties and divisions and the institutional Impact Working Group. The importance of
+ impactful research for CSM is recognised and rewarded within our appraisal and development
+ process (Achieving Success), in our appointment criteria, and as a criterion for research leave.
+ An essential component of our impact strategy is continuing to widen our network of potential end-
+ users, so that projects and associated grant applications are formulated with end-user outcomes
+ built in from the outset. To support policy/societal impact we work with a range of collaborators
+ from other disciplines who provide links to appropriate policy makers and stakeholders. To
+ increase our industry contact base, we maintain an extensive Industrial Advisory Board, that
+ currently has representatives from 40 local businesses; and we run targeted business
+ engagement events, such as our “Computer Vision Showcase” at Stirling in March 2019 that was
+ supported by the Scottish CENSIS Innovation Centre. We have embedded industrial links and
+ research into our teaching through our Graduate Apprenticeship scheme, our MSc programmes
+ in Big Data which have several students funded annually through the Scottish Data Lab who do
+ their dissertations with Industry, and our Professional Doctorate. All these opportunities allow staff
+ to interact with different types of industry and to develop relationships and research ideas with
+ them. Interface, a Scottish Funding Council (SFC)-funded organisation, provides a “match-
+ making” service with local businesses seeking academic partnerships. Potential partnerships from
+ Interface are directed to relevant academics in CSM by our partner in the university’s Research
+                                                                                                Page 4
+
+
+Unit-level environment template (REF5b)
+ Office, and partnerships resulting from these have led to several of the successful Innovation
+ Vouchers listed below.
+ Impact is also being fostered through Stirling’s active membership of the Scottish Informatics and
+ Computer Science Alliance (SICSA) research pool, which coordinates interaction with industry
+ through its business development executive and programmes. SICSA’s annual DemoFest brings
+ together researchers at an early stage with commerce and business leaders, where CSM
+ researchers and PhD students regularly present their work.
+ The success of this integrated approach to impact awareness and generation is exemplified by
+ our two impact case studies that involve the work of all three research groups:
+ The impact case study on the use of metaheuristics to improve software performance and process
+ scheduling involves researchers from COMMON and DAIS and is a direct outcome of EPSRC
+ funded research (DAASE project). It is a study led by two of our recent appointments to open
+ ended positions who were employed as postdoctoral researchers on the DAASE project and who
+ were both able to use their own links with industry and their leadership on the impact agenda to
+ enhance their applications for the open-ended posts in a very competitive environment. They were
+ supported by two more experienced staff members who, as well as their academic contribution,
+ provided strong networks of industrial partners. The strength of this impact case study is the ability
+ of these staff members to translate their cutting-edge research into results which are valued and
+ used by the industrial partners.
+ Our impact case study on environmental sustainability has arisen from research in BIOMOD and
+ through an Innovation Voucher enquiry as described above. The other impact described in the
+ study comes from a large body of work and long-standing interdisciplinary collaboration with
+ colleagues in the biological sciences including collaborators from the James Hutton Institute and
+ the Centre for Environment Fisheries and Aquaculture Science who have both supported
+ pathways to policy makers and have meant that the research has contributed to policy decisions
+ by the Scottish Government.
+ Impactful research is pump-primed through a mixture of University and external resources:
+     •   Match-funded PhD studentships, in part facilitated through the Scottish Data Lab and
+         CENSIS Innovation Centres, with the university research programmes and match-funding
+         rounds. Recent examples include match-funding from major companies (BT Research, ST
+         Microelectronics), SMEs (Singapore-based FinTech company, Bambu) and publically-
+         funded bodies (Scotland’s Rural College: 3 studentships).
+     •   Scottish Funding Council Innovation Voucher projects with local companies which aim to
+         provide proof of concept for larger follow-on grants. New appointees since 2017 have been
+         particularly successful here:
+             o A £5k Innovation Voucher in 2020 with Falcon Foodservice Equipment, has now
+                 led to £60k follow-on project which began in November 2020;
+             o A £5k SFC Innovation Voucher with Airspace Unlimited Scotland Ltd in 2020 has
+                 led to follow on £75k Innovate UK funded project which began in October 2020;
+             o Four other Innovation vouchers have been awarded in the last two years and we
+                 are currently following up on that work.
+     •   Other available small-grant mechanisms involving companies and organisations. Recent
+         examples are:
+             o A £48k grant from the EPSRC Internet of Food Things network for the pilot project
+                 “Use of sensors to improve pig productivity” in collaboration with the Scottish Pig
+                 Producers Association and the Agri-Epi centre in Edinburgh;
+                                                                                               Page 5
+
+
+Unit-level environment template (REF5b)
+              o   A £27k proof-of-concept grant from Samordningsförbundet Centrala Östergötland,
+                  Sweden to work with Swedish and Icelandic (Janus Rehabilitation) collaborators
+                  on the “Rehabilitation Pathway Generator”, with the aim of this leading to longer
+                  term research and development and wider application e.g. in the NHS in the UK;
+              o   A £24k Innovate UK grant with Digiland on the use of blockchain technologies for
+                  financial inclusion in Bangladesh;
+              o   A £100k award from the Defence and Security Accelerator competition for the
+                  project, “Deep Learning for Depth-Based Image Segmentation”.
+              o
+      •   Scottish Funding Council Global Challenges Research funding administered by the
+          University
+              o £5k networking grant to support collaboration with India, which led to a £25k Royal
+                  Academy of Engineering networking grant and then the £300k project on invasive
+                  weeds in India described above
+              o £25k and £33k grants looking at the use of Earth Observation to understand the
+                  extent and impact of floods and droughts in Bangladesh and the subsequent impact
+                  on food security and health, including covid-19.
+ The key to our impact strategy is to make awareness of impact a day-to-day activity in our
+ research. The university’s research planning system, WorkTribe, provides facilities for recording
+ impact from projects. Realising and recording long-term impact requires time and effort that is
+ recognised as a legitimate research activity and resourced accordingly with dedicated staff time
+ and administration support.
+ Future strategic directions
+ Through our research and staffing strategy, we have established several major areas of multi-
+ disciplinary strength providing a focus for new and early career staff to flourish and ensure their
+ progression to senior researchers
+ .
+ Research in computational techniques will emphasise:
+      •   Optimisation: techniques (particularly meta-heuristic) and applications to model
+          parameter fitting, automated software engineering, scheduling problems. This builds on
+          existing strengths, continuing the type of work underpinning our impact case study on
+          application of optimisation. All three research groups are involved in development and use
+          of optimisation;
+      •   Data-driven predictive modelling: melding traditional mathematical modelling with
+          computational and data analytic approaches. This will build particularly on the focus of the
+          BIOMOD group but also draw on expertise from DAIS and COMMON. The aim is to be
+          able to build better predictive models by creating techniques that automate model
+          development, drawing upon machine learning and formal computational methods. This
+          broadly includes most of the researchers in CSM;
+      •   Vision and image processing: new methods for extracting useful information from
+          imaging data obtained from a range of devices including digital cameras and remote
+          sensing in different frequency bands. Work with Biological and Environmental Sciences
+          BES is creating new techniques in contextual image processing and signal extraction from
+          sparse data to maximise the information that can be obtained from very large-scale remote
+          sensing data. Collaboration with psychologists is bringing a biological perspective to
+          improve computational vision.
+ Fitting with the university’s research themes and building on our recent work, new computational
+ techniques will be co-developed to solve challenges particularly in two broad application areas in
+ which we are making advances:
+                                                                                               Page 6
+
+
+Unit-level environment template (REF5b)
+     •    Food security: all three foci of our computational techniques are being brought to bear on
+          issues that affect the security of our food chains. Building and optimising models of
+          components of the food chain to enable identification of key risk points and make
+          predictions of interventions to manage risks are the major aims;
+     •    Improving health and well-being: All the computational techniques are applied to
+          generate increased understanding of societal health risks and to help provide solutions.
+          This ranges from predicting disease spread, to diagnosing disease from medical images,
+          to enhanced assistive devices to improve quality of life.
+ Within these application areas we will place a strong emphasis not just on technological solutions
+ to problems, but the entire deployment lifecycle: impact, sustainability, socio-economic effects,
+ legal issues. We will do this through our ongoing approach of creating multi and inter-disciplinary
+ teams to work on projects, combining technology with sociology, law, management and other
+ disciplines.
+ Section 2. People
+ Staffing strategy and staff development
+ Our strategic emphasis is on recruiting and developing staff to strengthen existing areas and to
+ add complementary new skills. University investment in our success has allowed us to make eight
+ new appointments at lecturer level since 2017. These appointments have strengthened our
+ existing research expertise and expanded our range. Expansion includes posts in cybersecurity
+ (Bhowmik, Brownlee), plus appointments in computational and mathematical methods for signal
+ processing and parallel computation (Lee, Maier), data analytics and machine learning (Adair,
+ Nogueira). Continuing strengths in optimisation (Haraldsson) and predictive modelling
+ (Kirpichnikova) have been boosted.
+ We have a strong record in nurturing staff from an early career stage through to professorships.
+ Of the current cohort of four professors, three are due to promotions within this REF period, all
+ having started initially as lecturers in CSM. For the first time the professorships in CSM (and B11)
+ are now held by a majority of women (Norman, Ochoa, Shankland). In the face of strong, world-
+ wide competition, three CSM PDRAs were appointed on merit to the new lectureships (Adair,
+ Brownlee, Haraldsson), highlighting the quality of the training they have received in CSM and their
+ desire to pursue careers in the academic environment that CSM provides.
+ The strength of our research culture and nurturing environment was recognised at a university
+ level in April 2019 with the appointment of Norman (BIOMOD) as Institutional Dean of Research
+ Engagement and Performance to promote a positive and collaborative research environment
+ which helps everyone to reach their potential.
+ The CSM management structure ensures that all divisional needs, including research activity, are
+ suitably planned and resourced. The Executive group oversees all divisional activities and
+ comprises the Head of Division, Director of Learning and Teaching, Director of Research, and
+ Director of Research Postgraduates. This group meets fortnightly to ensure the demands of
+ research, teaching and administration are effectively met. Adjoining these planning meetings,
+ open divisional meetings are held in the informal environment of the divisional coffee room, at
+ which all staff can come to raise and discuss any issues with the Executive.
+ The Research Committee comprises the Director of Research, Research Group leaders, Director
+ of Research Postgraduates, REF coordinators (including Impact), early career researchers and
+ research postgraduate representatives, and others on invitation or request. The Committee meets
+ monthly to oversee research-related matters, such as resource allocation and planning, and PGR
+ progression.
+ This management structure supports efficient and effective planning, with clear lines of
+ communication for all members of CSM. Decision-making is open to scrutiny and anyone can raise
+ matters of concern and agenda items for the Executive or Research Committee. The Divisional
+ Research Strategy is maintained as a live document and is further shaped by open discussions
+ during annual research away days and during the regular Research Group meetings.
+ In addition to sharing of ideas and active research, the three research groups provide a fostering
+ environment particularly for early career researchers, including:
+                                                                                               Page 7
+
+
+Unit-level environment template (REF5b)
+     • Grant proposal formulation and early-stage review;
+     • Paper writing early-stage review;
+     • Sandpits to generate new research initiatives;
+     • Mix of skills: grant writing, paper writing, technical, outreach, impact;
+     • Exposure of PDRAs to wider perspectives on managing research;
+     • Celebration of success and sharing of progress in a supportive team environment.
+ A variety of mechanisms are used to facilitate staff development and enable staff to set and
+ achieve personal goals, in keeping with university and divisional aims and strategy:
+     • Careful time management through workload modelling is aimed at ensuring that all staff
+        have appropriate dedicated research time, ranging from 100% for PDRAs to at least 40%
+        for individuals on Research and Teaching contracts, at all stages of career progression.
+        Research time is further prioritised for new / early career staff and those with significant
+        grant income, altering the balance in favour of research time;
+     • The annual “Achieving Success” process is used to support staff in all aspects of their
+        academic endeavours, including planning for and achieving their best possible career
+        trajectory. A personal plan for the coming year (with thought to longer term goals) is
+        developed in consultation with their line manager (Head of Division). The emphasis is on
+        ensuring that staff have clearly defined goals, and that any barriers to achieving these
+        goals are identified and can be minimised through planning and resource allocation at the
+        individual and divisional / faculty level;
+     • Training and refresher sessions for new and experienced staff in effective PhD supervision
+        is encouraged, particularly through training sessions organised by the university’s Institute
+        of Advanced Studies, which oversees all aspects of PGR training;
+     • Senior and progressing staff are facilitated to undergo management training programmes.
+        For example, four staff have gone through the award winning, institutional specific ILM
+        level 5 leadership and management training. Two of our staff regularly contribute to the
+        Aurora programme, which is Advance HE’s leadership development initiative for women,
+        as role models, mentors and presenters. Several staff have also undertaken that
+        programme;
+     • All staff, but particularly early career staff are encouraged to take part in the locally run
+        Stirling crucible which provides training and network opportunities;
+     • All research-active staff are encouraged to apply for research leave to enable generation
+        of new grant proposals, research outputs and impact. Applications can be made every
+        seventh semester and are only successful if the research plan has clear, achievable goals.
+        Plans are carefully reviewed by the Research Committee, in consultation with the
+        Executive, to ensure divisional needs are met, before presentation to the Dean of Faculty
+        for approval;
+     • Early career and all new staff have a mentor within the Division. All staff may have a
+        mentor, on request. Such mentors may come from outside the Division, allowing staff to
+        gain wider views of academic life;
+     • Strong support is given for individual fellowship applications, particularly for early career
+        staff and postdoctoral fellows on fixed-term contracts: we work closely with the university’s
+        Research and Innovation Services to ensure appropriate schemes are targeted and key
+        expectations of funders are met. Robust peer review is carried out for all applications.
+        Excellent proposals attract extra university support, as needed, including potential for on-
+        going appointments beyond the end of fellowships, and PhD studentships being attached
+        to the fellowship. For example, Norman secured teaching-buyout during the period of 1
+        Sept 2019 to 31 Aug 2021, via a Leverhulme Research Fellowship.
+ Research students
+ We provide a collegiate atmosphere in which PhD students are fully integrated in research activity
+ through CSM research group and PhD cohort activities. The Director of Postgraduate Research
+ maintains oversight and direction of PhD recruitment, supervision and training activities.
+                                                                                              Page 8
+
+
+Unit-level environment template (REF5b)
+ University-wide postgraduate research (PGR) community development and training are facilitated
+ through the university’s Institute of Advanced Studies.
+ All students have a principal and second supervisor. Supervisory meetings are recorded by the
+ student on the web-based Research Compass system. Each year, students produce an annual
+ report detailing progress to date and plans for completion. This report is then the subject of a viva,
+ conducted by two academics who are not members of the supervisory committee. This viva is
+ attended by supervisors, who monitor proceedings and may be consulted separately by the
+ examiners.
+ PGR students gain wider experience and participation in CSM through the following activities:
+      •  Postgraduates are represented on CSM research and teaching committees;
+      •  Students participate in research group activities, including seminars, discussion groups,
+         peer review sessions. They are encouraged to try out conference presentations in these
+         groups and to obtain peer review of outputs before submission;
+      •  Students run their own research and social meeting group, PGTips, which provides mutual
+         support, an informal discussion forum, and opportunity for initial peer review;
+      •  Students in the unit run an annual PhD day, which is a mix of poster and oral presentation
+         of their work to CSM;
+      •  A Computing Science and Mathematics Skills (COSMoS) forum, was initiated by the
+         students, who identified the need for exposure to new skills and technologies particular to
+         our discipline. Sessions presented by students and staff have ranged from using Latex for
+         document preparation, to Bayesian statistical methods, to time management for research;
+      •  Further training, including thesis writing and career development, is available through
+         workshops run by the university’s Institute of Advances Studies;
+      •  Students compete in the Institute of Advanced Studies annual “Three-minute thesis”
+         competition, which hones skills in conveying complex research topics to a diverse
+         audience and in a concise manner;
+      •  Students also participate in Scottish Informatics and Computer Science Alliance (SICSA)
+         events, including the annual PhD conference and the DemoFest outreach event. In 2019,
+         Stirling students and staff organised and hosted the SICSA PhD conference.
+ We take advantage of match-funding for PGR recruitment through opportunities provided by the
+ university and external bodies such as the Scottish Data Lab Innovation Centre, with 25% of the
+ current cohort on match-funded studentships. Such studentships are a priority for developing first-
+ stage research with impact and in training the next wave of researchers in how to conduct a
+ research project in close collaboration with end-users. Students gain significant experience in the
+ different cultures and expectations of industry and business.
+ In addition, we established a Professional Doctorate in Big Data Science that has admitted its first
+ students in 2020. This has a taught component in the first year, for which funded places are
+ available through the Scottish Data Lab. The programme is strongly focussed on research projects
+ in direct collaboration with business and industry.
+ Equality and diversity
+ We have an academic appointed as the Equality and Diversity Officer for CSM, and they are
+ responsible for ensuring staff are aware of training and support possibilities in this area that the
+ university and external organisations may offer. They are proactive in ascertaining issues that
+ arise within CSM, and this is a standing agenda item at Divisional meetings.
+ The University’s commitment to gender equality was recognised in the institutional Athena SWAN
+ Bronze award in 2016. CSM is further committed to achieving Departmental Athena Swan
+ recognition, and we are working towards applying for this in November 2021.
+                                                                                                Page 9
+
+
+Unit-level environment template (REF5b)
+ We have improved awareness of the conscious and unconscious biases that affect all stages of
+ recruitment and advancement in research with training for staff on these panels. In addition, our
+ approach to recruitment recognises alternative career paths to becoming a researcher in
+ computing science, and all panel members are made aware of the potential bias towards non-
+ standard routes to academic research, and of the equivalent value of administrative and pastoral
+ care duties that may have disproportionally impacted women. Our selection criteria also recognise
+ the value of candidates who have made progress in their academic and research careers whilst
+ balancing family and caring commitments, or health and other restrictions.
+ We have established a diverse cohort of researchers, with staff from Scotland, England, Ireland,
+ India, Italy, Russia, Taiwan, Australia, West Indies, USA, Venezuela, Germany, China, Romania,
+ Brazil. A third of CSM permanent staff are female, including 3 of 4 professors (8/24).
+ The mental health of our staff and students is paramount and underpins planning of work
+ arrangements. Senior CSM staff run informal sessions presenting their own experiences and
+ inviting discussion, promoting the realisation that mental health issues can affect anyone. The
+ Achieving Success process enables staff to raise and discuss barriers to success, including
+ achieving a suitable work/life balance and coping with the stresses of their careers. This has been
+ vital during the 2020/1 Covid-19 pandemic, and staff have been able to review and revise their
+ goals set during Achieving Success in 2019 to reflect the changes in work practices and day-to-
+ day living that have been necessary.
+ The PGR Director has identified mental health as a key issue for our PGR students and is working
+ with them to create a supportive community that prevents students becoming isolated and unable
+ to deal with the pressures of their studies. This has been particularly important during 2020, with
+ students not able to meet in person. Weekly on-line meetings are used to provide a sense of
+ community and ensure students do not feel socially isolated from their peers.
+ Flexible working is encouraged through largely informal arrangements, but also by timetabling
+ meetings in core hours (10am to 4pm) to allow staff to fulfil family commitments, such as child/adult
+ care. University infrastructure facilitates remote working through a comprehensive web portal,
+ including secure file sharing. By agreement we restrict expectations to responding to emails to
+ basic working hours (9am to 6pm).
+ Section 3. Income, infrastructure and facilities
+ Income
+ Income is principally from UKRI (EPSRC, BBSRC), Academies (Royal Academy of Engineering,
+ Academy of Medical Sciences) and charitable trusts (Carnegie, Leverhulme). Large grant
+ applications target GCRF/ODA funding (CSM members are both PIs and CIs on recent bids) and
+ EU Horizon 2020. Most grants are collaborative in nature, involving external academic
+ investigators and end-user stakeholders. Highlights of major funding led by CSM during the REF
+ period:
+ EPSRC Programme grant (2012 - 2019, £2.4M Stirling), “DAASE: Dynamic Adaptive Automated
+ Software Engineering” involved a consortium of universities including UCL, Birmingham and York.
+ It also engaged with a range of stakeholders including ABB Group, Berner and Mattner, BT
+ Laboratories, Ericsson, GCHQ, Honda, IBM, Microsoft Research, Motorola and Northrop
+ Grumman Air Park Systems and Air France/KLM.
+      •   CSM contributed world-leading research in meta-heuristic optimisation techniques to this
+          project, which forms the basis of our “optimisation” impact case study. Ochoa was
+          promoted from lecturer to professor during the lifetime of the grant, and key researchers
+          Brownlee and Haraldsson are new lecturer appointments, ensuring the sustainability of
+          this research in CSM beyond the duration of this project.
+                                                                                              Page 10
+
+
+Unit-level environment template (REF5b)
+ Royal Academy of Engineering funded project (2020 - 2023, Stirling £300k), “Multimodal data
+ analysis for monitoring aquatic invasive weeds in India” includes collaborators in Psychology and
+ Biological Sciences with external collaborators and partners in both the U.K. and India.
+     •   Direct result of workshop funded by an Academy of Medical Sciences Networking grant.
+         Brings together expertise in earth observation and computational modelling.
+ EPSRC AV-CogHear project grant (2015 - 2019, Stirling £300k), “Towards Visually-driven Speech
+ Enhancement For Cognitively-inspired Multi-modal Hearing-aid Devices” in collaboration with
+ University of Sheffield, MRC Institute of Hearing Research and Phonak Hearing Systems.
+     •   Established a focus on multi-modal machine learning in CSM and this is now a well-
+         established theme within the DAIS research group.
+ BBSRC project grant (2013-2016, Stirling £240k), “Balancing resource and energy usage for
+ optimal performance in a neural system” in collaboration with Universities of Leicester and
+ Edinburgh.
+     •   Crossed the boundaries of the DAIS and BIOMOD research groups to consider an aspect
+         of nervous systems that is relevant to building efficient artificial neural networks.
+ EPSRC project grant (2016-2019, Stirling £150k), “TRANSIT: Towards A Robust Airport Decision
+ Support System for Intelligent Taxiing” in collaboration with Queen Mary (lead) and Lincoln
+ University and external stakeholders.
+     •   Complemented DAASE with work on optimisation for complex scheduling.
+ Leverhulme research grant (2016-2018, Stirling £100k), “The Cartography of Computational
+ Search Spaces”
+     •   Fundamental theoretical work underpinning optimisation research in DAASE project and
+         DAIS and COMMON research groups.
+ Leverhulme Research Fellowship (2019-2021, £55k): “Developing a theoretical understanding of
+ non-linearities in the food system and practical ideas to take advantage of them”
+     •   Will identify risks in the current food system and what action is needed to avoid them. The
+         non-linearities include trade-offs, feedback loops and tipping points.
+ To complement large grant bids and diversify our funding base, we encourage bids to smaller
+ grant mechanisms, such as Carnegie Research Incentive grants and industrial-based contracts
+ through e.g. Innovate UK, Scottish Funding Council (SFC) Innovation Vouchers and focussed
+ grant calls. This is particularly helping new members of staff to establish their research
+ programmes, such as the examples given in Section 1 under “Impact strategy”, plus:
+     •   A £15k Carnegie Research Incentive Grant (2021 to 2022) to consolidate work on
+         exponential analysis;
+     •   A £10k Carnegie Research Incentive Grant (2019 to 2020) to consolidate work on genetic
+         improvement of software (impact case study).
+ Infrastructure and Facilities
+ Specialist research infrastructure centres around high-performance computing facilities for
+ computationally intensive model simulation and data analytics, plus related hardware for data
+ collection and processing of visual, auditory and remote sensor signals:
+                                                                                               Page 11
+
+
+Unit-level environment template (REF5b)
+ In 2019, CSM became home to an Internet-of-Things (IoT) base-station, provided courtesy of IoT
+ Scotland. Boston networks provides the infrastructure which is being rolled out across Scotland.
+ This gateway enables acquiring sensor signals within a 20-mile radius. This is facilitating
+ interdisciplinary collaboration with researchers collecting “in-the-field” sensor data, in Aquaculture
+ and Biological and Environmental Sciences with CSM providing data processing resources,
+ including state-of-the-art data analytics via machine learning and optimisation techniques.
+ This facility will play a significant role in the new Scottish International Environment Centre which
+ is receiving investment of £22m through the Stirling and Clackmannanshire City Region Growth
+ Deal. Through the Environment Centre, the IoT base-station will be complemented by the new
+ Forth Valley 5G Innovation Hub, launched in September 2020. These facilities will support the
+ Forth Environmental Resilience Array (Forth-ERA) project which will involve the capture,
+ processing and sharing of data from across Forth Valley using EE’s 5G network. Sensors, satellite
+ data and artificial intelligence will be used to provide vital information on water quality and other
+ factors to inform decisions that could provide major economic and sustainability benefits to the
+ area. This innovative, cross-disciplinary and cross sectoral approach – bringing together science,
+ research, business and regulation – will be a global exemplar of green recovery, which is easily
+ scaled and could be replicated worldwide. Forth-ERA will work alongside several regional
+ stakeholders, including: the Scottish Environment Protection Agency (SEPA), Scottish Water,
+ Diageo, NatureScot, Forth Estuary Forum and Forth Valley Chamber of Commerce.
+ Other specialist facilities in CSM include a Computational Intelligence lab that houses hardware
+ for low-power vision (cameras and FPGA) and audition (silicon cochlea), with a sound-proof
+ recording studio. Projects looking at real-time visual object detection and sound-source
+ localisation are being undertaken with this hardware.
+ Research-specific high-performance computing in CSM includes two large servers that address
+ different computational needs. Firstly, a new server has been funded by the Faculty of Natural
+ Sciences, Stirling, in 2018 specifically for very large memory requirement and GPU-compatible
+ data analysis and provides 768 GB of RAM, 32 CPU cores and 32 TB of data storage. It is
+ equipped with 4 Nvidia 1080Ti graphics cards to train and apply Deep Learning Neural Network
+ methods. While used heavily within CSM, it is available to any Stirling researcher who needs such
+ computational specifications. It is facilitating collaborative work between CSM and other
+ researchers at Stirling, such as from Biological and Environmental Sciences. The other HPC
+ facility is a cluster with 120 CPU cores, used extensively for parameter searching and optimisation
+ tasks involving GAs/EAs. This was originally funded by an EPSRC project grant but has been
+ maintained for all to use. We have two full-time computing staff to run and maintain these facilities.
+ In addition, Stirling is a partner in, and user of, the ARCHIE-WeSt supercomputer facility housed
+ at Strathclyde University.
+ Open access is a priority for all research outputs, with the University paying publication fees for
+ journal papers to enable this. All outputs are placed in a Stirling’s On-line Research Repository
+ (STORRE). In addition, it is strongly encouraged that research data and other research outputs,
+ such as computer code, are made freely available through depositing in the University’s data store
+ (DataSTORRE) and by distribution on publicly accessible forums, such as GitHub (for computer
+ code).
+ Section 4. Collaboration and contribution to the research base, economy and society
+ Collaboration
+ CSM research is highly collaborative and we generate and work with collaborative groupings over
+ a range of domains: within the University and both nationally and internationally with other
+ academic institutions and with a range of industry, policy and public stakeholders.
+ Most of our research is undertaken in collaboration with internal and external academic and stake-
+ holder partners. Academic collaborators include UCL, Sheffield, York, Queen Mary, Lincoln,
+                                                                                                Page 12
+
+
+Unit-level environment template (REF5b)
+ Edinburgh, Glasgow, Strathclyde, Birmingham and others, principally in Europe and North
+ America. We regularly host research visits from international academics, including visitors from
+ Canada, USA, France, Belgium, India, South Africa, Switzerland, Spain, Mexico, Finland, Brazil,
+ Algeria, Germany, Lithuania, Denmark.
+ Scotland-wide interactions are significantly facilitated by our membership of SICSA. New contacts
+ are made, and research activity generated through the SICSA research themes and associated
+ workshops. Bhowmik is a SICSA Cybersecurity research theme leader. Shankland led the SICSA
+ modelling, and abstraction research theme (2012-2016) and Smith (now retired) was a SICSA
+ Artificial Intelligence research theme leader. We have run SICSA-supported workshops on:
+     •    Real-world transport optimisation (January 2015);
+     •    Artificial intelligence (May 2016).
+ Funded stake-holder interactions include BT, KLM-Air France, Janus Rehabilitation (Iceland), ST
+ Microelectronics, Falcon Foodservice Equipment, DEFRA, DASA, Forestry Commission, Phonak
+ AG, Fera Science Ltd, Bambu (Singapore), Scottish Rural College (SRUC), Unitech Ltd, UCare
+ Foundation, Marine Science Support and others. These interactions have funded PhD
+ studentships and produced high-quality academic outputs and technologies that are being
+ deployed by the stakeholders (as evidenced in our impact case studies).
+ To widen our links, particularly internationally, CSM researchers have been involved in setting up
+ and running funded research networks. These researchers:
+     •    have used an Academy of Medical Sciences GCRF Networking £24k grant, in collaboration
+          with the National Institute of Plant Health Management, Hyderabad, India, to run a
+          workshop in India in April 2019 on “Protecting Food Security in SE Asian Countries by
+          Developing Early-Warning and Ready-Response Systems for Invasive Weed Incursions”.
+          This has now led to a £300k grant from the Royal Academy of Engineering to carry out a
+          substantive project (see Section 3);
+     •    chair HPC-enabled Modelling for Life Sciences, in the EU Horizon 2020 cHiPSet Cost
+          Action on High-Performance Modelling and Simulation for Big Data Applications, involving
+          30+ countries (http://chipset-cost.eu/);
+     •    are PI on the EPSRC-funded “Predictive Modelling for Healthcare Technologies through
+          Maths (POEMS)” network, with Manchester and Sheffield. This network fostered links
+          between academics, clinicians and industrialists to generate new applications for
+          mathematical modelling approaches to problems in medicine and healthcare.
+ Contributions to the research base
+ We are involved in the training of the next generation of scientists through the organisation of
+ specialist conferences and workshops, running focussed tutorials at international venues and
+ teaching on summer schools:
+     •    Bracciali, Organising Chair: Computational Intelligence methods for Bioinformatics and
+          Biostatistics. 13th International Meeting, CIBB, Stirling Sept 1-3, 2016;
+     •    Bhowmik, Organising Chair: Special session on Multimedia Signal Processing for Cyber-
+          security and Privacy. IEEE International Conference on Digital Signal Processing 2017;
+     •    Lee, Coordinator: Dagstuhl Seminar 15251 “Sparse modelling and multi-exponential
+          analysis”, Schloss Dagstuhl – Leibniz Center for Informatics, Germany, 14-19 June 2015;
+     •    Lee, General Chair: Milestones in Computer Algebra (MICA 2016), University of Waterloo,
+          Waterloo, Ontario, Canada, 16-18 July 2016;
+     •    Lee, Tutorial chair: International Symposium on Symbolic and Algebraic Computation 2020
+          (ISSAC 2020), Kalamata, Messinia, Greece, 20-23 July 2020;
+                                                                                           Page 13
+
+
+Unit-level environment template (REF5b)
+     •   Lee, Tutorials at 19th International Conference on Computer Algebra in Scientific
+         Computing (CASC 2017), Chinese Academy of Sciences, Beijing, China, 18-22 September
+         2017;
+     •   Ochoa gives regular tutorials at major international conferences, including:
+              o Recent Advances on Fitness Landscape Analysis Genetic and Evolutionary
+                 Computation Conference (GECCO), Prague, Czech Republic, July 2019;
+              o LON-Maps: The Cartography of Computational Search Spaces, Parallel Problem
+                 Solving From Nature (PPSN), Coimbra, Portugal, September 2018;
+              o Search-Maps: Visualising and Exploiting the Global Structure of Computational
+                 Search Spaces, Genetic and Evolutionary Computation Conference (GECCO),
+                 Kyoto, Japan, July 2018.
+     •   Graham has been an invited lecturer on the Baltic-Nordic Neuroinformatics Summer
+         School each year since its inception in 2013 (held in Lithuania, Finland, Estonia, Latvia,
+         Poland and Germany so far).
+ Our research dissemination includes staff giving keynotes and invited talks at international events,
+ for example:
+     •   Norman: Invited speaker ECMTB (European conference on Mathematical and Theoretical
+         Biology) July 2018;
+     •   Lee: Plenary talk at 20th Conference on Applications of Computer Algebra (ACA 2015),
+         Fordham University, New York City, New York, USA, 9-12 July 2015;
+     •   Ochoa: Keynote Speaker at the Visualisation Methods in Genetic and Evolutionary
+         Computation (VizGEC 2019) Workshop, held in conjunction with the Genetic and
+         Evolutionary Computation Conference, GECCO 2019, Prague July 2019;
+     •   Ochoa: Keynote Speaker at the 13th Artificial Evolution Conference, EA 2017, October 25-
+         27, 2017, Paris, France (Ochoa).
+ Our conference submissions include several Best Paper Awards:
+     •   Ochoa has 4 best paper awards: EvoCOP (2016, 2017, 2019) and GECCO (2018);
+     •   Ochoa received the Evo* Award for Outstanding Contribution to Evolutionary Computation
+         in Europe 2020 (April);
+     •   Swingler won Best paper prize at IJCCI, 2016.
+ Staff contribute to the wider academic process through acting as editors and paper reviewers for
+ journals and conferences, and by participating in grant reviewing and grant panel meetings for a
+ variety of funding bodies. Staff are members of the EPSRC College, BBSRC Pool of Experts and
+ Carnegie Trust Research Incentives schemes and so sit on grant panels and regularly review
+ grant proposals. Staff have also been on grant panels for EU H2020 and NSF (USA).
+ Journal editorial boards: Elsevier journal of Data in Brief (Bhowmik), Special issue on Advances
+ in Multimedia Signal Processing for Cybersecurity, Elsevier Journal of Information Security and
+ Applications (Bhowmik, Lead guest Editor), Journal of Biological Dynamics (Graham), Journal of
+ Animal Ecology (Norman), Consumer Communications and Networking Series for IEEE
+ Communications Magazine (Kolberg, Editor), Complex and Intelligent Systems (Brownlee), Peer-
+ to-Peer Networking and Applications Journal (Kolberg), Wireless Communications and Mobile
+ Computing (Kolberg), ACM Communications in Computer Algebra (Lee, Editor), Journal of
+ Symbolic Computation: special issue on Milestone of Computer Algebra (Lee, Guest Editor),
+ Evolutionary Computation Journal (Ochoa), IEEE Transactions on Evolutionary Computation
+ (Ochoa), ACM Transactions on EvolutionaryLearning and Optimisation (Ochoa, Associate Editor),
+ Genetic Programming and Evolvable Machines (Ochoa), Frontiers in Neuroinformatics (Graham).
+                                                                                              Page 14
+
+
+Unit-level environment template (REF5b)
+ Wider contributions to the research base, economy and society
+ Through promoting women in computing on the UK stage, Shankland acts as a role model and
+ plays a major role in promoting science in the wider academic and public domains:
+     •   Chair of BCS Women in Computing Research (2015-);
+     •   Durham Lovelace lecture invited speaker 2016;
+     •   Keynote speaker at
+             o Aurora 2016, 2017, 2018, 2019 (AdvanceHE leadership training)l
+             o International Women’s Day Conference, Aberdeen 2017l
+             o LSE Power (London School of Economics annual conference for professional
+                 services), June 2019l
+     •   Award: Suffrage Science Computer Science and Mathematics 2016l
+     •   Award: Scottish Woman of the Year (Services to Science and Technology) 2017.
+ Beyond standard academic outlets, staff contribute their expertise more widely through
+ participation on a variety of advisory boards:
+     •   Bhowmik: Chair (2018), Ad-hoc-group on Media Blockchain, International JPEG
+         standardisation committee (ISO/IEC JTC1/SC29/WG1 (ITU-T SG16));
+     •   Bhowmik: Committee member: IST/37 - Coding of picture, audio, multimedia and
+         hypermedia information, British Standards Institution (Bhowmik);
+     •   Kolberg: ScotlandIS Digital Skills Partnership Advisory Board;
+     •   Ochoa: Member of ACM SIGEVO Executive Board (ACM Special Interest Group for
+         Genetic and Evolutionary Computation), since 2015;
+     •   Swingler: Currently advising Edinburgh City Council and Edinburgh Trams on the
+         specification of a driver monitoring system.
+ CSM also regularly hosts a series of public lectures at Stirling, entitled “A random walk through
+ mathematics and computing science”, during the Spring of each year, to which many staff
+ contribute. These attract a diverse audience of around 50 people over a wide age-range from the
+ local community. They are a prime mechanism for instilling enthusiasm in computing science and
+ mathematics as subjects to study for school-age children, and to stimulate interest in
+ undergraduates in the research possibilities in these fields.
+ Conclusion
+ CSM continues to foster a dynamic and sustainable research environment in which computer
+ scientists and mathematicians work together on solving complex challenges facing today’s
+ societies, in food and health, the environment, business and social organisation. Predictive
+ modelling and data science include many valuable computational approaches to help tackle these
+ challenges in our data-rich world. We are building our capacity in developing and exploiting such
+ techniques and to further strengthen our interdisciplinary and stakeholder links so that our work
+ continues to have significant scientific and practical impact over the long term.
+                                                                                           Page 15

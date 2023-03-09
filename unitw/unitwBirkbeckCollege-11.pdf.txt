@@ -1,0 +1,856 @@
+Unit-level environment template (REF5b)
+ Institution: Birkbeck, University of London
+ Unit of Assessment: 11 – Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+ 1.1 Unit context and structure
+ Founded in 1957, the Department of Computer Science and Information Systems is one of
+ the oldest computing departments world-wide and one of four departments in the School of
+ Business, Economics and Informatics (BEI). Historically a small department (18.8 FTE
+ returned to REF2014), we have grown by 30% since REF2014. Having a long-established
+ reputation in data management and computational intelligence, we have evolved into a world-
+ leading centre in Algorithms, Data Science, Knowledge Representation, and Verification, as
+ evidenced by (i) our Q1 position for research outputs in REF2014; (ii) subsequent 70% growth in
+ the number of publications, in such highly prestigious venues as JACM, AIJ, JAIR, JMLR,
+ IEEE TKDE, IEEE TSE, TPAMI, FOCS, PODS, LICS, IJCAI; (iii) 50% growth in research grant
+ awards; (iv) rapidly expanding network of international, interdisciplinary, industrial and public-
+ sector collaborators.
+ Our REF2014 results highlighted our strengths in algorithms and theory, leading to an
+ ambitious development programme which expanded and refocused our research into three
+ Groups: Knowledge Representation & Data Management, Experimental Data Science and
+ Algorithms, Verification & Software; and two research Centres: Birkbeck Institute for Data
+ Analytics (BIDA) and Birkbeck Knowledge Lab (BKL). The Groups focus on specific areas of
+ computer science, with fluid boundaries facilitating inter-group collaborations and
+ departmental cohesion. The Centres are interdisciplinary, spearheading new collaborations
+ within and beyond the College.
+ BIDA was established in 2015 to focus the development of college-wide research in data
+ science, combining our expertise with domain-specific knowledge from all disciplinary areas at
+ Birkbeck: Sciences, Social Sciences, Law, Arts & Humanities.
+ BKL was launched in 2016, extending the legacy of the London Knowledge Lab (2001–2015),
+ a joint initiative with the UCL Institute of Education. BKL’s research draws upon multi- and
+ interdisciplinary perspectives to investigate how digital technologies are transforming our
+ learning, working and cultural lives.
+ The Department’s research capacity is further enhanced through participation in the Institute
+ of Coding (IoC), a national OfS initiative to address the UK’s digital skills gap, with 60+
+ universities and industry partners. The IoC synergistically supports our research and impact
+ strategies through academic staff posts and targeted programme development (for example,
+ through a collaborative PGCert with the British Library and National Archives).
+ 1.2 Research strategy
+ We develop our research and impact strategies in the context of two overarching aims:
+ -   to be a world-leading research centre with complementary expertise in both theoretical
+     and applied computer science;
+ -   driven by Birkbeck’s mission, to develop flexible opportunities in cutting-edge computer
+     science for a diverse range of students, particularly working Londoners.
+ The latter provides unique opportunities to engage, through students bringing real-world
+ problems driven by their work environment, with a range of IT companies and other
+                                                                                                 Page 1
+
+
+Unit-level environment template (REF5b)
+ organisations.
+ Review of REF2014 research strategy. As stated in our REF2014 environment narrative, we
+ have “investigated fundamental research problems whose solution advances knowledge in the
+ discipline, and undertaken collaborative research with partners from other disciplines that
+ exploits and enhances our expertise” and have achieved significant advances in all the focus
+ areas identified therein (see below).
+ Post-REF2014 strategy. Our research strategy over the census period, and continuing into the
+ next five years, is based on seven key principles:
+ (R1) Recruit internationally excellent staff whose research enhances our strategic directions
+       (detailed below).
+ (R2) Foster an environment of inclusivity and equality, where all researchers can thrive and
+       fulfil their potential.
+ (R3) Promote research leadership, enabling collaboration and support within and across the
+       research groups, including support for research career development.
+ (R4) Maintain research excellence and innovation in core computer science, investigating
+       fundamental problems in both theory and practice, spearheading the development of new
+       technologies.
+ (R5) Carry out world-leading interdisciplinary research, recognising that computer science is
+       pervasive in all areas of society.
+ (R6) Amplify the impact of our research through collaboration with organisations across the
+       public, private and third sectors—nationally, internationally and across disciplines.
+ (R7) Provide all researchers with the environment they need to pursue research in their
+       chosen fields, including purpose-built labs, specialist hardware and software, and
+       financial and technical support.
+ Our research and impact strategies are articulated and regularly reviewed by the department’s
+ Research Committee, which horizon scans to identify strategically significant emerging areas of
+ research that dovetail with our existing profile. Its Chair is a member of the School Research
+ Committee, which develops and shares best practice across BEI, monitors research student
+ recruitment and progression, and works to enhance BEI’s research environment. The School
+ Research Committee articulates with the College’s Research Committee and Research Strategy
+ Group through its Chair, BEI’s Assistant Dean for Research (this was Poulovassilis till summer
+ 2015 when she was appointed Deputy Dean for Research Enhancement, continuing as a BEI
+ member of the College Research Committee).
+ Strategic areas of research. Driven by principles (R1)-(R7), we made significant changes to
+ our staffing and organisation of research since REF2014, reflecting our vision for this census
+ period and beyond:
+ First, we refocused the Computational Intelligence group into Experimental Data Science (EDS)
+ and enhanced it with three new appointments, researching data-driven methods for cloud
+ computing, bioinformatics and IoT security.
+ In recognition of our emerging strength in Algorithms, Verification & Software (AVS), we created
+ a new group in this area and further strengthened it by appointing two experts in automated
+ program analysis/verification and algorithmic graph theory.
+                                                                                              Page 2
+
+
+Unit-level environment template (REF5b)
+ The Information Management & Web Technologies group was refocused to Knowledge
+ Representation & Data Management (KRDM) accompanied by three appointments: in database
+ theory, constraint satisfaction and logic; in temporal representation and reasoning; and in graph
+ data management.
+ Finally, we launched BIDA and recruited its director, who also strengthens EDS research in
+ experimental algorithmics and data analytics.
+ KRDM strategy. KRDM addresses challenges arising from managing, accessing and exploiting
+ heterogeneous high-volume data, with particular focus on logic-based approaches, database
+ theory and related computational complexity problems, and graph data management. Since
+ REF2014 we have published 70+ journal and 170+ conference papers, including in highly
+ prestigious venues such as JACM (2 papers), AIJ(5), TOCL(4), LMCS(2), JAIR(2), PODS(5),
+ ICDT(3), IJCAI(7), LICS(6).
+ Ground-breaking advances have been made in first-order model checking in the context of
+ database theory, logic and complexity (H.Chen); complexity and succinctness theory for ontology-
+ based data access (OBDA); foundations of temporal OBDA; and game-theoretic
+ characterisations of query inseparability and of the Horn fragments of description and first-order
+ guarded logics (Kontchakov, Ryzhikov, Zakharyaschev). Fundamental advances have been
+ made in flexible processing of graph queries (Cali, Poulovassilis, Wood); quality-driven data
+ integration (Martin, Poulovassilis); designing the first logic-based language for JSON
+ transformation and querying (Hidders); and axiomatising and classifying algebras of functions
+ with composition and (anti)domain/range – an emergent tool in program verification (Mikulas).
+ Over the next five years KRDM will focus on:
+   -  fundamental problems in computer science logic, including database theory, constraint
+      satisfaction, complexity of ontology-mediated query answering;
+   -  developing techniques for intelligent data access, integration and management, in
+      collaboration with partners in industry;
+   -  contributing to new industry standards in graph data management.
+ AVS strategy. AVS addresses the efficiency of computation, including theory, design and
+ implementation, with several foci: foundations of algorithms and computational complexity,
+ algorithm design, and analysis and verification of systems and software. Since REF2014, we
+ have published 65+ journal and 85+ conference papers, including in ACM TAGL (1 paper),
+ JCSS(4), IEEE TSE(2), ACM TOCT(3), FOCS(3), SODA(1), STACS(2), ICALP(4), POPL(2),
+ ICSE(2), LICS(2), IJCAR(3), TACAS(3), CONCUR(3).
+ We do not shy away from notorious open problems, such as reconstructing graph properties
+ from subsets of vertex-deleted subgraphs (Fenner); inference of worst-case runtime complexity
+ bounds and size bounds for programs on integers; satisfiability for separation logic with inductive
+ definitions (Fuhs); the Matroid variation of the famous Secretary Problem; and lower bounds for
+ relaxed locally decodable codes (Lachish). Other ground-breaking advances have been made in
+ propositional knowledge representation and order theory (Razgon); and algorithmic techniques
+ for sparse graph classes (Reidl). Fundamental advances have been made in automated
+ termination analysis of higher-order programs (Fuhs); theory and verification algorithms for fuzzy
+ systems (Han); automated approaches to improve the quality of API documentation (T.Chen);
+ and algorithmic approaches to learning neural architecture hyperparameters and ensembles
+ (Magoulas).
+ Over the next five years AVS will focus on:
+                                                                                               Page 3
+
+
+Unit-level environment template (REF5b)
+   -   computational complexity; randomised algorithms and their applications; theory and real-
+       world applications of graph width measures and notions of structural sparseness;
+   -   verification techniques for emerging paradigms such as probabilistic, neural and quantum
+       programming;
+   -   application of machine learning and NLP to software engineering problems such as
+       program synthesis;
+   -   deep learning for modelling, classification, and autonomous control.
+ EDS strategy. EDS develops novel methods and systems for the computational analysis of
+ data. A core ingredient is the exploitation of metadata, observations and measurements from
+ large-scale information systems to ground testable theory, conduct experimentation and
+ enable practical application of research outcomes, leading to demonstrable economic and
+ societal impacts.
+ Since REF2014, we have published 140+ journal and 120+ conference papers, including in
+ TPAMI (9 papers), IEEE TKDE(2), IEEE TIFS(2), IEEE TSC(2), JoCCH(2), Scientometrics(2),
+ JASIST(2), TACL(2), PLoS One(3).
+ We have made significant advances in data analytics for Parkinson’s disease, deployed in
+ clinical trials in the UK, USA, Germany and Belgium and released as open-source software
+ (Roussos, Weston); named entity recognition and sentiment analysis (Levene, Weston, Zhang);
+ resource usage optimisation and real-time anomaly detection (Sotiriadis); data-driven cyber
+ security techniques, receiving a Samsung research award (Yoo); a Fisher-Rao metric for
+ curves using edge information (Maybank); topological patterns of network evolution
+ characteristic of trustworthy actors (Provetti); deep neural network techniques for predicting
+ human protein function (Wan).
+ Over the next five years EDS will focus on:
+       – modelling social and human dynamics employing spatio-temporal probabilistic models;
+       – disease progression assessment using mobile and wearable devices;
+       – deep learning methods, with biomedical, cloud computing and security applications;
+       – applications of NLP in sentiment analysis, named entity recognition, and distributional
+         representations of language.
+ BIDA strategy. Through its network of collaborations and external partnerships, BIDA
+ provides a vibrant environment for a next generation of data scientists. Collaborations are
+ often conceived through BIDA’s regular workshops, convened to explore cross-disciplinary
+ perspectives on specific topics and challenges. New collaborations have been forged with
+ Geography and the British Geological Survey to develop computational models of coastal
+ erosion using IoT smart sensor data; with the Institute of Criminal Policy Research (funded by
+ the Dawes Trust) to investigate user signals in social media communications for evidence-
+ gathering in criminal prosecutions; and with a market branding company to develop an NLP
+ system for matching journalistic articles and Twitter data.
+ Over the next five years BIDA will:
+       – develop data-driven methodologies to address big data and scalability challenges arising
+         in the sciences;
+       – collaborate with researchers in social sciences, arts and humanities to exploit the
+         potential of advances in text mining, data curation and user modelling;
+                                                                                               Page 4
+
+
+Unit-level environment template (REF5b)
+       – spearhead public debate on ethics and emerging technologies such as video surveillance,
+         user profiling and AI in general.
+ BKL strategy. BKL research has focused on the challenges of designing software to support
+ users’ knowledge creation processes. We have forged new collaborations with the British
+ Library, British Museum, and educationalists from several European universities and secured
+ joint funding leading to intelligent tools to support exploratory learning (EU), a specialist
+ knowledge base to support museology scholars’ research (AHRC), and further development
+ of the Samtla statistical language modelling software for searching digital archives (Wellcome
+ Trust ISSF) – ranked second in the 2018 British Library Labs Competition.
+ Over the next five years BKL will:
+       – apply cutting-edge computer science to co-design tools that support domain experts in
+         data integration, analysis and visualisation and in creating and sharing knowledge;
+       – collaborate with educationalists, psychologists and practitioners to exploit the potential
+         of AI in providing personalised support for learners and tutors in open-ended learning
+         settings.
+ 1.3 Impact strategy
+ Review of REF2014 impact strategy. As stated in our REF2014 impact narrative, we have
+ encouraged “collaborative research carried out by multidisciplinary teams involving user
+ stakeholders” (cf. Impact Case Roussos-LondonAmbulance), promoted “links with industry
+ partners with whom we can develop research exploitation routes” (cf. Case Study
+ Kontchakov-VKG), engaged “with commercial, educational and policy organisations in
+ knowledge transfer activities” (cf. Case Study Roussos-ITU), and maintained “department-
+ industry networks through our part-time postgraduates and alumni”.
+ Post-REF2014 strategy. Following REF2014, the Department reassessed its approach to
+ generating impact and put in place additional initiatives and structures to enhance it. Our
+ approach is based on five key principles, which will continue to drive our strategy over the
+ next five years:
+  (I1) Embed impact within our strategic research directions and research processes.
+        For example, EDS employs an experimental systems approach leading to the
+        development of novel software in healthcare and smart cities (cf. Case Studies
+        Roussos-LondonAmbulance, Roussos-ITU). KRDM develops data management
+        theories and technologies working with end-users in industry (cf. Case Study
+        Kontchakov-VKG).
+  (I2) Develop impact-generating activities through interdisciplinary and industrial
+        collaborations (see Sec. 4).
+  (I3) Recognise the importance of impact in our recruitment strategy by hiring staff with
+        world-leading research developed collaboratively with industrial users.
+  (I4) Leverage our unique relationship with research students: due to Birkbeck’s distinctive
+        mission, we are uniquely positioned to collaboratively address economic and societal
+        challenges identified by our students, the majority of whom pursue research concurrently
+        with their professional careers.
+        For example, our work on intelligent tools for ambulance routing (Case Study Roussos-
+        LondonAmbulance) drew on the experience of part-time PhD student Marcus Poulton at
+        the London Ambulance Service; and our collaboration with Neo4j on advanced querying
+                                                                                                 Page 5
+
+
+Unit-level environment template (REF5b)
+        methods for graph databases was facilitated by Petra Selmer, who completed her PhD
+        part-time at Birkbeck while working for Neo4j.
+   (I5) Communicate the outcomes of our research through a full breadth of non-academic
+        routes, both digital and in-person.
+ These initiatives are supported by structures and measures including:
+  –   Department’s Academic Lead for Impact, who promotes and monitors the implementation
+      of impact strategy and achievement of impact, and ensures that impacts are recorded and
+      communicated, building a knowledge base of external stakeholders and partners to inform
+      future planning.
+  –   Department’s Industry Advisory Board (IAB), comprising senior IT professionals from
+      UK/global corporations in sectors such as innovation, consultancy, web/mobile technologies,
+      ed-tech, energy, telecommunications. IAB members advise on all aspects of research to
+      ensure relevance to economic and societal challenges, and serve as mentors supporting the
+      development of collaborative activities as per (I2).
+  –   School’s Research Impact Officer (RIO), a full-time role in BEI with the remit of
+      evaluating and enhancing impact, working closely with other professional staff of the
+      School and College (public engagement, research development and support, alumni,
+      business services, communications). When new staff join the Department they meet with
+      the RIO to discuss the impact potential of their research. Staff preparing research funding
+      proposals consult with the RIO to ensure that impact is fully developed and embedded.
+      The RIO meets regularly with the department’s Academic Lead for Impact and the RIOs
+      of other Schools, allowing us to benefit from and inform best practice and wider impact
+      strategy across the College.
+  –   School and College Impact funding, available to amplify the impact of ongoing
+      research (see 3.1).
+  Areas of impact. Following this approach, we have substantially increased our impact on the
+  IT, healthcare, culture and urban development sectors, as well as now impacting on digital
+  humanities, cyber security and linked data management (see 4.2).
+ 1.4 Research integrity and open research environment.
+ The Department is committed to professionalism, openness, exercise of independent thought
+ and application of ethical principles, aligning with Birkbeck’s Research Integrity and Open
+ Research Data policies and concordats.
+ BIDA leads Birkbeck’s research on ethical issues in emerging technologies, and is the public
+ face of the College in the debate on the deployment of AI in our societies. All staff and research
+ students undertake mandatory ethics training before commencing their research at Birkbeck.
+ We operate a rigorous process for reviewing the ethical aspects of research involving human
+ participants, proposed by staff or students. The review is coordinated by the Department’s
+ Research Ethics Officer (REO) who passes non-routine cases to the School or College Ethics
+ Committee. The REO works with researchers to incorporate additional safeguards if required.
+ The REO serves on the School Ethics Committee, which has oversight of all ethical reviews in
+ the School and runs regular workshops to ensure that researchers are fully apprised of the
+ College’s principles and policies on research ethics and research integrity. Departmental REOs
+ undertake mandatory training before being appointed.
+ Our department’s PhD students played an active role in organising the Bloomsbury colleges’
+ “Love Data Week” for research students in 2018 and 2020, discussing research data
+                                                                                               Page 6
+
+
+Unit-level environment template (REF5b)
+ management and ethics.
+ Wherever possible we encourage staff to publish open-access, if necessary supplementing
+ funding available for this from the College. All articles accepted for publication are deposited in
+ open access form (Green or Gold) in the Birkbeck institutional repository BIROn. We extensively
+ use open publishing services such as arXiv (260+ papers since REF2014).
+ We use github, dedicated Web pages and the Birkbeck Data Repository BiRD to make all
+ software and data produced by our research freely available, compliant with regulatory
+ frameworks and data protection legislation. For example, the code for the Virtual Knowledge
+ Graph system Ontop is available at https://github.com/ontop/ontop and for the Parkinson’s PDkit
+ at https://github.com/pdkit/pdkit, the ontology developed by the Weaving Communities of
+ Practice project at https://www2.bbk.ac.uk/weavingcommunities/Ontology/, the Mapping
+ Museums data and software at http://museweb.dcs.bbk.ac.uk/data and
+ https://github.com/MappingMuseums/MMWebApp.
+ 2. People
+ 2.1 Staffing Strategy and Staff Development
+ Mentoring, Probation, Appraisal. Academic and research staff are assigned to one of the
+ research Groups as their primary affiliation, providing peer support alongside a research Mentor
+ who advises on research career development, training, funding applications and forging
+ collaborations with other institutions/disciplines. Staff meet as required, but at least annually,
+ with their Mentor.
+ Probationary staff meet annually with their Probationary Advisor to review all aspects of their
+ work. Post-probation academic staff undertake an annual Academic Review with a senior
+ colleague appointed by the HoD (Levene) to discuss achievements in the previous year,
+ objectives for the coming year, career aspirations, promotion planning, balance of work, and any
+ obstacles to progress in research, teaching or academic management. Research staff undertake
+ a similar review, tailored towards their career stage.
+ Training. The Department’s staff undertake College training in diversity and equality,
+ unconscious bias, recruitment, line management, research supervision (for both new and
+ experienced supervisors), promotion, data protection, writing grant proposals, project
+ management, open access, public engagement and knowledge exchange, aligned with the
+ relevant policies and concordats. This provides a structure supporting the more informal
+ coaching through mentorship within the Department.
+ Staff undertake training organised by the School in publishing research, generating impact,
+ research integrity and ethics, using audio-visual media for research communication (supported
+ by the BEI Film Unit and the Derek Jarman Lab), and applying for research funding – including
+ events where senior officers from specific funding bodies are invited to speak directly to staff.
+ The Department’s Knowledge Exchange champion organises regular training in
+ commercialisation, delivered by external experts. New staff attend innovation and
+ entrepreneurship training delivered by UCL Enterprise.
+ Workload allocation. Academic staff have a standard annual teaching load determining the
+ amount of lecture/lab-based teaching, tutoring and BSc/MSc project supervision. Allocation of
+ teaching duties is undertaken by the HoD in discussion with the individuals and the Directors of
+ Studies. Management duties are also shared evenly, fostering academics’ engagement in College,
+ School and Departmental processes. Most are rotated every three years and, as with teaching,
+ individuals discuss their preferences with the HoD. There are reductions for ECRs (see below).
+                                                                                                 Page 7
+
+
+Unit-level environment template (REF5b)
+ To promote transparency, everyone’s duties are published annually on the departmental intranet.
+ Research Grants, Impact. The School’s Research Development Officer assists staff in
+ developing new research collaborations and proposals, and oversees a formal peer review
+ process for all funding proposals. The School’s Research Impact Officer assists staff in
+ developing impact from their research (see 1.3). The Department’s academic lead for impact
+ (Zakharyaschev) and Knowledge Exchange champion (Roussos) work with individuals and the
+ Research and Impact Officers, articulating with the School’s and College’s training and support
+ mechanisms.
+ The College’s Research Office provides support for submitting proposals and communicating
+ with external funders. It advises on IP protection and exploitation, supported with specialist Tech
+ Transfer expertise from UCL Business.
+ The School provides funding for pump-priming the research of new staff and new collaborations
+ (School Research Fund) and for supporting staff in developing impact from their research
+ (School Impact Fund). Applications can be made several times each year and are assessed
+ according to quality and strategic importance by the School’s Executive Board. Academic staff
+ can additionally apply to College funding calls e.g. College Impact Seed Fund, Wellcome Trust
+ ISSF.
+ Sabbaticals. Academic staff (including fixed- and part-time) can take one term in ten as a
+ Research or Impact sabbatical. They are required to report back on how they have used this
+ leave and the outcomes achieved.
+ ECRs. The teaching duties of ECRs are kept below the departmental average, starting at a half
+ load and increasing gradually to a full load by the third year. ECRs have a lighter management
+ load throughout their first three years, taking on roles with coordination and decision-making
+ responsibilities appropriate for their career stage. Research Mentors, the Director of Research
+ and HoD provide guidance on all aspects of research.
+ The effectiveness of our support of ECRs is evidenced by the promotion during this census
+ period of seven lecturers to SL and two to Reader.
+ PDRAs contribute to the Department’s vitality through activities such as helping to organise
+ conferences/workshops/seminars, running stakeholder events, producing research
+ software/datasets, preparing online research-related content, presenting at conferences, and
+ undertaking research-related visits. They are offered opportunities to guest lecture on taught
+ modules, supported by their line manager and the Department’s Teaching Tutor.
+ The effectiveness of our support for PDRAs is exemplified by the career trajectories of two
+ colleagues who joined as PDRAs and were then successful in being appointed to a Lectureship,
+ with subsequent promotion of one to SL and one to Reader. Three other PDRAs have
+ progressed to Lecturer/SL positions at other HEIs during this census period; four have
+ progressed to senior R&D posts in industry.
+ Staffing and recruitment. The College’s recruitment strategy focusses on appointing mainly
+ at Lecturer level. The new academics we appointed since REF2014 (see below) are
+ demonstrably meeting our research and impact strategy principles R1, R4, R6, I1-I3, as
+ evidenced by their research expertise, publications quality, extensive collaborations and
+ impact. Most academic posts are open-ended although on occasion there are fixed-term
+ posts associated with specific initiatives; to date, all our fixed-term post-holders have been
+ transferred to open-ended contracts towards the end of probation.
+ Since REF2014 we have appointed 8 Lecturers (4 early-career), one SL, one Reader (four
+                                                                                                Page 8
+
+
+Unit-level environment template (REF5b)
+ are BAME, all are male, women were shortlisted for seven of the posts).
+ The Department grew by 30% over this census period and now comprises 8 Professors, 3
+ Readers, 7 SLs and 8 Lecturers, showing an even balance between senior and junior grades.
+ In recognition of the strength of our strategy, the College has announced three more posts for
+ 2021: one Professor, two SL/Readers. We are actively addressing gender imbalance through
+ the measures outlined in 2.3.
+ A steady rate of staff promotions facilitates succession planning as more senior management
+ roles (including research leadership roles) can be prepared for through discussions, facilitated
+ by the HoD, between current holders and staff seeking promotion, and handed over after
+ promotion. Female staff benefit from the College’s Aurora Leadership programme.
+ Space. The Department works with College Estates to provision high-quality premises for
+ researchers. Full-time academics are allocated their own office. Part-time academics,
+ research staff, and full-time research students are assigned their own desk and PC in a
+ shared office/lab. Part-time research students are assigned a shared desk and PC. There are
+ three dedicated Research Seminar and Meeting rooms, and additional ones bookable
+ throughout the School. The department’s labs have ample capacity to be booked for user
+ design/evaluation workshops and community engagement/dissemination events. Additional
+ study and social space is available in the BEI Graduate Centre.
+ Recognition of research and impact. Appointment, promotion and remuneration processes
+ recognise all aspects of research, including outputs, grants, supervision, public engagement,
+ knowledge exchange, impact, community service. To reward successful grant applications, a
+ small proportion of the grant overheads allocated to the Department is available to the award
+ holder(s) to fund research-related expenses. Research achievements are publicised on the
+ Department’s website, ensuring visibility, providing inspiration for early-career researchers, and
+ creating a benchmark for expected levels of activity.
+ Research Exchanges. The Department provides generous financial support for conference
+ attendance and research-related visits: see 3.1,4.1.
+ Retention. We have high academic staff retention, with just three leavers in this census period.
+ Implementation of the Concordat to Support the Career Development of Researchers. As
+ detailed above and in 2.2 and 2.3, we espouse the three Principles of the 2019 Concordat by
+ providing a supportive and inclusive working environment, recognising and valuing all
+ researchers’ contributions, and fostering researchers’ professional and career development. Our
+ provisions are under continual review by the Department’s management and research
+ committees.
+ 2.2 Research Students
+ Recruitment. The Department’s research student recruitment strategy leverages our research
+ reputation to attract strong applicants. Aligning with Birkbeck’s mission, the majority enrol for
+ part-time study and have significant other commitments. Student recruitment levels rose in the
+ latter part of the previous census period and have been maintained throughout this period, with
+ 45 students enrolled during 2019/20 (62% PT, 38% FT). We recruit applicants from diverse
+ backgrounds, as evidenced by our current research student demographics: 40% BAME, 40%
+ non-British, 25% female, 12% registered disabled. Staff involved in research student recruitment
+ are required to have undertaken recruitment training.
+ Research Studentships. The Department has funded 14 PhD studentships in this census
+ period, awarded to exceptional part-time or full-time applicants. Additionally, 2 students have
+                                                                                                Page 9
+
+
+Unit-level environment template (REF5b)
+ been funded by College interdisciplinary studentships, awarded from time to time through
+ institution-wide competition. Birkbeck staff can also apply for collaborative PhD studentships in
+ the annual Bloomsbury Consortium PhD Studentships competition: we have been successful in
+ 4 such bids in this period, two in collaboration with UCL IoE and two with LSHTM.
+ The Department also has 4 Graduate Teaching Assistant posts whose holders complete a PhD
+ over four years, with full fee remission, while contributing to the department’s teaching and
+ enhancing their transferable skills.
+ Support and Monitoring. We implement, and in some areas go beyond, the College’s Code of
+ Practice for Postgraduate Training and Research. Each student is assigned one or two primary
+ supervisors with expertise in their research area, and a secondary supervisor for a broader
+ perspective. Less experienced supervisors are teamed with staff who have strong supervisory
+ track records. Female students may request that one of their supervisors is female. Full-time
+ students meet weekly with their supervisors, part-time students every fortnight. The Research
+ Tutor oversees students’ well-being, induction and training, organises termly meetings with all
+ students and an annual survey. Three seminar series, specialist discussion/reading groups,
+ research group/centre meetings and annual Research Days provide students with a range of
+ opportunities to integrate into the research life of the department and present their work in
+ informal settings.
+ We make special efforts to create opportunities for part-time students to meet with staff and
+ other students. All training events for research students are held in late afternoon/evening.
+ A subcommittee of the Department’s Research Committee monitors students’ progression,
+ training needs, transfer to PhD, and completion. Students submit written reports annually and
+ give oral presentations at key stages.
+ There has been a 10% increase in the number of PhDs awarded in this census period compared
+ to the last. In the Department’s last research student survey, 90% stated they were satisfied with
+ their supervision and 88% with the progression processes.
+ Skills Development. All students attend the Department’s Research Methods training and
+ generic skills training organised by Birkbeck’s Graduate Research School and the Bloomsbury
+ Postgraduate Skills Network. Most College training courses for staff are also open to research
+ students.
+ The Department funds students’ presentation of papers at conferences – at least one paper per
+ year, for both PT and FT students.
+ Research students are offered opportunities to provide teaching assistance on our taught
+ programmes and receive training for this organised by the College and support from the
+ Teaching Tutor.
+ The effectiveness of our research student support and training is evidenced by the career
+ trajectories of our PhD graduates, e.g. in this census period five attained Lecturer positions at
+ HEIs, two exploited their doctoral research to co-found new start-ups, and four were appointed
+ to R&D posts in areas such as medical informatics, data science and software services.
+ 2.3 Equality and Diversity
+ Strategy to support equality and diversity
+ For all posts we encourage applicants with diverse backgrounds, as evidenced by our current
+ staff demographics: 6 academic/research staff are BAME, the majority are of non-British origin,
+ two are women. For new female academic/research staff, we ensure that at least one of their
+ Probationary Advisor or Mentor is a woman.
+                                                                                              Page 10
+
+
+Unit-level environment template (REF5b)
+ All categories of staff are required to undertake Equality & Diversity and Unconscious Bias
+ training, and to repeat this every three years. Staff involved in recruitment are required to have
+ undertaken recruitment training, which includes an equalities component. Staff recruitment
+ panels contain at least one woman.
+ The HoD supports staff preparing to apply for promotion, accelerated increments and
+ performance-related payments, which are open to all staff categories. Staff are also
+ encouraged to attend the College’s workshops on applying for promotion.
+ A positive review of promotions is undertaken annually by a panel comprising the HoD and
+ senior professors (4 men,1 woman) to identify staff to encourage to apply. Mentors and academic
+ reviewers also play a proactive role in this respect.
+ The Department engages with the College’s and School’s equality and diversity initiatives and
+ with the Action Plan of the HR Excellence in Research Award, working with the School’s
+ Assistant Dean for Equality & Diversity to embed these in all its processes.
+ We have a staunch commitment to Athena SWAN: Poulovassilis was a member of the College’s
+ Athena SWAN Committee from its inception till 2017 and participated in the successful
+ application for Bronze in 2016. Roussos led the Department’s Athena SWAN Self-Assessment
+ Team preparing the successful application for Bronze in 2017. Poulovassilis is a Mentor in the
+ Aurora Leadership Programme. Our annual Andrew & Kathleen Booth lecture attracts leading
+ innovators and alternates a female and male distinguished speaker each year.
+ The Department’s staffing capacity enables sabbatical leave to be accommodated as part of
+ normal workload planning. All staff categories are entitled to parental/caring leave according to
+ College policies, and their duties are covered by recruiting additional staff for a fixed period.
+ Due in part to Birkbeck’s teaching being largely in the evening, the Department has a
+ longstanding culture where flexible working is the norm for all staff. Options include
+ homeworking, staggered hours/flexi-time, part-time and job-share. Evening teaching for
+ academic staff does not exceed 3 evenings per week and is balanced by late morning starts.
+ Remote working (including remote teaching during the COVID-19 pandemic) is enabled by
+ extensive IT infrastructure allowing remote access to all resources. Staff and students are also
+ supported through licensing software and loaning hardware for home use.
+ In the last Departmental survey, 96% and 88% of staff endorsed the Department’s flexible
+ working and family support, respectively. In the last College survey, 89% of the Department’s
+ staff agreed that they work in an inclusive and enabling environment promoting tolerance and
+ freedom from discrimination.
+ Career pathways. Part-time staff have the same opportunities and entitlements as full-time, with
+ pro-rata allocation of work duties. Fixed-term staff have the same opportunities and entitlements
+ as those on open-ended contracts. Announcements of job openings are regularly emailed by
+ HR. PDRAs approaching the end of their contract meet with their line manager to discuss
+ continuing work opportunities. Bridging funding is available for PDRAs between contracts.
+ Research Leadership roles. The Director of Research (Zakharyaschev), Director of BIDA
+ (Provetti) and Director of BKL (Poulovassilis) are appointed by the HoD in consultation with the
+ Dean and senior staff. Research Group directors are appointed by the HoD in consultation with
+ the Director of Research and Group members. The departmental Research Committee is
+ chaired by the Director of Research. Its core members include the Research Tutor, Group and
+ Centre directors, and elected representatives of the research staff and students. However, all
+                                                                                                Page 11
+
+
+Unit-level environment template (REF5b)
+ are encouraged to attend its meetings and participate in the formulation of research and impact
+ strategy, and the setting and monitoring of objectives.
+ Access to funding. All academic and research staff and students can apply to the Department
+ for funding to attend conferences, undertake research-related visits, attend training courses, and
+ organise stakeholder workshops and dissemination events. All staff have access to the same
+ support mechanisms in preparing applications for School, College and external funding (see
+ 2.1).
+ Returning from leave and changing circumstances. Our flexible working provisions enable
+ staff to manage transitions after returning from periods of parental leave or ill health, changes in
+ their health or caring responsibilities, and switching between full- and part-time working. Staff
+ returning from leave may request flexible working or a variation in their contract (including
+ homeworking, staggered hours/flexi-time, part-time, job-share). Changes to working
+ arrangements are managed flexibly between the individual and their line manager. Research
+ students can similarly switch between full- and part-time study and can request breaks-in-study
+ to accommodate changes in their professional or personal circumstances.
+ Routine planning for periods of maternity, paternity, shared parental and adoption leave includes
+ a detailed leave planner and planning for Keeping in Touch (KIT) days. Staff on
+ maternity/adoption leave can take up to ten paid KIT days. Upon return to work, staff are
+ supported with childcare costs through Birkbeck’s childcare vouchers scheme. Returning staff
+ and students have access to the College’s nursery, which operates 5.30-9pm when most
+ teaching and supervision takes place.
+ Support for those with disabilities. The Department’s Disability Officer liaises with the
+ College’s Disability support services to ensure that support plans are collaboratively formulated
+ with staff and students to enable them to work and study effectively. This includes access to
+ disability allowances and learning support funds, provisioning of assistive technologies, and
+ adjustments to working environments, work duties and required presence in College. The
+ Disability Officer is a member of the School’s Disability Working Group.
+ Wellbeing of staff and students. The HoD operates an open-door policy as do all academic
+ and professional staff (virtual during the COVID-19 pandemic). The Department has a code of
+ practice governing responsiveness to emails and requests for meetings. So staff and students
+ are easily able to obtain advice on College, School and Departmental policies, support
+ mechanisms and resources.
+ We place strong emphasis on integration and communication across the department. This is
+ ensured through regular research group/centre meetings, three seminar series, training events
+ for staff and students, and a monthly departmental “Merienda” where we celebrate the past
+ month’s achievements. There are two annual social events, the Christmas party and the Away
+ Day in September. In the last College survey, 88% of the Department’s staff agreed that Birkbeck
+ is a good place to work.
+ Consideration of Equality and Diversity in construction of REF submission. Our
+ departmental REF preparation team (3 men, 1 woman) read and recommended outputs and
+ impact case studies for our UoA. The selection of outputs and impact case studies was
+ undertaken by a School-level panel chaired by the Dean and including the School’s three UoA
+ leads, Deputy Dean, Assistant Dean for Research and one external expert (5 men, 2 women).
+ The College’s code of practice was followed throughout, including a three-round process for
+ outputs selection. After each round the College undertook an analysis of the distribution of
+ outputs across staff with respect to multiple protected characteristics and no statistically
+ significant imbalances were found for our UoA.
+                                                                                               Page 12
+
+
+Unit-level environment template (REF5b)
+ 3. Income, infrastructure and facilities
+ Our 30% growth in staff since REF2014 has been accompanied by a strategic aim to increase
+ research resources in terms of income (both external and internal), office and lab space, and
+ high-performance computing. It is to be noted that we undertake significant amounts of
+ fundamental research for which additional external funding is not required.
+ 3.1 Research funding
+ The Department has three main sources of income to support its research strategy: (i) external
+ funding from research councils, foundations and trusts; (ii) internal funding from the School and
+ College; (iii) OfS through our IoC participation.
+ External grants. External awards have grown by 50% from £1.6M in the previous REF period to
+ £2.4M in the current period. Major awards include:
+     –   KRDM: the EPSRC LIQUID grant on data integration (£89K) and the EPSRC iTract and
+         quadMD grants on OBDA (£354K, £453K), leading to impact case study Kontchakov-VKG
+         and major publications in JACM, AIJ, JAIR, LICS, PODS;
+     –   EDS: an M.J.Fox Foundation grant to develop a data science toolbox for Parkinson’s
+         disease (£114K), an Innovate UK grant to develop the cloudUPDRS app for Parkinson’s
+         sufferers (£69K), and funding from the Bloomsbury Consortium and Wellcome Trust
+         ISSF to investigate the IoT’s role in giving agency and voice to individuals and
+         communities (£78K); leading also to publications in IEEE Access, J. Ambient Intelligence
+         & Smart Environments, J. Pervasive Mobile Computing, PerCom, eHealth 360o ;
+     –   AVS: three EPSRC grants on risk measurement (£101K), probabilistic verification
+         (£100K), and stability in graphs (£152K), leading to publications in TCS, IJAR, J. Comb.,
+         J. Comb. Theory, POPL;
+     –   BIDA: UKRI GCRF Action Against Stunting Hub funding (£195K), developing data
+         analysis techniques to investigate the causes of child stunting (still in early stages);
+     –   BKL: EU iTalk2Learn project (£326K) on intelligent support for 5-11 year olds’ learning of
+         maths, and AHRC Mapping Museums project (£215K) developing a specialist knowledge
+         base for museology scholars and professionals; leading also to publications in ACM
+         JoCCH, UMAP, EC-TEL, LAK.
+ Internal grants. In this census period we were awarded School funding of £110K for pump-
+ priming research projects, £83K for impact development (impact case studies Roussos-
+ LondonAmbulance and Roussos-ITU were supported by a series of such grants), £30K for
+ conference attendance, as well as £50K from the College’s ISSF, Impact Seed Fund and NYU
+ Collaboration Fund. The Department additionally provided £102K to staff and students attending
+ conferences and undertaking research-related visits. Thus, internal research funding amounts to
+ over £375K.
+ IoC grants. The IoC awarded us over £600K to develop new UG/PG programmes in Data
+ Science. This was a significant boost to our Data Science and Algorithms research as it funded
+ 50% of three new academic posts. A PGCert was developed with the British Library and
+ National Archives to provide digital skills training for their staff, building on and extending our
+ research collaborations in the Samtla project. We secured additional OfS funding of £100K to
+ develop a new PGCert in Applied Data Science, funding 50% of a further post. The IoC funds
+ also Birkbeck’s IoC Manager who contributes to Samtla and NLP research at the BKL. IoC
+ membership also enhances our environment through initiatives to widen participation in under-
+                                                                                                 Page 13
+
+
+Unit-level environment template (REF5b)
+ represented groups; for example, we were awarded £120K in scholarships funding for women
+ and black students on the new PGCert.
+ Future funding. Continuing to increase external funding, from a broad range of sources, is a
+ key aim. We are currently preparing 7 proposals for EPSRC funding, 2 BBSRC/MRC proposals
+ in life sciences informatics, 2 AHRC/ESRC proposals in digital humanities and museum data
+ analytics, and 4 InnovateUK proposals in healthcare data analytics, blockchain analytics,
+ construction sensor data analysis, and computational journalism. Two proposals (EPSRC,
+ AHRC, £500K) have already been funded in 2021.
+ 3.2 Research infrastructure
+ The Department works with the College’s Estates, ITS and Library to ensure provision of high-
+ quality space, general IT and learning resources for its researchers.
+ BIDA’s foundation was in part a response to the REF2014 outcomes which recommended that
+ the College invest more in interdisciplinary research and the research environment. BIDA is
+ physically distributed across labs/offices of the participating Schools. Due to its research reach
+ and the strategic significance it has established, the College is currently elevating BIDA to
+ become one of Birkbeck’s eight Research Institutes, which will lead to increased college funding,
+ support, and collaboration opportunities.
+ Since its launch in 2016, BKL has been housed in a purpose-built lab for 20+ researchers and
+ its membership has expanded to include researchers from Birkbeck’s departments of
+ Psychology, History of Art and Cultures & Languages.
+ Computing facilities. The Department provides the hardware, software and technical training
+ required by all staff and students to undertake their research. In addition to equipment
+ purchased for specific projects, we have a SLURM GPU cluster with 12xP100 and 16xGTX1080i
+ GPUs. Virtual machines for R&D are provisioned on our Xen hypervisor pool (16 servers, 480
+ physical cores, 2.8TB RAM). We also have a Rocks cluster of six compute nodes and two
+ further general-purpose computing servers (AMD EPYC). For storage we use two Read
+ Intensive RAID arrays (2x9TB PCIe SSD) and a dedicated storage server (Open-E DSS) with
+ 22TB SSD disk. Inter-host networks are 10Gbps or faster. Our teaching labs can be booked for
+ user and community engagement events; when they are not in use we re-utilise the machines
+ for research as a HTCondor pool with 1248 compute slots and 2TB RAM. Since REF2014 we
+ have doubled our average spend on research computing to £40K per annum.
+ Research Support Staff. The department’s research is supported by two Systems and one
+ Administrative staff FTEs. In addition, three School staff FTEs – the Research Development,
+ Impact, and Finance Officers – manage the School’s research processes and support
+ departments’ research development and exploitation. The School’s Communication Officer and
+ Event Officer support our research communication activities. Additional expertise and support is
+ provided by the Department’s academic lead for impact and Knowledge Exchange champion,
+ the Research Office, and UCL Business (see 2.1).
+ 4. Collaboration and contribution to the research base, economy and society
+ To achieve our strategic aims we collaborate with leading computer scientists, researchers from
+ other disciplines, and user stakeholders beyond academia. In particular, we
+      –   promote collaboration by inviting leading researchers to visit Birkbeck and supporting
+          visits in the other direction;
+                                                                                               Page 14
+
+
+Unit-level environment template (REF5b)
+      –   encourage and support staff in initiating joint projects with other university and industrial
+          partners, including multi- and interdisciplinary research;
+      –   promote knowledge exchange, public engagement and impact by organising stakeholder
+          workshops and dissemination events.
+ 4.1 Research collaboration
+ The Department runs weekly seminars where leading scholars from the UK, Europe and beyond
+ present their research to staff and students. Approximately 100 seminars took place over this
+ census period, often combined with additional activities within specific research groups. BIDA
+ and BKL run additional interdisciplinary seminar series, with approximately 50 events during this
+ period.
+ 50+ researchers visited us during this period from universities in 18 countries, while staff
+ undertook 100+ visits to universities/organisations in 21 countries. The Department contributed
+ to funding longer-term visits of 20+ researchers from other universities/organisations to Birkbeck
+ and 35+ such visits in the opposite direction.
+ We have held Visiting Professorships at the Northwestern Polytechnical University, China, and
+ University of Technology, Australia (Maybank); Bar-Ilan University (Levene); KAIST and
+ University of Sydney (Yoo); Higher School of Economics, Russia (Zakharyaschev). Zhang is
+ currently on a two-year leave of absence as Staff Research Scientist at Blue Prism AI Labs
+ exploiting his expertise in machine learning.
+ Articles published since 2014 have co-authors from 80+ universities in 30+ countries, making
+ our research truly international. We have co-authors from 35+ companies including Alibaba,
+ BNY Mellon, BT, IBM, Microsoft, Neo4j, Paddy Power, Samsung, Siemens, Telefonica Digital.
+ Most of our funded research projects are in collaboration with colleagues from other universities
+ in the UK and internationally, many from other disciplines, and with other stakeholders. For
+ example,
+      –   in KRDM, the OBDA projects are joint with the universities of Liverpool, Bozen-Bolzano
+          and Sassari, and with Siemens (Germany), Sirius (Norway), Siris Academic (Spain), and
+          the Pilsudski Institute of America;
+      –   in EDS, one project is collaborative with University of the Arts, Proboscis and British
+          Antarctic Survey; another is with UCL IoN, Benchmark Performance, Retechnica and
+          Audience Focus;
+      –   in BIDA, the new £19.76M UKRI GCRF project involves researchers from multiple
+          science and social science disciplines affiliated with 18 institutions in the UK, India,
+          Indonesia and Senegal;
+      –   in BKL, the Mapping Museums project is collaborative with Birkbeck’s History of Art
+          department and stakeholders from across the UK museum sector (including Arts Council
+          England, DCMS and the Museums Development Network); the Samtla project with the
+          British Library, Wellcome Trust, and SOAS; and the iTalk2Learn project with
+          educationalists from several European universities.
+ We frequently supervise students jointly with other departments and Bloomsbury Consortium
+ Institutions: in this census period two students with Psychology (one MRC-funded, one College-
+ funded), a College-funded student with Biology, and four Bloomsbury Consortium-funded
+ students – two with UCL IoE, two with LSHTM.
+                                                                                                 Page 15
+
+
+Unit-level environment template (REF5b)
+ In addition to BIDA and BKL, staff are members of several other research centres, including the
+ Centre for Cognition, Computation & Modelling, Centre for Innovation Management Research,
+ Institute of Structural and Molecular Biology, and Centre for Educational Neuroscience.
+ 4.2 Impact beyond academia
+ Through implementation of our post-REF2014 impact strategy, our network of research users
+ and beneficiaries has expanded substantially during the census period:
+     –    In Healthcare, EDS has pioneered research into data-driven techniques to reduce
+          ambulance arrival times, incorporated into decision support tools deployed by the London
+          Ambulance Service (Impact Case Study Roussos-LondonAmbulance). In collaboration
+          with clinical and commercial partners, we developed cloudUPDRS, the first smartphone
+          app certified as a Class I medical device by the Medicines and Healthcare Products
+          Regulatory Agency for assessing the motor symptoms of Parkinson’s disease. We are
+          developing a secure platform for healthcare data analytics with Cambridge Medical
+          Academy.
+     –    In Information technology, KRDM has made significant contributions to the
+          development of theory, practice and tools for OBDA, collaborating in the development of
+          the Ontop platform with start-up Ontopic (Italy) and other partners as listed in 4.1 (Impact
+          Case Study Kontchakov-VKG). We have secured funding from the European Space
+          Agency to develop conceptual modelling-based techniques for data exchange between
+          ESA and their suppliers of satellite and rocket technology.
+     –    In Smart cities, Roussos is Associate Rapporteur of Study Group 20 of the International
+          Telecommunications Union (ITU), developing standards in service interoperability and
+          big data analytics for smart cities. He has led research into integrating diverse
+          technologies into a comprehensive system of smart city universal entity identification,
+          ratified as ITU Recommendation Y.4805 and providing a blueprint for smart cities in China
+          and several African countries (Impact Case Study Roussos-ITU).
+     –    In Cyber security, we have developed a data-driven cyber-intrusion detection platform in
+          collaboration with KAIST, used at Samsung and BT. We are working with Samsung on
+          next-generation monitoring and protection systems for IoT-enabled devices, and with a
+          market-leading blockchain technology company on identifying abnormalities in
+          blockchain data.
+     –    In Linked Data standardisation, Hidders co-leads the Property-Graph Schema Working
+          Group of the Linked Data Benchmark Council (LDBC). He is coordinating researchers
+          and companies such as Neo4j, Amazon Neptune and Google to standardise the
+          Property-Graph data model as LDBC’s representative on the international SQL Standard
+          committee (ISO/IEC JTC1/SC34/WG3). The PGSWG is developing the GQL query
+          language for graph data, to be incorporated also into SQL.
+     –    In Digital Humanities and Cultural Heritage, the Samtla software has been deployed
+          over the British Library historical text archive and Wellcome Trust Medical Library. UK
+          museum organisations are using the Mapping Museums knowledge base to understand
+          the current state of the sector. We are working with leading science museums including
+          the Science Museum, London, and the Exploratorium, San Francisco, to develop
+          audience research methods incorporating high-precision indoor location sensing and
+          spatial analytics.
+                                                                                                Page 16
+
+
+Unit-level environment template (REF5b)
+ As shown by the above, our research focuses on timely technological and societal problems.
+ Most recently, the Covid-19 emergency led several staff to initiate projects aimed at
+ understanding and mitigating the effects of the pandemic: Poulovassilis obtained collaborative
+ funding with History of Art and Geography from the UKRI Covid-19 Rapid Response Call to
+ investigate the resilience of UK museums during the crisis; Levene and Weston are collaborating
+ with doctors from two London hospitals to develop a machine learning model for diagnosing
+ Covid-19 from patients’ medical social media posts; Provetti is collaborating with Philosophy to
+ explore privacy issues arising from Covid-tracking apps.
+ 4.3 Wider influence
+ We have served on the Editorial Boards of 30+ journals, including Artificial Intelligence, ACM
+ ToCL, J. Applied Logic (Zakharyaschev), IEEE Transactions on Sustainable Computing, J. Big
+ Data Research, IEEE Communications Letters (Yoo), Pervasive and Mobile Computing, IEEE
+ Transactions on Technology and Society, IEEE Transactions on Big Data (Roussos), Computing
+ and Informatics, International J. Computer Vision (Maybank), Applied Intelligence, Informatics,
+ Open Journal of Information Systems (Magoulas), IEEE Transactions on Knowledge and Data
+ Engineering (Poulovassilis).
+ We were General or Programme Chairs of 23 international conferences and 10
+ international workshops, including RuleML+RR (Kontchakov), BICOD (Poulovassilis, Cali,
+ Wood), IEEE Int. Symposium on Smart Learning for the Next Generation (Yoo), IEEE PERCOM
+ (Roussos), Symposium on Parallel and Distributed Computing, Int. Conf. on Information,
+ Intelligence, Systems and Applications (Sotiriadis), Int. Symposium on Intelligent Data Analysis
+ (Weston), IEEE/WIC/ACM Web Intelligence (Zhang), BeyondMR@SIGMOD (Hidders).
+ We organised at Birkbeck the RuleML+RR 2017 Conference (Organisation Chair Kontchakov)
+ and the BICOD 2017 Conference (Organisation Chair Martin) and served on 250+ other
+ conference/workshop programme committees.
+ We have served on 10 Steering Committees, including RR (Kontchakov), TACL, AiML
+ (Zakharyaschev), BICOD (Cali, Poulovassilis), FSCD (Fuhs), IDA Society (Weston),
+ BeyondMR@SIGMOD (Hidders).
+ We have given 15 invited Keynotes, including at the 12th Int. Conf. on Flexible Query Answering
+ Systems, 14th Int. Conf. on Formal Concept Analysis (Poulovassilis), 11th Computer Science and
+ Electronic Engineering Conf. (Roussos), 28th Conf. on Information and Knowledge Management
+ (Maybank), 8th Hellenic Conf. on Artificial Intelligence, 6th Conf. on Information and
+ Communication Technologies in Education (Magoulas), 8th Danish Static Analysis Symposium
+ (Fuhs).
+ We have given invited lectures/courses at 10 Summer Schools, including EDBT
+ (Poulovassilis), Reasoning Web (Kontchakov, Ryzhikov, Zakharyaschev), International School
+ on Rewriting (Fuhs), Probabilistic Model Checking (Han), ESSLLI (Zakharyaschev), Data-Driven
+ Incident Management (Yoo).
+ Staff have been external examiners of 75+ PhD theses, 50+ in the UK and 25+ overseas.
+ We have published 3 authored books (Wan, Hidders, Roussos), 7 encyclopaedia articles
+ (Hidders, Poulovassilis, Wood), and co-edited the proceedings of 15 conferences.
+ Our professional services include contributions to industry and open-source projects in software
+ engineering, information management, and information retrieval; training events with the British
+ Library; a video on data visualisation for a Publisher; advising Arts Council England on data
+ collection strategy; advising on IoT legislation through the ACM Public Policy Committee.
+                                                                                            Page 17
+
+
+Unit-level environment template (REF5b)
+ Panels: Staff have served on 4 EPSRC Prioritisation panels, 4 Horizon-2020 panels, research
+ funding panels for the Academy of Finland and Research Council of Norway, and as reviewers for
+ funding bodies in 20+ countries across Europe, Asia and America. Poulovassilis served on the
+ REF2014 Subpanel for Computer Science & Informatics and participated in two EPSRC ICT
+ Theme Delivery Workshops.
+ Fellowships/Memberships: Maybank is Fellow of the Institute of Mathematics and its
+ Applications, the IEEE, and the Royal Statistical Society; Poulovassilis BCS Fellow; Yoo Senior
+ Member of the IEEE and Member of two IEEE Technical Committees; Fuhs Member of IFIP
+ Working Group 1.6 on Rewriting; Magoulas Honorary Fellow of the Hellenic AI Society.
+ Awards: We received the EATCS-IPEC Nerode Prize 2020 (Razgon), ACM-PODS
+ A.O.Mendelzon Test-Of-Time Award 2019 (Cali), ICDT-2017 Best Paper award (H.Chen),
+ SIGIR-2017 Best Paper Award Honourable Mention (Zhang), Semantic Web Journal
+ 2016 Outstanding Paper (Kontchakov), 2014 Marco Cadoli Student Paper Prize at KR-2014
+ (Kontchakov, Zakharyaschev).
+ Media: Our Web Search and Mapping Museums research was highlighted on the BBC; our
+ collaboration with Samsung by Business Weekly; our work on AI by Prime Economy Korea; and
+ on the IoT by New Scientist.
+ Community and public engagement: Provetti spoke on AI and research ethics at the
+ Bloomsbury Data Week 2017, Birkbeck’s Law on Trial Week 2019, and is a regular panellist at
+ Royal Statistical Society meetings. Poulovassilis engaged with several UK museum sector
+ organisations during the design, evaluation and dissemination activities of the Mapping
+ Museums project. Fuhs hosted the 10th South England Regional Programming Language
+ Seminar, with 60+ participants. Weston spoke on cryptography at the ICSA Technology
+ Conference 2016. Yoo spoke on data-driven incident management at the UK Defence Academy
+ in 2019. BKL researchers took part in a Virtual World Tour on the Future of Work, invited by
+ Germany’s Federal Ministry of Education and Research.
+ Emeritus Reader Roger Johnson continues to serve as the department's Historian, writing
+ articles publicising the work of Andrew and Kathleen Booth and others and co-authoring the
+ National Museum of Computing's guidebook on HEC1 – the UK's first mass-produced computer
+ that incorporated also the Booth Multiplier, used in billions of chips manufactured around the
+ globe every year. Johnson is also the official Historian of IFIP; secretary of the BCS Computer
+ Conservation Society, the world’s largest computer history group, which includes organising a
+ rolling programme of monthly lectures put out on YouTube; and a Trustee of the Board
+ responsible for the replica of Alan Turing’s Bombe at the National Museum of Computing.
+                                                                                             Page 18

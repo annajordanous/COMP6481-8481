@@ -1,0 +1,640 @@
+Institutional level environment template (REF5a)
+ Institution: University of Southampton
+ 1. Context and mission
+ 1.1 Wider context
+ A comprehensive, research-intensive University with a strong international focus and a founding
+ member of the Russell Group, employing 6,000+ staff and educating 25,000+ students annually.
+ Located in one of the world’s most important port cities, it is the second largest employer in the
+ area and contributes strongly to the region’s economy and social fabric. The University provides
+ research expertise for local businesses, widens access to higher education, especially from
+ disadvantaged communities, and is an important arts centre. A report by Biggar Economics
+ (2018) estimated that the University generates a Gross Value-Added contribution to the UK of
+ £2,500M/year and supports 33,000 jobs.
+                      World-wide research collaborations from the last five years
+ 1.2 Mission and Strategy
+ The University updated its strategy in 2016 as a community exercise and a refresh is planned in
+ 2021 (see COVID annex). We remain committed to our mission to “Change the World for the
+ Better” with this vision:
+     “Our University community is committed to the highest quality in everything we do. We have
+     a global reputation for our passion and ability to work collaboratively in delivering world class
+     education, research and innovation that makes a real impact on society’s biggest challenges.
+     Our exceptional students share in these journeys of discovery and become confident
+     thinkers who can realise their full potential”.
+ Core principles are:
+     •   Collegiality: one team, working, planning and delivering together, towards our shared
+         vision.
+     •   Quality: always striving to achieve the highest quality in everything we do.
+                                                                                                 Page 1
+
+
+Institutional level environment template (REF5a)
+     •    Internationalisation: delivering across global markets and building strong partnerships
+          with other leading universities.
+     •    Sustainability: ensuring our actions lead to financial, social and environmental
+          sustainability.
+ 1.3 Structure and Governance
+ The University is led by the President & Vice-Chancellor, Professor Mark E. Smith.
+        Council
+                                     President &
+                                  Vice-Chancellor
+         Senate
+                                                          University
+                                                       Executive Board
+    Vice-President
+                                  Vice-President        Vice-President                                   Chief Operating
+      Research &                                                                 Deans of Faculty
+                                     Education           International                                         Officer
+       Enterprise
+    University Strategic Interdisciplinary Research                   Faculties                   Professional Services
+                          Institutes
+                                                                  Arts & Humanities           Engagement & Advancement
+             Institute for Life Sciences (IfLS)
+  Southampton Institute for Arts and Humanities (SIAH)     Engineering & Physical Sciences          Estates & Facilities
+    Southampton Marine & Maritime Institute (SMMI)          Environmental & Life Sciences     Finance, Planning & Analytics
+               Web Science Institute (WSI)                                                          Human Resources
+                                                                       Medicine
+                     Zepler Institute (ZI)                                                              iSolutions
+                                                                   Social Sciences
+                                                                                                   Student Experience
+        University Strategic Research Groups
+   Autonomous Systems (sensors & communications)
+     NEXUS+ (demand for water, energy and food)                                                   Change Portfolio Office
+      Global NAMRIP (anti-microbial resistance and                                                  Faculty Operations
+                    infection prevention)                                                            General Counsel
+                                                                                                   Health, Safety & Risk
+           Interdisciplinary Research Units
+                                                                                                  Research & Innovation
+      Centre for Higher Education Practice (CHEP)
+                                                                                                         Services
+     Public Engagement with Research unit (PERu)
+           Public Policy|Southampton (PP|S)
+ Senate, chaired by the President, oversees academic strategy and performance. The Council,
+ consisting of twelve lay members, five members of staff elected by Senate, the Students’ Union
+ President, the President and one of the Vice-Presidents, provides overall governance, including
+ responsibility for financial performance and reporting.
+ Academic staff and more than 300 degree programmes are organised into five Faculties,
+ reduced from eight following a restructuring in August 2018. Three cross-cutting academic
+ portfolios, Research & Enterprise, Education and International, are held by Vice-Presidents.
+ Faculties, led by executive Deans, consist of one or more Schools with subsidiary departments.
+ Associate Deans lead portfolios mirroring those of the Vice-Presidents. Additional leaderships is
+ provided by five Associate Vice-Presidents (AVPs) with focused portfolios.
+ The academic mission is supported by Professional Services led by the Chief Operating Officer
+ (COO), organised into six executive directorates and five stand-alone services. The President,
+ Vice-Presidents, Deans, COO and Executive Directors of Finance and Human Resources
+ constitute the University Executive Board (UEB) which provides the executive leadership of the
+ University.
+                                                                                                                       Page 2
+
+
+Institutional level environment template (REF5a)
+ 1.4 Balance between research and teaching activities
+ We are one of the most evenly balanced universities in the UK between education, research
+ (and enterprise) with, in financial terms, a combined research and enterprise economy of £232M
+ (2019/20) amounting to 40% of turnover and £284M (49%) for educational activities. Over the
+ REF period, turnover has grown by 30% from £447M to £583M (2019/20).
+ 1.5 Institutional history and research focus
+ Founded as the Hartley Institution in 1862, the University gained its Royal Charter in 1952.
+ Consistent with our strategy, we strive for quality throughout our research that is comparable
+ with the highest international standards.
+ Throughout our history we have sought to innovate in research and education, including world-
+ class landmarks that have inspired other institutions across the globe:
+     •   First electronics department in the world (1947);
+     •   Institute of Sound and Vibration Research (1965);
+     •   Pioneering work in Cancer Immunology and Developmental Origins of Health and
+         Disease (1970s);
+     •   First UK medical programme with students interacting with patients throughout (1972);
+     •   Optoelectronics Research Centre (1989);
+     •   Centre for Operational Research, Management Sciences and Information Systems
+         founded (1997) after more than 30 years of research in this field;
+     •   Southampton Statistical Sciences Research Institute (2003).
+                                                                                              Page 3
+
+
+Institutional level environment template (REF5a)
+ We were early innovators in Geographical Information Systems and continue to lead in the field
+ of Web Science. We combine strengths in computing, marine geophysics, history, environmental
+ science, ship science and archaeology to be world-leading in maritime archaeology. Social
+ Statistics and Demography includes the ESRC Centre for Population Change - the largest
+ demography group in the UK - and the National Centre for Research Methods, a focal point for
+ national research and training. Music, leveraged by our sound and vibration research, is an
+ internationally-recognised centre of excellence for research. This combination of a proud history
+ and ongoing innovation leads to vibrant research activity across all disciplines.
+ All disciplines, departments and schools have high levels of research activity. Of our 2606 FTE
+ academic staff, 80% have balanced (education and research) or research-led contracts
+ (hereafter collectively referred to as “researchers”) with the expectation they will be research-
+ active; 15% follow education-led and 5% enterprise-led pathways (see §3.1). As described in our
+ Code of Practice (CoP), all balanced and independent research-led staff with significant
+ responsibility for research (1313 FTE) are included in our REF 2021 submission.
+ A 70-strong team, Research & Innovation Services (RIS), facilitates academic collaborations,
+ industrial interactions, knowledge-exchange and the commercialisation of intellectual property
+ (IP). RIS also supports the academic community through dedicated teams for research funding
+ development, research contracts, research governance & integrity and enabling impact.
+ 2. Strategy
+ 2.1 Strategic goals and achievements to 2020
+ The 2010 strategy described our future ambitions and priorities with excellence in research at
+ the core of our ambition. Our strategic goals for delivering research excellence and
+ achievements during this assessment period included:
+      •   Developing existing world-class research with all disciplines contributing to our
+          ambition to achieve a top-10 performance in the REF. We placed 18th for GPA (Grade
+          Point Average), 8th for research intensity and 11th for research power in REF 2014 with
+          top-5 power rankings in five UOAs and top-5 GPA rankings in five.
+                                                                                                Page 4
+
+
+Institutional level environment template (REF5a)
+     •   Attracting, developing and retaining high-achieving staff
+         Global searches for potential leaders in all areas of activity. University Fellowships attract
+         leading international researchers including Nobel Laureate, Professor Brian Schmidt
+         from 2014-2017.
+      •  Supporting innovative research across disciplines to address global challenges
+         Achievements include, amongst others, Professor Emma Tompkins, lead-author of
+         Chapter 29, Small Islands, Intergovernmental Panel on Climate Change (IPCC) (2018);
+         and WorldPop providing spatial demographic datasets for researchers and policymakers
+         in Latin America, Africa and Asia to support development, disaster-response and health.
+     •   Increasing income from research grants
+         3,890 research grants awarded during the REF period totalling £890M.
+     •   Supporting and increasing our early career researchers and postgraduate
+         research students through institution-wide “career-track” fellowship schemes and
+         scholarships.
+ 2.2 Strategy to 2026
+ Our 2016 strategy, underpinned by a 10-Year Plan, has a research and enterprise vision to:
+     “Consolidate our position as a world-leading research-intensive university, increasing our
+     profile for generating knowledge and technologies that have real economic and social
+     benefits for the world. We will produce high quality research and, through our distinctive
+     interdisciplinary approach, focus on addressing society’s greatest challenges.”
+ The strategy ensures our research underpins our education activities and that we win funding
+ that maximises the research we can sustainably undertake. It comprises six focus areas:
+      •  People: Developing and recruiting world-leading academic staff and doctoral students
+         and supporting them through their career journey to secure funding and undertake world-
+         changing research.
+      •  Sustainability: Recovering a greater portion of direct- and indirect-costs by rebalancing
+         our funder-mix, producing accurate full-economic costing and charging for commercial
+         research based on market-price, not cost.
+      •  Enterprise and Impact: Enhancing the distinctiveness of our strong enterprise
+         ecosystem within a strategic framework to deliver impactful research, diversify income
+         streams and provide valuable opportunities for staff and students.
+      •  Professional Services support: Strengthening interfaces between directorates and
+         internal and external stakeholders, including two dedicated units, PERu and PP|S (§2.9)
+         to support public engagement and impact.
+      •  Interdisciplinary research: Growing our interdisciplinary research, developing our
+         institutes and providing an environment that stimulates such activities.
+      •  International: Ensuring our research is positioned to enhance our international profile with
+         academic, government and corporate partners and to influence opinion-formers and
+         policymakers.
+                                                                                                Page 5
+
+
+Institutional level environment template (REF5a)
+ 2.3 Enabling Impact
+ We have a strong track-record of generating high levels of impact through translational research
+ across almost all disciplines. Consistent with the principles of the Knowledge Exchange
+ Concordat, our Enterprise & Impact (E&I) strategy recognises the diversity of activities within the
+ University ecosystem, including:
+      •   Business acceleration and incubation
+      •   Consultancy
+      •   Continuing professional development
+      •   Corporate partnerships
+      •   Enterprise units
+      •   IP protection and licensing
+      •   Public engagement
+      •   Public policy impact
+      •   Spinout companies
+      •   Student enterprise
+ The E&I strategy is overseen by the Southampton Enterprise Board (SEB) chaired by the VP
+ Research & Enterprise (VPRE). Each Faculty has an E&I board reporting to SEB and convenes
+ IP panels to pursue patenting and licensing. The strategy recognises the distinction between:
+     (i) Commercial enterprise activities - expected to return a financial surplus to the University in
+     addition to delivering impact;
+     (ii) Other activities associated with developing an enterprise ecosystem and delivering
+     impact, including business incubation, student enterprise, public policy and public
+     engagement.
+ Commercial enterprise income (consultancy, facilities, regeneration, CPD and IP) grew by £17M
+ (39%) between 2013/14 and 2018/19 to £61M/year, the second highest in the sector, and at
+ 10.4% of turnover, the highest proportion in the Russell Group (source: HEBCIS).
+ Investment in ecosystem development and impact is largely provided through the Higher
+ Education Innovation Fund (HEIF) (£4.4M in 2019/20) and Impact Acceleration Accounts
+ (EPSRC £3.9M, 2017-2021; ESRC £1M, 2019-2023; STFC £120k, 2019-2020).
+ Since 2013/14 the University has ranked first or second in the UK for the financial value of its
+ consultancy and engagement with small and medium-sized companies (HEBCIS). Much of our
+ E&I activity is regionally-focused:
+      •   Founding member of SETsquared (with Bath, Bristol, Exeter and Surrey universities),
+          ranked by UBI Global as the World Top Business Incubator managed by a university
+          since 2015;
+      •   University Science Park hosts ~100 companies, employing over 1500 people;
+      •   Student Union-affiliated Enactus Southampton crowned UK national champion five times
+          since 2012 and world champion in 2015;
+                                                                                                Page 6
+
+
+Institutional level environment template (REF5a)
+      •   Future Worlds, a unique on-campus startup accelerator, nurtures aspiring entrepreneurs
+          to move technologies to commercialisation. It has supported 150+ projects, launching
+          50+ student/staff startups. These have raised £7M+ equity investment at a valuation
+          £40M+ and employ 100+ people;
+      •   Four Royal Society-funded entrepreneurs-in-residence provide guidance and advice on
+          commercialisation and business engagement;
+      •   ICURe (Innovation to Commercialisation of University Research) provides nationwide
+          support for potential university startups. Aims include improving the entrepreneurial skills
+          of ECRs and strengthening links between academic and industrial communities. Initiated
+          from Southampton in 2014 within SETsquared, £38M has been invested in supporting
+          342 teams, leading to the creation of 111 new companies and 500+ jobs in the UK.
+ Our interdisciplinary research units also support impact (§2.6).
+ 2.4 Open Research
+ The University is a leader in open research, open access (OA) publishing and archiving. Our
+ “EPrints” platform is used by 675+ institutional and subject repositories worldwide. The Open
+ Research Group (ORG), comprising the Library’s Associate Director, VPRE, Associate Deans
+ Research and academic, post-graduate and professional representatives, oversees institutional
+ OA and research data management policies. Institutional policy and guidance on responsible
+ research metrics were established ahead of signing DORA in 2019. ORG leads the University’s
+ contribution to national and international OA policy and infrastructure, allocates funds for OA
+ publishing, monitors compliance with policies and ensures wide engagement with best practice.
+ Original research outputs are increasingly published and available via open access, growing
+ from 83% (2016/17) to 87% (2019/20).
+ 2.5 Regional and national priorities
+ We are strongly engaged with regional and national research agendas including research
+ councils, national academies and government departments (e.g. appointments of Chief Scientific
+ Advisors to the Food Standards Agency and for National Security). Regionally we have close
+ relationships with the EM3 and Solent Local Enterprise Partnerships, and with SETsquared and
+ the Science and Engineering South (SES) Consortium; our two previous Presidents served a
+ combined five-year term on the Solent LEP board and VPRE is board member for SETsquared
+ and SES.
+ We lead, or strongly engage with many major national research priorities, including the Faraday
+ Institution, Future Flight (Aerospace Technology Institute), Alan Turing Institute, Rosalind
+ Franklin Institute, the UK Collaboratorium for Research into Infrastructure and Cities and have
+ close relationships with national capabilities such as the National Oceanography Centre,
+ Diamond Light Source and the Francis Crick Institute. Engagement is commonly through our
+ interdisciplinary units.
+ 2.6 Interdisciplinary research and collaboration
+ With a longstanding commitment to interdisciplinary research, we maintain low barriers between
+ Faculties, Schools and Departments, with much cross-disciplinary activity evolving organically
+ and becoming distinctive parts of the University (§1.5). Since 2013 we have considered specific
+ needs and opportunities requiring an interdisciplinary approach. Building on existing strengths,
+                                                                                               Page 7
+
+
+Institutional level environment template (REF5a)
+ this resulted in the creation of five new University Strategic Interdisciplinary Research Institutes
+ (USIRIs):
+      •   Institute for Life Sciences (IfLS)
+      •   Southampton Institute for Arts and Humanities (SIAH)
+      •   Southampton Marine and Maritime Institute (SMMI)
+      •   Web Science Institute (WSI)
+      •   Zepler Institute (ZI)
+ Each USIRI is led by a Director and advised by a strategic advisory board chaired by the VPRE
+ and including the Deans. Each institute represents a research community of 200+ members,
+ focusing their research and embedding them in a network spanning the University and beyond,
+ and playing an important role in generating impact and reputational benefit. We have invested
+ ~£2M/year in the USIRIs and received an estimated 200% ROI. Conceived during the REF
+ period and launched in November 2020, SIAH will raise the visibility and identity of arts and
+ humanities research to our local, national and international audiences.
+ We actively encourage self-forming University Strategic Research Groups (USRGs),
+ interdisciplinary research communities originating from community-led proposals. Focused on
+ particular opportunities, USRGs have lifetimes of 3-5 years, each receiving funding of
+ ~£20k/year. Currently, there are three such groups, but beyond the interdisciplinary
+ infrastructure shown (§1.3), there are 25+ academic and industrial research centres and
+ institutes. The interdisciplinary research strategy and its implementation is led by an AVP.
+ Additionally, two overarching interdisciplinary strategies have been adopted by UEB: on Life
+ Sciences and Environmental Sustainability. These extend beyond interdisciplinary research and
+ guide key decisions such as hiring staff, development of educational programmes and
+ investment in facilities.
+ 2.7 International partnerships
+ We have prioritised international research engagement, jointly-led by the VPRE and VP
+ International. An AVP leads strategic international projects, including research collaborations.
+ These are supported by an International Relations team working with RIS (§1.5). Each Faculty
+ has an Associate Dean International.
+ The University is a member of several strategic international partnerships, including:
+      •   Worldwide Universities Network (WUN), a global network of 22 research-intensive
+          universities spanning 13 countries.
+      •   RENKEI partnership with 12 leading Japanese universities.
+      •   Epigen consortium with Singapore and New Zealand.
+      •   Confucius Institute in collaboration with Xiamen University.
+      •   The Photonics Institute with Nanyang Technological University.
+      •   The India Centre for Inclusive Growth and Sustainable Development with business
+          partners and policy makers.
+      •   University of Southampton Malaysia, delivering research and education in Iskandar.
+                                                                                                 Page 8
+
+
+Institutional level environment template (REF5a)
+ International research funding (outside UK and EU) increased from 4.1% to 8.5% of total
+ research income during the REF period (£4.5M (2013/14), £10.2M (2019/20)). EU funding
+ (£17.7M (2019/20)) averaged 16.0% in the same period.
+ The proportion of our papers published with international co-authors has grown from 52% during
+ the last REF to 58% between 2014 and 2019, indicating an increasingly internationally-
+ connected University (Source: SciVal, August 2020).
+                                                          Co-authors (%)
+                                   International      National       Institutional      None
+    Southampton                         58.0            20.3             13.4            8.4
+    Russell Group average               54.1            18.8             13.0            14.2
+ 2.8 Research Integrity
+ The University is a signatory to the Concordat to Support Research Integrity and has robust
+ policies to ensure we maintain the highest standards in research. VPRE chairs the Research
+ Integrity & Governance (RIG) Committee comprising Associate Deans Research, and the
+ University Research Ethics Committee comprising the chairs of the Faculty Ethics Committees
+ and a lay member. Each Faculty has a research ethics committee (chaired by an experienced
+ academic and including at least one lay member) and in some cases one or more sub-
+ committees covering specialist areas. The committees are supported by a RIG team of seven
+ staff and an on-line ethics approval system, ERGO II which processed 5000+ applications from
+ staff and students in 2019/20.
+ 2.9 Community Engagement
+ Two Interdisciplinary Research Units support impact delivery:
+ 1) Public Engagement with Research unit (PERu) is a founding signatory to the UK’s Manifesto
+ for Public Engagement and has played a significant role in the sector via the RCUK/UKRI-
+ funded Schools University Partnership Initiative (SUPI) (£200k), Catalyst Seed Fund packages
+ (£125k), and Strategic Support to Expedite Embedding PER (£98k) programme. The RCUK
+ Funding Assurance report 2017-18 noted the University provides “a comprehensive and holistic
+ PER support package” for researchers in all disciplines including a seed-fund that has enabled
+ impact from 80+ projects.
+ PERu delivers diverse public engagement events including the annual Southampton Science
+ and Engineering Festival (founded 2004), attracting 8000+ people to engage with researchers
+ and projects (155 exhibiting teams in 2019); and the “Human Worlds Festival”, aligned to the
+ AHRC-supported, national Being Human programme, which similarly engages the public in arts,
+ humanities and social science research. Other initiatives include:
+      •   Partnership with the Winchester Science Centre since 2017 to co-create exhibits for
+          190,000+ annual visitors.
+      •   Activity Mapper (visualises outreach with schools/other publics) has recorded 800+
+          events since 2018, maximising the quality, sustainability and impact of public
+          engagement.
+      •   Building collaborative capacity to support sustainable interactions between the University
+          and deprived communities.
+      •   Supporting Southampton’s bid for City of Culture 2025.
+                                                                                              Page 9
+
+
+Institutional level environment template (REF5a)
+ 2) Public Policy|Southampton (PP|S) supports the local, national and international public policy
+ impact of our research. Four policy experts (supplemented by secondees) operate three key
+ themes: stimulating evidence demand in government; supplying evidence; and increasing policy
+ engagement capacity amongst the research community. The team’s activities include:
+      •  Collaborating with the UK Parliamentary Office for Science and Technology and UK
+         government departments, including Chief Scientific Advisors.
+      •  Delivering our affiliation with the Cambridge Centre for Science and Policy (CSaP)
+         Fellowship scheme.
+      •  Delivering PhD and ECR knowledge-exchange secondments to local and national
+         government, including Cabinet Office, BEIS, Department for Education, Southampton
+         City and Hampshire County Councils.
+      •  Delivering Policy|Training sessions and supporting a Policy|Network.
+ 3. People
+ 3.1 Staffing strategy and staff development
+ Consistent with the University strategy, we prioritise recruiting and developing world-leading
+ academic staff and building strong Professional Services to support them in winning research
+ funding and undertaking world-changing research. A revised staffing strategy, “Reward and
+ Recognition”, introduced in 2014 provides a framework with six job families ERE, RESN, TAE,
+ MSA, CAO and Clinical as illustrated below.
+                                                                                             Page 10
+
+
+Institutional level environment template (REF5a)
+ To ensure equity across the University and between staff in different job families, the cumulative
+ expectations for capability and performance at each level (1-7) are defined for individuals
+ progressing through the pay scale. The ERE job family has four career pathways: balanced,
+ education-led, research-led and enterprise-led. Clear descriptors for promotion, based solely on
+ merit, exist for each pathway and level, with all ERE staff supported by mentors through the
+ promotion process.
+ Movement between job families and career pathways is encouraged, reflecting individuals’
+ changing interests and institutional requirements. ERE promotions and movements between
+ pathways are initially considered within the Faculty and then the University-level Academic
+ Promotions Advisory Group, with final approvals by Senate and Council. Promotions and in-level
+ transfers at level 6 (Associate Professor-equivalent) and level 7 (Professor) involve an interview
+ panel chaired by a member of UEB. All staff are required to have an annual appraisal with their
+ line manager recorded via an on-line system. Appraisal outcomes are moderated by the next-
+ level manager with UEB scrutiny to ensure University-wide consistency.
+ 3.2 Study leave and flexible working
+ ERE staff may apply for sabbaticals/study/research leave. Provision for such leave is one
+ semester in every four years of service. Special leave-of-absence may be granted to enable staff
+ to accept temporary research appointments elsewhere of up to two years. Following discussion
+ with line managers, decisions are taken at Department or School levels taking account of the
+ objectives and wider staffing requirements in that unit. Such leave is routinely taken and plays
+ an important role in maintaining a vibrant research culture.
+ Flexible or remote working is routinely enabled where needs are identified. Line managers and
+ Heads of School, supported by HR Business Partners, make these decisions and put in place
+ the necessary support for staff working in these modes.
+ 3.3 Staff recruitment and progression
+ Each Faculty and School has an overall strategy, including staffing plans, which are discussed
+ as part of annual business planning. Overarching University strategies (e.g. life sciences and
+ environmental sustainability) encourage hiring in particular areas. Our research community
+ increased steadily until 2016/17 in line with the University's growth strategy, and then underwent
+ a planned contraction in response to the uncertain economic climate.
+                                                                                             Page 11
+
+
+Institutional level environment template (REF5a)
+ Promotions at levels 4-7 (Postdoctoral Research Assistant (level 4); Lecturer/Senior Research
+ Fellow (5); Senior Lecturer/Associate Professor/Principal Research Fellow (6);
+ Professor/Professorial Fellow (7)) have remained relatively stable as has the percentage of male
+ and female researchers promoted during the REF period.
+ 3.4 Supporting our staff
+ We take a whole-organisation approach to the wellbeing of all staff and students, led by the
+ Health, Safety & Risk Directorate. The strength of the University’s community is key, as it fosters
+ a wide range of interactions and networks that promote wellbeing, including social, cultural and
+ recreational events and activities.
+ The areas of focus are Mental Health and Stress, Physical Health, Occupational Health and
+ Emergency Response with a rich range of resources available, and a diverse programme of
+ activities to promote wellbeing and self-awareness of issues that might affect one’s own, or
+                                                                                             Page 12
+
+
+Institutional level environment template (REF5a)
+ colleagues’ and fellow students’ wellbeing. The University is a signatory to the Mindful Employer
+ Charter and runs an assistance programme providing confidential advice for colleagues.
+ We have a supportive policy for managing ill-health, including guidance for return-to-work and
+ contact with the University during prolonged absences. Allowances are made in terms of
+ workload and timetabling in discussion with line managers and HR Business Partners, and a
+ Parents and Carers network provides peer and professional support.
+ 3.5 Career pathways for part-time and fixed-term staff
+ The University is a signatory to the Concordat to Support the Career Development of
+ Researchers and is implementing the seven key principles, including Principle 6 that “diversity
+ and equality must be promoted in all aspects of the recruitment and career management of
+ researchers”. The Concordat is implemented via the Centre for Higher Education Practice
+ (CHEP) which provides opportunities for academic professional development for all staff and
+ PGRs. Concordat Champions in each Faculty support local implementation of the principles.
+ Training and networking events are provided across the University and overseen by a Concordat
+ Steering Group led by the AVP Interdisciplinary Research.
+ Staff policies apply equally to both full-time and part-time staff (certain benefits may apply pro-
+ rata to their hours). Policies which facilitate part-time working include flexible working, job
+ sharing, career breaks and voluntary reduced hours. All staff policies conform to equality and
+ diversity legislation and form an integral part of our wider equality and diversity agenda.
+ Over the assessment period, the percentage of researchers (FPE) on permanent contracts has
+ grown from 58% to 61%, the fourth largest increase in the Russell Group (HESA 2013/14-
+ 2018/19).
+ 3.6 Early Career Researcher development
+ In addition to the Concordat (§3.5), our commitment to supporting researchers’ careers was
+ substantiated in 2020 on renewal of the European Commission’s HR Excellence in Research
+ Award (first achieved 2012). The University’s ERE Career Pathways provides clear guidance for
+ ECR development while an ECR network, supported by CHEP, provides access to networking
+ events, discussions on career development, access to mentoring, and peer-mentoring through
+ action-learning sets.
+ A University-wide approach is taken to help ECRs applying for fellowship funding, led by the
+ Associate Deans Research and supported by RIS. Our strong enterprise and impact
+ environment supports ECRs seeking to follow entrepreneurial career paths, and in public
+ engagement and public service, while the University Careers & Employability Service assists
+ ECRs exploring non-academic careers.
+ 3.7 Training and supervision of PGR students
+ The Doctoral College, led by a senior academic director reporting to VPRE and VP Education,
+ provides a focal point for doctoral training and researcher development. Regulations for doctoral
+ degrees are developed in combination with the Education Committee and Academic Quality and
+ Standards Committee. CHEP, in partnership with the Library, RIS, iSolutions and Careers &
+ Employability Service, delivers a flexible and high-quality learning experience including a core
+ development programme via face-to-face training and on-line courses, aligned to Vitae’s
+ Researcher Development Framework. EDI, research ethics and data management modules are
+ mandatory.
+                                                                                                 Page 13
+
+
+Institutional level environment template (REF5a)
+ PGRs can also participate in intensive training and development activities through summer
+ schools. Each Faculty has a Graduate School, led by a director which ensures implementation of
+ University policy regarding doctoral students and degrees, and maintains a local doctoral
+ student community. During the REF period, the University participated in 26 externally funded
+ CDT/DTPs awarded by all UKRI research councils, the NHS and UK Government. For the
+ ~3,000 PGR students we host, 57% funding comes from external, non-UKRI sources.
+ 3.8 Equality, diversity and inclusion (EDI)
+ In October 2019, a new governance structure was implemented to provide clearer routes
+ through which EDI matters can be raised and decisions made. VPRE is the University’s EDI
+ champion and chairs the EDI committee reporting to UEB.
+ The focus on improving EDI is ensured through a strategy and action plan. All protected
+ characteristics are covered by the strategy, with resulting policies and initiatives supported by an
+ EDI team in HR. An annual diversity report on our performance is reviewed by UEB, Senate and
+ Council, and is publicly available. EDI is a key component of the University’s staffing strategy
+ and all staff involved in hiring, appraisal and promotion processes are required to undertake EDI
+ training.
+ We have signed two key pledges: Time to Change, a national campaign to end mental health
+ discrimination; and the Mindful Employer Charter to create a supportive and open culture for
+ employees with mental health issues. The University is a founding signatory of the Athena Swan
+ charter and received a Silver award in October 2016 following ten years work at bronze-level. In
+ addition, nine Schools and Faculties have obtained silver and bronze departmental awards,
+ recognising their work to implement University policies and broaden awareness of gender
+ equality in their local area.
+ We are a member of Inclusive Employers, which supports building inclusive workplaces and a
+ partner of AccessAble (formerly DisabledGo) to promote disability-accessible buildings. In
+ December 2017 we became the first UK university to achieve Disability Confident Leader status,
+ the highest level accreditation for employers committed to ensuring recruitment processes are
+ inclusive and accessible; this was reaccredited in 2020.
+                                                                                              Page 14
+
+
+Institutional level environment template (REF5a)
+ In January 2018 the University signed the Race Equality Charter to improve the representation,
+ progression and success of minority ethnic groups of staff and students. In 2019 we conducted a
+ University-wide equality survey to understand our staff’s experiences in relation to their gender
+ and race in our community. We are working towards a bronze award by 2022.
+ Staff and students maintain networks and societies to represent, support and engage members
+ who share a similar background, characteristic or common cause, for example:
+     •   Black Asian and Minority Ethnic Staff Network
+     •   Christian, Islamic and Jewish student societies
+     •   Disability Staff Network
+     •   International societies
+     •   Parents' and Carers' Network
+     •   Pulse LGBT+ Staff Network
+     •   Student Union Feminist Society
+     •   Theano
+     •   Women in Science, Engineering, Technology and Humanities (WiSET+)
+ These groups are autonomous with their own terms of reference and aims. They participate in
+ an annual programme of networking events and provide advice to the University when it
+ develops new or existing policies.
+ We have been a Stonewall Diversity Champion since 2010.
+ Our Equal Pay Reviews show that the University provides equal pay for work of equal value and
+ that the mean gender pay gap has reduced to 18.9% (21.5% in 2017, 22.9% in 2015); they include
+ recommendations and action plans to raise awareness and address issues, including continuing
+ to remove barriers to promotion for women. The University has achieved its 2020 target to have
+ 30% female representation on all University Committees and is aiming for 40% by 2025.
+ We aim for the highest EDI standards and have a zero tolerance towards discrimination,
+ harassment and bullying.
+ 3.9 REF submission
+ Our Code of Practice (CoP) was widely communicated internally and published on the University
+ website.
+ The Reward and Recognition framework (§3.1) unambiguously defines ERE staff on balanced
+ and research-led pathways, readily identifying all researchers having significant responsibility for
+ research. Rigorous monitoring of staff records (on a weekly basis by RIS and at least annually
+ by Faculty REF committees) ensured that the diversity of the staff cohort returned to REF,
+ matched the criteria specified in our CoP.
+ Committees at University, Faculty and UoA levels provided robust oversight of REF policies and
+ scrutiny of processes to ensure these were inclusive, and over 130 staff involved in REF
+ decision-making attended bespoke, unconscious-bias workshops. An initial Equality Impact
+ Assessment (July 2019) was widely circulated and findings discussed at UEB and other senior
+ management meetings. The final EIA identifies subsequent enhancements made to REF
+ processes and recommends improvements to systems and the collection of data for protected
+ characteristics.
+                                                                                              Page 15
+
+
+Institutional level environment template (REF5a)
+ 4. Income, infrastructure and facilities
+ 4.1 Research income
+ Increasing research and enterprise income, and overhead and full economic cost-recovery are
+ strategic priorities. Overhead cost-recovery has improved from 28.1% (2013/14) to 29.2%
+ (2019/20). Income growth during the REF period is shown in the table.
+                          Income(£M)        2012/13      2019/20     Growth
+                          Research             147          173       18%
+                          Enterprise            37           59       59%
+                          Total                184          232       26%
+                         Source: Financial Accounts
+ Research applications targets are set annually as part of the business planning process and are
+ a focus in appraisal discussions for all research-active staff; progress is monitored monthly by
+ Finance and UEB.
+ The VPRE, Associate Deans Research and Enterprise, Deputy Heads of School for Research
+ and RIS are actively engaged in supporting individual members of staff and research groups to
+ apply successfully for research funding. Where applications are evaluated as being strategic at
+ the Faculty and/or University levels, additional bid support is provided.
+ 4.2 Specialist infrastructure and facilities
+ The University has consistently ensured its research is supported with appropriate infrastructure
+ and facilities, investing regularly and strategically in a wide range of leading-edge experimental
+ facilities. Since 2014, major investments include:
+     •    The Boldrewood Innovation Campus, in partnership with Lloyd’s Register, with the
+          largest university-owned towing tank in the UK. Boldrewood also houses the National
+          Infrastructure Laboratory (NIL) (part of the UKCRIC) and facilities for autonomous system
+          development and testing, and other fluid dynamics research (£100M+ including £26M
+          from EPSRC for NIL).
+     •    Upgrading the University’s major research wind tunnel, the RJ Mitchell, as part of the
+          National Wind Tunnel Facility (£0.7M, EPSRC).
+     •    High Performance Computing (HPC) infrastructure with the creation of a new Data
+          Centre and three upgrades of Iridis, one of the largest computational facilities in the UK.
+          These support work across the University, including in Arts, Humanities and Social
+          Sciences (£50M+).
+     •    Centre for Cancer Immunology, including animal facilities and state-of the art research
+          equipment (£27M).
+     •    µ-Vis Computed Tomography Centre, which supports work across the University
+          including in Archaeology, Palaeontology and Music (£10M).
+ We maintain one of the world’s most capable cleanrooms for micro- and nano-fabrication with
+ exceptional capabilities in optoelectronics. This underpins the Zepler Institute and represents an
+ ongoing investment of £120M+ since 2007. Over the next decade capital funding will be used to
+ leverage external funds, including philanthropy, to continue to develop our research facilities.
+                                                                                                Page 16
+
+
+Institutional level environment template (REF5a)
+ This is also the aim behind the allocation of £0.75M/year to the Multi-User Scientific Equipment
+ for Research (MULSER) fund.
+ The Library’s annual budget (£8.5M) includes £4M to support research including access to
+ 8,000+ academic journals, 1.6M volumes and 6.5M historic manuscripts.
+ Turner Sims concert hall and John Hansard Gallery are internationally recognised Arts Council
+ England national portfolio facilities.
+ 4.3 Shared/Collaborative facilities
+ The University hosts two EPSRC National Research Facilities, Crystallography and Physical
+ Sciences Data-Science services, and is an access point to the National Dark Fibre Infrastructure
+ Service. We are a founding member of the SES Consortium (with Oxford, Cambridge, Imperial,
+ UCL, King’s College and QMUL), which shares computational and experimental equipment to
+ ensure effective use across the region, and has successfully created three “Tier 2” HPC clusters.
+ We are a major user of the UK National Supercomputing service, ARCHER and the STFC
+ Harwell Research Campus, in particular, the Diamond Light Source as well as international
+ synchrotron facilities across a wide range of research areas. We regularly collaborate on
+ international programmes using major research facilities in Oceanography, Physics and
+ Astronomy. Our own facilities are regularly accessed by users from other institutions and
+ industry, nationally and internationally. The development of a publicly available equipment
+ register (https://equipment.data.ac.uk/) was led by the University.
+ 4.4 Major benefits-in-kind
+ We regularly receive donated equipment from industry partners, or significant discounts from
+ equipment suppliers wishing to have their equipment used at the University. During the REF
+ period we acquired £72M capital equipment with £28M from grants and donations, while income-
+ in-kind (REF4c) totalled £123M.
+ 4.5 EDI enhancements
+ Robust approaches to equality and diversity apply to all aspects of our operations including
+ acquisition of research funding and support for accessing infrastructure. Workload models,
+ designed and operated by individual schools, assign teaching and administrative duties in a way
+ that ensures staff have a substantial baseline to undertake research. Workload levels are fully
+ transparent, allowing gender benchmarking and fairness in the allocation of work. All
+ researchers (full- and part-time) are offered research leave with the timing of sabbaticals
+ scheduled to accommodate staff circumstances where necessary, with financial support for
+ seed-corning new work or conference attendance, allocated by staff grade to ensure gender
+ parity.
+                                                                                             Page 17

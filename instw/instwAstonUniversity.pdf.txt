@@ -1,0 +1,467 @@
+Institutional level environment template (REF5a)
+ Institution: Aston University
+        1. Context and mission
+ 1.1 Founded in 1895 as the Birmingham Municipal Technical School, Aston evolved into the
+        UK’s first College of Advanced Technology in 1956, and became a University in 1966.
+        Today, we are a ‘dual intensive’ University, which values excellence in education and
+        research equally. Aston University’s mission is to deliver for its beneficiaries (Figure 1):
+     i.    Students – through research led pedagogy and training work-ready graduates (70% of
+           students participate in an Integrated Placement Year).
+    ii.    Business, Professions, and Public Sector – through collaborative research with practical
+           outcomes for partner organisations (e.g., BT, GW Pharmaceuticals, Thales, Defence
+           Science Technology Laboratory, West Midlands Police and Public Health England).
+   iii.    Region and Society – through informing policy and public debate, increasing the
+           knowledge base (e.g., West Midlands Combined Authority, Greater Birmingham
+           Chambers of Commerce, or Birmingham Women’s and Children’s Hospital).
+ With that ‘beneficiaries approach’ at its core, the Aston Strategy 2018-2023 is innovative in its
+ focus on impactful research, student placements, graduate job pathways and CPD programmes.
+ Growth of the Institution
+ 1.2 The Aston Strategy 2018-2023 explicitly recognises the importance of attracting, retaining,
+ and supporting high quality staff; our recruitment processes ensure that candidates career aims
+ closely align with our strategic objectives. In 2019, 68% of Aston students and 25% of academic
+ staff identified as Black, Asian or Minority Ethnic. The University is committed to increasing the
+ representation of minority groups amongst all staff and students and The Guardian named Aston
+ University of the Year 2020 in recognition of this commitment and our track record. Aston is
+ aware of the difference between the composition of our staff and student populations: we have
+ committed to the Race Equality Charter and are developing an application for a Bronze award
+ during 2021-22. The University has formed two new working groups, one looking at ways to
+ support Black students and staff, and one tasked with making Aston’s curriculum more inclusive.
+                                                                                                     Page 1
+
+
+Institutional level environment template (REF5a)
+ 1.3 Since REF2014, Aston has grown substantially:
+        i.   Turnover has increased from £117m in 2012/13 to £165m in 2019/20;
+       ii.   Student FTE has grown by 46% between July 2013 and July 2020 (Table 1);
+                   Table 1: Growth of Aston University Student Community (HESA, FTE)
+                                       2012/13                        2019/20
+   Undergraduate                       7,502.14                       11,488.32
+   PGT                                 1,118.96                       1,553.68
+   PGR                                 302.07                         302.84
+   Total                               8,923.17                       13,344.84
+      iii.   Academic FTE has grown by 66% between 2013 and 2020 (Table 2), based on a
+             snapshot of contractual data taken annually from our HR system on 31 July. This
+             growth has delivered a marked improvement to our SSR, and by increasing the number
+             of T&R and Teaching-only staff, we have protected the research time of those with
+             Significant Responsibility for Research. The FTE returned to REF has increased from
+             199.43 in 2014, to 435.76 in 2021.
+           Table 2: Growth of the Aston University Academic Community (FTE) 2013-2020
+                                                                31/07/2013      31/07/2020
+   Academic: Teaching and Research                              308.45          406.94
+   Academic: Research Only                                      122.68          172.15
+   Academic: Teaching Only                                      73.18           258.03
+   Academic: Leadership                                         0               2
+   Total Academic                                               504.31          839.12
+     iv.     Central research support capacity in the Research and Knowledge Exchange (RKE)
+             Department (section 4.4) has increased to 56 individuals. RKE now includes the Aston
+             Graduate School (section 3.15-3.19) and the Early Career Researcher Forum (section
+             3.13-3.14).
+ Aston and the Midlands
+ 1.4 Aston University is a critical part of the regional economy. Table 3 details Aston’s economic
+ impact on the region (Metro Dynamics, 2019). Aston Business School’s bespoke programmes
+ provide local businesses with clear and cutting-edge information on how to improve
+ performance. Since 2014, 92% of businesses on the Small Business Growth Programme gained
+ confidence to grow their business, 88% increased their business skills, and three in five
+ companies expect turnover growth in excess of 200%. In addition, Knowledge Transfer
+ Partnerships (KTPs) working with Aston received an average 1107% return-on-investment from
+ the initial grants provided through KTPs (applied research projects launched in collaboration with
+ local businesses). With 75% of our KTPs awarded to SMEs, Aston explicitly works with the
+ region’s smaller companies.
+                                                                                              Page 2
+
+
+Institutional level environment template (REF5a)
+               Table 3: Aston University Economic Output 2017/18                    Amount (£m)
+  Core Operations                                                                   274.8
+  Research & Innovation                                                             68.3
+  Teaching                                                                          397.7
+  Students Expenditure                                                              264.4
+  Placements                                                                        25.2
+  Total                                                                             1030.4
+ 1.5 Aston is a member of Midlands Innovation (MI), eight research-intensive institutions to
+ driving cutting-edge research, innovation, and skills-development. MI partners have generated
+ £10bn in Gross Value Added, supporting 95,000 jobs in the region. Aston works closely with
+ regional industrial partners and has a well-earned reputation for supporting and working with
+ high growth smaller technology businesses. Aston is part of a number of strategically important
+ MI initiatives:
+     i.   Midlands Engine for Growth (ME4G) aims to raise the long-term economic growth rate of
+          the region, enhance job creation and add £34bn to the Midlands economy by 2030;
+    ii.   In partnership with two other HEIs, Aston launched an angel investment network,
+          Minerva Birmingham, in 2019;
+   iii.   £1.5m investment in the Energy and Bioproducts Research Institute (EBRI) through the
+          Energy Research Accelerator;
+   iv.    The Connecting Capabilities funded MI Commercialisation of Research Accelerator
+          (MICRA) providing training for academics and revenue streams to help expedite the
+          translation of research to solutions, marketable products and services;
+    v.    The Research England Development funded West Midlands Regional Economic
+          Development Institute, which supports inclusive economic growth in the West Midlands;
+   vi.    Collaboration in shared funding applications for advanced equipment such as the £3.2m
+          High-Performance Computing Midlands Plus (2017);
+  vii.    £3m awarded by Research England (total investment £5m) in 2020 for ‘TALENT’ to
+          develop skills and opportunities for technicians in higher education, reinforcing Aston’s
+          support for the Technician Commitment.
+ 1.6 Aston is committed to increasing access to Higher Education while adding value and
+ improving employability for its students. Aston’s student recruitment reflects this commitment
+ (Table 4). The University is an active agent of social mobility, recruiting more Index of Multiple
+ Deprivation Q1 students (33%) than the sector average (21%) and with its proportion also
+ growing faster than sector average.
+                        Table 4: Aston Student Demographics                         2019/20
+        (Total number 17,686; UG 13,186; PGT 3,875; PGR 625)
+        BAME                                                                       70%
+        White                                                                      30%
+        Have a declared Disability                                                 8%
+        Household Income less than £43k                                            34%
+        Household income less than £25k                                            27%
+        Female                                                                     49%
+        Male                                                                       51%
+        West Midlands (2019/20)                                                    46%
+        Birmingham (2019/20)                                                       31%
+                                                                                                Page 3
+
+
+Institutional level environment template (REF5a)
+      2. Strategy
+ University Structure
+ 2.1 Between 2014 and 2020, Aston University was organised into five academic Schools; these
+ were consolidated as three Colleges in August 2020. In REF2021 we are returning to seven
+ Units of Assessment (Figure 2). This structure will further embed the priorities of the University
+ Research Strategy (section 2.3), by providing more opportunities for cross-disciplinary research.
+ 2.2 Research Committee is a Sub-Committee of Senate with responsibility for the development,
+ implementation and evaluation of the Research Strategy, including integration of the University
+ and College Strategies. This structure is reinforced by weekly informal meetings between the
+ PVC Research and College Associate Deans for Research. Our REF Code of Practice details
+ the University’s governance structures for REF2021.
+ 2.3 Aston’s Research Strategy (2019-2023) is constructed around four mutually-reinforcing
+ elements: Impact, Collaboration, Excellence, and Sustainability. Together with our new
+ Knowledge Exchange (KE) Strategy, it provides a framework to prioritise strategic investment,
+ and assess how research and KE activities deliver for our beneficiaries.
+ 2.4 Aston’s commitment to excellence informs all our activity; including the recruitment, support,
+ retention and development of exceptional individuals at all career stages (section 3). This
+ commitment reinforces Aston’s position as a ‘dual-intensive’ institution, with the quality of
+ Aston’s teaching recognised by TEF Gold (2017). In 2020, Aston was named The Guardian’s
+ University of the Year, and the Times Higher Outstanding Entrepreneurial University, while the
+ new Students’ Union building won The Guardian’s ‘Buildings That Inspire’ award. We mark our
+ successes through our annual Research Celebration event and KTP Showcase, both hosted by
+ the Vice-Chancellor.
+ 2.5 A central pillar of our Strategy is the role played by Aston’s newly accredited collaborative,
+ multi-disciplinary University Research Institutes (URI). Each URI represents an area of critical
+ mass, and excellent research with impact: Aston Institute of Photonic Technologies (AIPT-
+ UoA12); Energy and Bioproducts Research Institute (EBRI-UoA12); Aston Institute of Health and
+ Neurodevelopment (IHN-UoA3); Aston Institute for Forensic Linguistics (AIFL-UoA26). The URIs
+ are priorities for research capital investment, and are key drivers of financial sustainability,
+ accounting for one-third of research awards in 2019-20.
+ 2.6 Our ‘beneficiaries approach’ and track-record of research on real-world problems mean that
+ impact is deeply embedded in our academic units and our professional services teams (section
+ 4). For example, our portfolio of 27 KTPs (eighth largest in the UK) provide an excellent platform
+ for delivering research with impact. Aston’s KTP team won awards at the Innovate UK ‘Best of
+ the Best’ National KTP Awards in 2019 and 2020.
+                                                                                                Page 4
+
+
+Institutional level environment template (REF5a)
+ 2.7 Collaboration is a critical element of translation and delivering impact to our beneficiaries
+ (ILES-4.7). Aston currently has over 30 institutional-level research partnerships with international
+ universities (58.7% of outputs were published with international co-authors in this REF period),
+ and over 100 further partnerships focussing on staff and student exchange. Aston has research-
+ focussed Knowledge Exchange relationships with 50 Industry Partners (5.8% of outputs during
+ the REF cycle include industrial co-authors (above average)).
+ 2.8 The future health of Aston’s research environment is predicated on financial sustainability.
+ Our position as a ‘dual intensive’ University and the resulting commitment to widening
+ participation, retention, student placements and employability involves numerous resource
+ intensive interventions; consequently, the more financially sustainable our research is, the more
+ we can afford to do. Our support for bidding for research funding is clearly set out, including
+ policies for internal peer review, match funding and due-diligence. Our objective is to grow
+ funding from UKRI, Government (including KTPs) and industry: in 2019-20, we won our highest-
+ ever level of UKRI awards (£8.5m out of £30m).
+ Interdisciplinary research (IDR)
+ 2.9 Aston actively facilitates IDR at all levels (individual, group, institutional), as well as with
+ research partners in the UK and abroad. We invest in IDR through the URIs (section 2.3), Study
+ Leave, the International Collaboration Fund and activities run by the Strategic Funding
+ Managers (SFMs) (section 4.5).
+ 2.10 Interdisciplinarity forms a significant element of training provision for Post Graduate
+ Researchers (PGRs) and Early Career Researchers (ECRs) delivered by the Aston Graduate
+ School (AGS), the ECR Forum and Organisational Development. AGS organises an annual
+ conference around an IDR topic, as well as an annual Interdisciplinary Seminar Series with
+ invited academic speakers.
+ Research Integrity
+ 2.11 Aston’s Research Integrity Policy and associated Research Integrity Assurance Procedures
+ expect the highest standards of integrity in the conduct of research. The University is a signatory
+ of the UUK Concordat to Support Research Integrity, and is committed to the principles of
+ honesty, rigour, transparency, open communication, care, and respect.
+ 2.12 Aston University Research Integrity Office (AURIO) is the central point of contact for
+ Research Ethics, Governance, and Integrity. AURIO includes the Associate Pro-Vice-Chancellor
+ (Research Integrity), the Research Integrity Manager and Research Integrity Officer. AURIO
+ works with Aston University Research Ethics Committee (UREC) to monitor and improve
+ institutional ethics policies and guidelines, and provides training and support for Researchers via
+ dedicated programmes (section 3.10). In 2020, Aston funded a Research Ethics Portal to
+ streamline the research ethics process.
+ 2.13 Aston is a signatory to DORA. The University’s Policy for the Responsible Use of Research
+ Publication Metrics (2020) reinforces the primacy of substantive peer review and recognises the
+ value that metrics can add to that process. Scival is used for reporting, benchmarking and
+ analysis of research indicators.
+ Structures to support an open research environment
+ 2.14 Our Open Research Data Policy (2019) highlights the requirement to maintain accurate and
+ retrievable data generated by research in order to open up data for scrutiny, to validate and
+ replicate research, and to re-use data. The Policy applies to all researchers, PGRs and
+ professional services staff supporting research data management. Evidence of progress towards
+ compliance with the Concordat on ORD is reported regularly to the URC.
+                                                                                                     Page 5
+
+
+Institutional level environment template (REF5a)
+ 2.15 Aston’s Open Access (OA) Policy aligns with UKRI OA requirements for REF2021. Aston
+ provides comprehensive guidance on all aspects of OA, with specific expertise provided by the
+ Library’s Open Access and Research Repository Specialists, and Information Specialists.
+ 2.16 Aston has committed £370,000 to securing Gold Open Access since 2014. In 2020 Aston
+ decided to focus investment on the publishing element of new transformative/read and publish
+ contracts. Such contracts offer greater return on investment when compared to paying individual
+ Article Processing Charges for non-funded authors. To date Aston has contracts with eleven
+ publishers.
+ 2.17 99% of REF Category A staff have an ORCID iD.
+      3. People
+ 3.1 In 2015, Aston moved to a standard model of permanent appointment with a three-year
+ probation period for Teaching and Research staff. Since then, the share of (T&R) staff on fixed-
+ term contracts has fallen from 35% to 2%. Aston has not used zero hours contracts during this
+ REF period.
+ 3.2 Aston’s academic recruitment since 2014/15 (Figure 3) demonstrates our commitment to
+ improving diversity (section 1.6). In 2021, we will consider anonymous shortlisting for our
+ academic recruitment processes.
+ 3.3 Promotion is one of the ways we reward and retain excellent staff and build a strong
+ community of academics, with 145 T&R colleagues promoted since 2014/15 (Table 5).
+ Promotion for Teaching and Research staff is based upon excellence in either Research, or
+ Teaching and Learning. On the Research route, the promotions criteria are explicitly aligned to
+ the Research Strategy (section 2.3).
+                         Table 5: Academic promotions (2014-15 to 2019-20)
+                                                         Total        Gender Breakdown
+         Lecturer to Senior Lecturer                              77 60% M - 40% F
+         Senior Lecturer to Reader                                44 57% M - 43% F
+         Reader to Professor                                      24 63% M - 37% F
+                                                                                             Page 6
+
+
+Institutional level environment template (REF5a)
+ Equality, Diversity and Inclusion (EDI)
+ 3.4 Aston’s Diversity and Inclusion Strategy details our commitment to creating an inclusive
+ environment aligned with the broader Aston Mission (Figure 1). Data collection and analysis is
+ critical to the understanding of Aston’s EDI profile, informs discussions with staff and students,
+ and helps to identify areas of culture, policy, and practice which require improvement. The
+ Guardian 2020 University of the Year Award specifically highlighted Aston’s EDI programme
+ (section 1.2). We are striving to address our leaky pipeline and the lack of diversity (particularly
+ with respect to race), at senior levels. In 2020, we developed our LGBT+ Inclusion Charter and
+ we are working towards enhanced training and support with respect to disability.
+ 3.5 The EDI Strategy is operationalised through policies and procedures and diverse
+ membership of University Committees. The Equality, Diversity, and Inclusion Forum (EDIF)
+ (Figure 4), consolidates eight active strands of activity across the University. EDIF reports to the
+ University Executive ensuring relevant activities align with management priorities and University
+ Strategy.
+ 3.6 EDIF works in parallel to the Gender Equality Project Management Group, which focuses on
+ the priorities of the Athena SWAN Charter. By 2025, we aim to eliminate our Gender Pay Gap of
+ 19.5% in 2020 by focusing on consistency of starting salary, and pay parity on promotion and
+ within professorial bands. Aston’s Pay Gap Working Group is looking at issues around the
+ relative lack of diversity at senior levels; developing anonymous recruitment processes focused
+ on skills-based assessment, and developing a pool of diversity and inclusion experts to support
+ recruitment panels. The College of Engineering and Physical Sciences’ excellent practice in this
+ area is recognised by its ATHENA Swan Silver award and is being adopted across the
+ University (Table 6).
+               Table 6: Athena SWAN Awards                  Type of        Level
+                                                            Award
+      University                                            Institutional  Silver
+      School of Engineering and Applied Science             Departmental Silver (Applying for
+                                                                           Gold during 2021)
+      School of Life and Health Sciences                    Departmental Bronze
+      Aston Business School/Aston Law School                Departmental Applying for Bronze
+      School of Languages and Social Sciences               Departmental Bronze
+ Staff Wellbeing
+ 3.7 Aston has a comprehensive suite of Health, Safety and Welfare policies, procedures and
+ guidance covering: Leave and Attendance (including the Parenting at Aston Scheme, Flexible
+                                                                                                Page 7
+
+
+Institutional level environment template (REF5a)
+ Working, and Compassionate Leave); Wellbeing (including EDI, Work-Life Balance, Work-
+ Related Stress and Menopause); all aspects of Working at Aston. Staff have highlighted the
+ following as particularly valuable:
+          i.   Since 2017, the cost of parental leave is no longer borne locally; instead, the
+               University centrally funds up to a year of parental leave above statutory rates;
+         ii.   Mental health/wellbeing resources that are reflected in our Workplace Wellbeing
+               Charter accreditation;
+        iii.   All staff employed for more than 26 weeks may apply for flexible working;
+        iv.    All services, facilities, promotion and job opportunities are available to staff on
+               extended leave;
+         v.    Comprehensive support is offered to those taking extended leave for reasons of ill-
+               health;
+        vi.    Staff requiring periods of leave for caring may request part-time working, flexible
+               hours, or take up to one-year unpaid leave;
+       vii.    Formalised KIT and SPLIT days, re-induction processes and phased returns help
+               colleagues returning from extended leave to re-establish careers;
+       viii.   A robust Bullying and Harassment Policy.
+ Academic Career Development
+ 3.8 In 2018-19, My Development Conversation replaced the previous Performance Development
+ Review. This shifted the emphasis from biannual review to continuous dialogue, which is
+ particularly important regarding the professional development and employability opportunities of
+ fixed-term research-only staff. Through this process, colleagues agree targets for grant
+ applications, publications and public engagement activity. In 2017/18, the University opened the
+ promotions path up to Professorial level for both Research, and Teaching and Clinical staff.
+ 3.9 Mentoring networks offer a safe, informal environment for staff to discuss issues, and seek
+ guidance. All new staff and ECRs have at least one mentor, usually a senior colleague and we
+ have invested in PLD mentoring software. At senior levels, mentoring and coaching is arranged
+ on a personal basis, with some senior staff accessing mentors in other universities. The Culture,
+ Employment and Development in Academic Research Survey (CEDARS-2020) indicated that
+ 60% of respondents at Aston have a mentor, and that 58% of those with a mentor stated that the
+ relationship had a positive impact on career development.
+ 3.10 Aston’s staff development programmes are well established. All staff complete mandatory
+ training, including E&D Awareness, Unconscious Bias and General Data Protection Regulation
+ Awareness. Academic staff access continuing professional development, including ‘Introduction
+ to Learning and Teaching’ and the ‘PGDip in Academic Leadership’. Staff without a teaching
+ qualification must obtain this or an Advance HE Fellowship within 2 years of joining Aston. The
+ RKE team offers training geared to the research lifecycle (sections 2.9, 4.5). The Organisational
+ Development team provides training opportunities, including Executive Development, Change
+ Management, and The Institute of Leadership & Management programmes.
+ 3.11 Study Leave is managed at College level and is recognised as an essential element of a
+ research environment that prioritises excellence.
+ 3.12 Aston is a signatory of the Technician Commitment, a sector wide initiative led by the
+ Science Council, supported by the Gatsby Foundation to help address key challenges facing
+ technical staff. A technicians’ representative is a member of URC.
+                                                                                                   Page 8
+
+
+Institutional level environment template (REF5a)
+ ECR Forum
+ 3.13 Aston maintains its commitment to the Concordat to Support the Career Development of
+ Researchers through regular reviews and updates of policies, practice and the Researcher
+ Development Programme. The HR Excellence in Research Award (2020) recognises this
+ institutional undertaking. Responsibility for the implementation of the Concordat rests with the
+ ‘HR Excellence in Research Award Group’, which is co-chaired by the ECR Facilitator and the
+ Dean of the Graduate School.
+ 3.14 The ECR Development Programme is managed by the Researcher Development Advisor
+ and Professional Development Advisor, both of whom are based in the Graduate School. It
+ includes formalised Career Development Planning and Training Needs Analysis, plus a wide
+ range of centrally managed courses (Knowledge and Intellectual Abilities, Personal
+ Effectiveness, Research Governance and Organisation, and Engagement Influence and Impact).
+ Elements of the annual Graduate School Training Programme are also open to ECRs.
+ Support of PGR students
+ 3.15 Formed in 2010, the Aston Graduate School (AGS) is a cross-university initiative, led by the
+ Associate PVC/Dean of the Graduate School. The Graduate School Management Committee
+ (GSMC) reports into Research Committee, ensures the quality of PGR-programmes across the
+ University, fosters interdisciplinary initiatives and supports PGR-student wellbeing. Thus, it has
+ had a considerable impact on the student experience and quality of the doctoral process.
+ 3.16 AGS has implemented standard processes and documentation for the PGR lifecycle, and
+ ensures quality standards for all research degree programmes. Overall responsibility for the
+ welfare of PGRs lies with the Colleges who own the PGR programmes. College Directors of
+ Research Degree Programmes are members of GSMC, thus ensuring that AGS has strong links
+ to the day-to-day running of all research degree programmes. All staff with supervision
+ responsibility are required to complete mandatory supervision training regardless of career
+ stage.
+ 3.17 The Graduate School Training Programme supports career development, both within
+ academia and beyond. PGRs receive a comprehensive AGS Handbook; attend the AGS and
+ College Inductions; undertake 90 hours of research skills training; and are invited to complete
+ the Introduction to Learning and Teaching Practice course delivered by the University’s
+ Education Team before undertaking any teaching. The AGS Training Programme is based on
+ the Vitae Researcher Development Framework and the training sessions align with the
+ Framework’s four domains. Funder specific requirements are met through training provision
+ offered by Colleges and the relevant UKRI doctoral training structures for each College.
+ 3.18 Aston Postgraduate Research Society (APRS) encourages collaboration between Colleges,
+ aiming to improve the social and academic experiences of Aston PGRs. APRS nominates
+ representatives to relevant committees within the University governance structure.
+ 3.19 The Centre for English Language and Communication at Aston offers training for students
+ and staff for whom English is not their first language.
+      4. Income, infrastructure and facilities
+ Income
+ 4.1 The growth in academic faculty, coupled with the expansion of research support provision
+ has facilitated an increase in grant capture (£15m in 2013/14 to £30m in 2019/20) and research
+ income (£12.5m in 2013/14 to £17m in 2019/20). Record grant capture in 2018/19 and 2019/20
+ will underpin continued growth in research income.
+                                                                                                Page 9
+
+
+Institutional level environment template (REF5a)
+ Facilities
+ 4.2 Since 2013/14, £25.55m of capital expenditure has been incurred against research project
+ codes, research cost centres and research estates projects in Aston’s areas of research
+ strength. Since 2018, this investment has aligned with the URIs (section 2.5) in order to
+ maximise return, for example £7.3m investment into 30 AIPT laboratories, supported by a £500k
+ Wolfson equipment grant, plus an additional £3m internal investment on equipment.
+ 4.3 The Midlands Innovation consortium equipment catalogue facilitates equipment sharing
+ between member universities. MI also enabled Aston to partner on successful cross HEI funding
+ applications (section 1.6)
+ Infrastructure (research, translation and impact)
+ 4.4 Aston’s research support infrastructure is led by the PVC Research and Executive Director
+ of Business Engagement. The RKE Department (section 4.4) includes 56 members of staff and
+ nine teams (Research Strategy, Funding and Impact; Graduate School; Research Integrity;
+ Knowledge Exchange; Business Engagement; Regional Strategy; Corporate Client Solutions;
+ and Research Marketing). Our support for research also includes teams in Finance, HR, Library
+ Services, Organisational Development, plus Research Managers and Administrators in
+ Colleges.
+ 4.5 During the REF period, the University Grant Writing Programme (organised by the Strategic
+ Funding Managers (SFMs)) has developed into a comprehensive course. The programme takes
+ 15 participants through the application process from initial idea to approval, including costing,
+ peer review and mock panels. As part of the Programme, we draw on the experience of senior
+ staff with a track-record of funding success to provide constructive feedback to participants. The
+ SFMs regularly run drop-in sessions to support all aspects of research funding.
+ 4.6 The Development and Alumni Relations Office (DARO) facilitates partnerships with third-
+ party organisations as well as managing philanthropic relationships with alumni. DARO works
+ with academics and SFMs to secure funding from charitable trusts with a focus on the URIs.
+ 4.7 To mark the University’s Golden Jubilee in 2016, the Aston University Prize Fund was
+ established to facilitate research. Between 2016-18, Aston matched funds 50:50 for 54 PhD
+ Studentships (£2.1m); six Research Fellows co-funded by external partners (£348k); and £120k
+ for International Research Scholarships.
+ 4.8 Aston has received £577k of Global Challenges Research Fund QR funding since 2018.
+ Funding supported collaborative initiatives with international partners. We have strengthened
+ collaborations leading to further competitive, collaborative awards, such as a Newton Fund
+ award with Indonesia, an UKRI/GCRF award and a Newton Prize nomination on nutrition in
+ Kenya.
+ 4.9 Aston has invested in systems that underpin our activity throughout the research lifecycle,
+ including:
+      i.   Moving from pFACT and Agresso Awards Management to Agresso Research Costing
+           and Pricing for the costing and management of research funding;
+     ii.   Elsevier hosting of PURE for research information management;
+    iii.   Subscriptions to Scival and ResearchProfessional;
+   iv.     Dods Parliamentary Companion.
+ 4.10 Through our Knowledge Exchange Strategy, we aim to deliver economic growth,
+ productivity enhancement and social impact around five key themes: research and knowledge
+ transfer; degree apprenticeships and work-based learning; employability and entrepreneurship;
+ regional and civil engagement; business engagement.
+                                                                                              Page 10
+
+
+Institutional level environment template (REF5a)
+ 4.11 Our work in Knowledge Exchange also tackles social and economic challenges, informs
+ and influences policy to foster a culture of evidence-based policymaking and will form the
+ foundation of our Civic University Agreement (2021). We work closely with regional bodies,
+ developing shared projects that benefit citizens, for example:
+     i.   Raising awareness of the importance of eye health (Villa Vision initiative);
+    ii.   Sustainable business growth and productivity (Unlocking Opportunity with the Federation
+          of Small Businesses);
+   iii.   Consultancy activities undertaken with SMEs; Aston is the most active university in the
+          Midlands, and ninth in the UK (2018/19 HE-BCI data);
+   iv.    EBRI working with Low-Carbon SMEs including, FuturEnergy Ltd and Modus Waste &
+          Recycling;
+    v.    Through the Citizens UK Birmingham Business Leaders Programme, colleagues in Aston
+          Business School are supporting BAME enterprises to access Government via the
+          COVID-19 Emergency Listening Campaign.
+ 4.12 We have invested in our internal support for a diverse range of industrial research
+ collaborations and translational research. Key posts are funded internally and through HEIF in
+ the Knowledge Exchange team, the Business Engagement team, and in Schools (including
+ Associate Deans Research and Impact Champions). In 2016, a Research Impact Manager was
+ recruited to develop systems and processes to identify, nurture and capture information on the
+ impact arising from Aston research; a full-time Impact Officer was added in 2019.
+ 4.13 Since 2018, an annual Impact Fund of £150K has been invested to accelerate data
+ collection for REF Impact Case Studies, and to support the development of a pipeline of more
+ than 200 potential impacts across the University. A range of training sessions, workshops,
+ group-based away days, and one-to-one consultations are delivered through RKE, AGS and the
+ ECR Forum to spread and embed best practice regarding the integration of impact into the
+ research process. Aston works closely with the Industry and Parliament Trust and The
+ Conversation to access training and support for developing researcher skills in engagement and
+ to communicate the outcomes of its research.
+ 4.14 Examples of our activities in translation and impact over this REF period include:
+     i.   Match-funding to support a portfolio of 21 ERDF projects (total value over £10m);
+    ii.   Through the Aston Centre for Growth, 14 dedicated SME support programmes working
+          with almost 800 companies
+   iii.   Growth of our KTP portfolio from 7 to 27 in the REF period, including KTPs now held in
+          all three Colleges;
+   iv.    Through MICRA (section 1.5), re-launching academic support processes for translation
+          of technologies and intellectual property;
+    v.    Growth of collaborative working with international partners (academic and industrial)
+          through £34.2m EU H2020 funded projects, in particular Marie S Curie Actions and
+          awards from the Future and Emerging Technologies programme.
+                                                                                            Page 11

@@ -1,0 +1,903 @@
+Unit-level environment template (REF5b)
+ Institution: University of Kent
+ Unit of Assessment: 11: Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+ 1.1 Context and Structure
+ UoA11 at Kent is the School of Computing. We conduct research of the highest quality in our four
+ priority areas, for each of which we have established a well-resourced research group. These four
+ groups are:
+     •    Programming Languages and Systems (PLAS). Research in PLAS focuses on
+          foundational aspects of Computer Science by addressing the formalism, implementation,
+          and verification of programming languages, encompassing functional programming, type
+          systems, concurrent systems, and automated verification. PLAS members are widely
+          recognised for the quality of their research, publishing solutions to longstanding problems
+          and holding programme committee memberships for conferences such as POPL, ICFP,
+          ICLP, with regular publication in such conferences (see Section 4.3). csrankings.org places
+          Kent second in the UK (2014-20) for Programming Languages.
+     •    Computational Intelligence (CompInt). This group researches novel AI techniques,
+          including machine learning (ML) and bio-inspired AI methods, as well as applying AI to
+          real-life areas. It explores the important theme of developing and using transparent,
+          interpretable AI. The group is internationally acclaimed, as evidenced by programme
+          committee memberships for conferences such as AAAI and IJCAI, and by high citation
+          rates in the REF2021 period: 13 out of 17 outputs submitted by this group are in the top
+          quartile in field-weighted citations. The group contains members with h-indices (Google
+          Scholar) of 64 (Freitas) and 37 (Bowman).
+     •    Cyber Security (CyberSec). This group researches a broad range of topics in cyber
+          security, including authentication and authorisation, communication and network security,
+          security testing and verification, socio-technical security and privacy, AI and security,
+          digital forensics and online harm, information hiding and quantum cyber security. It hosts
+          the Kent Interdisciplinary Research Centre in Cyber Security (KirCCS), one of the UK’s 19
+          Academic Centres of Excellence in Cyber Security Research (ACE-CSR), as recognised
+          by the National Centre for Cyber Security (NCSC, part of GCHQ) and EPSRC.
+     •    Data Science (DataSci). This group researches the application of AI to various types of
+          data, with a strong emphasis on health-related issues. The work includes streaming data,
+          biomedical signal analysis and categorical ML. This group places a strong emphasis on
+          real-world impact, including support from Dstl, KTPs, and various charities, as well as
+          significant public engagement contributions (see Section 4.4).
+ Typically, researchers in the School of Computing belong to one of these main research groups.
+ Collaboration is strongly encouraged, and researchers may be secondary members of other
+ research groups. This arrangement has fostered cross-fertilisation of ideas and provided a thriving
+ culture for research discussion. (Section 4 reports multiple cross-group grants and collaborations.)
+ 1.2 Research Strategy 2013-20
+ To achieve the research strategy outlined in our submission to REF2014, our strategic priorities
+ during the REF2021 period were to: attract future research leaders; focus our research on crucial
+ areas of Computer Science; develop an excellent research environment; and foster outstanding
+ interdisciplinary research and impact.
+                                                                                                     1
+
+
+Unit-level environment template (REF5b)
+     •   Attracting future research leaders. We have been successful in recruiting new lecturers
+         identified as having outstanding potential, thanks to our considerable efforts to provide
+         wide-ranging support within a nurturing environment (see Section 2.1). In return, we set
+         research activity expectations of the highest international standards. All 18 ECR
+         appointments in our submission embraced these expectations. Section 4.3 highlights
+         prestigious awards, fellowships, and grants held by our ECRs. These staff have taken on
+         leading roles in their research communities (e.g. Jordanous, Kell, Orchard), as well as
+         School-level research and innovation responsibilities (e.g. Arief, Batty, Kafalı), and
+         contribute significantly in public engagement with research (e.g. Chennu, Jordanous,
+         Nurse).
+     •   Focusing research on crucial areas of Computer Science. In the REF2021 period, we
+         consolidated our research in high-priority areas (programming languages, cyber security,
+         AI, data science) as defined by UK Government strategy (see Section 4.2) and EPSRC’s
+         ICT portfolio. We aim not simply to gain critical mass, but to build groups in targeted areas
+         that are large enough to achieve worldwide leadership: by providing a strong support base
+         for our researchers and establishing breadth and depth of expertise in that research area.
+         Each group has 10+ staff. Towards the end of the REF2021 period, we discontinued our
+         Computing Education Research Group. Whilst this group made valuable research
+         contributions, there were a number of staff departures, and we made a strategic decision
+         to concentrate replacements in the other research groups.
+     •   Developing an excellent research environment. The School’s large research groups enable
+         a thriving research culture across a spectrum from theoretical research to real-world
+         impact. We emphasise quality, synergy, and knowledge exchange, and this has led to
+         significantly increased research and enterprise income (see Section 3.1). Research
+         integrity is intrinsic to all our research activities, as discussed below.
+     •   Fostering outstanding interdisciplinary research and impact. We take pride in our
+         collaborative and interdisciplinary research, detailed in Section 4.1. The School sits at the
+         centre of many interdisciplinary initiatives at the University. We have a wide range of
+         partners in both the public and private sectors, and from other disciplines. Our research
+         and innovation strategy is informed by consultation with our School’s industrial panel,
+         hosted twice a year. Our School Director of Innovation leads on impact activities, helps
+         maximise impact opportunities, and leads our School-wide impact and engagement
+         strategy. Consequentially, as Section 4.4 reports, we have achieved significant impact
+         during the REF2021 period in addition to our three impact case studies. The School
+         also hosts the Enabling Innovation: Research to Application (EIRA) AI Knowledge
+         Exchange lead (see REF5a), which has led to the development of new industrial
+         partnerships, resulting in eight research and innovation-focused grants. We have also
+         benefitted from sustained engagement with University support, currently located in
+         Research and Innovation Services (RIS) (see REF5a).
+ Thanks to our sustained increase in high-quality research and impact activity over the REF2021
+ period, we have largely met the targets set in our research plans reported in REF2014, whilst
+ remaining responsive to the ever-evolving research landscape. Our achievements with respect to
+ our REF2014 plans are as follows:
+     •   Awards of £1.3 million per annum by the end of 2016. This target was exceeded. The
+         financial year 2015-16 shows research awards were £2.6 million to the School.
+     •   Formation of a second research group at Medway. This target evolved to better fit our
+         growing body of staff at Medway and our strategy for larger research groups in high-priority
+         areas. A new Data Science research group was established, focusing on applied data
+         science and AI, in place of the previous Future Computing group. This strategy has proven
+         highly successful; for example, £795k in innovation awards secured by Medway-based
+                                                                                                      2
+
+
+Unit-level environment template (REF5b)
+         researchers in 2018-19. Owing to COVID-19, financial pressures, and lower student
+         recruitment to our Medway UG programmes, we are restructuring the School so that it is
+         based solely at the Canterbury campus. This will enable further interaction and
+         collaboration between Data Science and other research groups at Canterbury.
+      •  50 PGRs. We achieved this, with exactly 50 PGRs registered as of 31 July 2020. The
+         School averages 7-8 PhD completions a year.
+      •  Extend our collaboration with other Schools through the University’s interdisciplinary
+         research centres. We achieved this. We continue to lead KirCCS and now also lead the
+         new Institute of Cyber Security for Society (iCSS) (see Section 3.2). We actively participate
+         in the Centre for Reasoning (located in UoA 30). The Deputy Director of the University’s
+         recently established Institute of Cultural and Creative Industries (iCCi, see REF5a) is
+         based in the School of Computing. We also co-lead three new cross-disciplinary research
+         networks supported by the University (see REF5a): AI in the Public Interest (Rodgers);
+         Conflict, Security, Rights, and Violence (Nurse); and Digital Culture (Jordanous).
+      •  Continue inter-group collaboration within the School. This remains strong (see Section
+         4.1). It is evidenced, for example, by high incidence of secondary membership: 40% of our
+         Category A staff (14 out of 37) belong to more than one research group.
+ We have been similarly successful in meeting our REF2014 impact goals. Our aims were:
+      •  Open-source (OS) release of research results and contribution to international OS projects.
+         We have long championed OS code, with OS software as the default for our research. This
+         has paid dividends for our research impact. Of particular note are our contributions to
+         OpenStack and Greenfoot, as detailed in two of our case studies.
+      •  Building and maintaining strategic, long-term collaborations. We continued collaborations
+         with partners such as Oracle and Erlang Solutions (see our REF2014 submission and our
+         REF2021 Greenfoot impact case study), and have established multiple strong new
+         partnerships since 2014, such as with NVIDIA and through KTPs. We supported the EIRA
+         consortium (see REF5a) for building industry collaborations. This influenced our significant
+         increase in innovation funding since 2018 (see Section 3.1).
+      •  Targeting follow-through activities and funding designed to maximise industrial impact. As
+         well as our considerable increase in annual innovation income since 2018, we have
+         considerable success in attracting innovation funding; for example, our Industrial Strategy
+         Challenge Fund grant and three KTPs (see Section 4.2).
+      •  Interdisciplinary activity: computing having an impact in a variety of application domains.
+         Section 4.1 details our work with many collaborators across the social sciences,
+         humanities and sciences. Of particular note is our work with clinicians, leading to the Brain
+         Injury Rehabilitation impact case study.
+      •  The widest possible dissemination and public engagement with our work. Many of our staff
+         appear regularly in the press, radio, and TV (see Section 4.4), including those involved in
+         our three impact case studies. We have research-led modules freely available online,
+         active online promotion of our research and impact, and a dedicated outreach officer.
+ Our three impact case studies illustrate the range and significance of our research, and its benefit
+ to industry, government, healthcare, and communities. These case studies were supported by our
+ Director of Innovation, by RIS (see REF5a), and by continued engagement with existing and new
+ partners. The above bullet points detail how our case studies relate to our impact strategy.
+ Examples of research impact and engagement beyond these case studies are provided in Section
+ 4.4.
+                                                                                                      3
+
+
+Unit-level environment template (REF5b)
+ 1.3 Research Integrity
+ Research integrity is embedded in all stages of the research process, and we comply fully with
+ University research ethics procedures. Our Research Ethics Officer (REO) sits on the School
+ Research and Innovation Committee, with a standing item for ethics ensuring its discussion at
+ each meeting of the committee. The REO is responsive to ethics-related queries raised by any
+ researcher, and our PhD student training includes research ethics.
+ Early discussion of grant ideas is encouraged through sharing one-page descriptions with the
+ heads of research groups, so that feedback can be integrated early on. We request 2+ reviews of
+ all significant bids, in a process of continuous shepherding. Additionally, the Head of School
+ reviews all First Grant/New Investigator awards before submission. We also benefit from excellent
+ University support (see REF5a).
+ Several of our staff hold leadership positions in professional bodies, including BCS, IEEE, and
+ CPHC, thereby making important contributions to the development and promotion of professional
+ frameworks. We also make a strong contribution to standards; e.g. ISO, W3C, QAA, and MPEG.
+ Our culture of research integrity is also present in our encouraging of an open and transparent
+ research environment, prioritising making our research as accessible as possible. Our strong
+ commitment to open-source code has enabled our achievement of an impact goal (see Section
+ 1.4). In addition to benefiting from University APC funding, the School covered open access costs
+ for five publications in the REF2021 cycle.
+ 1.4 Research and Impact Strategy 2021-26
+ We will build on the successful strategy of the REF2021 period, continuing with large research
+ groups aligned to crucial areas of Computer Science research. The collaborative and
+ interdisciplinary work described in Section 4.1 remains central to our approach, further enabled
+ by our move to the Division of Computing, Engineering and Mathematical Sciences (see REF5a)
+ and our ongoing leadership of cross-disciplinary networks (see Sections 1.2 and 3.2). We will
+ maintain an agile approach, whilst focusing on world-leading outputs. We will maintain sustained
+ growth, whilst supporting the research base in Computer Science. Over the next five years, we
+ plan to:
+      •   Concentrate on developing areas of existing strength (PLAS, where we are a world leader;
+          Cyber Security, where we are ACE-CSR) and areas where we are increasing strength and
+          impact (Computational Intelligence; Data Science).
+      •   Continue the policy of large (10+ members) active research groups with a collaborative
+          culture to meet regularly, target national priority areas, and promote engagement across
+          research groups and from other relevant research areas.
+      •   Increase our annual research and innovation income by 30% to exceed £2.1 million by
+          2025 (to be achieved through actions such as increasing incentives and setting targets for
+          research groups).
+      •   Maintain our policy of recruiting largely to lecturer posts, building careers, and promoting
+          from within. As described below, our strategy is to carefully nurture staff, helping them to
+          raise their profile internationally and gain promotion internally. We plan to increase our
+          academic staff on Education and Research (E&R) contracts by 15%, to 40 FTE by 2025.
+      •   Encouraging research visits (both incoming and outgoing) to expose our staff (especially
+          PhD students, RAs, and ECRs) to further world-class research.
+ The School’s research has strong impact on the products, services, and practice of the software
+ industry, as well as on the use of computing systems in a range of industrial and social sectors.
+ We will continue enthusiastically to engage with external partners, including industry, charities, the
+ NHS, and government bodies. Our five-year plan for impact includes:
+                                                                                                       4
+
+
+Unit-level environment template (REF5b)
+     •   Actively targeting funding that supports impact-raising activity, particularly concentrating
+         on schemes where the School has a record of success, including industrial fellowships,
+         Defence Funding, and Innovate UK streams.
+     •   Supporting contacts with industry through a yearly engagement event.
+     •   Engaging with the new Kent and Medway Medical School (KMMS) to further our e-health
+         research.
+     •   Engaging further with local businesses through the University’s Eastern Academic
+         Research Consortium (Eastern ARC) and existing EIRA partners (see REF5a).
+     •   Increase engagement with standards bodies.
+     •   Taking advantage of increased opportunities for interdisciplinary impact and engagement
+         with staff from other Schools in our new academic Division.
+ 2. People
+ 2.1 Staffing Strategy and Staff Development
+ People are at the heart of our research, and this is reflected in our staffing strategy. In our
+ recruitment strategy, we prioritise early career researchers, with a view to nurturing the next
+ generation of research leaders. World-class research requires world-class researchers. Research
+ potential is thus a major consideration in our recruitment. We have a substantial staff development
+ programme, which helps early career researchers achieve their potential, as well as supporting
+ established staff. We embed equality, diversity, and inclusivity throughout our activities, and fully
+ support the Concordat for Career Development of Researchers. As detailed below, our significant
+ investment in our researchers during the REF2021 period has included:
+     •   Grant top-up support, including match funding to extend postdoctoral researcher time by
+         six months, and dedicated research studentships attached to grants;
+     •   Generous internal budget of £90k per annum for conference attendance for staff and PhD
+         students;
+     •   Internally funded PhD studentships, including stipend (on average, 4 per year);
+     •   Investment in partial continuation funding for a fourth year for any PhD student close to
+         completion (on average, 3-4 per year);
+     •   Investment (£10k) to facilitate cross-campus communications;
+     •   Teaching relief and extra research time allocation for new appointees.
+ Our strategy is to build world-class research capability. We do this by focusing on areas where we
+ have critical mass (Programming Languages and Systems; Cyber Security; Artificial Intelligence;
+ and Data Science), recruiting ECRs with outstanding potential, and committing to first-class staff
+ development support, offering a structured path to realise that potential at all career stages. Of
+ our submitted staff appointed during the REF2021 period, all have long-term/permanent contracts,
+ and 86% (18 out of 21) were recruited at lecturer level.
+ Research activity is overseen by our School’s Director of Research and Heads of Research
+ Groups. In terms of current and future management of research activity and succession planning,
+ our Directors of Research during the REF2021 period (Rodgers, 2014-19; King, 2020) and six of
+ our nine professors are long-established staff who were internally supported to professorships.
+ Various more recently appointed staff hold research-related responsibilities (see Sections 1.2 and
+ 2.3). This includes our Director of Innovation (Arief), whose activities support staff to achieve
+ impact from their research (see Section 1.2), alongside institutional support.
+ Internal funding. Our institutional support for First Grant/New Investigator awards has been
+ commended by reviewers. The package includes a commitment to six months’ additional
+ postdoctoral researcher time and a fully-funded PhD studentship connected to the grant, under
+ the supervision of the applicant, as well as mentoring for the PI. We also offer PhD studentships
+                                                                                                      5
+
+
+Unit-level environment template (REF5b)
+ for Fellowship applications and target studentships for investment areas. All eligible post-
+ probationers have submitted EPSRC First Grants/New Investigator applications. 53% of these
+ applications in the REF2021 period were successful.
+ We have a generous research budget of £90k per annum (£45k for staff, £45k for students),
+ with actual spend averaging £72.3k per annum, from £53k (2014-15) to £105k (2018-19). This
+ fund provides support for initial experiments and equipment, grant writing, impact activities, visiting
+ potential project partners nationally or internationally, open access publishing, consortium
+ building, and hosting workshops to raise visibility. Importantly, it supports conference
+ attendance, with all reasonable requests for funds granted where the researcher is presenting
+ a paper or in other relevant circumstances (for example, following substantial periods of leave –
+ see below).
+ Our research group organisation is designed to provide support for all researchers. The groups’
+ size (each with 10+ staff) is large enough to provide a range of peer support and informal
+ mentoring opportunities, while being sufficiently focused to build a strong community. During the
+ REF2021 period, we increased funding for research seminar expenses, spending over £5k per
+ annum in 2018-20.
+ Workload allocation. The School has a fair, transparent and extremely comprehensive Workload
+ Allocation Model (WAM) for academic staff that has evolved over many years. The WAM, based
+ on 1650 hours per annum, recognises the wide variety of work undertaken by our staff and
+ encourages high quality research – with, for example, a higher allocation for outputs recognised
+ (by an internal, gender-mixed panel) to be of the highest quality, and WAM-based incentivisation
+ for the submission of grant proposals (see Section 3.2).
+ Early career staff are given reduced teaching loads (a 50% reduction in year one; 25% reduction
+ in year two) to enable them to study for a Postgraduate Certificate of Education (PGCHE) and to
+ develop their research. We emphasise commitment to research-led teaching in PGCHE training,
+ contributing the module ‘Developing as a Researcher in Higher Education’. The School also
+ encourages ECRs to engage with the University’s ECR Network, established to provide mutual
+ support and training (see REF5a).
+ To further assist research development, ECRs on E&R contracts are allocated 250 extra hours
+ per annum for research in year one, decreasing by 50 hours each subsequent year. This is in
+ addition to the baseline allocation every academic receives for research (400 hours per annum).
+ The School absorbs the indirect costs of this allocation.
+ Staff development. For post-probation staff, study leave supports research development,
+ advertised annually for full-time and part-time permanent staff. A gender-mixed panel reviews and
+ helps refine applications before submission to the University. We typically support four terms of
+ study leave each year. Section 4 reports how other institutions often offer to host our staff during
+ their study leave, including industry hosts. We also support exchanges between academia and
+ industry formally through recruitment of industry-based research staff (Dimitrakos).
+ We fully implement the University’s probation scheme, and also provide a mentor for new staff.
+ The Probation Supervisor, typically senior and from the same research group and campus as the
+ probationer, guides probation plans and writes probation reports. The mentor, assigned through
+ consultation with the new academic, offers informal guidance tailored to the new appointee’s
+ needs.
+ All staff participate in an annual ‘Reflect, Plan, Develop’ (RPD) appraisal process (see REF5a).
+ This includes discussion of all aspects of work, career aspirations, work/life balance, and support
+ needed to help staff achieve their and the School’s goals. This helps foster an all-inclusive, non-
+ discriminatory culture in the School. The Head of School receives a summary of each RPD.
+ Additionally, the School monitors and supports staff through its research groups (which provide
+                                                                                                        6
+
+
+Unit-level environment template (REF5b)
+ discussion of work in progress), and annual Individual Research Planning (IRP) meetings with
+ their Head of Group and the Director of Research.
+ The School organises various training events, including ‘Valuing Everyone’, grant development,
+ teaching and research away days, and strongly encourages uptake of additional training provided
+ at University level, across all levels of staff seniority. We nominate staff for leadership
+ programmes, for example, the women-only Aurora programme and the University’s Leadership
+ for Areas of Specific Responsibility (LASR) programme. Rodgers (LASR) is now Head of School
+ and Ramaswamy (LASR) is now Head of the Data Science research group. Following Aurora
+ training, Bocchi and Jordanous both achieved promotion to Senior Lecturer. Bocchi is now PhD
+ Admissions Officer and Jordanous REF Coordinator.
+ Our staff are supported in promotion applications by the Head of School and the School
+ Promotions Panel. Promotion success is decided at University level, based on clearly defined
+ criteria (see REF5a). Fourteen of our submitted staff achieved promotion during the REF2021
+ period, including five lecturers hired in the REF period (with one further promoted in autumn 2020).
+ The School Promotions Panel proactively reviews and works with all staff not promoted over a
+ five-year period, encouraging applications as appropriate or suggesting activities towards an
+ application; for example, grant applications or additional publications.
+ 2.2 Research Students
+ Recruitment. The School’s approach to recruitment of doctoral research students mirrors our
+ approach to recruitment of staff: we seek to attract candidates of the highest quality and potential,
+ and support them comprehensively. As of 31 July 2020, we had 50 registered PhD students.
+ During the REF2021 period, the School averaged 7-8 completions a year.
+ Funding. The majority of our PGRs (87%) receive full studentships from the School and
+ University, externally: usually 11-12 PhD studentships per year, with 20 in 2019-20. We provide
+ 3-5 School scholarships a year. During the REF2021 period, our students were also funded by
+ funding bodies (eight EPSRC studentships, five GCHQ/NCSC studentships), and by the
+ University (17 studentships). In line with School strategy, priority for School-allocated funds is
+ given to students supervised by new ECRs, then for staff without PhD students.
+ Support. The School requires all PhD students to attend a conference in their first two years of
+ registration, paid for by the School. This encourages students to engage with their research
+ community as early as possible and to network with their peer group outside of Kent. Typically,
+ they have a paper or poster to present, but, even if not, attendance is still supported by School
+ funds. Students are encouraged to submit papers to conferences over and beyond this
+ requirement, and the School supports their attendance with funding. No reasonable request by a
+ research student to attend a conference or workshop has been refused in the REF2021 period,
+ with approximately £1,000 spent per student per annum (a budget of £45k per annum).
+ PhD students can request funds to attend external training. During the REF2021 period, no such
+ request has been refused. Students have attended a variety of tutorials and summer schools
+ relevant to their research, such as experimental skills and neuroimaging. Technical training for
+ PGRs is also provided by their supervisors. PhD students have full access to the School's various
+ technical resources (see Section 3.3).
+ We also encourage our students to participate in industrial internships and international
+ exchanges. The School has active research links with various external partners (see Section 4),
+ to the benefit of research students. Over the REF2021 period, Computing PhD students have
+ benefitted from internships with Google, Microsoft Research, Alan Turing Institute, NVIDIA,
+ RIM/Blackberry, BT, European Space Agency, and in the US and Japan (for example, through an
+ agreement between Japan’s National Informatics Institute and Kent).
+ To maximise PhD completion rates (in addition to comprehensive targeted training and careful
+                                                                                                      7
+
+
+Unit-level environment template (REF5b)
+ student progression monitoring), in 2016 we introduced financial support for PhDs close to
+ completion. Such students could apply for partial continuation funding in their fourth year (three
+ months’ full funding or 12 months’ 50% funding, with teaching requirements of two hours per week
+ for the 12 months’ funding). We supported all applicants, 3-4 students per annum.
+ PGR equality, diversity, and inclusivity. EDI in recruitment for students and staff is a key priority
+ to us. We have sought to increase the proportion of women registered on our PhD programme,
+ currently at 20% (10 out of 50), just above the HESA sectoral average of 17-18%. Our ongoing
+ Athena Swan work to increase the number of external female applicants includes advertising our
+ PhD scholarships on female-targeted social media and mailing lists. Initial PhD interviews are
+ conducted by the potential supervisors; for consistency as well as for gender balance, successful
+ candidates at this stage have a follow-up interview with the Director of Graduate Studies (Fincher,
+ female) and Director of Research (Rodgers, 2014-19; King, 2020, both male).
+ We draw many PhD students internally from our BSc/MSc programmes. We support staff to
+ introduce modules informed by their research; our lecturers become role models for a career in
+ research. Several of our research-informed modules are convened by female lecturers. Bocchi
+ (female), as PGR Admission Officer, speaks to final-year BSc/MSc students about PhD
+ opportunities.
+ Academic support. All PhD students in Computing have a supervisory team. Any supervisor who
+ has not yet supervised a student to successful completion is paired with a second supervisor (as
+ supervisory chair) for guidance and mentoring. Students meet with their supervisor(s) weekly and
+ provide monthly summaries (certified by the supervisor) to a reporting system monitored by the
+ Director of Graduate Studies. A supervisory panel ensures that all students are provided with
+ suitable support, and evaluates the student’s research at progression points. The Director of
+ Graduate Studies sits on all supervisory panels, for consistency.
+ In their first term, students attend regular training workshops on Computer Science research skills,
+ led by a Professor from the School. We also run targeted training sessions at sensitive points; for
+ example, a session for final year students on thesis submission and viva preparation. We also
+ encourage our students to take advantage of the extensive University training provided by the
+ Graduate and Researcher College (see REF5a).
+ Students have various opportunities to discuss and develop research ideas outside the formal
+ supervisory and training arrangements. All PGRs belong to at least one School research group.
+ They are expected to attend their primary group’s weekly seminars, which provide opportunities
+ to network with other researchers, present their work, and enhance their presentational skills.
+ PGRs are also encouraged to join research visitors for lunch, expenses paid. Research students
+ present their research at an annual student-organised mini-conference, and at Research Fairs
+ organised by the University. Social activities also help build cohort identity, such as a popular
+ annual PhD away weekend (Bath, 2017; York, 2018; Cambridge, 2019; with £300 per student
+ committed by the School towards expenses).
+ 2.3 Equality and Diversity
+ The School is committed to incorporating principles of equality and diversity into every aspect of
+ our work, including recruitment and promotion. University and School input, alongside the
+ Concordat to Support the Career Development of Researchers, has shaped the School’s way of
+ working, improving our recognition of work/life balance, flexible working, support for new parents,
+ and other staff with caring responsibilities:
+      •   We have a core-hours policy of 10.00 a.m.-4.00 p.m. for meetings and most social events.
+      •   Researchers generally work flexibly and/or remotely informally.
+      •   Flexible-working requests from staff are received sympathetically and facilitated whenever
+          possible to enable them to research productively. Over the REF2021 period, requests for
+                                                                                                      8
+
+
+Unit-level environment template (REF5b)
+          flexible working to assist staff wellbeing have all been approved.
+     •    The School supports mobility between full-time and part-time to accommodate staff, with
+          all such requests granted during the REF2021 period.
+     •    Part-time and fixed-term staff are offered the same career pathways and support as full-
+          time staff, with the WAM scaled to their hours worked.
+     •    Researchers with disabilities are provided with additional technology as needed.
+ At University level, Soria has been actively involved in initiatives such as adding the ‘rainbow flag’
+ to the University’s logo online and on social media platforms during Pride Month (June 2020).
+ Soria was also instrumental in securing the first order of rainbow-coloured University of Kent
+ lanyards, to be financed by the University.
+ The School has held an Athena Swan Bronze Award since 2014 (renewed in 2018). The WAM
+ gives credit for the Athena Swan team and EDI representative roles, and our action plans are
+ embedded in School culture, including staff at different levels of seniority throughout the School.
+     •    We have revised the wording and imagery used in our online presence and recruitment
+          literature:
+               o Research by Kent’s Information Services on job application strategies found higher
+                   numbers of essential criteria correlated with fewer female applicants.
+                   Consequently, our job adverts have reduced essential criteria and include a
+                   statement encouraging female/minority applicants.
+               o Our website shows people of a diverse range of backgrounds (genders, ethnicities,
+                   etc.).
+               o Our adverts for academic posts highlight family-friendly policies (for example, core
+                   hours for School activities, flexible working, parental leave support).
+     •    Interview panel members are trained on recruitment best practice, including avoiding
+          unconscious bias. Following University practice, academic recruitment panels are always
+          mixed gender.
+     •    New staff complete modules on unconscious bias at induction. In 2014-15, all School staff
+          completed ‘Valuing Everyone’ training, tackling unconscious bias, and exploring inclusivity
+          and team dynamics (shortlisted for a 2015 Times Higher Education Award).
+     •    All School committees include representatives of both genders.
+     •    We prominently publicise equality and diversity events to our staff and students; for
+          example, displaying on our display screens LGBT History month schedules and events
+          celebrating diversity.
+     •    The School strongly encourages and supports female staff to apply for leadership training
+          programmes (e.g. Aurora) and for promotion, and to take on roles of responsibility for
+          research within the School and University.
+     •    We formalised the additional support provided directly by the School for
+          maternity/paternity/adoption leave (see below).
+ We can already see the positive impact of these changes. In the most recent staff survey, 91%
+ stated they were treated the same regardless of protected characteristics such as gender, race,
+ or religion (up from 85%). This is still too low and we target achieving 100% as soon as possible.
+ As mentioned above, two female ecturers took Aurora leadership training in this REF cycle; both
+ were since promoted. The staff members to have achieved promotion in the REF2021 period
+ includes two staff who took substantial maternity leave periods. Several research and innovation-
+ related positions of responsibility within the School are currently held by female staff:
+     • Director of PhD Admissions (Bocchi);
+     • Director of Graduate Studies (Research) (Fincher);
+     • Deputy Director of the Institute of Cyber Security for Society (Franqueira);
+     • REF Coordinator (Jordanous);
+     • Director of Internationalisation and Deputy Director of iCCi (Li(L)).
+                                                                                                       9
+
+
+Unit-level environment template (REF5b)
+ Three of our five submitted female academics were recruited during the REF2021 period. Three
+ of the five                              achieved promotion in the last three years. Fincher is already
+ a Professor. Only one is at Lecturer level                , and she was appointed in 2019. We also
+ supported a Daphne Jackson Fellowship for women returning to academia from career breaks
+ (2014-16). Our Fellow obtained a Readership in her next academic appointment.
+ In this REF period, three staff on E&R contracts have taken maternity or adoption leave. As well
+ as following institutional procedures, the School offered additional support that was, at first, not
+ formally documented. Following two experiences of maternity/shared parental/adoption leave
+                      the School reflected on the support provided, and formally designed guidelines
+ and procedures to support academics to re-engage with research after extended leave. This
+ enabled us to offer more formalised support for maternity/shared parental/adoption leave, such as
+                maternity leave two years later, and for others taking extended periods of leave. Our
+ offer is:
+     •    Staff retain use of all services while on leave.
+     •    Selected named colleagues handle contact with the staff member during leave and the role
+          of Keeping-in-Touch (KIT) days was clarified.
+     •    A fixed-term lecturer appointed to cover leave helps the member of staff to retain previous
+          teaching on return.
+     •    The School implements a teaching workload reduction of 25% in the year following return.
+     •    We avoid giving new teaching on return wherever possible (following feedback).
+     •    The School also offers options on return to work of transitioning to part-time
+          and/or with generous flexible working arrangements                      for at least two years
+          after the return date.
+     •    On return, academics have enhanced access to research budget, to help support them re-
+          engage with research.
+ We are proactive in supporting our researchers with caring responsibilities, and, as standard,
+ approve research budget requests for extra funding (for example, to enable partners to
+ accompany staff/students during research travel, for support and wellbeing).
+ Lastly, our REF Working Group, which oversaw all aspects of our REF2021 submission, has
+ adhered fully to the University’s REF Code of Practice. The group includes staff from South
+ America, continental Europe, and Asia, with male and female members across a spread of ages.
+ All Working Group members took REF-specific EDI and unconscious bias training. Our REF
+ Coordinator (Jordanous) was until recently the School’s EDI representative. A member of the
+ University REF team attended all Working Group meetings to ensure Code of Practice
+ compliance.
+ 3. Income, infrastructure and facilities
+ 3.1 Income
+ In the REF2021 period, the School’s total research income has increased significantly, from
+ £936k average per annum in the first three years of the REF period to an average of £1.44 million
+ in the last three years. As part of our strategic approach to generating income, we devote
+ considerable attention to nurturing and developing high-quality grant proposals, particularly
+ targeting UKRI/R1 funding (which increased from 29% to 49% of our total funding during the
+ REF2021 period).
+ As described in Section 4, we seek to build and maintain long-term collaborations and strategic
+ partnerships (e.g. Oracle, Erlang Solutions, NVIDIA). We have increased our success rates with
+ KTPs, with three partnerships in the last two years, and we secured eight EIRA grants (see
+                                                                                                       10
+
+
+Unit-level environment template (REF5b)
+ REF5a) to help build relationships with new partners. The School’s innovation funding has also
+ increased considerably, from an average of £38k total awards achieved per annum in the first
+ three years of the REF2021 period to an average of £525k total awards per annum in the last
+ three years.
+ We achieved income from several significant grants during the REF period, including:
+      •   European Commission:
+              o H2020: Collaborative and Confidential Information Sharing (£450k), NeCS,
+                  (£389k), RAMSES (£306k), BehAPI (£44k),
+              o FP7: NeCS (£389k), Fed4FIRE (£113k);
+      •   EPSRC, including Trustworthy Refactoring (£730k), STARDUST (£555k), Quantum
+          Communications Hub (£445k), PRiVELT (£400k);
+      •   RAEng, including Batty’s Fellowship (£421k);
+      •   GCHQ / National Cyber Security Centre (NCSC), including a studentship (£112k) and six
+          VeTSS projects (average £75k each);
+      •   Innovate UK, including three KTPs, average £205k);
+      •   Public/private sector, including Oracle (£314k, £298k), Huawei (£227k, £54k), Road Safety
+          Trust (£195k), and BT (£90k, £45k, £35k).
+ Other funders included: Google, Leverhulme Trust, Royal Society, ACM, BCS, HEFCE, MoD, and
+ Dstl.
+ The award figures above, and throughout this statement, refer specifically to the money awarded
+ to Computing at Kent. However, given the School’s strong track record in securing joint grants
+ through collaborative and interdisciplinary work (see Section 4), many of the above are larger
+ awards overall. For example, we co-lead STARDUST, which has eight partners and a total award
+ value of £1.82 million. Similarly, the Kent-led PRiVELT project has 11 partners and a total award
+ value of £1.14 million. Our grants also often include international or interdisciplinary collaboration
+ (see Section 4.1).
+ 3.2 Operational and scholarly support for research and impact
+ Our strategic approach to generating income includes encouraging and rewarding high-quality
+ grant writing. We run annual Grant-Writing Workshops that are open to all research staff and
+ research students. These workshops guide researchers to take an initial research idea through to
+ full draft. We have also run annual research-focused away days on research quality and grant
+ writing. We reward the submission of grant proposals with WAM hours allocation (20 hours for
+ small grants (under £100k), 60 hours for medium grants (£100k-£1 million), and 120 hours for
+ large grants (£1 million and above). Our research budget covers requests for expenses incurred
+ in building research consortia. The enhanced access to research budgets and extra time provided
+ to those returning from leave (see Section 2.3) supports researchers; for example, to write
+ research proposals. Further examples of the extensive ways in which we support, promote, and
+ reward research are provided in Section 2.1.
+ The School is responsive to national and international research priorities, as described in Section
+ 4.2. For example, through our alignment with the Government’s national cyber security strategy,
+ we have attracted over £6 million in cyber security funding during the REF2021 period. The School
+ is at the forefront of a major strategic investment by the University into the new Institute of Cyber
+ Security for Society (iCSS), which concentrates on research with many other disciplines, including
+ Engineering, Sociology, Law, Business, Politics, and Psychology. (University investments include
+ two Computing lectureships, several PhD studentships annually and £196k worth dedicated space
+ allocation.)
+ Our joining the new Division of Computing, Engineering and Mathematical Sciences will also be
+ beneficial for future income, increased research support and the opportunity to scale up our
+                                                                                                      11
+
+
+Unit-level environment template (REF5b)
+ research. It will reduce administrative loads within the School, freeing up more time for research.
+ We will also have access to additional specialist facilities, including a VR suite and an anechoic
+ chamber, as well as technical support in new areas (for example, robotics), provided by an 18-
+ person team.
+ 3.3 Research Facilities and Infrastructure
+ We invest generously in facilities and infrastructure for research. The School budgets £90k per
+ annum for research spend, plus £130k per annum for equipment spend. Our research budget
+ funds suitable specialised kit, and other research expenses (Section 2.1). The equipment budget
+ covers the purchase and replacement of individual machines for staff, as well as maintenance of
+ specialised computing machinery. This investment is supported by a dedicated five-person
+ technical team within the School, who provide day-to-day support and expertise, system
+ management, and general technical advice across hardware, software and systems.
+ The School provides shared filestore for projects, web services for researchers' web presence,
+ crowdsourced experiments, and hosting services for web domains (for example, greenfoot.org,
+ which we hosted until 2018). It also provides a well-used GitLab server (2k+ projects, 596 current
+ users) and a Subversion repository supporting external collaboration for Kent-based research
+ projects. There are also more specialised resources, such as clusters supporting research projects
+ including our high-performance computing cluster (17 CPU/4 GPU multi-core servers) and an in-
+ house poster printer. We provide OpenStack Cloud virtual machines and storage, managed by a
+ dedicated team. We also have access to three University HPC clusters and filestore.
+ Our staff have also successfully secured equipment via external grants; for example, GPU
+ servers (Batty, GCHQ), Internet of Things (IoT) sensors, VR equipment, and software (Arief,
+ GCHQ; Li(S), EPSRC), mobile phones (Batty, GCHQ), non-invasive nerve stimulation equipment
+ (Ramaswamy, EIRA), road safety equipment (Ramaswamy, Road Safety Trust), quantum
+ beacons (Hernandez-Castro, NCSC) Many of these grants have been with project partners,
+ allowing the equipment to contribute to knowledge exchange and impact. For example, Batty’s
+ work with the GPU servers mentioned above and NVIDIA-donated equipment led to ISO
+ standardisation contributions (Section 4.1), while Ramaswamy’s two projects above are being
+ applied by Mindspire Ltd and Road Safety Trust, respectively.
+ The School hosts a MakerSpace, known as the Shed, which has space for building and making
+ digital artefacts. In addition to providing a 3D-printing and laser-cutting hub, it specialises in the
+ rapid development of small electronic devices. It directly supports work on developing numerous
+ IoT devices by providing access to an extensive range of wireless development boards, sensors,
+ and actuators. It also provides access to a number of simulated physical environments. Budgeted
+ spending on the MakerSpace facilities and support is £8k per annum, with a support team of two
+ specialist technicians.
+ We provide significant support for lab-based experiments and other empirical work. We
+ have a dedicated experimental room with an attached observation room. Our Cyber Security lab
+ allows different types of experiments, including behavioural studies and experimental hacking of
+ IoT devices. It contains screen-based eye-trackers, one pair of eye-tracking glasses, two VR kits
+ with eye-tracking features, one eye-tracker capable of working with EEG equipment, a range of
+ IoT devices, mobile devices and other ICT equipment, purchased through University investment
+ (over £75k in 2017-18) and external funding. Additional eye-tracking equipment valued at £8k
+ provides empirical support for usability studies. We have various EEG equipment, supporting work
+ by those modelling brain function.
+ For several years, we have benefitted from state-of-the-art videoconferencing hardware. This
+ was prioritised, with the School split across two sites 30 miles apart, to enable our staff to remain
+ connected while avoiding heavy travel burdens. We invested over £10k on equipment (cameras,
+ ceiling and hand microphones) and software licences (Gotomeeting). Much has been invested in
+ making both campuses appropriately equipped for researchers based locally. (Note that staff
+                                                                                                      12
+
+
+Unit-level environment template (REF5b)
+ can access all School equipment at both campuses.) Here, the School has also benefitted from
+ institutional investment; for example, £72k for additional EEG equipment at the Medway campus,
+ and an additional £3k and space investment to set up Medway’s Intellectual Hub, a dedicated well-
+ equipped space for research experiments, research discussions, and videoconferencing.
+ Library spend during the REF2021 period increased every year from £133k (2013-14) to £228k
+ (2019-20), averaging £169,320 per annum; this has supported book purchases and periodical
+ bundles, including ACM Digital Library, IEEE/IET, Science Direct, Springer, and Wiley Blackwell.
+ The cost of several software licenses is covered for Computing researchers by the University:
+ relevant examples include Matlab, NVivo, SPSS, Jisc Online Surveys (previously BOS), EPrime,
+ Rhino, Microsoft Office, Zoom, and Vscene.
+ 4. Collaboration and contribution to the research base, economy and society
+ Our environment statement describes how we appoint staff with strong potential and support them
+ at all levels of their career. As evidence: all submitted staff receive mentions in this section.
+ 4.1 Collaboration and Interdisciplinarity
+ There is a strong interdisciplinary element to the research of many of our staff. Cross-
+ disciplinary funded projects that we have led in the REF period include:
+     •    EPSRC:
+              o PriVELT (Li(S) and Freitas, IT/Psychology/Sports, £429k);
+              o ACCEPT (Li(S), Criminology/HCI/Social Anthropology, £167k);
+              o PRoCEED (Nurse, AI/HCI/Healthcare/Financial Services, £164k);
+              o Computational         Tools    for   ECG     Connectomics      (Chennu,     Medical
+                   imaging/Healthcare, £101k);
+              o Two Discipline Hopping awards (Freitas, AI/Healthcare/Biosciences, £104k; Chu,
+                   Computing/Physics, £49k).
+     •    Other funders:
+              o Brain endurance training (Li(L), Army/RAF, £300k);
+              o Social planning (Otero, KTP, £212k);
+              o Cognitive approaches to road safety (Ramaswamy, Road Safety Trust, £195k);
+              o Ageing and genetics (Freitas, Leverhulme, £139k);
+              o Forensic facial recognition (Bowman, Innovate UK, £92k).
+ We have numerous collaborations around biosciences, e-health, psychology and neuroscience
+ (Barnes, Bowman, Chennu, Chu, Freitas, Hernandez-Castro, Li(L), Ramaswamy, Soria). Our
+ Cyber Security group collaborations include engineering, psychology, law, business and
+ management, criminology and policing, anthropology, sociology, economy, politics and
+ international relations, tourism, and journalism (Arief, Bhattacherjee, Franqueira, Kafalı, Li(S),
+ Nurse, Hernandez-Castro, Pérez-Delgado). Other cross-disciplinary research makes
+ contributions to library and information sciences (Jordanous, Li(S), Nurse), physics and
+ mathematics (Bhattacherjee, Chu, Hernandez-Castro, Pérez-Delgado, Petricek, Wang), and
+ humanities (Jordanous, Petricek).
+ Figs 1 and 2 below show the spread of cross-disciplinary classifications across our 2013-20
+ publications. We have several publications in venues in other disciplines (e.g. Biology,
+ Neuroscience, Digital Humanities), demonstrating our broader academic impact. In total, 69% of
+ our 2020 publications appear in interdisciplinary venues, according to Scopus. Our research fund
+ has covered expenses for activities building research collaborations.
+                                                                                                  13
+
+
+Unit-level environment template (REF5b)
+ In total, 40% of submitted staff (14 out of 37) belong to more than one research group. Our cross-
+ group collaboration within the School includes numerous joint grants, including:
+     •    Li(S) (CyberSec) and Freitas (CompInt), £429k, EPSRC;
+     •    King (PLAS) and Dimitrakos (CyberSec), £389k, H2020;
+     •    Otero (CompInt) and Migliavacca (DataSci), £217k, Innovate UK;
+     •    Ramaswamy (DataSci) and Bowman (CompInt), £198k, Road Safety Trust.
+    Fig. 1: Percentage of publications in interdisciplinary venues, rising from 43% (2013) to 69%
+                                                  (2020).
+          Fig. 2: Cross-disciplinary classifications of our outputs during the REF2021 period.
+                                                                                                  14
+
+
+Unit-level environment template (REF5b)
+ Section 3.1 gives examples of our funded international research collaborations. Our funded
+ projects span several countries, including Argentina (e.g. Bocchi), Belgium (e.g. Chennu), Brazil
+ (e.g. Freitas), Denmark (e.g. Bocchi), Germany (e.g. King), Italy (e.g. Dimitrakos), Portugal (e.g.
+ de Lemos), Spain (e.g. Hernandez-Castro), and the US (e.g. Orchard).
+ Overall, 51% of our publications in the REF2021 period have international co-authors (Scopus
+ data). Our publication collaborations stretch across 51 countries worldwide, including co-
+ authors from the Americas (seven countries), Asia (18), Africa (two), Australia (two), and Europe
+ (22).
+ Research activity with partners in both the public and private sectors has increased notably
+ over this REF period, particularly in the last two years. We have increased success rates with
+ Innovate UK, securing three KTPs in the past two years. Eight successful EIRA grants helped us
+ build relationships with new partners. Project partners in the REF2021 period include Google,
+ Huawei, Jane Street Capital, NVIDIA, Facebook, ISO, National Research Foundation Singapore,
+ Erlang, Hong Kong IO, BT, National Crime Agency, McAfee Labs, Expedia, Oracle, and local
+ partners Portafina and HR GO. Scopus data shows 13 patents citing our publications during the
+ REF period.
+ Our vibrant research culture attracts leading researchers who want to work with us. We have a
+ regular stream of research visitors from all over the world, who see Kent as a productive
+ environment in which to invest months (even years) of their research time. For example, Otero
+ and Freitas have hosted several visitors from Brazil, from Readers to PhD students. Wang hosted
+ an EC Marie Curie Fellow, Professor Chua. Arief hosts a long-term honorary researcher from
+ Turkey, while Hernandez-Castro has hosted visitors from the UK and Spain, and Li(S) from
+ Turkey, China, and France. Professor Eliot Moss (Massachusetts) visited our PLAS group for
+ several weeks each year. Other honorary research appointments from institutions in the US,
+ Japan, and India, as well as independent researchers, illustrate the welcoming and productive
+ environment that appeals to visitors. We have also hosted many short-term visitors, particularly to
+ give research talks (an enriching way of making our research seminars diverse and wide-ranging).
+ As well as hosting visitors, we also retain good links with other institutions through formal external
+ visiting statuses at Cambridge (Batty, Chennu, Kell), Cranfield (Nurse), Oxford (Nurse),
+ Newcastle (Arief), Surrey (Li(S)), UCL (Bowman), Westminster (Soria), and internationally (China:
+ Li(L), Wang; Malaysia: Ramaswamy; Belgium: Marr), and the Alan Turing Institute (Chennu,
+ Petricek). Bowman holds a 50% appointment In Psychology at the University of Birmingham.
+ During sabbaticals supported by Kent, our research has been hosted at institutions in Australia
+ and Germany (Chu), China (Wang), Italy, Spain, and Greece (Hernandez-Castro), Portugal and
+ Italy (De Lemos), and the UK (Bowman, UCL), as well as industry partners (Owens and Grigore,
+ Facebook).
+ 4.2 Responsiveness to National and International Research Priorities
+ Our research groups align to crucial areas of computer science attracting heavy investment and/or
+ targeted growth.
+ Our School’s responsiveness to the Government’s national cyber security strategy and related
+ international priorities (for instance, in Singapore, Israel, and the US) is demonstrated by our
+ leading role in securing recognition for the University by NCSC/GCHQ and EPSRC as an ACE-
+ CSR (2015-17 and 2018-22). This is also demonstrated by our success in attracting over £6 million
+ in cyber security funding in the REF2021 period.
+ Our PLAS and Cyber Security groups have significant involvement with four national cyber
+ security research institutes funded by NCSC/EPSRC:
+                                                                                                     15
+
+
+Unit-level environment template (REF5b)
+     •   Research Institute for Sociotechnical Cyber Security (RISCS): Nurse is one of nine RISCS
+         Principal Investigators; Li(S) serves on RISCS’ Scientific Board.
+     •   Research Institute in Verified Trustworthy Software Systems (VeTSS) has funded six Kent
+         Computing projects in the REF2021 period, for Batty, Kell, King, former staff Owens (two;
+         both while employed at Kent), and Batty/Grigore, totalling £441k.
+     •   Evidencing our sustained servicing of these priorities: VeTSS succeeds Research Institute
+         in Automated Program Analysis and Verification (RIAPAV, 2014-17), also funded through
+         UK’s national cyber security programme. Kent was one of six RIAPAV partners (King as
+         PI) and collaborator for two of the six RIAPAV-funded projects (King, £33k, £30k).
+     •   Research Institute in Trustworthy Interconnected Cyber-physical Systems (RITICS): Kent
+         is one of thirteen partner institutions, led by Li(S).
+     •   Research Institute in Secure Hardware and Embedded Systems (RISE) granted
+         Hernandez-Castro £36k in equipment funding.
+ The Industrial Strategy Challenge Fund’s (ISCF) Digital Security by Design EPSRC theme
+ funds Batty/Kell’s £481k project building on the team’s C/C++ ISO contributions. Further funding
+ from Innovate UK saw us secure seven awards in the past two years (totalling £812k).
+ Looking to future contributions to national/international priorities, ISCF continues to invest in
+ several relevant areas of AI and data economy in areas relevant to our research, particularly
+ AI/data science in security, quantum science, and the creative sector. The Industrial Strategy also
+ poses four Grand Challenges, two of which we address:
+     •   Ageing Society: our cross-disciplinary work, particularly by Freitas, has directly impacted
+         on research of the genetics of ageing.
+     •   Artificial Intelligence and Data: we have invested in our CompInt and DataSci research
+         groups and have recruited Chennu, Grzes, Jordanous, and Soria in the REF2021 period.
+ An international priority is tackling COVID-19. In June 2020 Li(L) secured £58k charity funding (a
+ 5% share of £1.3 million including London NHS partners and Chinese academic/medical partners)
+ to use AI to study rheumatoid arthritis medication for improving COVID-19 outcomes. Our
+ MakerSpace has also been heavily involved in manufacturing PPE for local keyworkers.
+ 4.3 Contributions to, and Recognition by, the Research Base
+ Citations. The School’s research is well-cited: almost 50% of our submitted outputs (38 out of 80)
+ are in the top 15% in terms of field-weighted citations, with two-thirds (52) in the top quartile
+ according to Clarivate Analytics data. Some of our submitted outputs solve long-standing
+ problems in their field (e.g. Grigore, Kahrs, Lange, Marr, Orchard).
+ Awards. The research achievements of our staff have been recognised in awards and prizes.
+ PhD thesis awards were received during the REF2021 period by Batty (the prestigious ACM
+ SIGPLAN John C. Reynolds Doctoral Dissertation Award and the CPHC/BCS Distinguished
+ Dissertation Award, both 2015), and by Freitas’s external PhD student Coelho Barros. Nurse holds
+ an EPSRC Rising Star in Research award. In 2018, Fincher received a Suffrage Science Award,
+ celebrating the scientific achievements and influence of women in science. In 2019, while still a
+ member of staff in the School, Thompson was awarded Doctor and Professor honoris causa by
+ Eötvös Loránd University.
+ Twelve of our staff and their students hold best paper awards, including Petricek (ACM PLDI
+ Distinguished Paper, 2018, ACM SIGPLAN Research Highlight, 2018), Otero (GECCO 2016), De
+ Lemos (ACM QoSA 2014) and Li(S) (International Conference on Human Aspects of Information
+ Security, Privacy and Trust, 2017). Migliavacca was awarded an ACM Test of Time award at ACM
+ DEBS 2019; and Jordanous received a Most Influential Paper award at ICCC 2018. Li(L) holds a
+ Showcase Your Innovation British Council award (2018).
+                                                                                                   16
+
+
+Unit-level environment template (REF5b)
+ Fellowships. Further recognition of our staff has come through fellowships. Our current staff base
+ includes two BCS Fellows (Li(S), Wang) and two Alan Turing Institute research fellows (Chennu,
+ Petricek). Freitas is an elected Senior Member of AAAI. Batty holds an RAEng Research
+ Fellowship. Petricek held an ACM History Fellowship. Dimitrakos held an NICT Distinguished
+ Visiting Researcher fellowship in industry. Jones (retired in 2020) is a BCS Fellow and Royal
+ Society of Arts Fellow.
+ Leadership roles. Several staff have chair/coordinator status on national or international bodies.
+ Wang is Chair of the IEEE UK and Ireland Computer Society Chapter (12,000 members), and Li(L)
+ is Secretary for this IEEE Chapter. Fincher is Vice-Chair for the UK Chapter of ACM SIGCSE, as
+ well as current Chair and previous Vice-Chair of CPHC. King is Director and Treasurer of the
+ Association for Logic Programming. We have also contributed to the foundation of new bodies.
+ Dimitrakos is a founding member of the IFIP Trust Management WG11.11. Li(S) is Vice-President
+ and Founding Co-Director of the Association of British Chinese Professors.
+ Conference organisation. During the REF2021 period, our staff have contributed to the
+ organisation of almost 100 research events including conferences, workshops, and symposia.
+ These include: ICLP (King, 2016); IEEE CEC (Otero, 2019); IEEE VL/HCC (Rodgers, 2016-17);
+ and ACM SIGCSE (Utting, 2018-20). We have hosted various research events at Kent,
+ including: PPDP 2014 (King, Chitil); IEEE Young Profession Congress, 2015 (Li(L)); AISB 2015
+ Convention (Jordanous); ECSA 2017 (De Lemos); ARES 2019 (Arief, Hernandez-Castro); ICER
+ 2019 (Fincher); and Pint of Science, 2020 (Nurse). Our staff have also served on conference or
+ community steering committees (Batty, Chitil, De Lemos, Dimitrakis, Grigore, Jordanous, Kell,
+ King, Li(S), Marr, Petricek, Rodgers).
+ Editorial boards. Staff on editorial boards include: Dimitrakos, Editor-in-Chief of the Journal of
+ Trust Management; and Fincher, Editor of Computer Science Education for 16 years until 2017.
+ In the REF2021 period, our staff also contributed as special issue editors (Bocchi, Chu, De Lemos,
+ Franqueira, Kafalı, King, Li(L), Li(S), Marr, Orchard, Otero, Petricek, Rodgers). Additionally,
+ Bowman, De Lemos, Dimitrakos, Franqueira, Freitas, Jordanous, King, Li(L), Li(S), Marr, Nurse,
+ Otero, Ramaswamy, and Wang all serve on journal editorial boards or undertake regular associate
+ editorial duties.
+ Grant-awarding panels. Staff have served on grant-awarding panels both nationally (EPSRC:
+ Jordanous; British Council: Ramaswamy) and internationally (NSERC (Canada): Hernandez-
+ Castro; NRC (Norway): Chu; Chinese government studentships: Li(S)). Eight submitted staff are
+ members of the EPSRC Peer Review College: De Lemos, Freitas, Li(S), Ramaswamy, Rodgers,
+ and Wang (plus four emeritus professors) as full members, and Hernandez-Castro and Jordanous
+ (and one honorary staff member) as associate members.
+ Many of our staff also review grant proposals for national funders (EPSRC, MRC, STFC,
+ BBSRC, Leverhulme, RAEng, Newton Fund, Nuffield, Alan Turing Institute) and international
+ funders (H2020, FP7, and research councils in Canada, USA, Israel, Austria, Belgium, Czech
+ Republic, France, Germany, The Netherlands, Switzerland).
+ Advisory roles. Our staff hold advisor statuses across a variety of bodies including:
+      •  Standards
+             o ISO: C/C++ language (Batty, Kell);
+             o ISO/IEC MPEG RVC (Reconfigurable Video Coding) standard (Li(S));
+             o QAA: Co-Chair Computing Subject Benchmark Statement (Fincher);
+             o W3C Verifiable Credentials (Chadwick, retired 2020);
+             o NFV SEC (Dimitrakos);
+      •  EPRSC and TSB scoping workshops (Bowman);
+      •  UKRI-funded research networks (Jordanous, Li(S), Nurse;
+                                                                                                  17
+
+
+Unit-level environment template (REF5b)
+     •   Working groups or expert advisory groups for ENISA (Castro, Dimitrakos), IFIP
+         (Dimitrakos), Huawei (Cloud) (Dimitrakos), and West Midlands Police (Bowman).
+ Staff on advisory boards for large grants or research institutions worldwide include Dimitrakos,
+ Hernandez-Castro, Li(L), Li(S), Nurse, and Wang.
+ Keynote lectures. Many of our staff have delivered keynotes across the world during the
+ REF2021 period, at academic, industry and public sector events, including:
+     •   IEEE European Modelling Symposium (EMS), Pisa, 2016 (Wang, keynote);
+     •   6th International Workshop on Confluence, Oxford, 2017 (Kahrs, keynote);
+     •   Credit Suisse’s AI & Robotic Expo, London, 2018 (Jordanous, keynote);
+     •   16th Annual Conference on Privacy, Security and Trust, Belfast, 2018 (Li(S), keynote);
+     •   London Grace Hopper Colloquium, May 2020 (Fincher, invited talk).
+ PhD supervision of external students. Formally-recognised supervision of external doctoral
+ students is another way in which we shape research nationally and internationally. Examples
+ include: Batty, Bowman, Dimitrakos, Freitas, Hernandez-Castro, Jordanous, Li(S), Rodgers, Marr,
+ Orchard, Otero, and Soria, in the UK, Europe (Austria, Belgium, France, Germany, Italy,
+ Netherlands, Spain), and worldwide (Brazil, China, Israel). Dimitrakos has acted as an Industrial
+ Supervisor to eight students in the UK and Europe. Li(S) hosts a UK–Lille research studentship
+ and Batty hosts interns from the École Polytechnique, France.
+ 4.4 Wider Contributions to the Economy and Society
+ The School has a robust public and media engagement agenda that extends beyond traditional
+ academic publication routes to support wider public dissemination of our research (in line with
+ Section 1.2). In the REF2021 period, such activities have included invited talks to public and
+ governmental organisations: Singapore Ministry of Defence (King); UK Cabinet Office, NATO
+ CyCON, Singapore MoD (Nurse); and the Indian Government (Ramaswamy). Chennu and Nurse
+ presented at New Scientist Live. Chennu, Jordanous, and Nurse delivered Pint of Science talks.
+ Other activities have seen our staff featured in national and international newspapers: Telegraph
+ (Ramaswamy), Independent (Chennu, Ramaswamy), Daily Mirror (Chennu), Newsweek, Japan
+ (Nurse), La Repubblica, Italy (Jordanous), Wall Street Journal (Nurse), as well as Wired (Chennu,
+ Nurse, Ramaswamy), New Scientist (Chennu), BBC TV and Radio (Chennu, Migliavacca,
+ Ramaswamy), and Sky Arts (Jordanous).
+ Our impact case studies demonstrate the wide-ranging impact of our work on the software
+ industry and on the use of computing systems in a range of industrial, healthcare, and social
+ sectors. Other notable examples of how our research contributes to the economy and society
+ include:
+     •   The Cyber Security group identified vulnerabilities in hardware and software (which have
+         been responsibly disclosed and suitably patched), and contributed to the standardisation
+         effort in random number generators, working closely with partners such as GCHQ. Arief’s
+         research changed the international standard for handling electronic transactions. During
+         the COVID-19 lockdown, the group disseminated information prominently on home IT
+         security.
+     •   The PLAS group improved the treatment of concurrent systems in graphics cards, verified
+         the safety of code used in nuclear power plants, and worked closely with external partners
+         such as Facebook, NVIDIA, and GCHQ. The MET office deployed Orchard’s CAMFORT
+         project for meteorological software error detection. Members sit on two ISO standards
+         groups for C and C++.
+                                                                                                  18
+
+
+Unit-level environment template (REF5b)
+      •   The Computational Intelligence group developed novel ML techniques that uncovered new
+          biomarkers for ageing (Freitas), leading to two consultancies to East Kent Hospital
+          University NHS Foundation Trust. Bowman harnessed brainwave responses for facial
+          recognition, with Visionmetric Ltd. Jordanous’s creativity model is used to structure
+          coaching on professional creativity, in brand design (Folletto) and litigation (Ken Broda-
+          Bahm, Holland & Hart LLC).
+      •   The Data Science group engaged with external partners to improve vehicle brake light
+          design (Ramaswamy, Road Safety Trust) and healthcare outcomes (Soria, Nottingham
+          City University hospitals, which could lead to accelerated prognosis of breast cancer). It
+          also received funding from Dstl, Google, and Huawei, and demonstrated significant public
+          engagement activities (Chennu, Ramaswamy, see above).
+      •   In our former Computing Education group, Utting’s BlackBox project facilitated large-scale
+          data gathering/analysis on learner patterns in programming.
+ The range and significance of our research impact has been underpinned by our strong record of
+ interdisciplinarity and industrial collaboration, and our responsiveness to national and international
+ priorities. It reflects the high standing of our staff, our ongoing investment in resources and
+ infrastructure, and our commitment to nurturing all our researchers as leaders in their research
+ fields.
+                                                                                                     19

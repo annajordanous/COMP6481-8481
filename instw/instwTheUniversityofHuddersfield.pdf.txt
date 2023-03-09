@@ -1,0 +1,519 @@
+Institutional level environment template (REF5a)
+ Institution: University of Huddersfield
+ 1. Context and mission
+ The University of Huddersfield (UoH) was designated university status in 1992. It is a member of
+ UUK and Yorkshire Universities and a signatory to the UPP Civic University Agreement. UoH is
+ a major employer in the Leeds City Region and considered an anchor institution. Regional
+ challenges impact on the establishment of private and public sector collaborative research
+ initiatives, where GVA per capita falls 10-15% below the national average (excluding London)
+ and limits the extent to which organisations are prepared to commit.
+ The University’s seven academic schools undertake a broad range of research with particular
+ emphasis on STEM, humanities, social sciences, business, art and design. Over the REF
+ period, total research spend p/a has more than trebled, reaching £17M in the FY19/20. We have
+ a number of well-established REF and RAE assessed research areas, whilst others, including
+ drama, law, architecture, sports science and psychology, will make their first submission in 2021.
+ Schools are supported by seven support services overseen by the Vice-Chancellor’s Office. 43%
+ of our 1922 FTE employed staff are academics, 15% of which are professorial level. All
+ academics are expected to be research active and this is reflected in job descriptions and
+ workload allocations. By 2025, the end of the current strategy period, all staff are expected to
+ publish research of at least 2* quality, building on the previous 2013-2018 strategy, requiring
+ staff to publish at, or better than, national level. All academic staff, except a very small number
+ on practitioner contracts, are returned to HESA categories of Teaching and Research or
+ Research Only. No academic staff are on teaching only contracts.
+ In 2019/20, overall student numbers (UG, PGT and PGR) were 14,857 (FTE) of which 16% were
+ international and 5% postgraduate researchers. Total turnover in 2019/20 was ~£174M of which
+ £18.8M was combined Research (£16.9M) and Enterprise (£1.9M) income.
+ Historically, focus has been on teaching quality, with UoH rated Gold in the 2017 TEF, and
+ presented with the Advance HE Global Teaching Excellence Award. Our 2008 Strategy shift
+ towards research, resulted in an unprecedented increase in research power in the 2014 REF, with
+ 262 academic staff submitted, representing a 143% increase on 2008 - the third strongest
+ performance in the UK.
+ REF2021 encompasses two institutional Strategy Map periods. The 2013-18 research aims
+ were:
+         To strengthen and enhance our research capability
+         To contribute to economic, social and cultural development
+         To enrich teaching through research and innovation excellence
+ Performance targets included: a four-fold increase in research grant and contract income;
+ doubling of high-quality outputs and PGR completions, and increasing the professoriate by
+ 40FTE. Our mature research disciplines in engineering, music, humanities and social sciences
+ were major contributors, achieving recognition, e.g. through two Queen’s Anniversary prizes in
+ music and rail.
+                                                                                                 Page 1
+
+
+Institutional level environment template (REF5a)
+ The University’s 2025 Vision is to be ‘an inspiring, innovative university of international renown’,
+ by becoming research intensive and recognised in world top 300 rankings. Our Institutional
+ Strategy is to increase research activity through international and end user partnerships and
+ developing the necessary supporting environment for academic staff.
+ 2. Strategy
+ University Research Strategy
+ The University Research Strategy sits beneath the overarching institutional Strategy Map. Our
+ ambition is to deliver excellent research and impact that contributes to important advances in
+ human knowledge and improvements to the global quality of life. The University Research
+ Committee, chaired by the PVC R&E reporting to Senate, is responsible for its oversight and
+ delivery.
+ Our Research Strategy embraces interdisciplinary societal and economic grand challenges
+ organised into thematic Areas of Strategic Research Importance (ASRIs). These are defined as
+ themes where we evidentially have expertise, critical mass and assets to develop new and
+ emerging areas of research (e.g. engineering systems, data science, materials, health and
+ wellbeing, productivity, security, sustainable environment and creativity). The ASRI portfolio is
+ overseen by the University Research Committee and informs internal resource allocation
+ (University Research Fund, URF) and institutional support. Over the REF period, the University
+ has invested ~£7.9M URF to support delivery of the Research Strategy.
+ The 2013-18 research aims described earlier were all achieved. By 2025, the University aims to
+ accelerate this research intensity by increasing its number of international research partnerships,
+ the volume and quality of research outputs, citations and research income, and strengthening
+ relationships with industry and end users of research. To facilitate this, the University has a
+ delivery plan to create a supportive research environment, aspects of which are detailed below:
+ Research Integrity
+ The University is committed to the principles of the Concordat to Support Research Integrity and
+ since 2013 has produced annual integrity statements demonstrating institutional compliance with
+ principles. The institutional Code of Practice for Research, research ethics and integrity policy
+ and annual statements are publicly available on the University website. The annual narrative
+ statement is approved by University Research Committee, reporting to Senate and University
+ Council. The current action plan responds directly to the revised 2019 Concordat. Our Code of
+ Practice for Research is adapted from the UK Research Integrity Office’s Code of Practice for
+ Research and supports researchers in conducting research of the highest quality. The Code
+ provides general principles and standards for good practice in research, including excellence,
+ honesty, integrity, co-operation, accountability, safety, training and skills.
+ All academic schools have designated Research Integrity Champions and Research Ethics and
+ Integrity Committees operating within the University Research Integrity framework. School
+ research ethics, integrity activities and associated action plans are reviewed annually by URC.
+ Governance web pages provide key information and access to training for staff and students.
+ The University recognises the importance of training to raise awareness and enable cross-UoA
+                                                                                                 Page 2
+
+
+Institutional level environment template (REF5a)
+ discussion. All UoAs and Central Service Staff have attended 1-day workshops and on-line
+ research integrity Epigeum training packages are available to all staff and students.
+ The University of Huddersfield Press is committed to promoting research and publication
+ integrity, as defined in the COPE Code of Practice. The Press ensures that all research outputs
+ are thoroughly reviewed by expert reviewers. All of our journals adhere to the COPE guidelines
+ for best practice.
+ Open Research
+ The University is committed to ensuring publicly funded research is openly accessible,
+ transparent, collaborative and efficient. We have invested in access to systems to facilitate Open
+ Research, including but not limited to the Elsevier PURE management information system and a
+ University Data Repository and content management system (Box). All staff are encouraged to
+ adopt a unique ORCiD identifier to facilitate sharing and establish transparent and trustworthy
+ connections between researchers. Specific Open Research activities are summarised below.
+ Open Access (OA) is an institutional priority as set out in the OA Policy. During the REF period,
+ an internal OA audit was commissioned to review current OA processes and procedures. As a
+ consequence, a central OA Manager was appointed to improve information and assist in the
+ delivery of mandatory central training for staff and students and to support the wider open
+ research strategy. The Elsevier PURE management information system became the single point
+ of truth for all research outputs and for OA compliance checks. UoH participates in the annual
+ Open Access Week to raise the profile and importance of OA to staff and students. The UoH
+ Press, established in 2007, supports emerging researchers and helps foster research
+ communities by providing a platform for developing academic areas. OA publishing is actively
+ promoted by UoH Press e.g. Music Beyond Airports, a collection of essays developed from
+ papers given at the 2019 Ambient@40 International Conference, has received over 12591
+ downloads and 586 eBook views as a result of our utilisation of standardised metadata,
+ international indexing platforms and a tailored promotional campaign.
+ UoH supports the Concordat’s principles on Open Research Data and broadening opportunities
+ for high-quality research findings, to be widely disseminated and freely available. The UoH
+ Research Data Management Policy outlines the expectations for fulfilling our commitment to the
+ Concordat, including requirements for data curation. Guidance and advice for researchers on
+ managing the open access of data, including issues arising from ethics considerations and IP
+ rights, is available to staff. A dedicated RDM officer is employed to assist academic staff in
+ making data open and accessible. To date, resources have been focused on externally funded
+ research projects providing RDM support for grant holders, including data storage and
+ publication of DOIs for datasets. Data sets , including the AHRC project ‘Mixing it - Diversity in
+ Second World War Britain’ and EUICIT Open Access transcripts, are externally accessible via
+ the PURE portal.
+ Interdisciplinary Research
+ The University recognises the importance of interdisciplinary research from both an innovation
+ perspective and individual researcher career development. A number of centrally funded
+ initiatives have been implemented to support this, e.g. the University Research Fund (URF) has
+                                                                                                Page 3
+
+
+Institutional level environment template (REF5a)
+ supported ASRI development and the establishment of interdisciplinary research institutes such
+ as the Secure Societies, Materials and Skin Integrity & Infection Prevention institutes. The URF
+ has also supported interdisciplinary research projects, identified through challenge ‘sandpits’,
+ that focus on the Global Grand Challenges and UK Industry Strategy Challenges – all seven
+ academic schools have proactively secured funding for challenge-based projects. Over the REF
+ period we have invested ~£3.6M of URF to support interdisciplinary research. Specific initiatives
+ include PhD stipends for projects with cross-school supervisory teams. Our EPSRC
+ Multidisciplinary Research Equipment grant (EP/T02433X/1) and EPSRC DTP awards
+ (EP/N50967X/1, EP/R513234/1) have been strategically invested into multidisciplinary
+ materials related research across three academic schools - Computing & Engineering, Applied
+ Sciences and Art, Design & Architecture.
+ Collaboration
+ The University Strategy Map addresses the importance of research collaboration, with specific
+ aims to increase partnerships and collaborations with end users of research and international
+ partners. By 2025, our target is for 15% of research outputs to be generated in collaboration with
+ end users and 60% with international collaborators - current achievement is 5.6% and 45.5%
+ respectively. To facilitate collaborative relationships, URF funding (£1.4M) has been invested in
+ ECR and academic staff sabbaticals, exchanges and international conference attendance. Our
+ QR GCRF funding (£532k) has supported partnerships with Universities and end-users in ODA
+ countries and research has been undertaken in countries including Ethiopia, Indonesia, Uganda
+ and Jamaica. Our collaborative ODA research was awarded a Newton Prize (2019) and over the
+ REF period we have secured 37 EU grants with 349 international collaborators.
+ The University has strong national and regional collaborations and is an active partner in
+ Yorkshire Universities (YU). As YU partners we have participated in Science and Innovation
+ Audits for Medtech and more recently rail. HEIF CCF funding (£5M) was secured for the
+ Translate and GrowMedtech schemes and 4 of our academic schools have secured funding. A
+ Medtech Leadership Board has been established and MoU signed with partners across the
+ region and UoH is an active collaborator and partner. The University has also collaborated in two
+ Strength in Places applications (Medtech and advanced manufacturing) with HEI partners and
+ end-users.
+ Delivering Impact
+ The University’s Research Strategy commits to delivering excellent research with impact. This
+ commitment is recognised in academic promotion criteria, which evidences the importance of
+ enterprise, impact and public engagement. Our aim is to conduct research that delivers direct
+ economic and societal benefits to the communities we support, and we are committed to the
+ principles of the Concordat for Public Engagement with Research. UoH is a signatory of the UPP
+ Civic University Agreement to drive regional and local impact and in 2019 conducted an
+ institutional Joseph Rowntree impact assessment and a UNIAC Public Engagement Audit to
+ inform development of our Public Impact and Engagement strategy. Research Strategy impact
+ aims are:
+      To increase our economic impact by becoming a focus for productivity improvement,
+          impact and enterprise regionally, nationally and internationally;
+      To enhance our societal impact as an anchor and civic university to engage with key
+          communities and enhance quality of life, effectiveness of public policy and services and
+          the well-being of individuals.
+                                                                                               Page 4
+
+
+Institutional level environment template (REF5a)
+        To develop impact tracking and evaluation methodologies which can be used to monitor
+         long term economic and societal impacts of our research.
+        To embed responsible innovation approaches in our research practice from project
+         design and execution to delivery, dissemination and ongoing impact monitoring.
+        To secure increased external funding for research impact delivery.
+ Section 3 outlines our commitment to supporting and enabling researchers to deliver impact
+ from their research.
+ 3. People
+ General Strategy and Profile
+ On 31st July 2020, total Category A staff numbers were 821.58FTE. Of which, 552.13FTE were
+ SRR or IR (a 67.2% staff submission across 18 Units of Assessment); more than double the
+ staff submitted to REF2014 (233.7FTE). The tables below show staff percentages by key
+ indicators:
+   Key Staff Indicator        Percentage of total FTE        Percentage of submitted FTE
+   Permanent                          91.5%                               92.4%
+   Fixed-term                         8.5%                                 7.6%
+   Atypical contract                   0%                                   0%
+   ECR                                4.1%                                 5.2%
+   Disability Indicator       Percentage of total FTE        Percentage of submitted FTE
+   No known disability                89.1%                               89.4%
+   Disability declared                4.6%                                 3.4%
+   Unknown                            6.4%                                 7.1%
+   Gender Indicator           Percentage of total FTE        Percentage of submitted FTE
+   Male                               55.6%                               62.9%
+   Female                             44.4%                               37.0%
+   Other                               0%                                   0%
+   Ethnicity Indicator        Percentage of total FTE        Percentage of submitted FTE
+   White                              62.9%                               55.8%
+   Black                              2.3%                                 2.2%
+   Chinese                            6.1%                                 7.5%
+   Asian                              7.7%                                 8.6%
+   Other/mixed                        17.7%                               22.3%
+   Unknown                            3.3%                                 3.7%
+ Our average institutional mean gender pay gap is 7.22% with a median of 0%.
+ Staff greater than or equal to 0.5FTE are expected to hold a PhD and be research active and are
+ allocated time to conduct research (20% minimum). Currently, 77% of staff have a PhD with the
+ remainder studying or exempt. Academic staff are expected to publish 2* quality research by
+ 2025 and this is mirrored in the REF Code of Practice for staff selection where SRR staff must
+                                                                                            Page 5
+
+
+Institutional level environment template (REF5a)
+ hold a doctoral degree, be undertaking high-quality research of an international standard, and be
+ a member of a University Research Centre or Institute.
+ Staff Development and Support
+ The University received the HR Excellence in Research award in 2011 and has undertaken its 8-
+ year review. Biannual reviews evaluate our progress against the Concordat to Support
+ Researcher Career Development and the current Action Plan is overseen by the University
+ Research Careers Oversight Group – notable commitments and actions include:
+           Commitment                                        Actions
+  Development of merit-           New merit-based matrix promotion system implemented
+  based recruitment, reward,       in 2020, recognising and rewarding research, teaching,
+                                   enterprise, impact and public engagement
+  recognition and promotion
+                                  San Francisco Declaration on Research Assessment
+  criteria                         signed in 2019 and merit-based principles adopted in
+                                   recruitment and promotion
+  Support mechanisms for          Staff have annual research appraisal and development
+  career development of            plans.
+  researchers through             Research mentoring scheme has been implemented.
+                                  Central training mapped against Vitae Researcher
+  mentoring, training and          Development Framework (RDF).
+  peer networks                   Networks for staff PGRs and research only staff are
+                                   planned.
+  Professional development        A CMI Research Leader Development programme
+  of staff                         established to embed leadership-knowledge, skills and
+                                   behaviours. 152 academic staff have enrolled and 75
+                                   have Chartered Management status.
+                                  Sabbatical Policy supported by schools and central
+                                   funding.
+  Flexible working and well-      University Flexible Working Policy and Procedure to
+  being                            support personal working needs. Parental, Adoption and
+                                   Dependant’s Leave and Sickness Absence policies to
+                                   support staff with caring responsibilities and health
+                                   issues.
+                                  Specialist Occupational Health team supports staff
+                                   experiencing ill health - includes our Mental Health First
+                                   Aid network and DSE provision.
+                                  UoH is accredited by the Workplace Wellbeing Charter
+                                   and Silvercloud resources are available to support
+                                   wellbeing of staff.
+ External surveys (e.g. CROS, PIRLS, and CEDARS), monitor staff satisfaction and inform the
+ HR Excellence Action Plan targets e.g. 2019 CROS scores relating to recognition and value
+ average 48%, an increase on 2017 (33%) and above national average. Similarly, for induction,
+ CROS scores have improved from 54% in 2017 to 73% in 2019. Our 2018 institutional survey of
+ PGR and academic staff (50% response) informed the HR Excellence Action Plan.
+ We are committed to supporting independent researchers and, where possible, aim to appoint
+ staff on indefinite and permanent contracts. We currently have 82 (8.5%) academic staff on fixed
+ term contracts and institutional HR redeployment strategies are in place. The University provides
+                                                                                              Page 6
+
+
+Institutional level environment template (REF5a)
+ bridge-funding for staff on fixed-term contracts when continuity of service and security of
+ employment is necessary.
+ Early Career Researchers (ECR)
+ 5.2% of submitted staff were categorised as ECR - it is believed that this is an under-estimate
+ due to voluntary declaration. Initiatives to support ECRs include:
+      URF funding to attend international conferences, present research and develop
+         international collaborations.
+      Exclusive PGR scholarships to facilitate supervision responsibilities and to be part of
+         supervisory teams for DTPs.
+      URF interdisciplinary challenge funding to promote collaborative working
+      Senior staff assigned as research mentors.
+      ECR attending key research committees for development purposes.
+      Commitment in HR Action Plan to ensure researchers on fixed term contracts allowed a
+         minimum of 10 days per year professional development
+      Assistance in bid development for ECR fellowships and leadership awards.
+ Post Graduate Researcher Development and Support
+ The Graduate School was established in 2013 and is governed by Graduate Board, chaired by
+ the Dean, which reports to University Research Committee. The importance of the PGR
+ community was recognised as a KPI in the University Strategy (2013 – 2018) when we
+ successfully increased our PGR community to 1000+ FTEs. Over the REF2021 period, 995
+ completions have been recorded and current PGR headcount is 1383.
+ PGR scholarships are available through several schemes including: VC’s Fee Waiver
+ Scholarship, EPSRC DTP awards (EP/N50967X/1, EP/R513234/1, EP/T51813X/1); EPSRC
+ NPIF, Industrial CASE studentships, Leverhulme DTC, AHRC Heritage Consortium CDT,
+ University Alliance DTAs in Applied Biosciences for Healthcare, Social Policy and an associated
+ EU COFUND scheme. Internal QR and URF funding has been allocated strategically to support
+ bursaries in priority research areas URF funding (£380k) has supported 19 student transitions
+ from Masters to PhD.
+ Student Engagement and Training
+ UoH is a member of the UK Council for Graduate Education. We collaborate with external
+ partners to provide a wide choice of training for PGR e.g. the North-West and Yorkshire Training
+ Group, the University Alliance DTA programme, the NPL Postgraduate Institute and the Network
+ of Expert Researcher Developers. PGR student enrichment is supported by our investment in
+ international conference attendance, development of PGR concepts and ideas, and
+ provision for an annual PGR Conference. A PGR Careers Officer also mentors students with
+ career choices.
+ PGR feedback and consultation is managed through Graduate Council which meets six times a
+ year. Our Researcher Environment Team coordinates PGR induction and training requirements
+ and coordinates PRES surveys. All PGR courses are mapped to the Vitae RDF and designed to
+ support students through their entire research journey. In addition, RDF has been used in PGR
+ supervisor training to increase awareness of it - one third of those eligible to supervise in 2017-
+ 2019 received training.
+                                                                                                Page 7
+
+
+Institutional level environment template (REF5a)
+ Equality and Diversity (EDI)
+ The University Equality, Diversity and Inclusivity Enhancement Committee reports to Senate and
+ oversees the implementation of University EDI related policies, Code of Practice and
+ frameworks for staff and students. In 2020, the University signed up to the Race Equality Charter
+ (REC) and completed the Investing in Ethnicity Maturity Matrix to inform the REC action plan. In
+ 2018, UoH was accredited as a Disability Confident Employer and was a signatory to the Mindful
+ Employer Charter, it is also a Stonewall Champion and participated in the Stonewall Equality
+ Index in 2019. The University has four staff networks (LGBTQI+, BAME, Women and Disability)
+ run by members with support from the University EDI Officer.
+ In 2015, UoH was awarded Athena SWAN Bronze and this has been renewed. Schools with
+ Athena SWAN awards are Applied Sciences (Silver), Music Humanities and Media (Bronze) and
+ Huddersfield Business School (Bronze). In 2017, at the AS conference ‘Equality: Everyone’s job,
+ no-one’s responsibility’, Prof. Dame Julia King DBE FREng was keynote speaker. Female staff
+ are encouraged to participate in the Advance HE Aurora programme and some staff act as
+ Aurora role models.
+ The University participates in Vitae’s ‘Every Researcher Counts’ to improve equality and
+ diversity for researchers and our Head of Researcher Environment participates in national
+ equality and diversity networks. EDI is integral to our commitment to the Concordat to Support
+ the Career Development of Researchers and our HR Excellence in Research Action Plan e.g. an
+ EDI review of central research committees (see gender table below), and anonymous sift
+ exercises of grant applications to ensure quality-based selection without bias.
+                        Committee                  Total     Percentage Percentage
+                                                members          Male           Female
+                  University Research               22           59%              41%
+                        Committee
+                    Graduate Board                  26           35%              65%
+               University Research Group            11           64%              36%
+              University Research Careers           14           50%              50%
+                    Oversight Group
+                  University Knowledge              20           55%              45%
+                    Exchange Group
+ EDI is a priority within our REF2021 Code of Practice (CoP). In January 2019, an equality
+ analysis was carried out for SRR and IR identification and output selection processes. Appendix
+ 16A of the CoP contains the outcomes which led to the inclusion the University’s on-line
+ ‘unconscious bias’ and ‘diversity in the workplace’ modules as mandatory training for all staff
+ involved in decision making, in addition to bespoke mandatory EDI REF training. An Equality
+ Impact Assessment (EIA) was carried out in May 2019, testing SRR/IR identification processes
+ and provided confidence that the processes were fair. This EIA report is in Appendix 16B of the
+ CoP. No subsequent changes were made to the criteria for SRR/IR. This exercise was repeated
+ prior to submission to evaluate the efficacy of the process for final identification of SRR/IR staff
+ and the output pool.
+                                                                                                Page 8
+
+
+Institutional level environment template (REF5a)
+ 4. Income, infrastructure and facilities
+ Income generation strategy and support
+ Total research income for 2019-20 was £16.9M, representing a >3-fold increase since 2014, can
+ be broken down as follows:
+                              Funder                            Percentage
+                              UK Government and NHS             35.8%
+                              UKRI and NIHR                     24.6%
+                              IUK and Industry                  21.7%
+                              EU                                10.4%
+                              Charity                           5.6%
+                              Overseas and Other                1.0%
+                              Local Government                  0.8%
+ The distribution of income sources reflects the University strategy to conduct collaborative
+ research with end-users. For example, ~60% of income falls within this category (IUK, Industry,
+ UK Government and NHS).
+ We plan to continue to focus on collaborative end-user R&D and secure funding for impact
+ delivery (e.g. Impact Acceleration Accounts). Enterprise income, from sources such as ERDF,
+ remains a priority to facilitate impact. We will target initiatives to support our growing population
+ of ECRs and seek alternatives to EU funding (~10% income).
+ Internal funding will support new partnerships and facilitate impact with end users. Over the
+ period we allocated >£1M/annum URF to support our ASRI portfolio, capability growth,
+ internationalisation programme and as match funding for external grants. We expect this level of
+ commitment to continue. A Strategic Partnership Fund to facilitate relationships with external
+ organisations has been created where UoH and external partners fund research programmes
+ equally. Key partners include: RSSB, Paxman Coolers, Renishaw and YES Tequila.
+ A portfolio of schemes, infrastructure and resources exist to support development of grant
+ applications, impact delivery and establishment of collaborative partnerships.
+ Infrastructure, resources and facilities
+ To support staff developing grant applications, we have a central pre-award team with Research
+ Development Managers (RDMs) assigned to schools. A central post-award finance and
+ contracts team assist in the management of successful awards. RDMs delivered challenge-type
+ sand pit events to facilitate pan-institutional interdisciplinary collaborations and funding used to
+ pump-prime research proposals. Some have secured external grant funding e.g. AHRC Life-
+ Saving Lullabies project working with women in Zambia. Since 2016 the University has received
+ EPSRC DTP and NPIF funding (EP/N50967X/1, EP/R513234/1, EP/R51228X/1, EP/S515425/1)
+ and the central Research & Enterprise directorate oversees the management of these including
+ strategy development and grant reporting.
+ Investment in University estate and facilities has significantly enhanced the research
+ environment. For example, in 2017, the Oastler Building (£27M) was constructed for the School
+                                                                                                  Page 9
+
+
+Institutional level environment template (REF5a)
+ of Music, Humanities and Media and in 2019 the Barbara Hepworth Building (£30M) for Art,
+ Design and Architecture. As well as research facilities, buildings house dedicated PGR study
+ areas and PGR admin staff offices. Dedicated research facilities, such as a full-scale test rig for
+ the Rail Research Institute and the EPSRC MIAMI Ion Beam Facility have been constructed.
+ Other major facilities include the Spatial and Interactive Research Laboratory (SPIRAL) including
+ recording studios and the Phipps Concert Hall and the Centre for Precision Technology (CPT)
+ which is home to the EPSRC Future Advanced Metrology Hub (EP/P006930/1). Additional
+ equipment, purchased via an EPSRC Multidisciplinary Research Equipment Investment grant
+ (EP/T02433X/1), supports staff across two schools. To showcase facilities and to access a wider
+ portfolio of equipment elsewhere, we use the National Centre for Universities and Business
+ Confer system.
+ Other buildings, including the Holocaust Exhibition and Learning Centre, Sovereign Design
+ House Art Gallery and the 3M Buckley Innovation Centre (3M BIC), have been opened to
+ facilitate impact from research. The 3M BIC has been recognised in national reviews including
+ Lord Young’s 2014 report ‘Enterprise for All’ and the 2017 BEIS Industrial Strategy Made
+ Smarter report. The HLF funded Heritage Quay archive facility (opened 2014) houses collections
+ encompassing: British music 19th-21st century, sport, education, politics, art and design, theatre
+ and literature.
+ We have invested in computer systems to support research including; the Elsevier PURE
+ Research Management Information System, Skills Forge for PGR training and supervision
+ monitoring and Microsoft Dynamics for tracking collaborative R&D and enterprise activities. In
+ addition, researchers are allocated Box Data Storage system licences.
+ Reproducibility of research is generally addressed through internal peer review of all research
+ outputs ahead of publication. In one specific area, the CPT and EPSRC Future Advanced
+ Metrology Hub, reproducibility of research is critical for the development of national ISO
+ standards. The National Physical Laboratory (NPL) is a strategic partner and PGR students
+ developing new physical metrology and machine tool ISO standards are co-supervised by NPL
+ staff.
+ Benefits In-kind
+ The School of Computing and Engineering has benefited from equipment donations that
+ significantly contribute to the research environment, e.g. the STFC Medium Energy Ion Source
+ (MEIS) which was rebuilt and became operational in 2015. MEIS forms part of the UK National
+ Ion Beam Centre, funded by EPSRC, along with the MIAMI facility. Siemens also donated an
+ ONIAC tandem particle accelerator to the ion beam centre at Huddersfield.
+ In the areas of engineering and innovation, strategic partner Renishaw, provided significant
+ discount on a metal 3D printing AM facility dedicated for research and has installed, free of
+ charge, metrology software for in-process measurement.
+ Academic researchers in Applied Sciences have accessed national HPC facilities such as
+ HECToR and ARCHER for computational chemistry simulations and NERC research ships for
+ the study of Arctic climate systems. Social scientists share their research using the UK Data
+ Service.
+                                                                                             Page 10
+
+
+Institutional level environment template (REF5a)
+ Impact Support
+ UoH is committed to the principles of the Concordat for Public Engagement with Research and
+ delivering impact from its research. In 2019, we signed the Civic University Agreement
+ recognising our role as an anchor institution and conducted a Joseph Rowntree Foundation
+ impact assessment to better understand the overall impact of the institution. The University
+ Knowledge Exchange Group, reporting to URC, was established to oversee areas such as
+ business and public engagement and IP commercialisation. Given the breadth of research
+ across our UoAs, impact extends across economic, social and academic boundaries and
+ substantial infrastructure has been established to support our staff and PGR.
+ Impact infrastructure:
+ Central staff supporting aspects of the impact agenda include:
+         an Impact Manager advising academic researchers and school-based officers on delivery
+          and monitoring of impact from research as well as impact training for staff.
+         the Head of Business Development (HoBD) advising on IP protection and
+          commercialisation. The HoBD also supports researchers securing funding from regional
+          Medtech HEIF CCF schemes.
+         the Head of Regional Business Engagement facilitates interaction with local businesses
+          through ESIF programmes e.g. Manufacturing Supply Chain Programme (£5.4M)
+          supporting 550 businesses.
+         A dedicated KTP manager supports academic engagement with the IUK programme. In
+          May 2020, UoH had 13 active KTPs across 4 academic schools.
+         A part-time Public Engagement Officer leads the Public Impact and Engagement
+          network. Events enable academics to share best practice in impact through public
+          engagement.
+ Central funding (URF, QR GCRF, QR SPF and HEIF) supports our research impact related
+ activities. For example, in collaboration with the University of Leeds, an independent Science &
+ Innovation Audit in rail was commissioned to evaluate the opportunities for connecting our
+ collaborative rail research capabilities with northern rail innovation systems. In addition, over the
+ last three years, ~£400k Follow-On and Impact funding has been secured, primarily from AHRC,
+ for projects such as Gerhard Revealed (£80k) and the EU for Researchers Night (£146k).
+ The University’s 3M Buckley Innovation Centre is a major route to impact for several academic
+ schools. A spin-in model for co-location of businesses alongside UoH is adopted to facilitate
+ collaborative R&D e.g. NPL is an anchor tenant. The University showcases research strengths
+ to local companies and provides access to state-of-the art equipment such as metal 3D printing,
+ HPC, X-ray CT and imaging facilities. Equipment in the centre has been funded via a UoH Local
+ Growth Fund capital grant (£2.9M).
+ Staff and PGR impact training
+ Impact training sessions have been delivered by external providers including Fast Track Impact,
+ Vertigo Ventures, Bulletin Academic, Walcott Communications, NCCPE and Parliament
+ Outreach & Engagement Services. Training has encompassed topics such as individual impact
+ mapping, writing for impact, articulating impact, REF ICS development and delivering research
+ impact into policy. Training has been tailored to all stages of research career development, e.g.
+                                                                                               Page 11
+
+
+Institutional level environment template (REF5a)
+ ECRs were centrally supported to participate in the NCCPE Researchers Academy. More than
+ 200 staff have undertaken impact related training. Our PGR students receive training from the
+ Director of Research & Enterprise and online resources are available on Brightspace. During
+ the REF period, 10 PGR sessions have been delivered and 122 students have attended.
+ External promotion and events
+ The University website and social media platforms (@HudReseach Twitter has 2794 followers)
+ regularly report research news stories and our dedicated PURE web portal enables promotion of
+ research activities. The UoH Discover Magazine showcases the diverse range of research
+ carried out and highlights economic and societal impact - 17 issues of Discover have been
+ published during the REF period, showcasing 119 projects. In addition, to promote our research
+ more widely, we subscribe to The Conversation magazine and 253 articles, written by 147
+ academics, have been published.
+ Events, workshops and networks are key vehicles for engaging with end users to facilitate
+ impact of research. For example, the EU H2020 Researchers Night event ‘Full STEAM Ahead’
+ ran in 2016 and 2017. Events showcased UoH interdisciplinary research and >3000 members of
+ the pubic visited on each occasion. To drive policy related impact of research, UoH has recently
+ become a member of the Universities Policy Engagement Network and is seeking to drive such
+ activity in partnership with Yorkshire Universities and West Yorkshire Combined Authority.
+                                                                                           Page 12

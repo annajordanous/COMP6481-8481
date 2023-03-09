@@ -1,0 +1,979 @@
+Unit-level environment template (REF5b)
+ Institution: Lancaster University
+ Unit of Assessment: 11 Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+      Key Highlights
+         Established and co-led 3 Institutes building interdisciplinary research communities and
+          increasing research income by 33%
+         Increased research impact and engagement related income to £8.6M, including 50%
+          growth in collaborative research from £2M to £3M since 2014
+         Increase in the number and importance of publications in top-10% most cited, up by 20%
+          to 447.
+ 1.1 UNIT CONTEXT AND STRUCTURE
+ Over 50 years, Lancaster’s School of Computing and Communications (SCC) has established a
+ strong international research reputation. We offer a unique environment that facilitates a broad
+ range of impacts by bringing research, business and societal stakeholders together. This stems
+ from our long-standing strategy centred around research excellence with real-world application:
+ “we build what we study and we study what we build”. This mantra values meaningful
+ engagement with stakeholders at the heart of what we do, including testbeds in daily use by
+ stakeholder groups, as much as excellence in terms of publications. We believe that addressing
+ many of the major societal challenges requires an inherently diverse and interdisciplinary
+ perspective. SCC is actively driving this interdisciplinary agenda across the University in areas
+ including data science, cyber-security and social futures. This collaborative approach has led to
+ a step change in the quality of the research environment for our staff and students, and given
+ rise to major new research directions, such as environmental data science.
+ Every RAE/REF period to date has seen growth in breadth and depth of our research outputs
+ and impact (Table 1). In the last period we have increased our research income, publications in
+ SciVal, and top-10% field weighted citations index
+ Table 1: Key indicators for the REF2021 period as an evidence of sustainability (research
+ income is according to HESA as spent for the period; the value of awards for the REF2021
+ period is £39.4M with £9.3M in 2020)
+   Indicators                                 RAE2001       RAE2008       REF2014    REF2021
+   Research income (£M)                           6.7          15.0          18.8       28.5
+   PhDs awarded (FTE)                             61           62.5           114        141
+   Total number of publications                  471           1555          1848       2427
+   Peer reviewed publications indexed in
+                                                 147            646          1136       1645
+   SciVal
+   Publications in Top-10% most cited             24            182           356        447
+   field weighted
+   Engagement / KE Income (£M)                     -            4.1           7.8        8.6
+   Overall research quality profile                5           80%           91%
+   (1-5* or % 4* /3*)
+ Our achievements since 2014 include:
+          i) our highest ever research income generation;
+          ii) the largest number of peer reviewed publications, with
+                                                                                               Page 1
+
+
+Unit-level environment template (REF5b)
+           iii) above discipline norm field weighted citation index1;
+           iv) most significant engagement and knowledge exchange (KE) income;
+           v) largest number of PhDs graduated; and,
+           vi) most significant period for progression and diversity of staff.
+  Our performance is in line with Russell Group research intensive institutions and our number of
+  citations per paper is above the Group median (10.3).
+  SCC Structure
+  We attribute this success to our strong commitment to provide an open and collaborative
+  environment that fosters interdisciplinary working. Staff are members of research groups
+  that synergise collaboration, provide informal mentorship and peer support. Staff also associate
+  with University Research Centres and Institutes to increase critical mass in priority areas by
+  working with other disciplines.
+  SCC’s academic staff (49.45FTE up from 43.25FTE in 2014) currently comprise nine groups
+  listed with the core areas where we make a significant intellectual contribution:
+        Software Engineering - code analysis, defect prediction, software testing, program repair,
+           developer human factors;
+        Networking - Software Defined Networking, Network Functions Virtualisation, resilience
+           and network security;
+        Distributed Systems - Middleware, Cloud Computing, Green Computing, IoT, Self-
+           adaptive Systems, Complex Systems;
+        Interactive Systems - New forms of sensing interaction, input, actuation and display; novel
+           interaction modalities and toolkits; design-led prototyping;
+        Pervasive Systems - Development, deployment and evaluation of mobile and pervasive
+           computing systems; ‘in-the-wild’ deployments; display networks;
+        Communication Systems - Development, design, and performance evaluation of new
+           concepts and techniques for wireless communication;
+        Security - Critical Infrastructure Protection, Systemic Cyber Security Risk Management,
+           Threat Intelligence and Data, Systems Security;
+        Data Science - NLP, explainable AI, ML, computer vision, deep learning;
+        Digital Health - Digital technology to transform healthcare delivery and empower
+           individuals’ active and healthy lifestyle.
+  Centres and Institutes build cross-institutional collaboration and drive research.
+  A key outcome of SCC’s collaborative approach was the creation and co-leadership of three of
+  the four flagship university-wide Institutes: Data Science (DSI, Davies), Social Futures (ISF,
+  Harper) and Security Lancaster (SL, Suri). The Institutes recognise that computing is at the
+  centre of understanding and shaping modern society, requiring a multi-disciplinary perspective.
+  They create critical mass and community, and leverage expertise from across the University in
+  areas of high strategic importance. The Institutes are a tremendous resource for SCC staff in
+  terms of mentorship and engagement. Dedicated activities and resources stimulate
+  collaboration, e.g. research retreats, grant preparation workshops, invited talks, visits and
+  visitors. We also lead several established cross-department centres e.g. in corpus linguistics
+  (UCREL), and encourage new grass roots centres to emerge, e.g. intelligent systems (LIRA).
+  Engagement of research within teaching and knowledge exchange is a key part of our culture
+  and environment. Onsite business engagement staff provide bespoke support for translational
+  impact by building relationships and working with stakeholders. Co-located businesses are
+  selected to maximise potential for engagement and knowledge transfer.
+  It is notable that all our academics have eligible outputs and we have the lowest ratio (7%) of
+  staff on teaching-only contracts nationally2. This is three times lower than that of other UK
+1
+  Twice the UK mean for Computer Science, and comparable with the Russell Group of leading
+research intensive Universities.
+2
+  As evidenced by HESA data.
+                                                                                                Page 2
+
+
+Unit-level environment template (REF5b)
+ Universities and demonstrates an approach to research-led teaching that is firmly aligned to the
+ school’s ethos of research excellence.
+ Our collaborative spirit is evidenced by the composition of our outputs: more than half (55.44%)
+ of publications are co-authored by international authors, half of our grants (49%) within the REF
+ period involve partners from other Universities including 19% international. A further 29% involve
+ SMEs, 15% large corporations (half of which are international), and an additional 7% of our
+ grants involve other stakeholder groups such as healthcare, charity, local government and social
+ enterprise.
+ 1.2 RESEARCH AND IMPACT STRATEGY DURING THE ASSESSMENT PERIOD
+ Our research takes a real-world, systems-oriented and interdisciplinary focus. This involves
+ external stakeholders in the creation of experimental testbeds and deployments. The academic,
+ business and societal impact of this strategy is best illustrated by our wide ranging impact case
+ studies: micro:bit (over 4M devices worldwide promoting computer science education); B4RN
+ (an innovative co-operative offering the fastest rural fibre broadband in UK, providing gigabit
+ access to digital services to over 5,000 homes in 79 parishes, with global influence); Smart
+ Water (transforming the efficiency of urban surface water management by 20% using pervasive
+ computing, in over 100 locations); and, marketing insights from comparative linguistics tools
+ (spun out as Relative Insight, now with offices in New York and London, and major platform
+ clients including Samsung).
+ These impacts result directly from our 2014 – 2020 strategy to:
+         Maximise real world relevance through interdisciplinary collaboration and target
+          more ambitious collaborative research bids – evidenced through the creation and
+          leadership of 3 interdisciplinary research Institutes;
+         Structure for research excellence by bringing academics in previously separate
+          departments together to tackle problems from multiple perspectives – evidenced through
+          the creation of 3 new research groups and 2 new University Centres, the maturation of
+          groups to centres, and centres to institutes;
+          Maximise impacts by working with partners & stakeholders, via embedding on-site
+          and dedicated knowledge exchange support – evidenced through increase in the number
+          of full-time KE staff; refresh of on-site businesses based on collaboration potential; and
+          work with worldwide partners including Microsoft, BBC, BT, Google, SITA Aero, QinetiQ,
+          Philips, Airbus, Huawei, and over 1,000 SMEs. e.g. flagship projects such as the £5M
+          NG-CDI prosperity partnership with BT; and three industrial accelerators: £6M GM Cyber
+          Foundry, £1.36M SPRITE+, and £1.5M SecureD University Enterprise Zone.
+ 1.2.1 Progress against Strategic Aims for Research & Impact identified in the REF2014
+ The strategy of the School to undertake interdisciplinary research; structure for research
+ excellence; and maximise impact creates an environment in which researchers are stimulated to
+ address new challenges, explore new ideas and solve open real-world problems by working
+ collaboratively. Our sub-goals under this strategy included: setting ourselves ambitious EDI
+ targets (>10FTE female staff by 2026), increased our research leadership by targeting major
+ fellowships; and targeting more significant and ambitious scale research bids - a minimum of
+ one £1M+ bid pa per group. We have made substantial progress:
+ Objective 1 – Interdisciplinary Research Growth. 1) Nurture our key strengths-in-depth; 2)
+ Grow new strengths on the foundation of our core research groups; and, 3) Maximise real-world
+ relevance through cross-disciplinarity. We also sought to resource key growth areas with a view
+ to increasing our leadership more strategically.
+ Demonstrably achieved by:
+      a) Co-establishing three University interdisciplinary research Institutes (section 3.1) that cut
+          across our research portfolio in strategically important ways - all under SCC academic
+                                                                                                 Page 3
+
+
+Unit-level environment template (REF5b)
+         staff leadership from their inception. The Institutes provide a sustainable vehicle for our
+         research; facilitate the cross-fertilisation of ideas; as well as offering training, community,
+         and critical mass to focus toward large strategic grants. As exemplars of this success,
+         over a 5 year period, DSI has secured £23M to Lancaster and established new cross-
+         disciplinary partnerships such as Centre for Environmental Data Science (CEEDS) with
+         UKCEH. Security Lancaster (SL) has become a twice-accredited NCSC cyber-security
+         centre of excellence, home to the £11.8M UK national hub for social science research on
+         security threats (CREST), and £8.8M of regional cyber industrial accelerators.
+     b) Creating and Leading two inter-disciplinary research centres:
+         1) LIRA Centre for Robotics and Autonomous Systems, founded in 2018 (Director:
+         Angelov) comprising 50 academics including a mix of experienced research leaders
+         (Fellows of IEEE, ACM, IET, ASAS) as well as developing early career researchers from
+         SCC, Engineering, Lancaster Environment Centre, Faculty of Health and Medicine, and
+         Management School. LIRA has 8 themes: fundamentals and challenge driven areas
+         such as Biomedical, Environment and Agriculture, Intelligent Transport, Advanced
+         Manufacturing, Nuclear Decommissioning, Security and Defence and Society and
+         Human Behaviour.
+         2) Centre of Digital Health and Quality of Life Technologies, founded in 2019 (Director:
+         Helal). Created in partnership with the Department of Health Research, CDH-QLT
+         focuses on using digital technologies to take a proactive approach to health, with the aim
+         of preventing illness and improving quality of life. The centre is developing innovative
+         digital health platforms, future degree programmes, and increasing community
+         engagement.
+     c) We cemented bridges between University departments with two new senior joint
+         appointments including Helal (SCC and Division of Health Research), and Harper (SCC
+         and Social Futures).
+ Due, in part, to this strategy, the amount of funded research to SCC has grown from £18.8M to
+ £28.5M according to HESA.
+ Objective 2 – Structured for Research Excellence. 1) Maximise academic impact; 2)
+ Maximise academic synergies; 3) Boost the strategic role of the research groups.
+ Demonstrably achieved by strengthening our core research groups and founding three others.
+ This is exemplified by the journey of the security group, which rapidly evolved during the REF
+ period: moving from an SCC group to a leading research institute by combining our strengths,
+ targeting appointments, and crossing disciplines to meet the evolving needs of our partners (for
+ example the Home Office and GCHQ).
+     a) Successfully sustained our core research groups (Networking, Distributed Systems,
+         Interactive Systems, Pervasive Systems, Communications and Software Engineering)
+         each with a long track record of excellence. Significant grant awards (>£1M value) have
+         followed (Hutchison 2014; Race 2017 – converged network infrastructures); Distributed
+         Systems (Blair 2016 – Environmental Data Science); Pervasive Systems (Sas 2017 –
+         Affective Computing; Harper 2018 – Material Social Futures); Interactive Systems
+         (Alexander 2020 – Deformable Screens).
+     b) Establishing three new groups (Data Science, Security and Digital Health) in response to
+         emerging societal challenges such as the data deluge, the need for secure and resilient
+         infrastructures, and the aging population. Major activity includes supporting the newly
+         opened £41M Health Innovation Campus; 1M+ grants (Prince 2019); and the hire of
+         Distinguished Prof. Suri, bringing leadership of a major EU Cybersecurity Competence
+         Network (CONCORDIA) to Lancaster.
+ The academic impact of our work has grown. We have seen a 44.8% growth (1136 to 1645) of
+ peer reviewed publications indexed in SciVal. Our publications in the top-10% most cited (field
+ weighted for computer science) have increased by 26% from 356 to 447 and now represent
+ more than a quarter (27.2%) of the SciVal indexed peer reviewed publications. Our work has
+                                                                                                  Page 4
+
+
+Unit-level environment template (REF5b)
+ garnered peer recognition, for example, in HCI we’ve received over a dozen best paper awards
+ from ACM CHI (including Karnik, 2014, Friday 2015, Gellersen, 2019, Sas, 2019 and 2020).
+ Objective 3 – Impact. 1) Maximize impact through KE; 2) Exploit the new role of Head of
+ Business Partnerships and Enterprise.
+ Under the oversight of Head of Business Partnerships and Enterprise, who is integrated into
+ SCC’s management team, to ensure regular and effective communication; our strategy to
+ maximise impact from our research through two principal approaches: 1) investing in 3.8 FTE of
+ KE staff embedded directly within all School activities, and 2) careful choice of co-located
+ resident companies and business partners to maximise the potential for knowledge exchange
+ and impact. The structured resident support scheme and targeted company recruitment mean
+ companies entering the facility have a research collaboration plan in place. This investment
+ creates a unique environment making engagement and industry collaboration integral to our
+ operation. Income from collaborative research has grown from £2M to £3M since 2014;
+ consultancy income more than doubled year on year from around £40K in 2014 to over £100K in
+ 2019; and contract research follows the same profile, topping £1M for the first time in 2019
+ (Figure 1).
+ SCC’s impact strategy has directly led to the School’s three recent KTPs (Upside Energy; JBA;
+ Mitigate Cyber) and enabled two of its four Impact Case Studies. Beyond co-located SMEs, the
+ school engages with 150 SMEs through the £6M Greater Manchester Cyber Foundry, 90 SMEs
+ through the £1.36M Lancashire Cyber Foundry and 250 SMEs through the Cumbria Innovation
+ Platform (directly linked to our growth in contract research income above). SCC’s industry
+ linkages have been instrumental to successes including Department of Health funded
+ Connected Health Cities (CHC), £5M NG-CDI Prosperity Partnership and PETRAS. Since its
+ inception, SCC and Infolab21’s co-location model, has provided the template for impact and
+ engagement across the University, leading to similar instantiations in Chemistry (CTAP) and
+ Environmental Science (Gordon Manley Centre), the backbone of the recent £1.5M SecureD
+ University Enterprise Zone, and template for the £41M Health Innovation Campus, featuring the
+ same embedded model of collocated business, KE and academic departments. This has led to a
+ broad range of non-academic impact types including educational (22.7%), cultural (18.2%),
+ policy (13.6%), productivity and public engagement (9.1% each). Current KE return data
+ suggests as an institution we are highly effective at KE, with £28 returned for each £1 of public
+ money spent.
+ 1.3 FUTURE STRATEGY AND PLANNING
+ Lancaster University’s main strategic goal is to be a global leader in HE, widely respected and
+ transforming lives, communities, practices and thinking. In SCC, we anticipate continuing our
+ principal ethos of embedding real-world focus, deploying systems, responsible innovation with
+ stakeholders, and interdisciplinarity at the heart of what we do. We see this as being both true to
+                                                                                               Page 5
+
+
+Unit-level environment template (REF5b)
+ our long-standing approach to research, but also has resulted in growth in the quality, depth and
+ number of outcomes as highlighted in section 1.1.
+ Over the coming REF period we will be seeing the retirement of a small number of longstanding
+ valued colleagues who helped establish the current collaborative culture. We will be considering
+ how to consolidate and share this culture going forward as we plan to make a number of hires to
+ maintain established strengths (e.g. networking, software engineering, HCI) and capitalise on
+ areas where we have made major investments in staff and research infrastructure including
+ cyber-security, data science and digital health.
+        Investing in people. We have made a major investment in staff and now have a
+         substantial cohort of 23 ECR staff, who we wish to mature into research leaders. We are
+         proactive in promoting staff, and have been highly successful at making strong cases:
+         leading to 11 new SL/readers and 7 new professors (9 promoted) in the last period. We
+         need to continue to invest in training, progression and mentorship, with a particular focus
+         on ensuring that we maintain our balanced approach to engagement and teaching, as
+         well as aspiring to maximise research quality and impact.
+        Growing the scale pipeline. We see centres and institutes continuing: the Institutes
+         have just undergone an external 5-yearly review, and we anticipate the existing Centres
+         and Institutes continuing well into the next REF period. We anticipate a period of
+         consolidation and restructuring of groups within SCC to maximise staff desires to engage
+         with multiple interest areas and on cross-disciplinary themes. We plan to improve the
+         external communication of our research to best reflect this innovative structure.
+        Enabling interdisciplinarity and engagement. Collaboration and engagement with
+         stakeholders in our research are consistent with our goal to maximise real-world
+         relevance through cross-disciplinarity. We see this continuing, especially within areas
+         including resilient infrastructures, security, pervasive systems, digital health and
+         associated testbeds (5GRIT lead: Race; AffecTech lead: Sas). The Health Innovation
+         Campus (lead: Helal), and potential development of Eden Project North (digital
+         environment, lead: Blair) and Whyndyke Garden Village (an NHS Healthy New Town,
+         lead: Helal) will provide ideal environments for this style of user engaged research.
+        Educational and recruitment pipeline. Continuing recent practice, the school will
+         continue to sponsor research internships to encourage the brightest and most
+         enthusiastic students to engage with research from undergraduate level, leading to
+         further postgraduate study and ultimately in some cases, successful research careers.
+         We created two honorary early career fellowships named after two influential former
+         colleagues (Shepherd, Parkes) who exemplified the best aspects of the Lancaster
+         culture, in order to hire staff in their mould to continue to recruit and build the Lancaster
+         ethos; we will likely do this again in the coming period. Investing in people who are
+         balanced and enthusiastic academics, and open to our style of collaborative and
+         stakeholder engaged style of research remains at the heart of our future plans.
+ The Covid-19 pandemic has given us a glimpse of flexible ways of working especially in terms of
+ how we engage with our research peers nationally and internationally. Our community has
+ remained active and resilient during this challenging time, which gives us confidence that our
+ long-term future strategic plans are achievable. We will be looking to take the best features from
+ new ways of working to ensure the vitality and sustainability of our research into the future.
+                                                                                                  Page 6
+
+
+Unit-level environment template (REF5b)
+ 2. People
+   Key highlights
+        Growing the school staff by 14% in support of strategic priority areas, of which, 74%
+           are ECR as part of our commitment to new vitality
+        Complementing ECR with 4 senior hires in strategic areas, 2 supporting increased
+           interdisciplinary activity
+        Improved support for PGR and PhD students – helping on-time completion rise from
+           64% to 78%
+        Increased staff diversity including growth in female PDRAs, lecturers and senior staff
+           including recruiting Hall (now Deputy Head of School) and advancing Sas (Faculty
+           Assistant Dean of Research Enhancement).
+ 2.1 STAFF
+ Strategy. Our staff have always been, and remain SCC’s overriding priority and strength. We
+ foster a supportive and openly collegiate environment, which provides excellent opportunities for
+ both intellectual and personal growth. The school currently has 49.45FTE Category A staff
+ comprising 14 Professors, 15 readers/senior lecturers and 22 lecturers. Our research
+ achievements are only possible with the support with our excellent project related research staff,
+ we employed 84 research associates during the period.
+ We see this vibrant and growing community of staff and alumni as a key outcome of our people
+ strategy set out in 2014; to ‘foster critical mass’, ‘grow key new areas’, and ‘maintain balance
+ between leadership and new talent. In terms of critical mass, the school has grown, in absolute
+ terms by 14% (from 43.25 FTE in 2014, to 49.45 FTE). The modest increase in absolute
+ headcount hides an underlying refresh of staff (33.7 FTE new staff since 2014), driven partly by
+ our strategic aims, but also by natural career progression especially of some of our more senior
+ staff. This has allowed us to rebalance our staff mix with 74% of our hires being early career
+ and support the growth of key new areas into new research groups/areas.
+ To maintain balance, we have also made 4 Professorial appointments, two of which demonstrate
+ an intentional deepening of interdisciplinarity (Helal – joint with Division of Health, Harper – joint
+ with Sociology, via ISF) and support our aim of growing key new areas, and strengthening
+ existing groups (Hall/ Software Engineering, Suri/Cybersecurity).
+ We focused on growing our talent by putting in place school-wide improvements to staff and
+ researcher development with a focus on helping staff develop and progress at all stages of their
+ careers. This is evidenced by: having advanced 9 staff to full Professor and 5 to Reader in the
+ period; and school staff taking institutional level leadership roles, e.g., SCC staff co-direct 3 of
+ the 4 flagship interdisciplinary Research Institutes and 3 cross-faculty research centres. We
+ also made a substantial contribution to the field as a whole by helping 8 staff to progress into
+ major leadership positions nationally and internationally: e.g. Rashid now leads the Cyber
+ Security Group at Bristol; Yan is now Professor of Cyber Security at Linköping, Sweden; and
+ Whittle first as Executive-Dean of Science at Monash and now Data Institute Director at
+ Australia’s prestigious CSIRO.
+ Early career researchers (ECR). A key part of our people strategy focuses on attracting and
+ developing world-class ECRs. We value collegiality, a passion for research and for research-led
+ teaching. Early career staff are allocated to a research group, with separate research mentors
+ from the school’s senior staff. Group leads provide frequent oversight, from establishing
+ objectives, identifying aspirational publication targets, and providing ongoing career support and
+ coaching including identifying development and support needs. Objectives are regularly
+ reviewed and adapted, e.g., minimally at PDR. ECRs are actively encouraged to affiliate with
+ one or more institutes or centres to provide access to wider rolling seminar programmes,
+ research retreats, and collaboration networks.
+ Bootstrapping success. All ECR receive a start-up fund from the school to stimulate initial
+ activity. All newly appointed academics are allocated lower teaching and administrative loads
+                                                                                                  Page 7
+
+
+Unit-level environment template (REF5b)
+ (50% in the first year, 75% in the second) in order to facilitate the development of their research
+ portfolio. Beyond this, the School also benefited from the University’s 50th Anniversary
+ Lectureship (AL) scheme, which sought to identify academic leaders of the future with the
+ potential to become Readers or Chairs within 5 years. The ALs are relieved from their teaching
+ load entirely for the first two years excepting optional tutoring, project supervision and guest
+ lectures.
+ Supporting research bids and fellowships. The School offers tailored support for grant bid
+ development to all staff. Grant applications go through rigorous internal review, which involves
+ feedback from at least two members of academic staff (three for EPSRC new investigator
+ awards). A PhD studentship is matched to a first successful UKRI or Fellowship award. Because
+ of these strategies, all academic staff actively apply for research grants, with success evident in
+ that 73% of academic staff are PI of a project. We have actively encouraged fellowship
+ applications in the period, and have recognised research intensity in the workload model. This
+ strategy has been effective: G. Blair, Alexander, Garraghan, Jiang, Angelov, Giotsas have been
+ awarded EPSRC, ERC, Leverhulme, ELLIS and RIPE, fellowships respectively, totalling over
+ £5M. Fellow status has been accorded to Angelov (IEEE, 2016), Helal (IEEE, 2015) and Harper
+ (ACM, 2014), as well as AAAS (Helal, 2019), CHI Academy Status (Harper, 2014) and
+ Academia Europea (Helal, 2020).
+ Encouraging leadership. We actively encourage leadership and focus on the recruitment of
+ outstanding researchers with leadership abilities. Leadership opportunities are discussed with
+ staff as part of career planning, and are encouraged and supported, through, for example,
+ workload adjustments. Leadership is demonstrated through the active engagement of
+ academics from the School in faculty and University level roles including the Pro-Vice Chancellor
+ for Academic Development (Davies) and supporting faculty Associate Dean roles (Rashid - AD
+ PGR; Race – AD Research; Sas - AD Research Enhancement), which directly influence the
+ ethos, vision and strategy at Faculty and University levels, including the strategy for overall PhD
+ training at Lancaster (Edwards, Director of the Doctoral Academy).
+ Developing careers. Staff development for academics starts with a three-year probation for
+ new Lecturers, which includes rigorous annual reviews. New academic staff in the School
+ receive lighter teaching loads during their probation period. The School research budget,
+ devolved to Groups, is used strategically to support speculative activity (e.g., research visits,
+ pump priming activity). All new academic staff participate in induction sessions, which provide
+ initial information about the resources available including mentorship, KE and pre- and post
+ award professional services support. They also undertake the PG Certificate in Academic
+ Practice (CAP), and a series of associated development and mentoring activities.
+ Through a mix of informal support from mentors and group leads, plus the annual appraisal
+ round, we identify and encourage continual professional development (CPD), including
+ participation in programmes to build leadership and develop careers. These include University
+ courses in coaching, management and leadership, job shadowing and so on. All our research
+ active staff can participate in programmes such as The Balanced Academic and the Resilient
+ Researcher. Diversity, unconscious bias and ‘recruiting the best’ training (for those on
+ recruitment panels) is mandatory to sensitise to possible EDI biases. Staff are encouraged to
+ develop their career even exceptionally by taking additional qualifications, e.g. Executive MBA
+ (Sas, 2018).
+ Our active sabbatical programme enables the School to refresh its research outlook and staff
+ expertise. All staff accrue academic research leave time and may apply to take 1 term in 7 or 1
+ academic year in 7. Cases are considered based on timeliness and strategic importance and a
+ well-developed sabbatical proposal. 19 academics benefitted from sabbaticals this REF period;
+ an investment in staff estimated at around £750K. 13% of sabbaticals prioritised early career
+ staff (unusual as sabbatical entitlement needs to be accrued), with 2 cases last year accelerating
+ cases for female staff who had not previously thought themselves eligible.
+ 2.2 RESEARCHERS AND RESEARCH STUDENTS
+ Researchers. A fundamental part of the school is our postdoctoral researchers (PDRAs) and
+ PhD students, and these are an essential part of the staff pipeline. Both are encouraged to
+                                                                                                Page 8
+
+
+Unit-level environment template (REF5b)
+ engage with the wide range of available training opportunities, and informal activities including
+ mentoring, dedicated workshops, our annual PhD conference as well as weekly “brew time”,
+ “brown bag” presentation sessions, and grass roots writing group and maths club activities. PIs
+ and supervisors discuss long term career planning with researchers: this often results in
+ researchers taking on limited teaching or student supervision duties to bolster their CVs. The
+ School’s Graduate Academy provides training on consultancy projects with industry, and helps
+ researchers build networks in the private sector. We also support postdoctoral researchers in
+ developing their own proposals for independent research.
+ Career support for researchers is formalized through an action plan, which is aligned with the
+ Concordat for Early career researchers and includes commitments to the Concordat in Public
+ Engagement in research and the Concordat in research integrity. We aim to provide bridge
+ funding between contracts where possible to avoid unnecessary redundancies and associated
+ contractual uncertainty.
+ Research students. The School has long-standing PhD programmes in Computer Science and
+ in Communication Systems, and leads a CDT (LDSP-MSF, Harper). 33% of our PhD students
+ are from the UK, 16.5% from EU countries and the rest from overseas. During the REF period,
+ we have graduated 141 FTE PhDs, including a cohort of HighWire CDT students joint with
+ Lancaster University’s Institute of Contemporary Arts (LICA) and triple accredited Management
+ School. Our PhD graduate destinations include roles with major multinational companies
+ including Google, Microsoft, Amazon and Facebook, academic posts overseas, a wide range of
+ posts in UK academia and industry, and others have created their own start-up businesses (e.g.
+ Hardy & Ellis inventions, developing mixed reality interactive products, finalist in the UK
+ Business Tech Awards 2018, winner of the 2019 European Digital Press Association (EDP)
+ Award; or Vidal working for Focal Smart Glasses for North, in Canada, acquired by Google, June
+ 2020).
+ We recruit internationally, leveraging our world-wide reputation in each of our research areas.
+ We have several formal international partnerships (e.g. Erasmus exchanges with ETH Zürich
+ and LMU Munich) and many other long-standing collaborations through which we attract and
+ exchange students. We have further increased the international impact of our doctoral training
+ through leading and participating in the H2020 Marie Curie Initial Training Network (AffecTech,
+ Sas, €3.8M).
+ We have invested significantly in improving processes and activities for PhD students under the
+ oversight of a new Director of Postgraduate Studies role. This role ensures effective progress
+ monitoring, training and supervision arrangements, assisted by the Research Committee. Our
+ strategy is to create distinctive opportunities based around research groups with opportunities to
+ work across the PhD cohort including seminars, reading and writing groups, informal talks and
+ informal activities. Our goal is to provide a flexible framework that recognises all students are
+ different and encourages and supports where needed without overly restricting those students
+ that need flexibility.
+ Submission deadlines are set at 4 years for full-time students and 7 years for part-time, with rare
+ exceptions for individual circumstances. We treat these deadlines as a shared responsibility and
+ have created a robust support system for students and supervisors including improved progress
+ monitoring and enhanced access to research training. Student monitoring comprises a set of
+ defined checkpoints, commencing with an initial assessment of the student’s skills and
+ knowledge from which training needs can be identified, followed by a series of progress panels
+ until the student is ready to submit. Each PhD student is appraised every 6 months, with clear
+ guidance on what should be included at each point. This offers:
+       Early thesis planning and completion timelines, along with progress checks during the
+          writing-up period.
+       An appraisal panel of two academic staff, independent from the supervision, and
+          consistent throughout the PhD, to provide extra support. The first panel member is a
+          "subject specialist", assigned to advise on the specific research topic. The second a
+          member of the PGR Committee, to provide more general feedback, ensure consistency
+          and fairness across appraisals in the School, and also feedback issues and concerns via
+          the PGR committee.
+                                                                                                Page 9
+
+
+Unit-level environment template (REF5b)
+         Initiatives aimed at improving the research culture for students included an annual
+          School PhD conference, new seminar series, better representation, and facilitating
+          student-led community activities.
+ A wide range of research training courses are provided including in-house ‘masterclasses’,
+ ‘brown bag’ skills talks and Q&A sessions, short courses, and a wide range of further courses
+ coordinated by the Faculty’s Graduate School (now Doctoral Academy led by Edwards).
+ HighWire introduced, and we retained, a taught component on research methods, ethics,
+ interdisciplinary perspectives and critical analysis, which is now compulsory for all students. Our
+ Graduate Academy in SCC offers vocational experience through short-term consultancy projects
+ with industry supported by KE staff.
+ Research students are actively encouraged to attend conferences, summer schools and doctoral
+ colloquia internationally, and we dedicate research training and travel funds to support this. We
+ organise informal opportunities to meet and exchange ideas, including an annual PhD
+ conference which allows all PhD students to showcase their work and get feedback from school
+ colleagues.
+ All of these changes have helped to improve the research environment for PhD students and
+ also to improve on-time completion rates. Since the new support system in 2016/17 we have
+ since seen an improvement in on-time submission of 14% with 14 of 18 submissions on-time in
+ 2019/20. The success of our strategy and the quality of our students is also evident in the
+ successful completion of 141 FTE PhDs in the REF period (our greatest number to date), and
+ awards such as the 2020 Doctoral Dissertation Award by INNS (Gu), 5 EPSRC Doctoral Prizes
+ and highly competitive internships (at Microsoft, Nokia, Google, Amazon, Philips, Alibaba, ARM)
+ and other destinations.
+ 2.3 EQUALITY AND DIVERSITY
+ The School is committed to the advancement of equality throughout all aspects of career
+ development and has procedures for raising and investigating any issues relating to
+ discrimination. We were awarded Athena SWAN Bronze in 2014, which helped us shape our
+ action plan for taking steps to improve gender balance and diversity. This included reviewing the
+ composition of school committees, hiring procedures, and raising awareness and exploring how
+ we can remove barriers experienced by BAME colleagues. Resulting from this in 2015/16, we
+ defined a new 10-Year People Strategy, and Equality, Diversity and Inclusion is core to this. The
+ people strategy realised the need for a new Athena SWAN Director administrative role linked
+ into key internal committees and directed towards an Athena SWAN Silver application in 2021.
+                 Figure 2: Gender profile by career stage (REF2014 left, REF2021 right)
+ As a result of these initiatives, we advertise widely, and our adverts welcome applications from
+ ‘all diversity groups’, reinforcing our commitment to equal opportunity. Our recruitment materials
+ include a diversity statement and diverse images. Panel chairs undertake ‘unconscious bias’ and
+ ‘recruiting the best training’. This is bearing fruit (Figure 2): we are pleased to see female PDRAs
+ rise from 15% to 21%, female lecturer numbers rise from 13.6% to 17.4%, and we now have 2
+ female professors (13.3%). Professor (Hall) was recruited to strengthen Software Engineering
+                                                                                                Page 10
+
+
+Unit-level environment template (REF5b)
+ and is also Deputy Head of School. Sas was promoted in the period, and notably was also the
+ recipient of a Digital Female Leader Award in the Science category in 2019. There is still a long
+ way to go, but we are pleased with this progress.
+ Our EDI champion created the now vibrant Women@Infolab group to provide community
+ building, mentorship and support for female staff and students in the school. This ensures more
+ effective communication of particular gender related issues and experiences. For instance,
+ resulting from a grass roots initiative, we will be hosting the BCS Lovelace colloquium next year.
+ We have a significant body of early career staff (23 at grades 7/8, 20 under age 40) and have
+ been pleased to support requests for maternity and paternity leave, and adjustments to working
+ hours on childcare related grounds (12 paternity and 5 shared paternity leaves were approved
+ during the REF period). We encourage use of MARS (maternity/adoption research support)
+ funding which provides small grants to sustain research and career progression during periods
+ of parental leave (2 cases so far).
+ Our school comprises staff from a range of ethnic backgrounds (29% BAME). We have been
+ pleased to be able to progress many of our staff in the period, leading to an increase in BAME
+ staff at more senior levels: Senior Lecturer (38.5% from 17.6%) and Professor (26.7% from
+ 23%), Figure 3. We have maintained our proportion of staff with a declared disability (4% of
+ staff, 5% in 2014).
+              Figure 3: Ethnicity profile by career stage (REF2014 left, REF2021 right)
+ Our diversity is further strengthened by our active Visitors Programme. 116 researchers from 26
+ different countries have held visiting positions with the school since 2014, enabling new
+ collaborations and sharing of knowledge worldwide.
+ 2.4 WELLBEING & MENTAL HEALTH
+ Supporting our staff and students’ wellbeing is a growing focus and in 2017 the school created
+ wellbeing officer roles for both students and staff, who now undertake specific training and
+ responsibility as clear point of contact and gateway to professional support where needed.
+ As part of our commitment to the Concordat to Support the Career Development of Researchers
+ we provide all staff with access to confidential professional support through the Employee
+ Assistance Programme and implement the Five Ways to Wellbeing framework, used by the
+ Government, the NHS and charities like Mind.
+ To continue to progress this important area, the school has recently formed a
+ Staff Wellbeing Engagement group, which has been linked through the Institution’s Safety,
+ Health & Wellbeing (SHaW) committee structure, to ensure that as this provision grows, the
+ Institute wide support options and wellbeing resources are made increasingly available.
+                                                                                             Page 11
+
+
+Unit-level environment template (REF5b)
+ 3. Income, infrastructure and facilities
+   Key highlights
+         Sustained growth of research income from £18.8M to £28.5M (51%) over three times
+            the rate of growth of staff FTE (14.3%)
+         Strategic investment in infrastructure via institutes and centres to strengthen
+            interdisciplinarity research
+         Increase in number of academic staff winning at least one project as a PI (73%)
+         Supported >£5M of major fellowships at both senior and junior levels
+ 3.1 RESEARCH PORTFOLIO
+ One of our strategic priorities has been to grow research income and income per head, with a
+ particular emphasis on increasing the number of active PIs, targeting of larger awards and
+ diversifying our range of funding sources. This has been successful: research income has gone
+ from £18.8M to £28.5M, a 51% growth – more than twice the growth rate of staff FTE. The total
+ amount of grant funding awarded during the REF2021 period is £39.4M. This growth included
+ diversification of our research portfolio and has followed the targeting of new strategic areas
+ such as Data Science and Digital Health. Evidencing this, we highlight:
+         Large Awards, e.g. EPSRC funded Senior Fellowship (G. Blair, £2.5M) acting as a
+          springboard for further awards in a new area of environmental data science; EC
+          funded AffecTech (Sas, €3.8M) resulting in multiple award winning publications; the
+          Next Generation Converged Digital Infrastructure project (Race, £2M, £0.9M from
+          EPSRC and £1.1M from BT), instrumental for B4RN impact case study; Towards
+          Ultimate Convergence of All Networks, TOUCAN (Hutchison, £1.2M); Leverhulme
+          Trust funded Doctoral Scholarship programme in Material Social Futures (Harper,
+          £1.4M); and, H-unique ERC (co-I, Angelov, £1.6M) focusing on tackling image based
+          online crime, and widely publicised in the media.
+         Increasing PIs: As a result of our mentoring, support and management programmes all
+          academic staff actively apply for research grants, with ~73% of academic staff winning at
+          least one project as a PI.
+         Sustainability of funding: In REF2014 SCC were the top UK UoA recipient of EU
+          funding. We have successfully diversified our research funding, increasing the share of
+          UKRI awards (from 38% in REF2014 to over 54%). We also draw upon UK Government
+          and charity funding increased from 6.7% to over 22.5% (Figure 4). Direct industry funding
+          has increased 47% since 2014 to 9.5%.
+                                       Funding sources structure
+                           60.00%
+                           50.00%
+                           40.00%
+                           30.00%
+                           20.00%
+                           10.00%
+                            0.00%
+                                      UKRI         EU         UK      Industry
+                                                         Government
+                                              REF 2014  REF 2021
+                           Figure 4: Funding by source (REF2021 vs REF2014)
+ Our growth in research income has provided a solid basis for strengthening our core strategic
+ pillars:
+                                                                                              Page 12
+
+
+Unit-level environment template (REF5b)
+ Interdisciplinary research. Our portfolio mix reflects our strengths in interdisciplinary research
+ including in data science, security and health. Some examples: Gellersen attracted £0.9M of
+ interdisciplinary funding for EPSRC funded Monitoring Dementia with eye movements; Sas has
+ secured £0.8M for work on personal technologies for affective health; Angelov is leading the
+ school’s £1.6M part of the H-unique ERC project which brings together deep learning, image
+ processing, biometrics and forensics to revolutionise identification of criminals from hands in
+ online images; Helal is leading NHS funding of £0.8M for the Connected Health Cities.
+ Our pro-active role in the interdisciplinary Institutes and Centres has been central to increased
+ research funding success:
+          The Data Science Institute - DSI (co-Director: Davies) was founded in 2014 building on
+           Lancaster’s historic strengths in Computer Science, Statistics and Operational Research.
+           It has grown to become one of Europe’s strongest and most diverse single-institution
+           data science communities of over 118 staff and 193 researchers. DSI embraces data-
+           driven challenges across disciplines including the environmental sciences, health and
+           medicine, epidemiology and population health, humanities, sociology and creative arts.
+           Over 5 years, DSI has applied for £128M in grants, securing £23M to Lancaster (£46M to
+           partners); launched our most successful MSc programme; and secured over 200 industry
+           placements yielding over £500K additional funding from companies, e.g. Amazon, eBay,
+           PwC, EY, Santander.
+          Security Lancaster – SL (Suri – co-Director; Race and Prince, Associate Directors) draws
+           together 47 academic staff from all faculties and includes Psychology, Physics,
+           Management, Health & Medicine and Politics, Philosophy & Religion. It creatively
+           challenges the way that individuals, organisations and societies secure and protect
+           themselves with a holistic understanding of security risks from a socio-technical
+           perspective. SL has been instrumental in broadening SCC’s research base, allowing
+           access to both EPSRC and ESRC funds as well as sources that SCC has not historically
+           accessed such as the Home Office, MoD and US DoD. We were approved to host one of
+           8 (now 19) GCHQ Accredited Centres of Excellence in Cyber-Security. SL is home to
+           national/EU research centres and industry accelerators, collectively worth over £20M. SL
+           secured £2.8M in grants, as well as the Greater Manchester and Lancashire Cyber
+           Foundries promoting cyber-security in regional businesses, and latterly the Secure
+           University Enterprise Zone (UEZ). More recently, SL led a successful £3M Security Node
+           on Trustworthy Autonomous Systems (TAS-S) funding (PI: Suri, co-Is: Angelov,
+           Hutchison, Giotsas).
+          The Institute for Social Futures - ISF (co-Director: Harper) brings leading social science
+           and humanities research together with computer, engineering and medical science to
+           develop thinking, visioning, analysis and data relating to the futures we want and need.
+           Harper was a strategic appointment from Microsoft research and is a social scientist by
+           background. ISF has brought in £6.8M; co-leads the £1.5M Leverhulme Doctoral
+           Scholarships programme in Material Social Futures with the Materials Institute
+           (Chemistry, Physics and Engineering) delivering 21 new PhDs over 5 years with specific
+           training to better engage with boards, government, regulators and policymakers around
+           socially contextualised material innovations.
+ Structured for research excellence. By leveraging research groups, institutes and centres, we
+ have created more opportunities to build collaborative and cross-department teams to prepare
+ for research bids resulting in research income growth. The informal mentorship and intellectual
+ life of the Centres and Institutes has been particularly beneficial for early career staff in terms of
+ effective career development. This has led to the securing of major grants and fellowships, e.g.
+ ERC Starting Fellowship (£1.5M, Alexander), EPSRC Early Career Fellowship (£1M,
+ Garraghan), and the Leverhulme Fellowship (£253K, Porter), to date instrumental in promotion
+ cases for Alexander - Professor; Porter - Senior Lecturer.
+ Maximising Impact. Our impact strategy of embedding KE staff within the School, choosing co-
+ located companies based on their synergy with our research, and embedding and supporting
+ impact plans into research projects has resulted in broadened collaboration with UK and global
+                                                                                                  Page 13
+
+
+Unit-level environment template (REF5b)
+  industry. Examples include projects with major partners such as BT (Race), ARM (Wang) and
+  Raytheon (Nagaraja), but also a wide variety of SMEs such as In Touch Ltd, DemoPad Software
+  Ltd, and Quantum Base Ltd. Many of these connections were brokered initially by KE staff.
+  We have maintained strong connections with international companies securing funding from
+  Ford (Angelov), Airbus (Hutchinson), Sony (Gellersen), Microsoft (Finney) and Huawei (Jiang)
+  among others. These projects are instrumental for wider impact, allowing us to leverage
+  research council funding by using industry funding to take research outcomes closer to market.
+  An example of this is the Microsoft-funded project led by Finney which was critically important for
+  the micro:bit initiative (one of our impact case studies). Micro:bit exemplifies the broader, social
+  and educational impact of our research that reached millions of young children in over 50
+  countries3.
+  Another of our impact case studies, B4RN, also highlights our testbed and stakeholder engaged
+  approach to research, in terms of social as well as technical implications. For example, this
+  culminated in April 2020 in a partnership between B4RN and Zykel Communications that bought
+  ultra-fast broadband to 21 primary schools in the North of England enabling them to make use of
+  the latest education technology and software, whilst teachers and students complete work
+  online, attend virtual events, seminars and workshops, and make use of cloud-based resources
+  for the first time. This was invaluable during the COVID-19 pandemic. Commenting on the B4RN
+  connection, a clinical lead for intensive care stated. ‘It has allowed us to work at home when
+  appropriate but still maintain good quality work and information from patient records and
+  particularly scans (which are data heavy) as well as […] ensuring the best clinical advice […] It
+  has been so important to us that we had access to the most up to date publications and
+  research […] online and with fast, reliable access.’
+  3.2 INFRASTRUCTURE AND FACILITIES
+  Strategic investment. The foundation of the Institutes has triggered major strategic investments
+  in staff, estate and infrastructure:
+          The University has funded the DSI administrative staff and appointment of 17 new
+           academic staff including four 50th Anniversary Lecturers and underwriting 0.5FTE of an
+           SCC co-director (Davies). Including administrative andn co-working space for DSI within
+           the SCC building, InfoLab21, co-located with our KE team and our resident companies.
+        Investment in the Digital Health Group (Helal) and two lecturers to complement £41M
+           Health Innovation Campus, co-locating innovative health businesses.
+        The Institute of Coding is a £20M Government investment that has brought together
+           academia, industry and education to boost future digital skills in UK. Our involvement led
+           by Finney (Director at Lancaster), Prince and Friday attracted £581K funding to the
+           School, allowing us to offer new studio led teaching facilities enabling a new more
+           diverse and inclusive minor curriculum for non-Computing majors (L. Blair, curriculum
+           lead at Lancaster).
+        The Wolfson Secure Data Science Infrastructure (SDSI) is co-funded by the Wolfson
+           Foundation and Lancaster University (£1.5M) and scheduled to open in 2021. The SDSI
+           will offer the ability to handle data at a range of government classification levels, enabling
+           research including highly sensitive health, IP sensitive or classified information with
+           appropriate levels of assurance. This will be a unique HEI-based facility in the North
+           West.
+        Lancaster is part of the recently announced Research England Secure Digitalisation
+           Enterprize Zone (SecureD UEZ), which will drive economic growth, create jobs and help
+           businesses develop innovative new products and services. Funding (£1.5M) from UKRI.
+           SecureD UEZ is one of the 20 UEZs nationally.
+  Infrastructure. Our purpose-built building (InfoLab21) offers creative space co-locating
+  academic, research, KE staff and research students in teams. The physical environment
+  supports our collegiate strategy for doctoral and postdoctoral training by providing shared
+3
+  Microbit impact case studies
+                                                                                                  Page 14
+
+
+Unit-level environment template (REF5b)
+ ‘research studio’ space that is office, experimental lab and meeting space all in one. Larger
+ experimental spaces and more specialist research facilities are managed by a dedicated 3
+ person systems team, on site, who support researchers and systems infrastructure throughout
+ project lifecycles. This team are instrumental in helping cost, procure, install and run bespoke
+ research infrastructures, maximising value for money to the institution and our funders.
+ Examples of these facilities include:
+      Virtual server cluster to support bespoke research project and staff VM needs, plus
+         related student projects at undergraduate, masters and PhD levels.
+      A cyber security Industrial Control Testbed for attack detection and mitigation; the Fujitsu
+         Threat lab which includes highly configurable attack surfaces for creating honeypots to
+         monitor network borne and VM staged cyber-attacks.
+      A GPU cluster comprising 110 systems for accelerating deep learning model training and
+         related research into distributed AI performance and energy efficient machine learning
+         strategies.
+      The PCB Fab Lab and two hardware/maker spaces with fabrication and prototyping
+         facilities such as laser cutting and 3D printing.
+      Large research laboratory for hosting for experiments such as Centre of Digital Health’
+         ‘smart house’ prototyping area and LIRA workshop where a range of mobile robots and
+         unmanned autonomous vehicles (drones) are assembled. Used in projects such as the
+         InnovateUK funded £1.3M CTHULHE project (£400K for SCC) that recently
+         demonstrated an autonomous robot for cleaning hazardous industrial waste such as the
+         Sellafield nuclear waste ponds.
+      HCI Evaluation Lab for developing interactive device and AR/VR experiments and
+         conducting controlled studies involving user interaction.
+      A specialist research networking lab for network protocol experimentation, e.g.
+         introduction of programmable and software defined network elements, alternative
+         protocol stacks, or bridging to specialist LoRA and 5G wireless testbeds.
+ Business impact infrastructure. The intentional co-location of businesses and our KE team
+ within the School fosters formal and informal networking and adds significant value to the
+ companies and researchers working together in InfoLab21. Collaboration is fostered via a mix of
+ targeted recruitment and a structured resident company support scheme, where companies
+ entering the facility are required to have a research collaboration plan in place with a named
+ SCC academic sponsor. This structured process has ensured three recent KTPs and directly
+ enabled one of our four Impact Case Studies. During the REF period, co-located companies
+ have hosted over 30 SCC student internships and extra-curricular projects and over 25 projects
+ via other departments at the institution. KE Staff are involved throughout the school’s grant
+ development processes: identifying partners; collaboration opportunities and co-creation of
+ impact pathways. KE staff provide guidance on commercialisation, intellectual property rights
+ and contract negotiation, which is particularly valuable for ECRs when starting out.
+ The School’s Graduate Academy team of 15 staff run a £7.6M portfolio of engagement projects
+ employing analyst developers and utilising paid SCC student placements to support over 200
+ small businesses in Cumbria, Lancashire and Greater Manchester in generating new products
+ and services to evolve and differentiate their businesses. Project staff both re-skill and gain
+ vocational experience whilst also helping regional businesses prosper. At the start of the REF
+ period, the InfoLab21 Strategic Innovation and Support Programme closed having assisted 365
+ companies. The project was the Government’s national pilot in ‘Transformational ICT’ for
+ business and its success went on to embed the Graduate Academy model in a number of
+ projects, including in Lancaster and in Greater Manchester (GM) as part of the GM Cyber
+ Foundry Project.
+                                                                                              Page 15
+
+
+Unit-level environment template (REF5b)
+  4. Collaboration and contribution to the research base, economy and society
+    Key highlights
+         Expanded collaboration and partnership with leading Universities and Industry via
+            projects, institutes and centres (over 50% of outputs co-authored internationally)
+         Leadership and contributions to the research base, including major leadership roles
+            such as IEEE (president-elect); chairing major conferences, and over 20 editorial
+            boards
+         Economic impact via direct industry funded research projects (up from 36 to 74),
+            creating two new cyber-security impact accelerators (Greater Manchester, Lancashire)
+         Social impact via Computing at Schools engaging with over 1,000 teachers, changing
+            computing at school via micro:bit, and enabling rural access with B4RN
+  4.1 RESEARCH BASE: ACADEMIC PARTNERSHIPS AND COLLABORATION
+  One of our research strategy pillars is to build on our long history of national and international
+  collaborations, within and across the discipline, with industry, community, governmental
+  organisations and charities. Partners of our projects include world-leading Universities such as
+  MIT (micro:bit, Finney), Stanford, KTH and University of California (AffecTech, Sas), CMU
+  (Cloudlets, Davies), Cornell and University of Massachusetts (TAS-S, Suri), University of Florida
+  (Royal Society, Angelov), Austrian Institute of Technology (TOUCAN + others, Hutchison), Ford
+  Research and Innovation, Palo Alto (autonomous driving, Angelov).
+  We contribute platforms and datasets to the global academic community. This is
+  exemplified by the release of Wmatrix44 corpus analysis and comparison tool (Rayson), version
+  4 released in December 2018, and a number of public corpus linguistics datasets5. Wmatrix4
+  has 6,828 academic users around the globe and was licenced by successful spin-out Relative
+  Insight to underpin their advertising platform (see impact case study).
+  Contributing to an open and exciting environment for our researchers, we regularly host
+  research visitors including extended stays from senior academics worldwide on sabbatical leave
+  (e.g. from the USA, Australia, Brazil, EU), researchers seconded from collaborating institutions
+  as well as visiting PhD students for a “sandwich” year, e.g. from Spain, Brazil, Slovenia and
+  others. As an evidence of our strong international collaboration and the value of these
+  international collaborations more than half (53.35%) of our submitted outputs are co-authored
+  internationally.
+  4.2 ACADEMIC LEADERSHIP AND CONTRIBUTIONS TO THE RESEARCH BASE
+  We contribute substantially to research community activities and leadership and our academics
+  hold a variety of notable positions. Exemplars include: Helal was member of the Board of
+  Governors of the IEEE Computer Society - the largest IEEE Society. Angelov was Vice
+  President of the International Neural Networks Society (INNS) elected for two consecutive terms
+  (2017-2020) and is a member of the Board of Governors (BoG) of INNS (2014-2023) and was
+  member of the IEEE Systems, Man and Cybernetics Society (201-2017) as well as IEEE
+  Distinguished Lecturer (2017-2020). Suri is Chair of the CIP group of the US Army Research
+  Office, Chair Advisor of the Microsoft Research Advanced Technology Labs; Suri has held the
+  IEEE Distinguished Visitor position since 2019; Cheverst has held the position of ACM
+  Distinguished speaker since 2015. Knowles is a member of the ACM Europe Technology Policy
+  Committee.
+  Editorial positions in journals and chairing major conferences. Our staff make a number of
+  contributions to the leadership of major scientific journals. This includes editor-in-chief of 5
+  journals: IEEE Transactions on Dependable & Secure Computing (Suri), IEEE Pervasive
+  Computing (Davies), IEEE Computer (Helal), Evolving Systems (Angelov), Internet Services and
+4
+  Wmatrix corpus analysis and comparison tool
+5
+  Professor Paul Rayson Datasets
+                                                                                                  Page 16
+
+
+Unit-level environment template (REF5b)
+ Applications (Blair). They also serve on the editorial boards of over 20 further leading journals,
+ including:
+        IEEE Transactions on Cybernetics (Angelov); Big Data (Suri); Cloud Computing (Suri);
+         Wireless Communications (Navaie)
+        ACM Transactions in Human Computer Interaction (Sas); Taylor and Frances Human
+         Computer Interaction Journal (Sas)
+        IEEE Communications and Surveys (Navaie); ACM Computing Surveys (Suri)
+        Personal and Ubiquitous Computing (Gellersen)
+ They serve as editors of three book series on computer science, neural networks and
+ computational linguistics, e.g. Hutchison: Lecture Notes on Computer Science (Springer);
+ Angelov: Proceedings of the International Neural Networks Society (Springer), Rayson: Rutledge
+ Frequency Dictionaries (Taylor and Francis).
+ Significant Conference organisation and chairing roles: General (co-)Chair. School
+ academics were actively involved in organising and co-chairing a number of major international
+ conferences, a representative sample includes:
+        NeurIPS Workshop on Human-Centred Machine Learning, Vancouver, 2019; IEEE
+         Symposia on Deep Learning, SSCI-DL, 2017-2020; INNS Conferences on Big Data,
+         2015-2016 (Angelov)
+        ACM Conference on Ubiquitous Computing, UbiComp 2014 (Friday)
+        International Conference on Smart Homes and Health Telematics, 2014; Digital Health
+         as a Service Symposium (DHAASS), 2019 (Helal)
+        IEEE International Conference on Cloud Engineering (IC2E), 2018 (Suri);
+        ACM SIGCOMM 2018 (Giotsas)
+ Significant Conference organisation and IPC/TPC chairing roles. School academics were
+ actively involved in International Programme and/or Technical Committees Chairing roles. We
+ encourage junior staff to participate in these activities as part of their career development. Some
+ representative examples include:
+        International Joint Conference on Neural Networks, IJCNN, 2016, 2019; IEEE
+         International Conference on Fuzzy Systems, FUZZ-IEEE, 2014, 2018; IEEE International
+         Conference on Intelligent Systems, 2014, 2016, 2020 (Angelov)
+        IEEE/ACM International Conference on Distributed Computing Systems, 2015 (Suri)
+        ACM SIGHI Conference on Designing Interactive Systems, DIS, 2014, 2016, 2019; 2020
+         ACM CHI Conference on Human Factors in Computing Systems, 2014, 2016, 2018,
+         2019, 2020 (Sas; 2019-2020, Knowles)
+        10th IEEE Conference on Cyber, Physical and Social Computing, 2017 (Ni)
+        ACM Conference on Ubiquitous Computing, UbiComp, 2015; ACM Mobile HCI, 2015
+         (Gellersen)
+        IEEE Wireless Communications and Networking Conference, 2014 (Navaie)
+        IEEE XP Conference on Agile Software Development, 2016 (Hall)
+ Other exemplars of specific esteem and leadership include: Queen’s Anniversary Prize (Rayson,
+ 2015); IEEE Golden Code recognition (Helal, 2018); IEEE Outstanding Contributions award
+ (Angelov, 2017), Santander Chair of Excellence, University Carlos III, Madrid (Angelov, 2016),
+ Steering group member Royal Society Digital Technology and the Planet (Friday).
+ 4.3 ECONOMY: COLLABORATION WITH INDUSTRY AND USER COMMUNITIES
+ Collaboration with industry continues to be a key part of our research and impact strategy. The
+ majority of our grants are from research councils with in-kind contribution from industry or from
+ industry direct funding or InnovateUK. The number of research projects directly funded by
+ industrial partners has grown from 36 to 74 during this REF period, with a diverse set of national
+ and international companies such as BT, ARM, Google, Raytheon UK, Ford, Airbus, Sony,
+ Microsoft and Huawei working with us. The close engagement with our research users is pivotal
+ for understanding and impact on vital real-life issues. We often involve user groups from the very
+                                                                                               Page 17
+
+
+Unit-level environment template (REF5b)
+ beginning of our research development, even before a specific project proposal is conceived, to
+ identify problems, requirements, reservations and aspirations to inform the research approach.
+ Engaging stakeholders in our work is critical. Our approach is to integrate the academic and
+ business communities enabling socially, environmentally and economically impactful research.
+ Our KE staff led to generation of £10.5M of the schools’ £28.5M grant income from partners; an
+ average contribution of £1.75Mpa; supported over 60 guest lectures; put 82 MSc students into
+ industrial experience placements; created 50 other industry internships and engaged with over
+ 200 SMEs. Over the same period our co-location facility housed 21 companies, where all
+ resident companies collaborate with academic researchers. This co-location and support directly
+ lead to KTPs focusing on novel security frameworks with Upside Energy (Marneredes);
+ managing flood risk with JBA (Blair); and threat intelligence with Mitigate Cyber (Prince) – plus
+ the foundation of the Greater Manchester and Lancashire cyber-foundry projects, spearheading
+ the translation of cyber-security research into regional companies and beyond.
+ 4.4 SOCIETY: IMPACT, COMMUNICATION AND OUTREACH
+ Much of our research is done in partnership with community stakeholders or with wider societal
+ impact in mind. This is illustrated by the following subset of our activities:
+         Our long running engagement with the BBC, led to our pivotal engagement with micro:bit,
+         as described in one of our impact case studies. Micro:bit is a pocket-sized computer with
+         a very low barrier to entry that has been given to every 11/12 year old child in year 7 or
+         equivalent across the UK, for free. Lancaster, as the only academic partner in the
+         industrial consortium, led the device software component (Finney) and engaging through
+         the programme with 29 partners including Amazon, ARM, Microsoft, Samsung, Barclays,
+         and IET. While the micro:bit programme is important in terms of industrial collaboration
+         and commercialisation, the most important impacts of this project are societal and
+         educational. By engaging early with school age children, we are bringing the next
+         generation of software experts ‘into the fold’ and hopefully helping stimulate a software
+         boom similar to that seeded by the original BBC micro in the 1980s. Our involvement in
+         the development of the BBC micro:bit was covered in 146 media publications/digital
+         articles including major domestic titles such as the BBC, Yahoo, International Business
+         Times, Electronic Weekly, Computer Weekly, Tech Radar, IT Pro, and Reuters reaching
+         an audience of more than 14M. It also received international media attention, including
+         outlets in Germany and India.
+         The H-unique hand-identification project is pioneering deep learning in identification of
+         criminals by the image of their hand. If successful, this project will open the door to
+         prosecuting dangerous sexual predators from the materials they post online, something
+         that is extremely challenging to do using current methods. This work has been covered
+         by 180 media publications/digital articles including the BBC, Daily Mail, Independent,
+         Daily Telegraph, Daily Mirror and many local/regional newspapers across the UK,
+         reaching around 8.5M readers. This research was also the subject of a special BBC
+         Radio 4 documentary called ‘The Hand Detectives’ and was discussed on BBC Radio 4
+         Today programme, the BBC World Service, BBC News Channel (TV), BBC2, BBC 5Live,
+         BBC 6 Music, and BBC Scotland. The research was highlighted on CBC – the Canadian
+         national radio broadcaster as well as on 22 different BBC regional radio stations. The
+         total broadcast reach was in excess of 10.9M.
+         Computing at School Regional Centre. Leading the regional Computing at School
+         Northwest Regional Centres (L. Blair, Director), worked to train regional teachers to
+         promote good Computer Science teaching practice. During this period, we worked with
+         over 1,000 teachers and delivered 4,200 CPD learning hours of training. In addition, we
+         ran annual ‘Girls in Computing’ workshops for 50-60 primary age children; ran a creative
+         A-level workshop for 3 schools on a micro:bit-based Smart City exploring IoT and
+         privacy; an Isaac Computing Discovery Day for 90 15 to 18 year olds in conjunction with
+         the National Centre for Computing Education; and annually run Taster Days, STEM
+         challenge days, Summer Schools and Visit Day activities. This quote represents the
+         significant impact this work has had on teaching professionals at a more personal level:
+                                                                                                Page 18
+
+
+Unit-level environment template (REF5b)
+          “The coordinators were invaluable to me at a time when I did not see a future for myself
+          in a profession that I had been in for over 10 years. Following that meeting and the
+          courses that they provide I have gone on to find a passion for the subject, which I never
+          thought I would be able to do [...] which has now led to me being a master teacher and
+          hub leader.”
+ We identified a need to better communicate with non-technical stakeholders in our previous REF
+ period and have been working to better promote and explain our research, and its value, to the
+ community at large. A number of our staff are now regularly consulted by members of the press,
+ leading to radio and TV appearances. We are proactive in identifying and communicating the
+ stories of our research with support from the University’s Press Office. We communicate
+ frequently to audiences across the globe via a range of TV, radio, and print media including
+ national newspapers such as the Sunday Times, the BBC News website as well as its flagship
+ technology programme Click, Reuters, Wired, and The Economist.
+ Examples include:
+         Institute of Coding was covered in 16 media publications/digital articles including SC
+          Magazine, Insider Media, Times Higher Education, Prolific North, and Gov.uk reaching
+          an audience of more than 1.6M. Our academics often give interviews on national radio
+          such as BBC Radio 5 Live (audience 2M), BBC Radio 4 (audience 3.3M), BBC Radio 2
+          (audience 4.5M).
+         Further exemplars of SCC staff in the media, include comments on the HSBC biometric
+          security (Prince, 2016); Digital memories (Sas, 2016), Dark Web (Prince, 2016),
+          Streaming and energy usage (Hazas, 2018), (Hazas, Giotsas and Widdicks, 2019),
+          Smart wearable technology that detects emotions (Sas, 2019), (Gellersen and Clarke,
+          2017), Data centres’ energy use (Garraghan, 2020). We gave interviews on different TV
+          channels or on hot topics, including BBC (Prince, 2015; Rashid, 2017; Clarke, 2017; Suri,
+          2019, 2020), Sky (Markarian, 2016 and Rashid, 2017, Prince, 2018 twice, 2020), ITV
+          (Rashid, 2017), TRT (Rashid, 2017), Reuters (Karnik, 2016) and CNN (Suri, 2020).
+ Our work has had a wide range of research, economic and societal benefits. We were pleased
+ to have supported a promotion case to Professor with significant societal impact (Finney). We
+ are now helping define University promotions criteria for engagement and teaching promotions
+ pathways in addition to the more traditional research and balanced criteria. We are confident
+ that this potential for recognition will enable research with impact to continue across the school
+ and the institution more broadly.
+                                                                                               Page 19

@@ -1,0 +1,905 @@
+Unit-level environment template (REF5b)
+ Institution: Liverpool John Moores University (LJMU)
+ Unit of Assessment: 11 - Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+ 1.1. Unit context and structure
+ This UOA submission includes the Department of Computer Science, the Department of Applied
+ Mathematics and the Department of Built Environment. The UOA research is structured into two
+ research Centres:
+    PROTECT - Centre for Critical Infrastructure Computer Technology & Protection (led by Shi)
+     The research in PROTECT focuses on trustworthy computer technology for the functional
+     enrichment and security protection of computing systems. The Centre comprises five
+     research groups: Networking & Distributed Systems, Network & Information Security, e-
+     Health Systems, Applied Computing, and Computer Games.
+    DSRC - Data Science Research Centre (led by Lisboa)
+     The work in DSRC advances mathematical methodology and applications. The methodology
+     focuses on the interpretation of machine learning models including interpretation by design.
+     Applications cover specialist expertise in medical imaging, cancer research and
+     mathematical biology, e.g., detection of glaucoma and NMR spectroscopy of brain tumours.
+ This UOA returns 42 FTE Category A staff, of which 31 FTEs are from the Department of
+ Computer Science, 10 FTEs from the Department of Applied Mathematics, and 1 FTE from the
+ Department of Built Environment. Each member of the staff can join more than one research
+ Centre or Group to facilitate cross-discipline research collaborations. Among the staff returned,
+ 26 are in PROTECT, 11 in DSRC, and 5 in both Centres. The Centres give the staff flexibility
+ and support to pursue their own research interests while promoting and fostering a collaborative
+ culture to jointly tackle multi/inter-disciplinary research challenges.
+ In the rest of this document, the common information between the Centres or Departments will
+ be presented at the UOA level without naming them, whereas details about a specific Centre or
+ Department will refer to that Centre or Department.
+ 1.2. Research strategy
+ 1.2.1. UOA aims and strategy for period 2014-2020
+ This UOA was guided by the University and Faculty strategies to deliver impactful research and
+ scholarship during this REF period. Specifically, the UOA aimed to develop collaborative and
+ targeted research of high quality, build critical mass in key existing research areas, and explore
+ emerging topics in the areas for income and impact generation. To achieve this aim, our strategy
+ was to consolidate and significantly expand our research base by nurturing existing academic
+ staff and recruiting research-excellent new staff to increase the quality, volume and impact of our
+ research. This strategy was implemented through the following mechanisms:
+    Encouragement and support for excellent research work enhanced through staff recruitment
+     and aligned with high priority areas, e.g., those identified by the EPSRC and EU, and
+     publishable in good journals and conferences,
+    Inclusion of more academic staff in collaborative high-quality research led by well-established
+     research-active staff,
+    Provision of incentives and support for collaborative funding applications, enterprise activities
+     and impact creation,
+    Promotion of external collaborations and public engagement to widen the scope and
+     identification of research opportunities and dissemination pathways, and
+    Scholarly enrichment of our degree programmes and teaching to keep up with the
+     development of technology.
+ Our research strategy, measures for its implementation and the progress made were reviewed
+ regularly to improve their suitability for the delivery of the UOA research aims. For instance,
+                                                                                               Page 1
+
+
+Unit-level environment template (REF5b)
+ PROTECT successfully retained the Research Centre status following a biennial review by the
+ University Committee for Research and Knowledge Exchange in 02/2018.
+ 1.2.2. Review of the UOA’s REF2014 plan and progress for period 2014-2020
+ The research plan for 2014-2020 presented in our REF2014 submission consisted of two parts,
+ one for PROTECT and the other for Neural Computing Research Group (NCRG, expanded to
+ become DSRC in 09/2016). PROTECT aimed to research underlying scientific theories,
+ methods and mechanisms to support the development of trustworthy computing systems, which
+ resulted in a significant number of high quality publications (e.g., in IEEE Transactions). It also
+ planned to engage with users for impact generation, which led to wider realised impact from our
+ research as demonstrated in the UOA’s impact case studies (e.g., Smart Energy, Smart Care).
+ Regarding the plan to attract funding from sources like the EU and EPSRC, a large growth in the
+ amounts of funding awarded from these two bodies was achieved as detailed in Section 3.1.
+ NCRG maintained its focus on application-driven methodological research, particularly in the
+ interpretation of machine learning systems and its impact on application areas, detailed in
+ Section 1.2.4. This benefited from an increase in critical mass with the appointment of 5 new
+ staff (Ortega - formerly an EU Marie Curie Research Fellow here, Olier, Correa, Siekmann,
+ Czanner-G - formerly a scientist at Liverpool’s St Paul’s Eye Unit).
+ Further evidence of progress is highlighted by the following achievements:
+    Greatly increased REF-able staff: 42 staff including 24 recruited during this REF period are
+     returned in this UOA, representing an increase of 320% over 10 staff for REF2014, which
+     provides critical mass for the research areas covered by the UOA. The increase is the result
+     of fulfilling the University strategy for the significant growth of both excellence and volume in
+     impactful research as well as a consequence of an altered framework for REF2021.
+    Significantly increased research outputs in high-quality journals: 105 peer-reviewed outputs
+     are included in this UOA submission, while only 34 outputs were submitted to REF2014. 104
+     out of the 105 outputs are published in journals with the remaining one presented at a top
+     conference (ACM-SIAM SODA), which shows a slight increase of the journal percentage
+     from 97% for REF2014 to 99% for the current submission. The average impact factor of the
+     journals publishing these 104 outputs is 4.76 that is 28% higher than 3.73 for REF2014.
+     Here, the impact factors were checked using the 2019 Journal Citation Reports published by
+     Clarivate Analytics, five of our REF2021 journal outputs were excluded from the calculation
+     as their related journals (i.e., IEEE TCSS, IEEE T-SUSC and IEEE TETCI) started publishing
+     recently with no impact factors available, and also one of our REF2014 journal outputs had
+     no impact factor. The new average of impact factors indicates that the significant increase of
+     our output quantity is achieved with an increase in quality.
+    Strong research income growth: £4.4m was generated from funding sources such as EPSRC
+     and the EU during this REF period, rising by 300% over £1.1m for REF2014, which was
+     boosted by the considerable expansion of the UOA staff base.
+    Increased PhD awards: 71.5 PhD completions are reported in this UOA submission,
+     showing an increase of 218% over 22.5 for REF2014, which is partly due to our Faculty and
+     University investment in 60 PhD studentships to attract bright students for research.
+    Continued investment in research facilities: £1.1m was spent on the improvement and
+     expansion of research facilities for the UOA research during this REF period, rising by 59%
+     compared to REF2014.
+ The above facts point to an accelerated growth of the UOA research achievements since
+ REF2014, thanks to a culture change with 68% of our academic staff being returned in this REF
+ submission compared with 23% previously. Further details on the UOA research progress are
+ presented below for PROTECT and DSRC.
+ 1.2.3. PROTECT aims and achievements
+ After REF2014, PROTECT was expanded due to the internal restructuring of our Faculty in 2015
+ to include more staff with a wider range of research interests. This allowed the Centre to
+ broaden its research scope from the previous specific area of critical infrastructure systems to
+                                                                                                  Page 2
+
+
+Unit-level environment template (REF5b)
+ the more general area of trustworthy computing systems with the aims stated in the previous
+ section. To manage the research, PROTECT was organised into the five research groups as
+ mentioned in Section 1.1. These groups allowed PROTECT to pool a wide range of expertise to
+ collaboratively address increasingly multi/inter-disciplinary research challenges while
+ accommodating flexibilities for individual groups to pursue their own research interests. This
+ tactical arrangement enabled PROTECT to contribute significantly to the UOA outputs and
+ secure over £3m external funding in this REF period. The following highlights exemplar
+ achievements involving joint efforts by different research groups:
+    Smart network connectivity: Our research in this area focused on building algorithms and
+     frameworks for mobile/wireless networks and systems. For example, the EU H2020 funded
+     Wi-5 project (01/2015-06/2018, link) provided support to this research, resulting in a platform
+     for optimised and automatic connections to improve the efficiency of Wi-Fi services in
+     congested environments (Bouhafs, Mackay, Raschella, Shi). The project results were then
+     extended and evaluated in practical 5G settings (Mackay, Bouhafs, Waraich) through the
+     DCMS (Department for Digital, Culture, Media & Sport) funded interdisciplinary Liverpool 5G
+     Testbed project (03/2018-01/2020, link) for using 5G technologies to improve health and
+     social care services, as reported in the UOA’s ICS3 (Impact Case Study 3 listed in Section
+     1.3.3). The promising benefits demonstrated from the testbed led to a successful funding
+     application to DCMS in 05/2020 for the Liverpool 5G Create project to further develop and
+     widen these benefits (08/2020-03/2022, link).
+    Intelligent systems: Our work in this area was centred on developing machine learning based
+     interdisciplinary techniques to support technology-assisted social care services and wildlife
+     conservation. For instance, our work produced an intelligent technique that uses smart
+     meters to support dementia patients living alone, partly supported by an EPSRC grant
+     (06/2018-07/2019, EP/R020922/1), with a successful clinical trial by Mersey Care NHS
+     Foundation Trust in 2016-2017 (Chalmers, Fergus, Hurst, Mackay). This work won the 3rd
+     prize of the London Innovation Awards in 2015 and attracted wide interests with 11 national
+     press articles and 4 government policy documents as detailed in the UOA’s ICS1. Our
+     research also generated a machine learning based platform for animal identification and
+     classification using camera traps and drones (Fergus, Chalmers), which is the first one made
+     available for wildlife conservation organisations to use via conservationai.co.uk. This work
+     was partly supported by an EPSRC GCRF grant (10/2019-03/2021, EP/T015403/1).
+    Trustworthy services: Our research in this area developed efficient and effective solutions to
+     address trust and security challenges. For example, the EU FP7 funded Aniketos project
+     (08/2010-05/2014, link) supported our work on generating solutions for modelling, composing
+     and validating trustworthy composite services (Shi, Zhou). The modelling results were then
+     used to create a unique 3D security requirements modelling platform (Zhou, Tang, Shi),
+     partly funded by DCMS and Innovate UK (2017), which won the 2nd and 3rd prizes at the UK
+     round and grand final of the China-UK Innovation & Entrepreneurship Competition in 2017,
+     respectively. In addition, the EU H2020 funded Wise-IoT project (06/2016-05/2018, link) and
+     Korea IITP funded TII project (06/2015-05/2018) advanced our research in IoT-based trust
+     models with the results successfully tested in the Spanish city of Santander in 2018 (Lee).
+     The software produced by the TII project was also certified by TTA (Telecommunications
+     Technology Association supported by the Korean government) for commercial use. The
+     models were then extended based on blockchain to address GDPR compliance (Lee)
+     through another Korea IITP funded project GDPR-PIIM (04/2018-12/2020).
+ 1.2.4. DSRC aims and achievements
+ The overarching aim of DSRC remained on interpretation of machine learning, through
+ complementary research in novel methodology and practical application to real-world data. The
+ Centre secured £1.5m grants for research and enterprise. Its research was at the interface
+ between statistics and machine learning, achieving high performance with models understood by
+ end-users. Evidence for this approach is the award for winning a datathon to predict unexplained
+ behaviour in a complex chemical plant (see Section 4.2). Real-world impact extended also to
+ support for SMEs including job creation through the LCR (Liverpool City Region) Activate
+                                                                                               Page 3
+
+
+Unit-level environment template (REF5b)
+ programme (see Section 4.2). Much of the research was closely aligned with external
+ collaborations, including:
+    Novel methodology: This covered three areas. First, we focused on machine learning models
+     that are interpretable by design, relevant for high stakes applications, e.g., in medicine.
+     Nomograms were frequently used in conventional medical statistics and we developed them
+     for SVMs and with so-called Self-Explaining Neural Networks (Lisboa, Olier, Ortega,
+     Jarman). Secondly, through a long-standing collaboration on brain tumour spectroscopy with
+     Carlos Arús at the Universitat Autónoma de Barcelona (08/2013-07/2020), we predicted
+     response to chemotherapy for the first time with this non-invasive method and saw the
+     predictions validated with murine models (Ortega, Olier, Lisboa). Thirdly, a collaboration on
+     drug discovery with Ross King (Alan Turing Institute and University of Cambridge, 10/2013-
+     07/2020) and AstraZeneca (AZ, 10/2015-02/2019) led to novel approaches for QSARs
+     (Olier), which AZ is using to find drug candidates to be repurposed to treat conditions
+     different from those originally approved, potentially shortening the discovery time for new
+     drugs.
+    Clinical decision support: The research aimed to i) optimise the design of ophthalmic studies
+     by improving the sample size calculation, ii) model the noise in measurements from retina
+     and cornea and propose how instruments should be used for diagnosis, and iii) build
+     multivariate biostatistical methods for more accurate and explainable diagnosis (Czanner-G,
+     Siekmann). We improved precision, so minimising patients being wrongly sent for a cross-
+     linking operation (partly funded by the Clinical Eye Research Centre, Royal Liverpool
+     University Hospital NHS Trust, 03/2014-08/2018). In diabetic retinopathy, we developed
+     methods that underpin the decision support system for a national screening programme in
+     China. We also developed a highly accurate interpretable algorithm to detect glaucoma
+     (funded by EPSRC Mathematics in Healthcare Centre, Liverpool University, 11/2015-
+     07/2019) in collaboration with Harvard/MIT. This led to the joint work on early glaucoma
+     diagnosis with Aravind Eye Care System in India, University of Ulster and Lancaster
+     University, featured in “Coming to terms with AI” in Eye News 26(2), Aug/Sep 2019.
+    Drug quantitative systems pharmacology: Our research was to develop innovative methods
+     for pharmaceutical development (Webb, Kelly). We produced computational 3-D spheroid
+     models of liver, backed by a novel experimental rig, which were used by AZ at their drug
+     discovery phase to screen 5000 compounds for hepatic safety, impacting the choice of
+     molecules to progress (see ICS4 for details).
+ 1.2.5. Interdisciplinary research and achievements
+ The above achievements show that UOA staff actively engaged in multi/inter-disciplinary
+ research through internal collaborations among staff in different disciplines and external
+ partnerships. In particular, the nature of the research in DSRC as well as the health and
+ conservation related work in PROTECT is inherently interdisciplinary. The research committees
+ at Centre, Faculty and University levels actively encouraged and facilitated interdisciplinary
+ collaborations, e.g., through joint PhD studentships and grant applications. The technology
+ centres such as Sensor City (a global hub for the development of sensor and IoT technologies)
+ and MTC (Manufacturing Technology Centre) affiliated with the University keenly brought the
+ academic staff and business users together to forge interdisciplinary research partnerships.
+ The above support enabled the UOA to deliver a sizable amount of interdisciplinary work
+ covering various disciplines such as healthcare, conservation, psychology, astrophysics, biology
+ and manufacturing. 39% of the outputs submitted and 60% of our grants include interdisciplinary
+ work. For instance, 12 papers were co-authored by our math staff (e.g., Lisboa) and those (e.g.,
+ Burniston, Robinson, UOA24) in the Research Institute for Sport and Exercise Sciences at
+ LJMU, and an EPSRC funded project (08/2015-09/2016, EP/M029484/1) involved computing
+ (Dobbins) and psychophysiology (Fairclough, UOA04) staff to jointly develop a mobile lifelogging
+ platform.
+ 1.3. Impact strategy
+ 1.3.1. UOA strategy, plans and impact for period 2014-2020
+                                                                                                 Page 4
+
+
+Unit-level environment template (REF5b)
+ Guided by the University and Faculty strategies to deliver impactful research, our UOA strategy
+ for achieving research impact during this REF period was to exploit existing collaborations with
+ known user organisations for impact realisation, encourage the wide dissemination of research
+ results to end users to seek other impact generation opportunities, and provide incentive support
+ to the staff for impact activities. We planned four measures to implement this strategy:
+ a) Identifying and focusing more effort on research areas of impact potential, in which we have
+     strong expertise and existing user connections. This resulted in e-health systems, networking
+     technology and data analytics flagged up as our focal areas.
+ b) Expanding our external engagements by energising research dissemination via multiple
+     means such as conferences and events to seek new collaborators and joint grant
+     applications to widen our impact generation.
+ c) Providing strong staff support, e.g., teaching and administrative workload reduction, funded
+     external conference and event attendances, and promotion rewards, to incentivise and
+     facilitate wider staff participation in impact activities.
+ d) Enhancing our cooperation with enterprise services within the Faculty and University as well
+     as technology centres (e.g., Sensor City and MTC) to take advantage of their large user
+     networks to explore other channels for wider impact opportunity identification.
+ The progress of the above activities was reviewed annually to identify necessary actions to take
+ to ensure the expected growth of the UOA impact that is summarised below:
+    Economic benefits: Our research produced better techniques for solving real-world problems,
+     which were mostly the results of joint projects with users. For example, a user partner of the
+     Wi-5 project mentioned in Section 1.2.3, AirTies in Turkey with over 30 million homes
+     worldwide powered by their technology, adopted the project results to improve their customers’
+     quality of experience (see ICS3 for details).
+    Enhanced public services: Our work on data analytics generated methods for better risk
+     identification and prediction. The UOA’s ICS1 and ICS2 provide detailed examples for the
+     impact generated. For example, ICS2 shows that our joint work with Merseyside Fire and
+     Rescue Service led to reduced fire risks to lives and properties.
+    Technology-assisted wildlife conservation: Our research in this area used machine learning
+     and drone technologies to develop smart animal identification and monitoring services for
+     wildlife conservation. Eight organisations (see Section 4.1 for details) engaged in the research
+     and field trials.
+    Policy and standard engagement: The UOA research generated impactful results. By engaging
+     with government and standardisation bodies as well as the media, the results informed relevant
+     policy making and technical standardisation. The UOA’s ICS1 and ICS3 provide examples. For
+     instance, the work in ICS1 led to 4 government policy documents.
+ 1.3.2. Approach to impact
+ Our research impacts were achieved by exploiting a range of pathways to implement the
+ abovementioned measures a) – d). The impact approaches described in our REF2014
+ submission were adapted and extended to widen our impact activities in this REF period, as
+ detailed below.
+ 1. Targeted impact exploitation through existing user connections: To take measure a) forward,
+ we put particular efforts into advancing our research in two of the identified areas, e-health
+ systems and data analytics, while consolidating our connections with user organisations such as
+ Mersey Care NHS Trust and Merseyside Fire & Rescue Service. The results of the efforts are
+ reported in our ICS1, ICS2 and ICS4.
+ 2. Wider external engagement and collaboration: To implement measure b), we explored the
+ following ways for impact generation:
+ i. Targeted research dissemination: The staff were encouraged and funded for research
+     dissemination via targeted conferences, journals, and public/trade events to seek
+     collaborations. For example, a member of our staff (Merabti) met an attendee at the Wireless
+     Days conference in November 2013. Their conversation led to the conception of an initial
+                                                                                                Page 5
+
+
+Unit-level environment template (REF5b)
+      research idea for collaboration and the subsequent formation of a consortium to successfully
+      bid for the Wi-5 project with user partners to exploit the project impact (see ICS3).
+ ii. Funding applications to work with users: Relevant calls for proposals were disseminated to
+      the staff regularly to encourage them to apply, and the progress and success in funding
+      applications were reviewed and shared with the staff on a bimonthly basis to motivate more
+      applications. These measures enabled user participation in 77% of our external grants.
+ iii. Public engagement: The staff were encouraged to participate in public events and other
+      outreach activities for raising the awareness of issues related to their research. This helped
+      to widen the research impact. For example, our smart meter based work was presented at
+      the IBM think event in 2018 with over 40,000 delegates to promote its importance and
+      potential (link).
+ iv. Influence on public policy and technical standardisation: The staff were motivated to use their
+      research to inform and shape relevant policymaking and technical standardisation to
+      increase the research impact. For example, a standard recommendation (Y.3055) by the
+      GDPR-PIIM project mentioned in Section 1.2.3 was accepted by ITU-T that coordinates
+      international standards for telecommunications and ICT.
+ v. Direct engagement with companies: This allowed the staff to directly interact with users for
+      research dissemination and exploitation. In particular, we placed over 80 second year
+      undergraduates on average per year. This gave the staff opportunities to directly engage with
+      the placement organisations for impact exploitation. For example, the work in our ICS2 was
+      initiated and developed through such engagement.
+ vi. Open source software: The UOA research produced a number of software prototypes.
+      Making them freely accessible helps with their further development for wider impact. For
+      example, the Korea IITP funded GDPR-PIIM project stated in Section 1.2.3 published its
+      software code on GitHub (https://github.com/nguyentb/Personal-data-management).
+ 3. Staff support and reward: Regarding measure c), the staff support mentioned was
+ implemented, which will be detailed in Section 2.1.
+ 4. Enterprise services: To deliver measure d), we worked closely with the University and Faculty
+ for the use of their research and innovation services (see Section 2.1 for details). For instance,
+ we used the services to file a worldwide patent application about our smart meter based work
+ (see ICS1) and carry out an ongoing negotiation with interested parties for joint
+ commercialisation. Moreover, we utilised the technology centres to reach out for wider
+ collaborations. Notably, through Sensor City, we secured our participation in the two Liverpool
+ 5G projects mentioned in Section 1.2.3.
+ 1.3.3. Relationship to case studies
+ This UOA includes the following 4 impact case studies built on the approaches in Section 1.3.2,
+ where a reference like ‘(2.i, 3)’ indicates the use of approaches 2.i and 3 for the related impact:
+     ICS1 Smart Energy, Smart Care: This demonstrates the impact in one of our focused areas
+      in collaboration with Mersey Care NHS Trust (1, 3), wide engagement with the media and
+      government (2.i, 2.iii, 2.iv), and commercialisation efforts (4).
+     ICS2 Fire Prevention and Community Safety: Its impact shows the collaboration with
+      Merseyside Fire and Rescue Service in another focused area (1, 2.v, 3) and the
+      dissemination of fire risk profiles in fire safety communities (2.i, 2.iii).
+     ICS3 Wi-5: It presents the impact generated from projects Wi-5 and Liverpool 5G Testbed
+      (2.i, 2.ii, 3, 4), dissemination and standardisation activities (2.iii, 2.iv), and project open
+      source software (2.vi).
+     ICS4 Improving Drug Safety Screening: 3D – Liver Spheroid Toxicity Model: This illustrates
+      the research impact exploitation with AstraZeneca in another focused areas (1, 2.ii, 2.v, 3)
+      and the dissemination of the results produced (2.i).
+ 1.4. Future research and impact strategy
+ The UOA research and impact strategies and their implementation mechanisms stated in
+ Sections 1.2 and 1.3 will be consolidated to guide our future research and impact planning,
+                                                                                                      Page 6
+
+
+Unit-level environment template (REF5b)
+ management and delivery. We will advance the UOA research and impact aims by broadening
+ our collaborative culture for excellent impactful research, extending the critical mass for higher
+ research productivity and capability to tackle complex multi/inter-disciplinary research issues,
+ and fostering research agility to embrace emerging research challenges and impact
+ opportunities within our expertise areas. More specifically, we will continue our research and
+ impact approaches for developing fundamental solutions and integrating them into impactful
+ applications. Particularly, we will invest more research efforts in the areas of secure technology
+ for 5G and beyond, intelligent and trustworthy e-healthcare systems, and big data analytics in
+ conservation and medicine. These areas fit well with this UOA’s research expertise and
+ interests, still pose significant research challenges, and possess great potentials for wide
+ research impacts. We will also encourage adaptability in our research to embrace new funding
+ opportunities, which will be discussed in Section 3.1. In addition, the research results produced
+ will be used to enrich our degree curriculums for the delivery of cutting-edge and exciting
+ education to our students.
+ 1.5. Open research environment
+ To increase the visibility and impact of our research, the University offers institutional repository
+ services, LJMU Research Online and LJMU Data Repository, for green open access to
+ published research material and data. A designated officer (Dishman) produces a quarterly open
+ access compliance report for each UOA. The reports help the UOA coordinator to monitor the
+ open access status of accepted outputs and take necessary actions to ensure their open access
+ compliance if needed. This resulted in 97% of our in-scope outputs being available in the
+ University’s repository and compliant with the REF open access policy.
+ The University and Faculty also provided funds for gold open access to outputs published in
+ journals such as IEEE Access and PLOS One to widen their dissemination and impact. 10% of
+ our outputs benefited from such open access.
+ Moreover, projects typically create their own websites (e.g., http://wise-iot.eu/en/home/) to
+ disseminate research findings, e.g., through project reports for open access, and share non-
+ private data to encourage further research. Another platform for research sharing is open source
+ repositories such as GitHub for program and data sharing as described in Section 1.3.2.
+ 1.6. Research integrity
+ The University’s Code of Practice for Research specifies the principles, responsibilities and
+ values for research integrity, which the UOA staff are expected to follow. The Code is important
+ for building trust, confidence and accountability in the research conducted in terms of the
+ methods developed, data used and findings derived, while meeting all legal, ethical and
+ professional requirements related to the research. These were embedded into our research
+ output generation and impact exploitation to meet the standards defined in the Code. The
+ support for this included the Code being part of the new staff induction and subsequent further
+ training (see Section 2.1). The staff research conduct was also monitored and reviewed
+ according to the Code as part of the annual PDPR (Personal Development and Performance
+ Review) to promote good practice and address related issues. These facilitated the UOA’s
+ research outputs and impact case studies in compliance with the Code.
+ 2. People
+ 2.1. Staffing strategy and staff development
+ Our staffing strategy is to recruit academic staff based on their ability to meet specific
+ requirements relating to both teaching and research. All candidates are required to outline their
+ potential contribution to research related activity and assessed on their capacity to strengthen
+ our impactful research. A total of 24 new academic staff appointed by the two Departments
+ (Computer Science and Applied Mathematics) during this REF period have been returned in this
+ UOA submission, and 6 of them have participated in funded projects as either PIs or CoIs. 9 of
+ the staff appointments were for the gradual replacement of 9 Category B staff who left due to
+ personal reasons (2) and promotion opportunities (7).
+                                                                                                 Page 7
+
+
+Unit-level environment template (REF5b)
+ The Departments are committed to employ the best available academic staff on an equal
+ opportunity basis regardless of their personal background such as gender and nationality. This
+ has created a diverse international community that helps the Departments to forge international
+ collaborations (see Section 4.1). Currently, 45% of the staff are from other countries across four
+ continents, 12% of them are women, and the average staff age is 45 with 33% of them under 40
+ years old, which provides a reasonable age balance. The Departments also have a succession
+ plan to maintain the age balance in future staff recruitment and give opportunities to mid-career
+ academics to gain knowledge and experience in senior research roles (e.g., research group
+ leaders and centre directors) based on a 3-year rotation. These roles help the staff to progress
+ their careers, while providing stability for the research management of the Departments.
+ The strategy for staff development is to provide a wide range of personal and community-based
+ support mechanisms to meet staff needs at different stages of their careers. These include
+ training support at University level, e.g., an award-winning ACTivator programme provided by
+ the University for staff development, which is an important part of the University’s Strategic Plan.
+ On average, the programme delivers 12 workshops annually, covering a wide range of topics
+ from research integrity and leadership, through funding and impact generation, to IP
+ management. There were around 60 attendances to the workshops by the UOA staff between
+ 01/2016 and 07/2020. At Faculty level, experience sharing workshops are organised 3 or 4 times
+ a year for experienced staff to share their good practice and lessons learnt with other staff in
+ terms of successful grant applications to funding bodies like the EU, EPSRC and Innovate UK.
+ All the UOA staff have benefited from the workshops, e.g., the training helped three ECRs
+ (Dobbins, Tso, Hurst) to successfully obtain and complete their first EPSRC grants. At
+ Department level, two staff away days per year provide skill training, share good experience and
+ promote communication and collaboration for both research and teaching. Also 3 extra staff
+ away days have helped the staff to develop their action plans to raise the quality of their
+ research outputs and impacts.
+ Funding support is also available. This includes covering costs for the staff to attend
+ conferences and networking events to present their research results and seek collaboration and
+ funding opportunities. An annual average of £30k is budgeted for this purpose. Moreover, pump-
+ priming grants are offered at University, Faculty and Department levels for the staff to bid for
+ facilities needed to support their research and teaching. A total of £280k was awarded to the
+ UOA staff in this REF period. To accelerate the staff’s research, both the Faculty and University
+ offer research scholarships to attract excellent students. 60 of our PGR students obtained
+ scholarships during this REF period. To support research impact development, funding is
+ available at University and Department levels for targeted external engagement, which helped
+ the UOA to develop its impact case studies.
+ Additionally, personal support is in place to facilitate the staff in their career development. An
+ annual PDPR exercise provides an opportunity for the staff to work with their line managers to
+ review and plan their academic activities. The research-active staff are recognised by an
+ average reduction of 17% in teaching and administrative workloads. The allowance is even
+ higher for the staff with external funding based on their budgeted time, and also a further
+ reduction of 10% is given to the staff leading impact case studies. These enable the staff to
+ pursue their research and impact agenda often supported by PGR students and/or RAs. There is
+ an internal annual quality review of research outputs and impact case studies, and the feedback
+ from the review is provided to individual staff for quality improvement. To support funding
+ applications, the University’s Research & Innovation Services (RIS) together with the Finance
+ and Faculty support offices helps individual staff to prepare applications and provide post-award
+ support if funded, which are assisted by a Grants and Projects (GaP) system. RIS also runs a
+ biweekly drop-in session onsite before the COVID-19 pandemic and online during the pandemic
+ to advise staff on funding issues. Their services have benefited all our staff with external funding.
+ The information on the grant applications is circulated bimonthly within the Faculty to
+ acknowledge the staff’s effort and encourage more funding applications.
+ To recognise the staff’s achievements and motivate them for more success, award support is
+ offered by the University under its annual Professorship and Readership Conferment scheme to
+ promote those staff with excellent contributions to the University’s research, impact and
+                                                                                                Page 8
+
+
+Unit-level environment template (REF5b)
+ scholarship activities. During this REF period, 7 staff returned in this UOA were conferred as
+ professors (Al-Jumeily and Hussain) and readers (Fergus, Hurst, Lee, Shamsa and Zhou). Along
+ with this scheme, the University runs a biennial professorial performance review to reward good
+ performers and help others for on-going improvements. In addition, there is an annual staff event
+ for the LJMU Vice-Chancellor’s Awards for Excellence in Research, Scholarship & Knowledge
+ Transfer to showcase that such excellence is high on the University’s agenda. For example, Lee
+ received a Vice-Chancellor’s Award for his research achievements, and Hurst an Early Career
+ Researcher Award for Impact, in 2017.
+ To foster a collaborative culture for increasingly multi/inter-disciplinary research in the UOA’s
+ subject areas, community support is essential. This includes a biweekly research seminar
+ programme combining talks in different Departments within the Faculty to allow the staff and
+ PGR students to learn emerging research topics, share research findings, stimulate further
+ studies and promote collaborations. Also, the PROTECT (via its research groups) and DSRC
+ centres organise regular meetings to discuss specific research challenges and gather joint
+ efforts to address them through co-authored research publications and collaborative projects.
+ Moreover, the University affiliated technology centres such as Sensor City and MTC host regular
+ industrial events that provide networking opportunities for the staff to directly engage with
+ companies to exploit collaboration potential. These efforts led to 41% of our submitted outputs
+ with internal co-authors and 80% of our research income involving internal collaborations.
+ For research sustainability, ECR support is important, particularly for helping new staff to
+ quickly settle down in new working environments, integrate themselves into existing research
+ groups/centres, and develop essential academic skills. In addition to all the aforementioned
+ support applicable to ECRs, each new ECR receives initial inductions and handbooks given at
+ both University and Department levels and is assigned a line manager and a senior colleague (a
+ professor or reader) as a research mentor, who offer regular guidance on academic activities
+ and standards expected. The research mentor also helps the ECR to join a research centre(s)
+ and PGR supervisory teams, and participate in collaborative projects, which enable them to gain
+ wider experience in research activities. Normally, ECRs are given higher priorities for pump-
+ priming grants and research scholarship awards, and a special upskilling funding scheme
+ operated annually by the University in recent years allows senior staff to mentor ECRs for raising
+ their competence in REF-able output generation. For example, during this REF period, each
+ ECR returned in this submission received at least one pump-priming grant, 13 of them got
+ scholarships, and 2 secured upskilling grants.
+ Furthermore, new staff enjoy lighter workloads. They are normally assigned only one third of the
+ normal workload in the first year, two thirds in the second year and the normal workload from the
+ third year onwards, which allows them to gradually take on teaching duties while enabling the
+ continuation of their research. A one-year (3 hours per week) postgraduate certificate course on
+ teaching and learning as well as a PhD supervision workshop are delivered by the University to
+ assist them in gaining relevant academic skills, which forms an important part of their career
+ development. Also, the support provided to and the performance delivered by ECRs are
+ routinely monitored for additional assistance if needed. These are considered by probation
+ reviews toward the end of the 3-year probationary period to determine those staff’s suitability for
+ their jobs. All the academic staff apart from one recruited in this REF period successfully passed
+ the probationary period after 3-years employment, and 3 of them obtained funding under the
+ EPSRC First Grant or New Investigator Award scheme.
+ The Research Concordat is also implemented to support the career development of
+ researchers. It operates a robust action plan delivered through a Concordat Task Group and
+ overseen by the University Research, Scholarship & Knowledge Transfer Committee. The Group
+ used a Careers in Research Online Survey (CROS) before 2018, which has been replaced by
+ the Culture, Employment and Development in Academic Research Survey (CEDARS), to identify
+ areas for improvement and take necessary actions to fulfil it. The good performance of this plan
+ was recognised by the EU HR Excellence in Research Award in 2012 that was successfully
+ retained following biennial reviews in 2014, 2016 and 2018. The UOA staff actively participated
+ in and benefited from the scheme, e.g., through the ACTivator programme mentioned earlier.
+                                                                                                Page 9
+
+
+Unit-level environment template (REF5b)
+ 2.2. PGR students
+ PGR student recruitment is crucial to the UOA for the delivery of its research and impact
+ strategies, and is managed by a support team at Faculty level. To recruit qualified students, we
+ advertise PhD opportunities widely through external websites such as www.findaphd.com, the
+ University’s own website, graduate career events and our own undergraduate and masters
+ programmes. Each application received is reviewed by potential supervisors to check the
+ applicant’s qualifications. If qualified, an interview with at least two academic staff is carried out
+ before a place can be offered. On average, the UOA recruits 14 PGR students per year.
+ During this REF period, both the University and Faculty invested significantly in PhD
+ studentships in order to attract high calibre candidates for PhD research. The funding was
+ provided via a number of means from fully funded University and Faculty scholarships, through
+ fee paying only at Faculty level, to match-funded studentships at University and Faculty levels
+ with financial contributions from outside organisations. 60 of our PGR students were funded by
+ some of these schemes.
+ A number of monitoring and support mechanisms are in place to guide PGR students through
+ their study process. For initial support to new students, the University’s Doctoral Academy (DA)
+ runs an induction about PhD research, and the Faculty provides another induction about local
+ research environments and codes of conduct. Each student is then assigned to a supervisory
+ team normally consisting of three supervisors including one experienced supervisor and one
+ ECR for training purposes or a business/industrial partner for practical expertise. They set up a
+ weekly meeting to discuss the research. All the supervisors must complete the supervisor
+ training delivered by the DA. The student is also allocated an office space with a high
+ specification PC and has access to our networking, cyber security and AR/VR research
+ laboratories if needed and the well-stocked University library services including IEEE Xplore.
+ The progress monitoring of PGR students involves several stages, supported by an online
+ progression system (eDoc). Every student submits a registration application approved by the
+ supervisors within the first 3-month enrolment, which is assessed by the Faculty Research
+ Degree Committee (FRDC) including one senior member of the staff from each department.
+ After the registration is approved by the FRDC and then DA, the supervisors undertake a review
+ with the student within the first 6-month enrolment to discuss their research progress and first-
+ year goals. The student then submits a report on their progress and further research plan within
+ the first 12-month enrolment for the first-year review. A review panel including at least two
+ supervisors and an independent assessor appointed by the FRDC holds an interview with the
+ student to examine the quality of the reported work. If the work is considered inappropriate, the
+ student could change the registration to MPhil or terminate the studies. Otherwise, the student
+ remains registered for PhD. During this REF period, 96% of our PGR students successfully
+ passed their first-year reviews.
+ For those students who continue for PhD, there is a subsequent monitoring exercise organised
+ annually by the DA. Each student completes a progress monitoring form with comments from the
+ supervisors, which the FRDC reviews and recommends necessary actions if needed, before
+ passing the form to the DA for further consideration. The arrangement of a PhD viva by the
+ supervisors needs to be reviewed and approved by both the FRDC and DA.
+ Communication support is also available for students to voice their needs. Supervisors
+ normally have regular dialogues with their students in terms of the support needed, which are
+ recorded in the annual progress monitoring forms. There is an elected PGR student
+ representative in each Department, who sits in FRDC meetings and liaises regularly with the
+ research centres’ directors and a designated support officer to discuss the students’ needs. The
+ University runs a biennial Postgraduate Research Experience Survey to collect students’ views
+ on research and support at Faculty level, e.g., with an overall satisfaction of 79% for our Faculty
+ in the 2019 survey. These mechanisms allow students’ voices on their needed support to be
+ heard at different levels for necessary actions to be taken.
+ Community support is an important part of PhD studies. Our Faculty manages a series of
+ biweekly seminars given by PGR students with each presenting a couple of talks within their
+ study period to allow them to share research findings, gather feedback for further investigation
+                                                                                                  Page 10
+
+
+Unit-level environment template (REF5b)
+ and practise presentation skills. The Faculty also organises an annual research student
+ conference including invited keynote speeches, selected student presentations, lively poster
+ sessions and prizes for the best papers and PhD theses to recognise and celebrate the
+ students’ successes and encourage better quality research. For example, 6 of our PGR students
+ won the best PhD thesis prizes between 2018 and 2020. Coupled with this conference, the
+ University runs a DA Conference to widen the dissemination of students’ research
+ achievements.
+ To provide bespoke technical support to students’ research, there is a team of 8 technicians
+ who maintain our research labs and assist individual students in using the lab facilities to
+ conduct their research. The students are encouraged to publish their research findings. The
+ University and Faculty offer travel funds for attending at least one conference by each PGR
+ student during their study period, and extra funding may be available for more conference
+ attendances if their research is related to funded projects. Moreover, the Faculty provides a free
+ English proof reading service to help international students improve the English quality of their
+ theses.
+ Training support for generic skills development is delivered via several mechanisms. The DA
+ runs a Researcher Development Programme covering a wide range of training topics, e.g.,
+ systematic literature reviews, research ethics, technical writing, presentation skills, impact
+ engagement, job application and interview skills. The DA also delivers a training course on
+ teaching and learning, which is compulsory to take by those PGR students who want to support
+ teaching labs and student tutorials. Their departments then make arrangements for them to gain
+ practical experience, which is particularly valuable if the students want to seek academic
+ careers.
+ The above monitoring and support measures led to a significant increase of our PhD
+ completions in this REF period by an annual average of 172% over those for REF2014.
+ 2.3. Equality and diversity
+ The University sets out its commitment and policy to promote an environment where everyone is
+ treated equally and with dignity and respect. It holds an institutional Athena SWAN Bronze
+ award. To raise the awareness and compliance of the policy, the University delivers a series of
+ training workshops and events every year (e.g., 4 in academic year 2020-2021). Each member
+ of the staff is required to complete an online training course on the issues of equality and
+ diversity annually, and the issues also form part of the PDPR exercise. In addition, the
+ Departments operate an open and fair staff recruitment process with at least one female
+ academic in each recruitment panel. These measures have resulted in a diverse staff profile as
+ stated in Section 2.1. Among 42 Category A staff returned to this UOA, 5 are women, reflecting
+ the on-going challenges in female staff recruitment for STEM subjects. One of the 5 women is a
+ professor, representing a higher percentage (i.e. 20%) of professorial promotion than 11% for
+ the male staff. The average numbers of outputs submitted by the female staff and ECRs are 2.2
+ and 2.3 that are 12% and 18% higher than those for the male and non-ECR staff, respectively.
+ 3. Income, infrastructure and facilities
+ 3.1. Income portfolio
+ The UOA strategy for income generation is to align our research with the priority areas of
+ funding bodies and increase our efforts in funding applications. As mentioned in Section 2.1, the
+ UOA staff are well supported and advised by the research and innovation services at both
+ University and Faculty levels to produce funding applications and deliver the ones that are
+ successfully funded. These led to a significant increase of the UOA research income in this REF
+ period with a total of £4.4m up from £1.1m for REF2014, which was achieved by a 200% rise of
+ staff participation in the funded projects.
+ Figure 1 below illustrates a breakdown of our income from different sources for this REF
+ period in comparison with our REF2014 figures. Clearly, the largest income comes from the EU,
+ rising to nearly 8 times higher than our REF2014 figure. The second largest income is from the
+ UK government with nearly 4 times over our REF2014 amount. Also the biggest growth of our
+ income comes from UKRI, showing nearly 47 times higher than our REF2014 figure. However,
+                                                                                                Page 11
+
+
+Unit-level environment template (REF5b)
+ the increase of our income from other sources is much lower with 19%, and the incomes from
+ industry and charities are 4% and 35% less than the REF2014 figures, respectively. This is
+ because funding opportunities from our engagement with these sectors were limited, partly due
+ to the economic uncertainty caused by Brexit.
+ Examples of our main funded collaborative projects with a total budget of over £1m for each
+ include: ANIKETOS: Secure and Trustworthy Composite Services (EU FP7, €9.6m, 08/2010-
+ 05/2014); Wi-5: What to do With the Wi-Fi Wild West (EU H2020, €2.1m, 01/2015-06/2018);
+ Wise-IoT: Worldwide Interoperability for SEmantics IoT (EU H2020, €1.5m, 06/2016-05/2018);
+ Liverpool 5G Testbed (DCMS, £3.5m, 03/2018-01/2020); Liverpool 5G Create (DCMS, £4.3m,
+ 08/2020-03/2022); LCR Activate - Digital Accelerator (ERDF - European Regional Development
+ Fund, £2.1m, 2017-2020, link); TII (Trusted Information Infrastructure): S/W Framework for
+ Realizing Trustworthy IoT Eco-system ( Korea IITP: £5m, 06/2015-05/2018, converted based on
+ 1 GBP = 1,489 KRW on 23/09/2020); and GDPR-PIIM: GDPR Compliant Personally Identifiable
+ Information Management Technology for IoT Environment (Korea IITP, £1.6m, 04/2018-
+ 12/2020). In addition, examples of our EPSRC-funded projects include ‘Using Drones to Protect
+ Biodiversity and Spur Economic Growth in Madagascar’ (£574k, 10/2019-03/2021) and three
+ awards to our ECRs (Dobbins, Tso, Hurst) under the First Grant or New Investigator Award
+ scheme (£100k per project).
+                                Figure 1: Research income and sources
+ The above grants helped to advance the UOA research with significant outcomes in terms of
+ high-quality outputs and impact. These include publications in high-quality academic journals,
+ e.g., IEEE TMC, IEEE TIFS and IEEE TNSM, as evidenced by the UOA’s submitted outputs.
+ The project results were also exploited to create impacts as shown in our impact case studies.
+ It is evident from Figure 1 that we will need to extend our funding sources for future income
+ and impact generation. While endeavouring to sustain and even increase our income from the
+ EU, UK government and UKRI, it is imperative for the UOA to extend its engagement with other
+ available funding bodies. In particular, we will seek further collaborations with charity and
+ industry organisations as only 1% and 6% of the UOA research income come from these two
+ sectors, respectively. As our research is grounded on practical solutions to tackle real-world
+ problems, we will invest more efforts in exploring collaboration opportunities in these two sectors
+ to expand the income and impact of our research.
+ 3.2. Infrastructure and facilities
+ The research infrastructure and facilities supporting this UOA are invested and operated at
+ University, Faculty and Department levels. At University level, LJMU’s document REF5a
+ presents the details of the support provided by the University. The support most relevant to the
+ UOA includes the provision of office space and standard IT services, digital resources like IEEE
+ Xplore and the institutional repositories for open access, and research support (e.g., by RIS and
+ DA) to assist the staff in funding applications and offer administrative support to PGR students.
+ As stated in Section 2, the UOA staff have benefited significantly from the University’s support.
+ In addition, the University invested in Sensor City in partnership with the University of Liverpool,
+ supported by a £10m grant from the Department for Business, Energy and Industrial Strategy
+ and the England ERDF, to create a global innovation hub for sensor technology in 2017. It
+                                                                                               Page 12
+
+
+Unit-level environment template (REF5b)
+ provides the UOA staff with a venue for user engagement and a platform for the joint exploitation
+ of sensor-related applications.
+ At Faculty level, the University allows its QR funding together with other research income and
+ office/lab improvement budgets to be dispersed to faculties. This enabled our Faculty to invest in
+ infrastructure and facilities over this REF period. The main investment relevant to this UOA is
+ three-fold. First, office and lab space in the Departments involved in this UOA was improved and
+ expanded with a spending total of £2.7m. The total space increased by 20% in comparison with
+ that in the previous REF period. Notably, the space for two new labs, LIVE Lab and Machine
+ Learning, was allocated to meet increasing needs for research, impact generation and teaching
+ in usability studies and intelligent systems. Also, the yearly average number of our PGR
+ students in this REF period increased by 32% over the previous REF period. To meet the
+ growing office space demand, the Faculty acquired extra offices and moved all the PGR
+ students there, which in effect added further space to improve the condition of the UOA staff’s
+ offices.
+ Secondly, in addition to the standard IT facilities operated by the University, the Department of
+ Computer Science runs more specialist computing labs with the facilities upgraded normally
+ every 5 years. Similarly, the UOA staff and PGR students have computer facilities in their offices
+ with an upgrade cycle of 5 years. The cost of such facility upgrades amounted to a total of over
+ £1.1m in this REF period. Also, the two new labs have cutting-edge facilities for the development
+ and delivery of immersive, virtual, mixed and augmented reality technologies as well as high
+ performance computers and large data storages for machine learning based data analytics,
+ which costed a total of over £250k. To support individual staff or groups’ research, the Faculty
+ offers pump-priming and capital equipment grants for the staff to apply in order to acquire
+ specialist facilities needed for their research and impact generation. A total of £280k was
+ awarded to the UOA staff over this REF period, e.g., for purchasing cloud servers and mobile
+ devices.
+ Moreover, all the faculty-funded facilities are shared among different departments and
+ research centres to promote cross-subject research collaborations. Notably, the Faculty invested
+ £700k in a much more powerful high-performance computing facility between 2018 and 2019. It
+ comprises 1,280 AMD Rome processing cores in 20 high-density HPE Apollo compute nodes,
+ networked with the high-bandwidth, low-latency HDR Infiniband fabric and supported by a
+ parallel BeeGFS file system with a total memory footprint of 10TB and a long-term storage
+ capacity of 1.5PB. The facility offers excellent capabilities for our UOA staff to conduct
+ computationally intensive data processing experiments.
+ Thirdly, in this REF period, the Faculty invested in setting up a dedicated team of 5 admin staff
+ to support research-active staff in external funding applications, funded project management,
+ staff training and PGR administration. The team liaises between the Faculty academic staff and
+ the University’s RIS and DA to reduce the staff’s administrative workload on funding and PGR
+ related activities and thus give them more time to focus on research matters. The team also
+ works closely with senior research-active staff to review and advise on funding applications. This
+ UOA benefited significantly from the team’s support during this REF period, evidenced by the
+ increased research income and PhD completions as discussed earlier.
+ At Department level, the infrastructure and facilities provided by the University and Faculty
+ were complemented by further pump-priming funding with around £20k per year from our
+ Departments in the last three years of this REF period. This allowed the UOA staff to upgrade
+ facilities in the existing research labs such as those for information security, networking and
+ gaming in order to engage in up-to-date research and impact activities. For example, the
+ facilities provide an integrated environment involving IoT devices, cloud servers and GPU-based
+ computers for research experiments on smart and secure IoT systems, and a 5G testbed for the
+ simulation and evaluation of wireless resource optimisation techniques. There is a team of 8
+ technicians in the Department of Computer Science to provide the operational support and
+ maintenance of all the computing facilities accessible by the UOA staff and PGR students. In
+ addition, there is an annual budget of £30k provided by our Departments for other financial
+ support, e.g., research consumables and travel.
+                                                                                              Page 13
+
+
+Unit-level environment template (REF5b)
+ The aforementioned infrastructure and facilities underpinned the UOA’s impact activities during
+ this REF period. This is because they allowed the UOA staff to develop new expertise through
+ the implementation and evaluation of research findings and then disseminate the successfully
+ validated results to interested research users for impact exploitation. The UOA’s impact case
+ studies demonstrate such links from infrastructure and facility utilisation to impact generation.
+ For fair funding distribution, applications to each funding scheme mentioned earlier are normally
+ assessed by a group of senior staff who have completed the equality and diversity training
+ delivered by the University and form a balanced representation of the applicants. The
+ assessment takes into account factors such as application merits, staff personal circumstances
+ and ECR support for decision making to ensure fair funding allocation and equal opportunities
+ for all. This is then followed by a feedback process to resolve any concerns raised by the staff.
+ To access funded facilities shared by a few users (e.g., the 5G testbed), the sharing is often
+ agreed and arranged among the users themselves. For facilities in high demand (e.g., high
+ performance computers), a set of criteria and a booking system are normally used to ensure
+ fairness in the facility sharing.
+ 4. Collaboration and contribution to the research base, economy and society
+ 4.1. Collaborations
+ The UOA staff have long recognised the growing trend of technological convergence and the
+ important value of collaboration to address multi/inter-disciplinary research challenges brought
+ about as a result of this. Such recognition has been reflected in the UOA research strategy in
+ Section 1.2.1 with a focus on collaboration. During this REF period, a number of measures were
+ taken to facilitate and support collaboration as described in the previous sections. These
+ measures led to successful collaborations at local, national and international levels, which were
+ built on concerted effort and complementary expertise to make more significant research
+ findings and impact as shown in the UOA’s submitted outputs and impact case studies and
+ generate more research income as discussed in Section 3.1. Specifically, these collaborations
+ include:
+    Funded research collaborations: The UOA staff were active in seeking external funding for
+     collaborative research and successful in delivering funded projects, which enabled the staff
+     to collaborate internally and with academic and research institutions worldwide for joint
+     research. 80% and 83% of the UOA income involve internal and external collaborations,
+     respectively. For example, our funded international collaborations include:
+     - 4 European (e.g., University of Cantabria in Spain, and Institut Mines-Télécom in France)
+          and 5 Korean (e.g., Korea Advanced Institute of Science and Technology, and
+          Kyungpook National University) institutions as project partners on the EU and Korea joint
+          Wise-IoT project to build federated and interoperable platforms for secure IoT
+          applications (Lee).
+     - 7 institutions (e.g., SINTEF in Norway, University of Salzburg in Austria, Waterford
+          Institute of Technology in Ireland, and University of Trento in Italy) as project partners on
+          the EU FP7 Aniketos project to develop trustworthy service composition techniques (Shi,
+          Zhou).
+     - 1 institution Universitat Autonoma de Barcelona (UAB) in Spain, supported by projects
+          including EU FP7-PEOPLE TRANSACT (03/2013-02/2017), to investigate novel ways of
+          data representation, e.g., for medical images (Lisboa, Ortega, Olier).
+     - 1 institution Le Quy Don Technical University (LQDTU) in Vietnam through Royal
+          Academy of Engineering and Vietnamese Government funded projects (03/2017-
+          06/2019) to design new intrusion detection methods (Shi, Shone, Askwith, Zhou, Mac
+          Dermott).
+     These funded projects successfully delivered novel techniques and tools and generated
+     research publications to disseminate them. For example, the collaboration with UAB resulted
+     in 12 journal articles (e.g., in PLOS ONE), 8 conference papers (e.g., in IEEE IJCNN) and
+     one book chapter. The collaboration with LQDTU led to a journal publication (“A Deep
+     Learning Approach to Network Intrusion Detection Computational Intelligence for Cloud
+                                                                                                 Page 14
+
+
+Unit-level environment template (REF5b)
+     Computing”, IEEE TETCI, Vol. 2, No. 1, 2018) with 8,900+ views and 130+ citations (link).
+    Research user engagement: The majority of the UOA’s projects involved research users as
+     project partners or advisers to ensure that the project outcomes address their needs and
+     have lasting impact on the improvements of their products or services. This led to
+     collaborations with a wide range of user organisations including large international
+     companies such as NEC, SAP and Samsung. Examples of the user involvement in the
+     UOA’s projects include:
+     - 15 telecommunication operators (e.g., Orange in France, EE in the UK, and Ziggo in
+          Netherlands) as project advisory board members and 3 industrial partners (e.g.,
+          Telefónica in Spain and AirTies in Turkey) on the EU Wi-5 project to develop optimised
+          connectivity for Wi-Fi services, adopted by AirTies to improve their services as detailed in
+          ICS3 (Mackay, Bouhafs, Raschella, Shi).
+     - 7 companies (e.g., Blu Wireless, and eHealth Cluster) and 2 public organisations
+          (Liverpool City Council, and Royal Liverpool & Broadgreen University Hospital Trust) as
+          project partners on the Liverpool 5G Testbed project for improving people’s health and
+          wellbeing, with extra funding to further exploit the project impact through Liverpool 5G
+          Create (Mackay, Bouhafs, Waraich, Raschella, Fergus, Chalmers, Zhou).
+     - 8 wildlife conservation related organisations (e.g., Durrell Wildlife Conservation Trust,
+          BBC Natural History Unit, and Endangered Wildlife Trust in South Africa) engaging with
+          our work on animal detection for wildlife conservation, but unfortunately several
+          scheduled field trials with some of these organisations had to be halted due to the
+          COVID‑ 19 pandemic (Fergus, Chalmers).
+    Interdisciplinary research collaborations: As stated in Section 1.2.5, interdisciplinary
+     research relies on collaborations and forms a significant part of the UOA submission. The
+     last two projects above clearly show interdisciplinary nature, e.g., the work on wildlife
+     conservation involves collaborations among staff in the Department of Computer Science,
+     Astrophysics Research Institute, and the School of Biological & Environmental Sciences at
+     LJMU.
+    Other research collaborations: In addition to internal collaborations, the UOA staff actively
+     reached out to establish collaborations with individual researchers in other institutions
+     worldwide (e.g., in France, China, Korea and Australia) for joint research. This helped to
+     increase the significance of their research findings and thus lead to high quality research
+     outputs and grant awards. For example, 89% and 41% of the UOA’s submitted outputs have
+     external and internal co-authors respectively, and grants such as Wise-IoT involve prior
+     external research collaborations.
+    International research visits: An important measure for promoting fruitful research
+     collaborations is to host research visitors and send staff to visit other institutions to
+     accelerate the generation of joint research publications or funding applications. During this
+     REF period, the UOA staff received 28 research visitors from other countries, e.g., Prof
+     J.D.M. Guerrero from the University of Valencia in Spain (05-10/2013, 05-09/2016), Dr T.
+     Shinagawa from the University of Tokyo in Japan (09/2017), and Dr F. den Hartog from
+     UNSW Canberra in Australia (11/2019). The UOA staff also made 30 visits to foreign
+     institutions, e.g., Kelly to the University of Michigan in the USA (09/2015), Zhou to Zhejiang
+     University in China (07/2018), and Czanner-G to Aravind Eye Care System in India
+     (07/2019).
+ 4.2. Contributions
+ Sections 1 and 4.1 have highlighted the UOA’s research and impact contributions to various
+ disciplines, including national and international priority areas identified by the EU and EPSRC, in
+ terms of advancing state-of-the-art technologies and setting further agendas for sustainable
+ research. Wider contributions were also made during this REF period to benefit different
+ communities and publics from the UOA research. These are illustrated through the following
+ examples:
+    Supported 150 SMEs in the LCR for the technology-assisted improvement of their products
+     and services through the LCR Activate - Digital Accelerator project (Lisboa) mentioned in
+                                                                                                Page 15
+
+
+Unit-level environment template (REF5b)
+     Section 3.1, which created 70 gross jobs and generated £2.7m in GVA for the local economy
+     based on a beneficiary survey (link).
+    Organised a British Council funded Newton Researcher Links Workshop on Health and Well-
+     being through VR and AR in China on 27-30/06/2018 (El Rhalibi, Kolivand, Shen) to help
+     ECRs to explore research collaboration opportunities, with 20 participants from each of the
+     UK and China (link).
+    Produced a VR proton beam therapy unit in collaboration with Interserve and Christie
+     Hospital Manchester (Hurst, Shone, Tully), which was partly supported by the Innovate UK
+     ProAccel project (12/2017-05/2018, link) and played by the mayor of Manchester and 500+
+     visitors on the opening weekend (07/2018) of the hospital’s new Proton Beam Therapy
+     Centre (link).
+    Applied the UOA’s pedagogical research in network security to ease students’ difficulty in
+     studying the topic by producing and releasing a series of story-based animations about
+     network security protocols (Kifayat, Shi, Shone) on YouTube (link), which was funded by the
+     UK Higher Education Academy (11/2015-02/2017) and received a total of 44,000+ views
+     (available on request due to changes to some view numbers) since 02/2017.
+    Developed an AR application for life-science education in collaboration with Aberdeen
+     University and Imagin3D (Hurst, Tully), which appeared on BBC News Scotland and a front
+     cover of Physiology News Magazine (link), is now used for teaching first-year biology
+     students at Aberdeen University and shown to school children (link).
+ In addition, the UOA staff actively contributed to a wide range of other academic activities in
+ terms of community engagement and leadership. These include:
+    Advisory/standardisation boards: 35 roles were contributed by the UOA staff. Examples
+     include Vice-Chair for Marie Skłodowska-Curie Actions-Individual Fellowships (Lisboa, 2018-
+     2020), Chair/Co-Chair of H2020 Expert Advisory Group for SC1: Health, Demographic
+     Change and Wellbeing (Lisboa, 2014-2018), Vice Chair for H2020 FET-OPEN (Fergus,
+     2016-2020), and Chair of ITU-T Focus Group on Data Processing and Management (Lee,
+     2015-2020).
+    Prizes/awards: 20 awards were given to the UOA staff, e.g., the best papers at IEEE ICME
+     2018 (Sheng) and IEEE iThings 2017 (Yang), one of the two winners of a datathon with a
+     shared prize of €50k organised by national oil company Galp in Portugal in 11/2019 (Olier),
+     and the 3rd prize of the London Innovation Awards in 2015 (Chalmers, Fergus).
+    Research fellowships: 2 grants were awarded to the UOA staff. Ortega with the support of
+     Lisboa secured an EU Marie Curie Research Fellowship (10/2013-03/2016, €231k). Kelly
+     was awarded an early career mini fellowship by the In Vitro Toxicology Society (IVTS) (2015,
+     £1,500).
+    Journal editorships: 22 roles were held by the UOA staff. Examples include Academic
+     Editors in PLOS ONE (Ortega and Olier, 2018-now), Associate Editor in BMJ Open
+     Ophthalmology (Czanner-G, 2016-now), and Associate Editor (Yang) in IEEE JTEHM (2018-
+     now) and IEEE Access (2018-now).
+    Conference/workshop chairs: 58 chair positions were served by the UOA staff, including
+     T6 Programme Chair of IEEE CCNC (El Rhalibi, 2017-2018), Programme Chair of IEEE-
+     CIBD (Lisboa, 2015), Series Co-chairs of IEEE DeSE (Al-Jumeily and Hussain, 2007-now),
+     and General Chair of TENAS (Pereira, 2014-now).
+    Keynotes/invited talks: 142 speeches were given by our staff. For example, keynotes
+     include IEEE ICCT 2015 (El Rhalibi), IEEE ICDM 2016 and IDEAL 2019 (Lisboa). Talks were
+     given at Microsoft Research (Savoye, 02/2016) and MIT (Czanner-G, 09/2017, 06/2018) in
+     the USA as well as Westminster Sustainable Business Forum (Chalmers, 07/2016).
+    Journal editorial boards: 21 memberships were taken up by our staff, e.g., Applied Soft
+     Computing (Lisboa, 2013-2015), Graefe’s Archive for Clinical and Experimental
+     Ophthalmology (Czanner-G, 2012-now), and Biosensors & Bioelectronics (Lee, 2018).
+                                                                                             Page 16
+
+
+Unit-level environment template (REF5b)
+    Conference committees: 60+ memberships were served by the UOA staff. Examples
+     include SIGGRAPH 2016 (Savoye), CGI 2018-2020 (Sheng), IEEE FiCloud 2016 (Pereira),
+     IEEE ICC 2019 (Raschella), and ISCC 2020 (Shi).
+    Paper/proposal referees: 700+ research papers and funding applications were reviewed by
+     the UOA staff, e.g., for IEEE TPDS, IEEE TMC, Neurocomputing, PLOS ONE, ACM TECS,
+     GLOBECOM, IEEE VTC, and funding bodies such as the EU and EPSRC.
+                                                                                      Page 17

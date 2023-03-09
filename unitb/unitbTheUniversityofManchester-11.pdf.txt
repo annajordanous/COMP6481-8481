@@ -1,0 +1,1105 @@
+Unit-level environment template (REF5b)
+  Institution: The University of Manchester
+  Unit of Assessment: 11 (Computer Science and Informatics)
+  1. Unit context and structure, research and impact strategy
+1.i) Research Structures
+Computer Science (CS) is central to modern societal challenges, and UoA11 activity stretches
+across the University. Connections are facilitated by the institutional Digital Futures Platform, a
+network of over 1000 researchers across 30 disciplines. The Department of Computer Science is
+at the core, delivering the fundamental CS that underpins University capabilities: housing 54/58 Unit
+staff, with 4 in the Medical School. In the REF period, income per FTE increased 79%, and Unit staff
+published over 1200 peer-reviewed outputs; partnered with 46 UK universities, and 660 EU
+organisations (e.g. contributing leadership in the EC FET Flagship Human Brain Project) and
+received 14 competitive fellowships, including an RAEng 10-year Chair, a RS Wolfson Research
+Merit Award, and a UK Parliamentary Fellowship.
+The Department is part of the wider School of Engineering – connecting us to a breadth of expertise
+from electronics to materials, and reflecting our commitment to CS as an engineering discipline.
+Faculty, School and Unit strategies work synergistically to support research and its impact, providing
+economies of scale and barrier-free interactions. We pursue 6 themes: Data Science, Artificial
+Intelligence, Human-Centred Computing, Theory & Foundations, Software & e-Infrastructure,
+and Future Computing – each with an assigned academic lead – with cross-theme support from a
+Director of Research, Impact Lead, Outputs Champion, and Director of Business Engagement. Each
+of our academics self-identifies as a member of (at least) one of 9 research groups, which comprise
+the expertise to pursue our themes: Advanced Processor Technologies, Autonomy & Verification,
+Formal Methods, Human Computer Systems, Imaging Science, Information Management, Machine
+Learning & Robotics, Nano-Engineering & Spintronics, and Natural Language Processing & Text
+Mining. The themes provide breadth, while groups provide depth, supporting subject-specific
+nurturing of talent.
+To bridge disciplines, we support joint appointments (currently 11), channelling impact across
+boundaries. Data Science/A.I.: 4 staff (imaging science) are joint with the Medical School; and 4 joint
+with the Manchester Institute of Biotechnology. Future Computing: 3 staff based in CS, work in
+device nano-engineering (returned with UoA12).
+1.ii) Research Strategy
+In the REF2014 statement, our strategy was to foster a “virtuous circle” of pioneering and
+outward-looking research, illustrated in the figure below.
+                                     Pioneering ideas, setting the agenda,
+                                and solving hard problems, within the discipline
+                             Outward-looking research, engaging in knowledge transfer,
+                                and tackling grand challenges, beyond the discipline
+                                                                                               Page 1
+
+
+Unit-level environment template (REF5b)
+The plan for the REF period named 5 actions, for which we now review outcomes:
+   promoting studentships within the virtuous circle: Of 245 current PGRs, 15% are co-
+    supervised by other Units, facilitated by 4 interdisciplinary doctoral programmes (fuelling
+    outward-looking research). The Unit spent GBP5,500,000 (see 2.viii) to support 178 PGRs
+    unrestricted in topic, fuelling either outward-looking or pioneering research
+   encouraging models of collaborative research: We promoted a range of collaboration through
+    pursuit of diverse funding: e.g. UKRI (104 projects overall including 4 programme grants), EU
+    (52 projects); KTPs (12); and CASE/iCASE studentships (14).
+   engaging with our industry club: Our Industry Club has 200+ organisations (double 2014).
+    This provides PGR recruitment pathways, and new research (e.g. we initiated a 5-year BBC Data
+    Science Partnership, raising challenges in ethics, data science, and psychology).
+   supporting sabbaticals and extended visits: Our flexible processes (2.iv) mean we regularly
+    achieve our target of 10% of academics on sabbatical: many industry or public sector, e.g. one
+    impact case builds on a sabbatical at NASA.
+   encouraging different forms of dissemination: Our research was profiled at high-profile
+    events (e.g. BlueDot 2018-19), TV, media and local events (4.iv).
+To ensure critical mass covering both directions around the circle, we invested to link our themes:
+   Data Science/A.I.: Following a worldwide talent search, Kaski took up a “President’s Chair in
+    A.I.”, and a role as Research Director for the UoM Christabel Pankhurst Institute for Health
+    Technologies. This is a prime example of the virtuous circle – Kaski, well-known for
+    fundamental ML, now leads research in an institute with focus on applications.
+   A.I./Human Computing/Theory & Foundations: We built cross-theme bridges by hiring
+    Cangelosi in cognitive robotics, and Fisher/Dixon/Dennis in verification of robotic systems. This
+    includes a RAEng 10-year Emerging Technologies Chair (Fisher), developing automated
+    reasoning theory (pioneering) applied to responsible autonomous systems (outward-looking).
+   Theory & Foundations/Future Computing: Building links to the UoM Digital Trust & Security
+    Initiative, we recruited to grow cyber-security: in pioneering theory (Lammich) and outward-
+    looking applications in UAV firmware security (Cordeiro), and secure networks (Mustafa).
+   Future Computing/A.I.: 5 new academics including Petoumenos, using Deep Learning for
+    compiler analysis (pioneering); and Rhodes, developing computational neuroscience models
+    on our ground-breaking SpiNNaker machine (outward-looking).
+   Human Computing/Software & e-Infrastructures/Future Computing: “People-Data-Chips”
+    was an integrative initiative in ubiquitous computing, hiring Kotselidis/Clinch/Freitas. Kotselidis is
+    now 0.5FTE industry (3.v), and Freitas is 0.5FTE with the UoM Cancer Research institute, both
+    closing the virtuous circle again.
+These actions enabled significant outputs, where the virtuous circle is evident.
+As examples of pioneering ideas within the discipline: In our A.I. theme, Kaski contributed a
+new Deep Learning paradigm for differential flows that learn stochastic differential equations. In
+Future Computing, Koch developed the first method to detect malicious FPGA configurations by
+directly investigating binaries – the security patches adopted by Amazon Web Services. In Theory
+& Foundations, Cordeiro developed the first algorithms to verify multi-threaded software using
+shared-memory synchronization, identifying previously unknown vulnerabilities in Intel firmware.
+Voronkov/Reger made major advances in first-order logic theorem proving, implemented in the
+award-winning Vampire theorem prover - established as the world’s most powerful (with CASC/SMT
+competition victories and industrial deployment) theorem prover for first-order logic – with
+implications for adjoining areas such as verification and program analysis.
+                                                                                                 Page 2
+
+
+Unit-level environment template (REF5b)
+As examples of outward-looking research: In Future Computing, Rhodes/Furber demonstrated
+the world’s first real-time simulation of a cortical microcircuit with over 300 million synapses, utilising
+our million-core SpiNNaker neuromorphic machine. Bridging our Future Computing/Theory &
+Foundations themes, Korovin developed the world’s first implementation of a non-deterministic
+Turing Machine using DNA, confirmed with in-vitro molecular biology. In A.I., Cootes/Lindner
+transformed the challenge of shape model-matching in medical images – the methodologies were
+commercialised and form an impact case, focusing on bone fracture assessment. In Human
+Centred Computing, Jay developed ECG visualisations for diagnosis of life-threatening conditions
+by non-specialists: subsequently shortlisted for the Parliamentary and Scientific Committee’s STEM
+for Britain Awards.
+What we learnt: The “virtuous circle” works well as a high-level strategy. However, a finer-grained
+approach is necessary to have continued meaningful influence on our environment. In the period,
+our strategy has evolved with time, maintaining the “circle”, but expanding its influence.
+In the REF2021 period, our major policies/initiatives/actions can be summarised as following a set
+of guiding principles, which also form the basis for our future strategy. These articulate our vision
+for what it means to be a world-class environment, and are intentionally light-touch, and “people-
+focused”. These align with University priorities (e.g. parity of support/esteem between research
+discovery/application, see REF5a 2.iv). Throughout this document, we highlight (where not self-
+explanatory) how the Principles were implemented.
+Principle 1: Critical Mass & Complementarity. Ensuring we have an appropriate spread of
+intellectual capital to solve hard CS problems, tackle interdisciplinary grand challenges, and grow
+future leaders for both. For example: our recruitment strategy (2.i) targets individuals to naturally
+interface with colleagues across the new UoM Engineering structure (REF5a).
+Principle 2: Empowerment & Support. Ensuring our researchers feel trusted, with the weight of
+the University behind them, with the time/motivation to take our Unit in new directions. For example:
+our duties assignment process supports short-notice secondments; the approval process for PGR
+training funds (2.x) encourages autonomy (empowerment), whilst mentoring/training (2.iii) provides
+essential ECR support.
+Principle 3: Ambition & Curiosity. Ensuring we tackle ambitious real-world and interdisciplinary
+challenges, targeting “quality over quantity”, whilst also valuing curiosity-driven research with no
+short-term application. For example: we have increased interdisciplinary PGR activity, and promoted
+the “quality-over-quantity” agenda for all, with emphasis for ECRs as they launch careers.
+Principle 4: Responsibility. Ensuring our environment fosters open research and reproducibility,
+and is committed to equality, diversity, and inclusion. We have (i) engaged in leadership of the open
+research agenda; (ii) monitored/maintained EDIA as a key element of hiring policy, taking affirmative
+action where necessary; and (iii) continued to promote open research to all staff.
+The Next Five Years
+The Principles form a framework for future strategy. In the current period, we have made strong
+progress, though we see further areas to address for each.
+In Principle 1, we will continue to support our current investments: robotics and formal verification;
+data science for healthcare, and hardware/software security, whilst strengthening capabilities in the
+fundamentals of A.I. via a new pan-University centre exploiting the appointment of Kaski. In
+Principle 2, we will increase ECR involvement in leadership roles, within/beyond the department. In
+Principle 3, we will exploit the new UoM Engineering structures, increasing engagement in cross-
+disciplinary challenges. In Principle 4, we will pro-actively seek to recruit individuals with “non-
+traditional” career paths, bringing a diversity of perspectives to the environment.
+                                                                                                  Page 3
+
+
+Unit-level environment template (REF5b)
+1.iii) Fostering Impact
+Our strategy is founded on collaboration (exemplars in Section 4) and the institutional infrastructure
+for business engagement (3.ii). We support, enable, and incentivise our researchers in as broad a
+range of impact as possible, letting the talent speak for itself – the following actions implement
+Strategy Principle 2 (Empowerment/Support) and 3 (Ambition).
+Support:
+         Shortening Pathways to Impact: The UoM company “Innovation Factory” (IF) accelerates
+         all IP opportunities: e.g. legal issues, and Click2Go, a web-platform for licensing software.
+         The Manchester Enterprise Centre develops/supports entrepreneurship via events/courses.
+         Outcomes: IF assisted in founding 3 Unit spinouts (ExGence, Eurimatics, Data Value
+         Factory); and Click2Go deployed the BoneFinder software (see impact case).
+         Faculty Impact Officers and Business Engagement Teams: The Faculty retains 3 full-
+         time Impact Officers whose duties include liaison between industry/academics at the point of
+         exploitation. The Business Engagement team (3.ii, also REF5a 4.1), provides opportunities,
+         via regular events and connections to major organisations.
+         Strong support for EPSRC IAAs/KTPs as a catalyst for long-term activity, supported by a
+         dedicated Knowledge Exchange team (5FTE) at Faculty level. Outcome: We held 29 IAAs
+         (GBP851,359) and 12 KTPs (100% success rate, total GBP2,610,767, e.g., cross-
+         disciplinary KTP with Bott&Co. Solicitors).
+Enablers:
+         Fostering partnerships: We have long-term partnerships (e.g. ARM, BBC, BAE Systems,
+         AstraZeneca, Pfizer), via one-to-one contacts, and our wider Industry Club activities (e.g.
+         invitations to the PGR Symposium provides opportunities). For academics, this affords
+         collaboration, and for PDRAs/PGRs, a pathway to impactful careers. Outcomes: In the
+         period, 20% of visitors were industry-based, and our club grew from 50 to 200+ members.
+         Releasing time via workload adjustments: We award 0.1FTE reduction for fostering a
+         recognised potential REF impact case, and ad-hoc adjustments for any (non-REF) impact
+         activity. Sabbaticals can be used for impact (2.iv). Outcomes: Embury took two semesters
+         (2018-19) to build relations with ARM, returning with an ARM/RAEng Industrial Fellowship.
+         Providing people & bridging funding: The Faculty funds PDRA “Impact Fellowships”
+         (currently 18, 6-24 months). UoM employs a baseline-funded team of Research Software
+         Engineers (3.ii). Strategic funds are available from Unit or central sources, to bridge PDRAs
+         on flagship projects between contracts. Outcomes: One Fellow supports a potential impact
+         case on virtual reality for amputee rehabilitation. The Unit provided bridging funding for a
+         REF2021 impact case (SpiNNaker), supporting the long-term ambition in the project.
+         Enabling PGRs to play a role: Impact and public engagement are part of PGR training (2.x),
+         and PGR internships are encouraged. Outcomes: PGR Seaton (2015, supervisor Lujan)
+         interned at Oracle, with results built into a product, GraalVM. PGRs also engaged via the IAA
+         account, e.g. Del-Pinto worked at SNOMED International, implementing sub-ontology
+         generation, with the outcome built into the company’s strategic roadmap.
+Incentives: Impact is an explicit factor in promotions (2.ii), and recognition/reward structures (2.vi),
+whilst a culture of supporting the parity of esteem for impact/fundamentals is embedded in all
+departmental communications.
+                                                                                                 Page 4
+
+
+Unit-level environment template (REF5b)
+Future vitality is supported by growing our ability to influence industrially-relevant funding
+programmes (e.g. Goodacre is Challenge Director for UKRI’s GBP75,000,000 ISCF “Digital Security
+by Design”); and attracting researchers with interests in impact, e.g. our staffing strategy (2.i)
+explicitly pursues part-time appointments. Future sustainability is supported by: (i) duty roles for
+impact, e.g. public engagement (Reger/Cordeiro, each 0.1FTE); and Impact Champion (Embury
+0.15FTE). (ii) supporting staff contributions in all areas (REF-eligible or not, see 4.iii); (iii) leadership,
+e.g. Jay in the UKRI Software Sustainability Institute (1.vi).
+Linking Strategies to Impact Cases:
+ -    Biorelate: A programme of research on contextual text-mining (led by Nenadic) was
+      commercialized by a PGR, aided by a GBP10,000 grant from the Manchester Enterprise centre,
+      and Nenadic’s pre-existing partnership with Pfizer.
+ -    SpiNNaker: Original funding (EPSRC) was bridged to the EU funding via GBP250,000 UoM
+      internal impact funding, retaining key PDRAs as they constructed the million-core machine. A
+      sabbatical (2016) for Furber gave time to build up demonstrators for the machine, and
+      SpiNNaker workshops were entirely coordinated by PGRs/PDRAs.
+ -    NASA spacecraft: Barringer (retired) was introduced to a problem in runtime verification of
+      spacecraft command sequences while on sabbatical at NASA. Barringer/NASA co-created a
+      solution, used in space missions that continue to date. Reger (then PGR, now Category-A)
+      contributed the QEA formalism, significantly reducing computational complexity, making it more
+      attractive for NASA.
+ -    Facial Performance Capture: Taylor/Cootes led basic research in face image modelling,
+      stimulated by applications in face recognition, tracking, and synthesis, with early-stage support
+      from IF. PDRA Edwards and PGR Walker led commercialisation of the ideas in two companies:
+      ImageMetrics (both) and Cubic Motion (Edwards), with major impact in films and computer
+      games.
+ -    Improving Healthcare & Animal Welfare: Cootes/Taylor led research stimulated by
+      challenges in medical imaging, on fundamental work for statistical models of shape and
+      appearance of anatomical structures. Its success led to spin-out company, iMorphics, supported
+      by the IF.
+1.iv) Supporting Interdisciplinary Research
+The University supports the Unit via several “Interdisciplinary Institutes” and platforms: some
+physical, some virtual, all resourced with staff-time. The Digital Futures platform (led by Taylor)
+involves Unit members in multiple multi-disciplinary challenges. The Institute for Data Science & A.I.
+cuts across UoM, connecting e.g. Physics and CS, in a Turing A.I. Fellowship (Scaife, UoA9). The
+Thomas Ashton Institute interfaces with the UK Health & Safety Executive (Jay leads on
+Digitalisation of Work; Ananiadou leads A.I. in health/safety). The Christabel Pankhurst Institute (led
+by Taylor/Kaski) channels expertise in A.I. for healthcare technologies.
+The University also enables high-profile partnerships relevant to the Unit: e.g. the
+GBP10,000,000 Smart-City CityVerve project interfaced with local government/SMEs, and a 5-year
+institutional BBC Data Science Partnership (led by the Unit) raises challenges in data science/ethics.
+Within the Unit, our virtuous circle strategy requires that clusters of interdisciplinary expertise be
+sustained and recognised, implementing Principle 3 (Ambition/Curiosity) of our strategy.
+                                                                                                       Page 5
+
+
+Unit-level environment template (REF5b)
+Sustaining inter-disciplinary expertise is enabled by: a recruitment policy (2.i) that supports
+bridging compatible disciplines; a staff development strategy (2.ii) that supports diverse career paths
+(2.v); a sabbaticals policy (2.iv) that supports a range of leave types; an infrastructure for fostering
+partnerships (2.v) to support ambitious new endeavours; a PGR funding model and 4 inter-
+disciplinary doctoral programmes (2.vii, 2.viii) that encourage interdisciplinarity; and our seminar
+culture – 60% of Departmental seminars (from 200+ in the period) were tagged as ’interdisciplinary’.
+Recognising inter-disciplinary expertise is enabled by: our strategy (1.ii) based fundamentally on
+the “virtuous circle”; promotions (2.ii) that explicitly recognise interdisciplinarity and impact;
+reward/recognition structures for all staff/PDRAs/PGRs (2.ix, 3.vi) that value a range of
+contributions; an institutional Open Research Policy (1.v) stating freedom of choice for the
+publication outlet; and ensuring ECRs have sight of interdisciplinary role models (e.g. Cangelosi in
+robotics/psychology; Furber in chip design/neuroscience; Goble in biology/e-infrastructure; Taylor in
+medical imaging/machine learning).
+Evidence of Success:
+     Funding: Awards from 8/9 UKRI councils, and collaborative grants with all UoM faculties and
+         major organisational units.
+     Outputs: We published in journals across 191 Scopus areas, and contributed to the
+         REF2021 return of 7 other UoAs (see 4.i).
+     PGRs: 10 Unit staff co-supervise 29 PGRs in other departments, e.g. Mathematics,
+         Psychology. The reverse is also true: 36/245 PGRs in CS are co-supervised by e.g. Law,
+         Physics. 8 staff co-supervise 10 PGRs beyond UoM, e.g. Edinburgh, ETH Zurich.
+     Leadership: Taylor leads the national UKRI-funded NewMind Technology for Mental Health
+         Network (4.v), building a multidisciplinary UK community of over 450 academics, clinicians,
+         patients, and industrialists. Nenadic founded the UK healthcare text-analytics network,
+         HealTex, with 250+ members.
+1.v) Our Open Research Environment
+The institutional strategy (for details, see REF5a 2.v) is set by the Open Research Strategy Group
+and the Open Research Working Group (ORWG), co-founded/chaired by Jay. ORWG defines
+institutional policy, which states that (i) outputs will be as open as possible, as early as possible; (ii)
+researchers have freedom of choice for the publication outlet; and (iii) the University is committed to
+responsible metrics. The policy implements the F.A.I.R. principles, constructed by an international
+consortium where the Unit (Goble) was a contributor.
+Open Access is an institutional commitment, with library staff supporting the procedures. Web-
+based systems enable depositing outputs, paying fees, and managing embargoes. Institutional
+spend on Gold OA for the Unit was GBP165,022. The UoM OpenAccess+ scheme uses a Media
+Team for press releases and professionally edited articles (e.g. The Conversation).
+Our staff support and lead Open Research: Locally: Our MSc/PhD programmes have open
+research and reproducibility embedded in the curriculum. Nationally: We play key roles in the UK
+Software Sustainability Institute (co-founder: Goble, Research Director: Jay). Internationally:
+Harper founded the ACM Emerging Interest Group on Reproducibility; Goble is UK representative
+on the European G7 Open Science Working Group, and sits on the UK Open Research Data Task
+Force.
+                                                                                                 Page 6
+
+
+Unit-level environment template (REF5b)
+1.vi) Ensuring Research Integrity
+The Institution maintains a Code of Good Research Conduct, articulating our commitment to
+research integrity, mirrored by a Code of Practice for Investigating Concerns on the Conduct of
+Research – ensuring strict but fair investigatory procedures (REF5a 2.v). The overall approach is to
+raise awareness and monitor compliance.
+Maintaining ethical standards.
+        Awareness: a 3-hour Research Integrity course (renewed every 3 years) is mandatory for
+        PDRAs/academics, with PGR training (2.x) provided by the Unit. A quarterly University-wide
+        Ethics e-Newsletter, and (in the Unit) a monthly staff newsletter highlights relevant events.
+        Compliance: Research Ethics Committees (REC) are in place across the Institution,
+        reporting to the University REC (UREC). Departmental Leads (Vigo/Clinch 0.1FTE) act as
+        gateway to procedures. There are five levels of approval, from departmental (low-risk PGR
+        projects), to UREC (high risk, staff/PGR), to national regulations (including NHS REC). The
+        Unit processed 184 applications (161 approved) 2014-20, at all levels, supported by a
+        bespoke online ethics system.
+Meeting legal obligations.
+        Awareness: Training (mandatory for all academics, renewed biennially) includes: Export
+        control (2 hours), Information Security & Data Protection (1 hour), EDIA (3 hours). Data
+        Management: All proposals are required to engage in Data Management Planning
+        (supported by the Library) via dmponline.ac.uk.
+        Compliance: The Research Lifecycle Project (3.ii) includes enterprise-grade systems for
+        confidential data, requiring the highest security. Data Sharing: The central legal team
+        coordinates NDAs/data-sharing contracts — e.g. recent arrangements include AstraZeneca,
+        Oracle. Employment Law: All staff involved in PGR admissions and any recruitment panels
+        must take an Unconscious Bias training course.
+Exemplars of Contributing to professional standards:
+       In programming languages, Pop sits on the OpenMP Language Standards Committee.
+       In robotics/ethical autonomous systems: Fisher is a member of the BSI’s AMT/010/01
+        Ethics for Robots and Autonomous Systems standards committee. Work by Dennis/Fisher
+        was cited in BS8611 (“Guide to the ethical design and application of robots and robotic
+        systems”), the first published standard related to robot ethics.
+       In web-accessibility, Harper is a member of W3C WAI Coordination Group.
+       Jay led the Software Sustainability Institute on REF2021 software guidelines (4.v).
+                                                                                                Page 7
+
+
+Unit-level environment template (REF5b)
+  2. People
+Staffing Strategy and Staff Development
+2.i) Staffing and Recruitment Strategy
+We seek researchers from a range of backgrounds, guided by 4 processes, each of which is derived
+from one of the 4 research strategy principles.
+-    Develop/maintain critical mass (implements Principle 1: Critical Mass & Complementarity).
+        o Actions: We recognise and build on clusters of expertise: establishing leadership, and
+            ensuring a continuous flow of new talent through succession planning.
+        o Outcomes: New leadership in cognitive robotics (Cangelosi), Machine Learning (Kaski),
+            and computer architectures (Goodacre, 0.4FTE joint appointment with ARM). We
+            ensured a flow of talent by hiring at least 2 ECR academics every year 2015-2020,
+            covering all 6 of our themes). In total 20/58 staff are new in post (14 ECRs) since 2014.
+            We maintained critical mass via succession planning within the Future Computing
+            theme (hiring Rhodes), and in Theory & Foundations (hiring Fisher/Dennis/Dixon).
+-    Seeking input from staff (implements Principle 2: Empowerment & Support).
+        o Actions: The HoD actively solicits input from all staff on our recruitment strategy. When
+            investment is available, the Head of Department (HoD) polls all academic staff on what
+            the ‘Next Big Thing’ will be, and for names of rising stars in their area. All are encouraged
+            to take a role in shaping the Unit, contributing their expertise/experience.
+        o Outcomes: Our People-Data-Chips initiative (1.ii), was suggested by an academic
+            without a leadership role, and recruited 3 ECRs in ubiquitous computing (Kotselidis,
+            Clinch, Freitas) who all secured external PI funding within 2 years of appointment.
+-    Bridging compatible disciplines (implements Principle 3: Ambition & Curiosity).
+        o Actions: We use strategic hires to bridge clusters and avoid ‘sole-traders’, through e.g.
+            advertising complementary new posts simultaneously.
+        o Outcomes: In 2017 we bridged cyber-security/formal methods by hiring Cordeiro and
+            Lammich. In 2018 we hired Cangelosi in cognitive robotics, naturally interfacing with the
+            new UoM Engineering structures. In 2020, activity in robotics and formal verification was
+            bridged by hiring Fisher/Dixon/Dennis.
+-    Pursuing equity in applications (implements Principle 4: Responsibility).
+        o Actions: All academic job postings are run through software to identify gender-biased
+            language. All shortlisting uses a ‘second-look’ policy to ensure equitable reasons for
+            inclusion/exclusion. All panels involve at least one female academic, and all undergo
+            mandatory EDIA training. Part-time appointments are considered for all posts and
+            explicitly pursued when appropriate (e.g. personal reasons, or to maintain industry roles).
+        o Outcomes: Our Category-A gender profile (at the census date) is 26% female, versus
+            22% nationally (source: 2019 HESA centre 121), and 30% of all in-period appointments
+            were female. The breakdown by gender profile is below. At the census date, among all
+            research and academic staff, 19% are BAME – compared to 14% in the UK working
+            age population (source: BCS Diversity Report 2020).
+                                    FTE        Headcount        #male : #female        % female
+              Lecturer              13.3            14                9:5                 36%
+          Senior Lecturer           14.9            16                13 : 3              19%
+               Reader               4.8             5                 2:3                 60%
+                 Prof               20.1            23                19 : 4              17%
+                 Total              53.1            58               43 : 15              26%
+To ensure long-term critical mass (Principle 1) and provide career stability (Principle 4), we have
+no short-term Category-A contracts.
+                                                                                                   Page 8
+
+
+Unit-level environment template (REF5b)
+2.ii) Staff Development
+Our staff development strategy (see also PDRA-specific support in 2.iii) pursues three goals, that
+emerge from our guiding principles.
+     to identify/support upward trajectories (P2: Empowerment): We recognise that our variously
+      talented staff benefit from specific resources to continue their trajectory. This is enabled via
+      regular appraisal, mentoring, and support to pursue fellowships (e.g. feedback rounds on drafts,
+      and mock interviews).
+    to actively consider ‘growth opportunities’ at critical career points (P3: Ambition): When
+     career-defining opportunities arise, individuals benefit from specific encouragement/support
+     breaking into leadership roles. This is enabled via interlinked senior staff meetings (e.g.
+     Promotions Committee makes recommendations to Duties Allocation committee, which assigns
+     leadership roles and in turn recommends sabbaticals to the Leave of Absence Committee (2.iv).
+    to ensure diverse career paths are recognised (P4: Responsibility): Excellent people come
+     from a wide range of backgrounds, and many have non-traditional career paths. Recognising
+     this, recruitment and promotions policies acknowledge a range of contributions.
+Further details on how the strategy is implemented:
+Mentoring is mandatory for ECR academics, via trained staff balanced in gender/seniority. Many
+ECRs benefit from early/mid-career mentors, who have empathy with their situation. The University
+“Manchester Gold” scheme provides cross-discipline mentoring , matching junior/senior staff (e.g.
+Cangelosi mentors a UoA12 PDRA). Appraisal/individual development needs are supported via
+line managers in annual Performance & Development Reviews, offered to all academics/PDRAs.
+Individual ambitions and training needs are discussed, and action plans agreed. This is iteratively
+refined, and reported back to the Probation Committee (for ECR academics) and to the HoD.
+Fellowship eligibility/deadlines are tracked (see support teams in 3.i), and cases actively solicited.
+Probation lasts 3 years: specific tailored objectives are agreed during induction, discussed annually
+with managers, reviewed by the Department Promotions Committee. Expectations are set at Faculty-
+level, in 4 categories: (Research, Teaching, Knowledge Transfer, Service/Leadership), with precise
+wording, e.g. “Submission of at least one research proposal per year that achieves good reviews”.
+Promotions are considered annually, assessing 4 areas: research, teaching, service/leadership,
+and knowledge transfer – where parity of esteem is emphasised. Expectations have unambiguous
+language and measurable outcomes. Two meetings consider cases and provide feedback; each
+applicant has an assigned “shepherd” from the committee, to develop their case. As some
+demographics tend to underestimate their chances, the committee actively solicits cases. Off-
+schedule one-off pay increments are possible under a separate “Rewarding Exceptional
+Achievement” policy, for any academic/PDRA.
+Training: The VITAE Researcher Development Framework maps directly to a portfolio of 38 courses
+(1-5 hours each) across 5 areas: Career Management, Research & Enterprise, Communication,
+Leadership & Management, Teaching & Learning. UoM holds a European Commission HR
+Excellence in Research Award for the Concordat Implementation Plan, awarded in 2011, retained in
+2020 after external review. The Inspiring Leaders programme provides 50 hours over 6 months for
+senior leadership. The Unit provides CS-specific training: e.g. role-playing mock EPSRC panel to
+clarify how funding decisions are made. Encouraging female leadership is a priority: four staff (Zhao,
+Jay, Clinch, Batista) were funded for leadership training (StellarHE, AdvanceHE Aurora).
+                                                                                               Page 9
+
+
+Unit-level environment template (REF5b)
+2.iii) Support for Early Career Researchers
+The Unit develops ECRs (PGRs, PDRAs, and new academics) through: (i) training that provides a
+foundation for a diversity of careers; and (ii) the provision of time/resources that launch independent
+research careers – implementing Principle 2 (Empowerment/Support). The Institution assists with
+full implementation of the Concordat to Support the Career Development of Researchers, which
+permeates our environment (REF5a 3.3.2).
+Training: The institutional “New Academics Programme” comprises a mandatory 50 hours (HEA-
+accredited) over 18 months, also available to PDRAs (2.ii). For research, this includes e.g.
+grantsmanship, PGR recruitment. For knowledge transfer/impact: e.g. IP, and public engagement.
+In the Unit, a budget is available for national ECR events, e.g. CHERISH-DE “Digital Economy
+Crucible” (Batista/Clinch). PDRA support: ECR academic, Mustafa, holds a duty (0.1FTE) as
+“PDRA Champion”, fostering a PDRA culture of social/professional development. All PDRAs are
+informed of (and encouraged to participate in) the various opportunities in the Researcher
+Development programme.
+Time/resources: To establish research, new academics “ramp-up” to full teaching/administrative
+duties: initially 40% of their FTE (whether full/part-time), increasing 20% annually. All new academics
+(regardless of FTE or contract) receive GBP5,000 unrestricted funds and a PhD studentship. An
+induction pack welcomes all academics/PDRAs, and an informal but professional culture is
+supported with frequent social events. A bi-monthly ECR Lunch is hosted by the HoD, on themes
+chosen by ECRs: e.g. supervision skills, and managing workload.
+Evidence of success: In the period, we hired 14 new Category-A staff (Lindner, Olivier,
+Petoumenos, Lammich, Rhodes, Mustafa, Cordeiro, Freitas, Kotselidis, Battista, Mu, Clinch, Reger,
+Vigo) All of these obtained funding as PI/Co-I within 2 years of appointment; 5 with competitive
+fellowships (Lindner, Batista, Pop, Mustafa, Petoumenos). Two hold major awards as PI: Cordeiro,
+(EP/T026995/1, GBP1,721,559), Reger (EP/V000497/1, GBP1,034,989).
+Many PDRAs grow careers within the Institution: 5 of our Category-A staff were PDRAs in REF2014
+(Vigo, Kotselidis, Batista, Rhodes, Reger). Others choose industry: e.g. Ghasempour (PDRA 2012-
+15, now Head of Machine Learning, The Hut Group); Sechidis (PDRA 2015-18, now Senior Scientist,
+Novartis); Haines (PDRA 2014, now institutional Head of Research IT, also UK Society for Research
+Software Engineering co-founder).
+2.iv) Policies for Research/Impact/Sabbatical Leave
+The policy: Academics are eligible for sabbaticals of 1 semester after 3 years’ service, or 1 full year
+after 6 years. These are unconstrained; on-site, cross-departmental, or international, and target
+outcomes are broad: e.g. industrial/social impact, grant preparation, or re-focus of research area.
+We allow ‘mini-sabbaticals’ from duties like tutorials/projects, to protect contiguous blocks of time.
+We encourage multi-year leave, e.g. two second semesters, enabling longer-term activity.
+Procedure: Cases are solicited annually, including actively seeking applications, and taking
+recommendations from other senior committees. Cases are prepared with line manager support,
+and reviewed by the Leave of Absence Committee, with membership monitored for diversity.
+Outcomes: 29 took major leave: 13 for a single semester, 16 for a full year, and 10 had ‘mini-
+sabbaticals’. Nenadic took a 2015 sabbatical to shift focus to temporal text-analytics – enabling
+BBSRC grant (GBP730,460, BB/N019547/1) on modelling veterinary health records.
+                                                                                                Page 10
+
+
+Unit-level environment template (REF5b)
+2.v) Fostering Interfaces for Knowledge Exchange
+Our impact strategy (1.iii) is further supported by fostering relationships, via 3 key activities which
+together implement Principles 1 (Critical Mass/Complementarity) and 3 (Ambition).
+        We pursue and maintain strategic partnerships: We engage with both top-down MoUs
+         (e.g. ARM Centre of Excellence) and bottom-up (e.g. personal contacts at local SME,
+         Peak.ai). Our Industry Club is a stepping-stone to deeper relationships – the 200+ members
+         are invited to events (e.g. PGR Symposium) and informed of activity via quarterly newsletters.
+        We recruit from diverse career paths, e.g. 4 academics had industrial careers of 5+ years
+         (Cordeiro, Goodacre, Kotselidis, Rhodes) prior to Manchester, and 5 Category-A staff have
+         joint industrial appointments (Voronkov, Paton, Goodacre, Kotselidis, Pavlidis).
+         Secondments can be taken at short-notice, and duties adjusted – e.g. a short-notice part-
+         time post at ARM Ltd (Brown), led to a patent and investment (GBP50,000) to the Unit.
+        We connect MScs and PGRs to the pipeline: The early stages of a relationship require
+         small-scale interactions, which we achieve by engaging new researchers — in the period 64
+         industry-partnered MSc research projects, and 9 PGR internships, were arranged.
+Further outcomes: We enjoyed major new collaborations with e.g. AstraZeneca, BBC R&D, Oracle
+(4.ii). We hosted 14 CASE/iCASEs (6 in REF2014). We supported the foundation of 3 spinouts by
+staff/PGRs (ExGence, Eurimatics, Data Value Factory), and growth of two others (Cogniscience,
+iMorphics), both of which aided our impact case portfolio.
+2.vi) Recognising, Rewarding, and Supporting Research with Impact
+Details of how we support the achievement of impact from research are in 1.iii, 3.v, and 4.ii. To
+recognise/reward successes, a variety of mechanisms are in place. Examples: In Abstract is a
+Faculty-level web-archive of world-class papers, with press releases curated by Marketing &
+Communications, recognising success regardless of subject. Better World is an institutional
+ceremony for research with social impact, and Postdoc Appreciation Week has web-
+profiles/interviews with PDRAs, and funded social events. Personalised letters from the President
+recognise major successes (e.g. fellowships). In the Unit, the weekly newsletter names and
+celebrates all successes, from PGR prizes to Professorial Inaugurals.
+Our Postgraduate Researchers
+2.vii) PGR Recruitment
+The recruitment of diverse and excellent PGRs is central to our mission, enabled by initiatives which
+implement Principle 1 (Critical Mass and Complementarity) and 4 (Responsibility). These are (i)
+dedicating significant resources to recruitment; (ii) having a diversity of programmes (iii)
+pursuing a diversity of candidates; (iv) achieving the ‘right fit’ through meaningful engagement.
+   (i) Resources: Processes are unified across the Faculty, ensuring applicants can be
+   recommended cross-departmentally. In the Unit, academic roles: PGR Director (0.2FTE), Deputy
+   (0.1FTE), PGR Marketing lead (0.1FTE), are supported by administrative staff, and in-house
+   software to distribute applications, collect feedback, and send out offers. The average time from
+   application to decision is 4 weeks. At institutional level, Nenadic is Faculty PGR Committee Chair.
+   (ii) Diversity of PGR Programmes: We participate in 4 interdisciplinary doctoral training
+   programmes: 4IR-STFC CDT in Data-Intensive Science, ESRC Data Analytics & Society CDT,
+   EPSRC Graphene NOWNANO CDT, and a psychology/robotics programme with the Italian
+   Institute of Technology. A new EngD programme was established (2019), to support PGRs based
+   primarily in industry, and we changed progression timings to support extended internships.
+                                                                                               Page 11
+
+
+Unit-level environment template (REF5b)
+    (iii) Diversity of Candidates: We offer 50+ annual fee waivers for the China Scholarship Council;
+    and UoM advertises 100 President’s Doctoral Scholarships, the first annual round restricted to
+    overseas applicants (10 in-programme). We “grow our own” via Manchester MSc/UG
+    programmes aligning with research strengths; e.g. of 245 current PGRs, 9% came from our UG
+    programme, and 28% hold a Manchester degree (UG/PGT, any discipline). EDIA: Disability
+    Support is advertised widely, and we provide structural adaptations to the environment (2.xi).
+    (iv) Achieving the right `fit’: Virtual and physical PGR Open Days allow candidates to meet
+    staff, and experience the environment before committing. Interviews for all admissions/funding,
+    have a rotating panel of 5 academics (membership, and interviewees, monitored by PGR Director
+    for equity in gender, ethnic origin, and research area). In the period, 15 PGRs have opted for part-
+    time enrolment to suit personal circumstances (9 in-programme).
+Outcomes: Our programmes have attracted applications from all over the world (34 countries;
+normally 70% overseas). In the period, 16 declared a disability, with 7 receiving explicit funded
+support (e.g. screen-readers and adapted office space).
+2.viii) PGR Studentships
+To enable a high-quality, diverse PGR cohort - following strategy Principle 4 (Responsibility) - we
+access a broad range of funding sources, and Departmental funds/fee waivers support PGRs without
+funding. Departmental funds support new academics’ start-up packages, strategically important
+proposals, and areas of research growth. In addition, UoM provides Dean’s Awards and President’s
+Doctoral Scholarships to outstanding candidates, competitive across the University.
+We have taken active steps to grow our PGR activity as a driver for research vitality. At the census
+date the unit had 245 in-programme PGRs (a 91% increase, compared to 128 at the end of the
+previous period – see REF2014 5b). Of these 42 were UKRI-funded: 28 EPSRC CDT/DTP, 11
+EPSRC iCASE (e.g. BAE, EDF), 3 EPSRC CASE; 22 were funded by competitive President’s and
+Dean’s awards, 62 by overseas governments, 7 split-site funded by the Italian Institute of
+Technology, and 44 self-funded. Furthermore, we have significantly increased departmental
+investment in PGRs, with an average spend of GBP836,000 p.a. on a combination of studentship
+fee-waivers and stipends, up from GBP500,000 in REF2014 – a 67% increase. This resulted in
+full/partial funding for 178 of our current cohort, up 254% from 70 in 2014.
+2.ix) PGR Support and Progress Monitoring
+PGR Support
+      Supervisory teams: Every PGR has a main supervisor, one or more co-supervisors, and a
+          cohort advisor. Supervisors monitor technical progress; advisors provide pastoral support
+          with weekly meetings in groups of 6, and on-demand one-on-one meetings.
+         Peer support: All spend their first 6 months in the ‘PGR Home’ area (custom-built 2017
+          GBP60,000); where cross-group cohorts support multi-disciplinarity. Senior PGRs participate
+          in our PGR Mentors scheme, and representatives sit on Staff/PGR committee.
+         Recognising/rewarding success: The PGR Symposium is an annual highlight, with talks
+          by 3rd-years, posters by 2nd-years, keynotes (2019: Simon Segars, ARM CEO), industry
+          prizes (currently IBM Research), and two Professor’s prizes for best paper/thesis.
+         Mental health: In 2018, Research England and the Office for Students awarded funds for
+          UoM’s “Well Bee-ing” PGR Mental Health Project. Among the outcomes (implemented in
+          UoM policy, recommended nationally by OfS) was to review length/structure of programmes,
+          and to promote mindfulness in PGRs.
+         Extensive training (for details see 2.x)
+                                                                                              Page 12
+
+
+Unit-level environment template (REF5b)
+PGR progress monitoring
+     An institutional electronic progression system tracks PGR milestones, records training
+         needs, and sets expectations at quarterly intervals, with supervisor and PGR Director sign-
+         off. The annual progression process requires the PGR to deliver a report and presentation
+         on progress and plans, with interviews by two academics outside the area.
+Evidence of Success:
+A step-change in PGR pastoral care (2017, e.g. cohort advisors) helped first-year progression: 75%
+(2014) to 98% (2018) to 100% (2019).
+At international conferences, our PGRs won 11 Best Paper prizes with the PGR as first author –
+e.g. D’Antras et al 2017 (PLDI Distinguished Paper), and Arrelanes et al 2018 (ICIoT Best Paper);
+whilst a journal article resulting from a PhD thesis (Nikolaou, EPSRC CDT-funded) received an ACM
+Computing: Notable Article of 2016 commendation (Nikolaou et al, 2016).
+In REF2, 35% of our outputs have a PGR as first author.
+2.x) Details of PGR Training
+Unit-level: All PGRs attend 4 full-semester courses on Scientific Methods (40 contact hours plus
+130 offline), plus skills workshops (30 hours). Optional computing courses are available for cross-
+disciplinary PGRs. Attendance on MSc modules is encouraged to specialise knowledge. Faculty-
+level: All PGRs can take mini-courses across 49 topics: research (16), TA training (6),
+impact/engagement (12), career management (3), and wellbeing (12)..
+Individual Training Funds: Every PGR has GBP3,000 to enhance training: e.g. conferences,
+regardless of publication – approval is light-touch, and via supervisor, group lead, or PGR Director.
+IT resources are separate, with machines replaced as needed. EDIA: Some PGRs were reluctant to
+request funds from their supervisor, so we heavily promoted the fund and alternative approval
+mechanisms (implementing P2: Empowerment).
+We prepare PGRs for diverse careers. Industrial: 9 PGRs took internships, e.g. BBC, IBM.
+Outreach: 3 PGRs joined our Project Malawi programme; PGRs co-hosted 7 Nuffield Foundation
+placement pupils; 4 PGRs are STEM ambassadors. For academic careers, EPSRC Doctoral Prizes
+are a springboard (6 in-period) e.g. Nikolaou 2016, now senior RF, UCL Astrophysics.
+2.xi) Equality and Diversity
+Social Responsibility is one of three core goals of UoM, reflected in duty roles at Faculty, School,
+and Department level. Policies embedded throughout the Institution create the desired culture: for
+example, an appointments policy that implements a version of the Mansfield Rule. At Departmental
+level, strategy is coordinated by the EDIA committee (4 academics, 1 RF, 2 PGRs) meeting
+quarterly. For oversight/guidance, we follow charter schemes, e.g. Athena Swan Bronze award,
+renewed 2020 (for full list of schemes, see REF5a 3.2).
+Commitment to EDIA in Career Pathways
+Appointments: Adverts are vetted by a software gendered-text analyser. Part-time appointments
+are considered for all roles at advertisement-stage wherever possible. Internal research leadership
+roles are advertised to all and applicants are encouraged to have informal discussions with relevant
+senior staff. At all panels, a member of EDIA committee is required.
+                                                                                            Page 13
+
+
+Unit-level environment template (REF5b)
+Support for promotions: Our ‘shepherding’ scheme (2.ii) ensures writing support for all applicants,
+strengthened by explicit support for social anxieties (3.iv), and three rounds of drafts/reviews before
+submission.
+Support for acquiring funding: Statistics are monitored by Faculty, and corrective actions taken
+as appropriate, e.g. soliciting fellowship applications from under-represented groups (also 3.iv).
+Part-time staff: Several academics choose part-time employment (11/58 individuals, 0.3-0.8FTE),
+for maintaining industry roles, or personal reasons. Reduced FTE does not restrict progression—all
+committees (e.g. promotions) explicitly acknowledge individual circumstances, scaling expectations.
+In the period we promoted one individual (0.4FTE) to Professor (teaching-focused), one (0.8FTE) to
+Reader, and one (0.5FTE) to SL; and 8 academics/senior RFs reduced FTE for flexible retirement.
+Fixed-term staff: The UoM Policy Contracts of Employment (revised 2017) provides protection for
+fixed-term employees. At contract end a PDRA is placed on the Redeployment Register (enabling
+preferential consideration for internal posts).
+Commitment to EDIA in Support of Staff/PGRs
+The Leave of Absence Committee manages study leave via transparent processes. Membership
+ensures representation across ethnicity, gender, career-stage, and career track. We recognise many
+types of leave (2.iv). In the period, 29 took sabbaticals: 35% female, 14% BAME, 10% with disclosed
+long-term health issues.
+Caring responsibilities are supported by a broad recognition of leave-types: maternity, paternity,
+shared, and adoption (3 staff took parental/adoption leave, and 2 reduced hours for child-care).
+Arrangements with local nurseries permit salary-sacrifice. A New Parents’ Room has a fridge and
+appropriate privacy. PGRs access Equal Mobility Grants (GBP500 per trip) for caring responsibility.
+Long-term health issues are accommodated by workload adjustments (e.g. one individual was
+removed from teaching requiring a lot of typing, due to severe RSI). Arrangements for healthy
+working follow occupational health guidelines (e.g. 8 standing desks on-site, GBP2,000 spent
+annually on specialist seating). Exemptions are made to the policy norm (of off-peak and non-first-
+class travel) for health reasons (2 staff use Business Class when appropriate).
+Returning from leave is supported by institutional phased return policies. New academics retain
+their FTE ramp-up, while PGRs receive 12-month interruptions for parental leave, and on return have
+a no-fees extension, phasing back to studies. In the period 60 PGRs interrupted for personal reasons
+(16 paternity/maternity; 4 switched full to part-time).
+Flexible/remote working is supported. Duties allocation processes acknowledge part-time
+working, various types of leave, and requests for caring/wellbeing issues. Departmental meetings
+are scheduled during core hours (10:00-16:00), and VPN access enables secure home-working. On-
+site, a fully multimedia-equipped room is used for Departmental Leadership meetings, enabling 2
+staff to participate remotely (due to caring responsibilities/health issues).
+Support for protected characteristics is embedded in University policies. Targeted promotions
+guidance is provided for under-represented groups. Occupational Health guidance is available to
+advise on reasonable adjustments for accessibility. Support for acquiring funding and accessing
+infrastructure is addressed in (3.iv).
+Wellbeing is supported by the built environment and a culture of healthy-working. We have a rolling
+programme of refurbishment, e.g. daylight-LED lighting, and increased social space for
+serendipitous meetings. Monthly “Coffee with HoD” coffee-mornings (maintained virtually during
+lockdown) encourage mingling.
+                                                                                               Page 14
+
+
+Unit-level environment template (REF5b)
+Commitment to EDIA in our REF return
+In our return we increased the proportion of female REF-eligible staff: 20% (9/46) in 2014, to 26%
+(15/58) in 2021.
+Our output return had multiple EDIA checks. Unit-level: A committee of senior and ECR academics
+estimated grades. The grading protocols and membership were under continuous revision to avoid
+bias. We examined attributions on gender/ethnicity for systematic bias. All submitted outputs were
+discussed 1-on-1 with authors. Institutional: Statistics were examined by an HR team with access
+to protected characteristics, reporting anomalies to Units where necessary – none arose for our Unit
+(across ethnicity, gender, and nationality, the number of attributed outputs matched the staffing
+profile). Our environment statement uses exemplars drawn from across the Unit. We polled staff
+3 times soliciting “success stories”, and making clear that anybody, at any career stage, can
+contribute. Our impact portfolio was selected on merit alone, with multiple checks at Unit, Faculty,
+and University level, after polling staff for cases on multiple occasions 2016-2020.
+                                                                                           Page 15
+
+
+Unit-level environment template (REF5b)
+  3. Income, infrastructure and facilities
+3.i) Research Funding
+We aim to maintain a diverse funding portfolio, whilst increasing collaboration as much as possible.
+Our strategy is to promote awareness for a range of mechanisms, and release scholarly time to
+apply, all facilitated end-to-end by support staff.
+    Promoting awareness: A monthly digest of diverse opportunities is distributed to all academics.
+     Time-critical calls are monitored by the Research Support Manager, cascaded to staff. Annual
+     fellowship cycles are tracked in an electronic system, with automated alerts.
+    Releasing ‘scholarly’ time: Our workload system leaves 0.2FTE unassigned, enabling time for
+     free-thinking. ECRs benefit from gradual duty ramp-up (2.iii), managed via fully-open workload
+     formulae. Regular rounds of institutional seed-funding (light-touch review) support new ideas
+     (e.g. 3 academics hired by our People-Data-Chips initiative were supported by GBP45,000 to
+     establish a new IoT lab).
+    Peer support: Examples of successful grants are shared, alongside an established internal
+     peer-review culture by experienced staff, and internal workshops (e.g. an annual EPSRC mock
+     panel) disseminate best practice. School-level initiatives encourage fellowships with a wider suite
+     of engineering perspectives, supporting cross-departmental collaboration. Mock interviews are
+     organised for fellowships, sourcing experienced staff from across UoM.
+    Administrative support: The Unit has Research Support/Finance teams providing end-to-end
+     support for project lifecycles, including all costing/administration of proposals, HR liaison,
+     contracts, export control, and financial reporting. Each member of academic staff has a named
+     Research Support and Research Finance officer to work with. Research Support Managers
+     provide leadership to teams, and strategic support to the HoD.
+The average annual Unit income (sum of all REF4b categories) increased 12% to GBP8,348,693,
+with total EU government sources more than tripling in the period, from GBP5,238,585 to
+GBP17,968,580. Income per FTE, per year, is shown below – in 2013/14, the Unit ranked 12th in the
+UK for this metric, rising through the period (2017/18, 1st), and 2018/19 (3rd).
+This income came from a diversity of awards (e.g. funding from 8/9 UKRI councils) with a total of
+225 awards from 80 distinct funders, equating to GBP80,905,374 revenue. The number of awards
+annually increased 54% in the period (26 in 2014, up to 40 in 2019). Our ECR academics are
+successful – of those in-post at least 2 years (8 staff), all were awarded external funding as PI.
+                                                                                               Page 16
+
+
+Unit-level environment template (REF5b)
+Major awards (revenue to Manchester) include: 4 programme grants (totalling GBP4,699,231),
+H2020 EuroEXA (Goodacre/Lujan, GBP5,113,623), MMPATHIC (Ananiadou GBP2,923,765),
+EPSRC RAIN Hub (Furber, GBP4,131,580), EnnCORE (Cordeiro, GBP1,344,249), SCorCH (Reger,
+GBP1,034,990), ERC Advanced Grant BIMPC (Furber, GBP1,804,332), UKRI Software
+Sustainability Institute (Goble, GBP2,944,433).
+Prestigious awards (i.e. highly competitive) include: EU FET Flagship Human Brain Project
+(Furber, 2013-23); 2x RAEng Fellowships (Pop 2015; Petoumenos 2019); RAEng 10-year Emerging
+Technologies Chair (Fisher, 2019); CityVerve SmartCity Demonstrator (Taylor, 2016); RAEng
+Industrial Chair (Lujan 2019), Wolfson Research Merit Award (Lujan, 2019).
+Exemplars of funding enabling high-quality outputs:
+       PAMELA programme grant (EP/K008730/1) enabled the Distinguished Paper Award at the
+        PLDI conference (REF2: D’Antras et al 2017).
+       EPSRC CDT (EP/I028099/1) supported PGR Nikolaou on an output which unified 20 years
+        of work in Boosting algorithms, awarded “ACM Computing Notable article of 2016” (REF2:
+        Nikolaou et al 2016).
+       A Royal Society URF for Korovin supported research (REF2: Currin et al 2017) which
+        developed the world’s first implementation of a non-deterministic Turing Machine in DNA.
+       EPRSC grant (EP/N035127/1) developed a unified statistical foundation for the stability of
+        feature selection (REF2: Nogueira et al 2018).
+Exemplars of funding enabling high-quality impact:
+       EuroEXA (H2020-754337, Goodacre) investigated co-designing systems and low-level
+        architectures in collaboration with an SME, Iceotope Ltd - leading to the company being
+        named the UK’s fastest growing hardware company (2,331% growth during collaborations,
+        source: 2019 Deloitte UK Technology “Fast 50”).
+       MRC grant (MR/L01078X/1, Ananiadou) supported RobotAnalyst, a text-mining system to
+        accelerate document screening in systematic reviews: the system influenced NICE
+        guidelines, and is used by over 200 organisations worldwide. The techniques were adapted
+        for industrial impact via Pacific Life (PL) Insurance, for text-mining to support underwriting
+        in health insurance. In 2017, PL funded a project (GBP366,000) and extended 2019-21
+        (GBP580,000), to build this into a commercial system, underwriteMe, now used by several
+        major insurance providers.
+                                                                                             Page 17
+
+
+Unit-level environment template (REF5b)
+3.ii) Organisational Infrastructure (institutional level)
+Institutional investment for Research Support: The Research Lifecycle Programme is a
+GBP15,000,000 series of investments (2017-22), with Taylor in the Unit is academic lead, aiming to
+transform research support, removing administrative barriers.
+During the REF period, Faculty Research Support Teams and separate Research Finance Teams
+(totalling approximately 60FTE, where 5 support the Department of Computer Science) assisted with
+all aspects from outlines/costings, to HR-liaison for appointments, and end-of-project financial
+reporting. In parallel: a Research Strategy and Innovation team (9FTE) assist with strategic
+partnerships; the Knowledge Exchange team (5FTE) support KTPs/IAAs, and the Innovation Factory
+Ltd (IF), a wholly-owned UoM company, handled commercialisation of University innovations - the
+Unit has an assigned IF “partner”, based in our building, who pro-actively pursues IP opportunities.
+A central Contracts team deal with all legal issues and NDAs.
+Investment in Relevant Research Areas: The institutional Digital Futures platform stimulates and
+supports collaboration in digital technologies – UoM employs 6FTE support staff for this, and the
+Unit plays a leading role with Taylor as Director, and Jay on the Management Board. The Pankhurst
+Institute channels expertise in healthcare technologies: two Unit staff provide leadership - interim
+Institute Director (Taylor) and Research Director (Kaski), and investments from UoM, EPSRC, and
+The Alan Turing Institute provide a working budget of GBP25,000,000.
+Technical/Support Staff: Research IT maintains 40FTE baselined staff: 2 group leaders, 25
+Research Software Engineers, 13 infrastructure engineers. This enables an agile approach to tools
+and secondment, whilst supporting institutional memory. Outcomes: The Unit costed 33.5 years of
+RSE time into funded projects, e.g. a COVID rapid-response collaboration (Jay, COV0659,
+GBP412,720), an evaluation framework for the Test & Trace programme: two reports (using the
+software) delivered to Sage via SPI-M.
+High Performance Compute: The Institution maintains a compute facility of 18,512 CPU cores
+(varying for workload) and 90 Nvidia v100s. This pool is regularly refreshed (2014-20,
+GBP4,000,000), plus GBP100,000 annual spend on AWS GPU time. The Unit utilised over 284
+CPU/GPU years, e.g. large-scale GPU benchmarks against our SpiNNaker neuromorphic machine.
+Subscriptions/Collections: UoM provides site licences for Overleaf, Dropbox, Office365, Zoom,
+Teams, and Mathematica — available for all staff/PDRAs/PGRs. CS-specific licences are paid by
+the Unit (e.g. Cadence for circuit design).
+3.iii) Support Infrastructure within the Unit
+Unit investment for recruitment into strategic research areas is covered in 1.ii.
+Estate/Facilities: The Unit invests to support distinctive areas of research, for example – bespoke
+power/air-con space for SpiNNaker (GBP200,000), securing availability to the EU for the foreseeable
+future; and a ‘Living Lab’ for cognitive robotics research (GBP250,000). The Unit benefits from the
+ongoing GBP1,000,000,000 institutional master-plan, developing labs to support interdisciplinary
+research in robotics and computer engineering.
+Technical and Support Staff: In the period, the Unit funded four technicians to support specialist
+research infrastructure, requiring expertise beyond that available from institutional Research IT –
+e.g. one provides extensive experience with chip design CAD software (helping PGRs/PDRAs), and
+another was a key contributor to SpiNNaker, assembling and fault-checking the final machine.
+The Unit also baselined a Software Engineer who developed a comprehensive infrastructure to
+support our REF submission, also deployed across the entire Institution. This included a fully-
+algorithmic optimisation scheme to select/attribute outputs, (thus avoiding unconscious bias, and
+ensuring compliance with REF2021), collaboratively developed with academics (Brown, Pratt-
+Hartmann).
+                                                                                            Page 18
+
+
+Unit-level environment template (REF5b)
+3.iv) EDIA in Acquiring Funding/Accessing Infrastructure
+We summarise some specific actions in the Unit, implementing strategy Principle 4 (Responsibility).
+The overall EDIA initiative is detailed in Section 2.xi.
+Individual Mentoring: We host highly-focused individuals, some challenged by social interactions.
+On 2 specific occasions during the period, individuals received additional mentoring (from a trained
+senior Professor) on grant-writing and PGR supervision.
+Workload: The Departmental Leadership Team is conscious that individuals with protected
+characteristics are often requested to serve on institutional committees/initiatives – and can be
+overloaded, which may affect research. To avoid this, our duty-allocation system is fully-transparent,
+and statistics on such assignments are delivered annually to the HoD for any corrective action.
+Opportunities: We heavily promote gender-specific opportunities (e.g. L'Oréal-UNESCO For
+Women in Science Programme), via the departmental newsletter.
+Accessibility: All buildings are wheelchair-accessible. Visually-impaired colleagues (1 academic, 2
+PGRs) receive support for meetings across campus. An office was converted to fully dark-space for
+a PDRA with light-sensitivity (cost GBP1,500). We repurposed 2 toilets to gender-neutral. We have
+1 Stonewall-trained LGBTQ+ ally to support gender-transitioning staff/students. UoM provides
+licences for assistive technologies (e.g. MindGenius for dyslexia, JAWS screen-reader).
+3.v) How we use our Infrastructure and Expertise for Impact
+Significant institutional infrastructure exists to support KTPs/IAAs, IP exploitation, and general
+acceleration of impact opportunities (1.iii for details).
+Unit staff provided short-term consultancy for large organisations, e.g. ARM (Brown/Furber),
+GCHQ (Pettifer), BBC (Jay), Babylon Health (Schmidt), Elsevier (Goble), and for local SMEs:
+UrbanChain (Banach), Tachyum Ltd (Furber).
+Examples directly relating to our REF impact portfolio and inward investment:
+     Cootes consulted for Aviagen, one of the world’s leading breeders of chickens, applying
+        computer vision systems to improve health of their stock (see impact case).
+       Kotselidis is 0.5FTE as Cybersecurity Manager for KTM A.G., the largest EU manufacturer
+        of powered motorcycles: this enabled ELEGANT (H2020-957286, EUR4,983,250),
+        developing secure vehicle-to-vehicle communications.
+3.vi) Specialist Research Infrastructure
+Cognitive Robotics Lab: a dedicated “Living Lab”, for human-robot experiments, laid out as a living
+space. The lab has 9 robot platforms including iCub, Pepper (×3), Sawyer, Giraff, and Nao (×3),
+enabled by a GBP250,000 institutional investment.
+Interaction Analysis/Modelling Suite: equipped for user evaluations, including Tobii eye-trackers,
+and galvanic skin-response equipment. This enabled collaborations with BBC, that in turn supported
+the BBC Data Science Partnership.
+Internet of Things: An institutional investment (GBP45,000) supports IoT research, including
+Meshlium Scanners for estimation of crowd density, and Libelium CymbIots for monitoring
+environmental parameters.
+                                                                                              Page 19
+
+
+Unit-level environment template (REF5b)
+3.vii) Shared Research Infrastructure
+SpiNNaker is a unique neuromorphic computer, designed/built at Manchester, available through the
+EU FET Flagship Human Brain Project. This is available for use by any lab world-wide — and at the
+time of writing has run 5 million jobs for over 400 users worldwide.
+FAIRDOM-SEEK (led by Goble) is a software platform for systems biologists to organise FAIR
+research outputs: the system is used worldwide by 140 major projects - including national
+programmes in patient data-sharing (Germany), and crop plant data-sharing (Belgium, France).
+Within this, FAIRDOMHub is a web-accessible registry for assets of biology projects: used by 204
+projects, including the COVID disease paths international collaboration of 259 researchers.
+Robotics: Several UoM projects (e.g. H2020 MoveCare) enable equipment-sharing between
+institutions, e.g. the Giraff telepresence robot, and the GBP30,000 Sawyer, used by students from
+Italy, and Waseda University (Japan).
+An exa-scale HPC system is being constructed by the Unit (H2020 EuroEXA) that minimizes
+energy consumption, with a world-leading 100kW per-rack thermal density infrastructure. With 256
+compute nodes (each consisting of a hybrid FPGA+CPU custom architecture) the system is one of
+the largest FPGA-accelerated clusters in the world, consisting 544 Xilinx Ultrascale+ FPGA devices.
+The system is currently used by 15 development teams across 7 European nations.
+3.viii) Benefits In-Kind
+Intellectual Property:
+      ARM Ltd donate design specifications for the ARM Cortex-M4, valued by ARM at
+         GBP1,500,000 annually - this enables the SpiNNaker2 project. A previous similar in-period
+         donation of the ARM968 architecture enabled the original SpiNNaker. ARM also donate
+         GBP50,000 annually (unrestricted funds) to maintain our ARM Centre of Excellence status.
+        BBC donated GBP380,000 plus industry-confidential data (e.g. interaction data for iPlayer).
+         This supported 3 iCASE studentships and 5 internships.
+Equipment:
+      Robotics: including a GBP200,000 iCub robot, from Italian Research Council on indefinite
+         loan to Cangelosi – this is used in e.g. the UKRI TAS Node on Trust, EP/V026682/1.
+        FPGA hardware totalling GBP100,000, from Xilinx Inc., e.g. VCU118 kits (Koch/Kotselidis)
+         enabling a novel secure FPGA Operating System (REF2: Vaishnav et al 2020).
+        Computing power: A collaborative research agreement with AIST Japan enables access to
+         the AIST Cloud Compute Facility providing over 400 GPUs.
+                                                                                           Page 20
+
+
+Unit-level environment template (REF5b)
+  4. Collaboration and contribution to the research base, economy and society
+4.i) Enabling Academic Collaboration
+Our recruitment strategy (2.i, implementing P1: Critical Mass/Complementarity) leads to a
+diverse pool of expertise, with complementary interests – staff willing and able to “look outwards”
+to other disciplines/institutions (P3: Ambition/Curiosity).
+This expertise is sustained and recognised - see Section 1.iv for how this is achieved.
+Building on this solid base, Principle 2 (Empowerment/Support) leads us to provide the funding
+and opportunities to launch new collaborations, as our people see fit.
+       Funding: University-level seed-funding is available to stimulate collaboration - e.g. School of
+        Engineering collaborative grants, GBP50,000 maximum, multiple annual rounds, with light-
+        touch review. Within the Unit, an equal distribution of flexible funding to groups (GBP120,000
+        in 2019/20) supports both serendipitous and planned cross-institutional visits.
+       Opportunities within/beyond UoM are promoted widely, while local events enable meetings,
+        e.g. the IDSAI “Advances in Data Science” seminars (43 since 2016) are highly cross-
+        disciplinary, and cross-institutional in audience. In the Unit, our culture of collegiality and
+        openness (P4: Responsibility) leads to exchange of opportunities among staff (example in
+        4.ii) and a light-touch visitor policy supports short-term visits.
+Outcomes:
+Collaborative projects: Across 52 EU projects, we partnered with 660 different organisations. We
+have 8 long-standing partners, each collaborating on 10+ EU projects: Barcelona Supercomputing
+Centre (23 projects); CNRS France (14); INRIA (10); CNR Italy (10); Fraunhofer (14); EMBL (14);
+CEA France (10); and Edinburgh (11).
+For UKRI, we held 104 collaborative projects (with 46 UK academic institutions) where 44/104
+involved another UoM Unit, showing local cross-disciplinary working. We hosted 195 visitors (35
+different countries): 41/58 staff hosted an international visitor in the period.
+Collaborative outputs: We published over 1200 papers with co-authors from 66 countries: including
+27 EU member states (34/44 European countries), and 19 outputs with African nations: South Africa
+(12 outputs), Egypt (3), Zambia (3), Namibia (1). Our top 5 collaborating nations: Germany (142
+outputs), USA (115), China (91), France (78), Brazil (69).
+                                                                                               Page 21
+
+
+Unit-level environment template (REF5b)
+Exemplar academic collaborations/networks/partnerships:
+Local:
+     Authors from the Unit contributed to Manchester’s REF2 return for 7 other UoAs, with a
+       total of 17 outputs across Medicine, Public Health, Allied Health, Psychology, Biology,
+       Physics, Business and Law.
+      Vigo (collaboration between UoA11 and UoA5) led the CS elements of BritainBreathing, a
+       nationwide Citizen Science project, to study seasonal allergies/asthma. The project works
+       with the British Society for Immunology, and is an impact case (UoA5).
+      UoM Institute for Data Science and Artificial Intelligence has 974 members: 685 UoM
+       academics/PDRAs, 137 PGRs, 106 businesses, 46 from other academic institutions. In the
+       Unit, Ananiadou is Deputy Director, allocated 0.2FTE.
+      Thomas Ashton Institute is a faculty-led initiative, with elements led by the Unit (Ananiadou,
+       Jay) - a partnership with the UK Health/Safety Executive, focusing on understanding
+       workplace injuries.
+National:
+     The VADA Programme Grant (GBP4,557,635, with Oxford/Edinburgh) developed end-to-
+       end automation of a data preparation pipeline — results commercialised in a spin-out (VADA
+       Ltd), applied (via KTP) to reduce the cost of on-boarding client data with a local SME, Peak.ai.
+      In Robotics and Autonomous Systems, the RAIN hub (GBP12,203,190, EPSRC)
+       develops nuclear robotics for extreme environments, stimulating collaboration between EEE
+       and CS, including verification of systems (Fisher/Dixon), and ethics/transparency in human-
+       robot interaction (Cangelosi/Dennis).
+International:
+     EU FET Flagship Human Brain Project. The Unit (Furber, Lester, Garside, Rhodes) plays
+       a leading role, joining a consortium of over 100 universities to explore brain-inspired
+       computing, and how SpiNNaker can accelerate brain research. Furber leads the HBP
+       neuromorphic sub-project, and sits on the HBP Science Infrastructure Board.
+      ELIXIR. In eScience (Goble) we have long-standing collaborations to develop infrastructure
+       managing biological data, e.g. ELIXIR, the European inter-governmental Research
+       Infrastructure for Life Sciences, where Goble leads the UK Node (18 organisations), enabling
+       our participation in seven EU projects (46 organisations, 23 countries), including the US
+       National Institutes of Health and seven pharmaceutical companies.
+      OpenPHACTS: Goble/Pettifer/Stevens developed an entity-matching method, incorporated
+       into the EU OpenPHACTS platform for pharmacological data. This prompted adoption of
+       knowledge graphs by the pharma industry - the system (with our method at its core) has
+       processed over 500m queries, from public/private organisations worldwide.
+      EuroEXA: Goodacre is Technical Director for the 16-partner, EUR19,949,023programme,
+       delivering infrastructures for exascale technology - deployed by 15 international application
+       teams in climate/weather, physics/energy, and life-science/bioinformatics.
+      Japan AIST: We maintain a partnership with the Japanese National Institute of Advanced
+       Industrial Science & Technology (AIST). Funding (donated by AIST) enables extended visits
+       by Cangelosi/Ananiadou, and PGRs/PDRAs (total 50-person months). In 2017-20 this
+       enabled 16 published articles.
+                                                                                               Page 22
+
+
+Unit-level environment template (REF5b)
+4.ii) Developing Relationships with Research Users
+Fostering our interfaces for impact (1.iii) provides a base of long-standing industrial partners. These
+are exploited by ECR academics, who regularly partner with established staff as mentors to “bring
+them on-board” (Principle 4: Responsibility, our open and collegiate culture). New partnerships are
+also enabled by sabbatical/secondment policies (2.iv), for example, Kotselidis extended a sabbatical
+at KTM A.G. Ltd into a part-time industrial appointment (3.v), enabling the H2020 ELEGANT project
+(EUR4,983,250) on secure vehicle communications.
+We provide examples where the virtuous circle (1.ii) has enriched our environment: materially
+(via inward investment) and intellectually (driving new cross-theme research directions), e.g.:
+AstraZeneca. Senior staff member, Brass, introduced an AstraZeneca contact to a then junior staff
+member (Brown), leading to a fruitful reciprocal research collaboration. This was supported by Unit-
+funded visits, and 2 PhD co-supervisions (2014-15), leading to an AstraZeneca investment of
+GBP400,000 (2016) to support Brown (A.I. theme) and Jay (Human Centred Computing). Outcomes:
+Methods for statistical biomarker selection, with a user-informed and co-designed visualisation, now
+being integrated into AstraZeneca workflows.
+BBC Research & Development. In 2017, UoM started a 5-year Partnership with BBC R&D. The
+Unit funded initial interactions – enabling a funded project (EP/M017133/1), and a PGR internship.
+This stimulated institutional investment of GBP22,000 (2016, matched by BBC) to create a
+university-wide network fostering interdisciplinary data science. We authored a White Paper,
+‘Challenges/Opportunities in Data Science’ (now a standard BBC reference), and embedded PDRAs
+into BBC labs. This led to a BBC investment of GBP380,000, enabling 5 internships and 3 iCASEs.
+ARM Ltd. A long-term relationship enables access to ARM IP. Exemplar outputs include the
+SpiNNaker architecture, and a 28nm System-on-Chip architecture (EuroEXA). In 2018 we were
+awarded the ARM Centre of Excellence status, providing a recurring donation (GBP50,000 p.a.) to
+support activities. This supports ECRs in establishing career directions (e.g. Pop, Cordeiro, Pavlidis).
+4.iii) Wider contributions to the Economy and Society
+Translational research in text mining of MP enquiries. As a Parliamentary Fellow, Batista has
+contributed to Government efficiency – the research is being deployed in the House of Commons
+Library to accelerate searching 600,000 historical MP enquiries.
+We helped define the national curriculum. Furber chaired the Royal Society advisory committee
+“After the reboot” (2017), advising government on the CS curriculum. Supporting this, the Unit hosted
+the North-West Regional Centre for the ‘Computing at School’ initiative, providing professional
+development opportunities for teachers.
+Responding to demand from local SMEs for skills in A.I. and Data Science, we co-lead the
+GBP6,000,000 ERDF “AI Foundry” project providing A.I. expertise to 170+ Manchester SMEs,
+helping them develop new products/services.
+A collaboration between Vigo and Salford NHS authority increased usability of NHS software.
+A medication safety dashboard, deployed in 43 GP surgeries (local population: 250,000) was
+analysed by Vigo, resulting in changes to the layout/interaction protocols.
+We enhance the economic efficiency of academic networks via the EasyChair conference
+management system, designed/maintained by the Unit (Voronkov) – with over 3,000,000 registered
+users, and serving over 83,000 conferences worldwide.
+We contribute to national digital skills training via the Institute of Coding (Embury/Jay). We
+develop tools for teaching software engineering based on industry input, informed via empirical
+software engineering research on historical student code collections.
+                                                                                               Page 23
+
+
+Unit-level environment template (REF5b)
+4.iv) Engaging with Diverse Communities via our Research
+We partner with several NHS organisations (e.g. Christie Cancer Hospital), to deploy research:
+e.g. local Christie clinicians use the work of Embury/Brass on ‘data journeys’ (see REF2) to assess
+patient data-flow.
+Batista works with Amnesty International human rights investigators (ESRC ES/R00899X/1) on
+hate-speech detection.
+Jay/Vigo engaged with the Manchester Museum to develop a citizen-science app for digitisation
+of a fossil collection (800+ downloads), also resulting in a CHI workshop paper.
+Parsia leads our LegalTech Initiative engaging with a consortium of local law firms—the initiative
+won “Alliance of the Year” at the 2019 British LegalTech Awards.
+Public engagement: Jay presented programmes (BBC, ITV) about robots and society.
+Reger/Cordeiro have duties (0.2FTE) for Public Engagement/Liaison supporting events such our
+presence at British Science Week, and BlueDot Festival.
+Pupil work placements: The Unit welcomes young people (age 15-17) for research-based
+placements—in the period we hosted 10 (plus 4 cancelled due to COVID). For example, 3 pupils in
+2019 created a dataset, used by Batista in a proposal.
+4.v) Contribution to Sustainability of the Discipline
+REF2021 Guidelines: Jay led the Software Sustainability Institute team (9 authors, 36 reviewers:
+including UKRI and the Society of Research Software Engineering) to create REF2021 software
+output guidelines.
+The Software Sustainability Institute facilitates the advancement of research software through
+training, advocacy, policy, and research. As Research Director, Jay leads the SSI’s Open Evidence
+Bank and research strategy.
+Training: Our staff taught in 17 events over the period, e.g. Estonian Summer School in ML (Brown)
+2019; European Summer School on Logic, Language and Intelligence (Sattler/Parsia) 2014-2019.
+The Unit hosted events, e.g. SpiNNaker workshops 2016-19: 146 people (18 countries), supporting
+international activity in neuromorphic computing.
+Responsiveness to national and international priorities:
+       Mental health: In recognition of a national need, NewMind (with Taylor as academic lead)
+        built a community around technology for mental health, and (via its road-map) fed into the
+        cross-council mental health initiative.
+       Open Data in Research: We are a founding contributor (via Goble) to the influential FAIR
+        (Findable, Accessible, Interoperable, Reusable) principles for data management. Goble
+        maintains leadership roles in various FAIR advocacy organisations.
+       Hardware Security: Goodacre led a bid from 26 businesses across 8 sectors, and 8
+        universities, for the ISCF Digital Security by Design programme. This resulted in a
+        GBP200,000,000 programme — GBP70,000,000 from government, and GBP130,000,000
+        industrial co-investment (e.g. Microsoft, Google) — with Goodacre as the Director. To date,
+        12 projects across 15 Universities have received GBP20,000,000 in funding.
+                                                                                           Page 24
+
+
+Unit-level environment template (REF5b)
+       SmartCities: CityVerve (GBP10,000,000, 2016-18) was a landmark DCMS/InnovateUK
+        project, led by the Unit for the University (Taylor), partnering with 20 organisations, delivering
+        a more connected Manchester – sub-projects included data collection/analysis on COPD
+        symptoms in the Manchester Corridor (Jay).
+       Trustworthy Autonomous Systems: Fisher was academic lead for the development of a
+        Strategic Priorities Fund bid, leading to a UKRI programme totalling GBP33,000,000.
+Exemplars of interdisciplinary research:
+In collaboration with the Institute of Neuroscience/Medicine at Julich Research Centre, Furber et
+al. used SpiNNaker to implement a cortex model in biological real-time (Rhodes et al, 2019), out-
+performing HPC/GPU implementations (see impact case). Working with AstraZeneca, and closing
+the virtuous circle, Brown extended a theoretical foundation for feature selection (see REF2014) to
+cover prognostic/predictive biomarker selection in personalised medicine (REF2: Sechidis et al
+2018). In Medical Imaging, Cootes/Lindner developed methods in Computer Vision, and
+commercialised BoneFinder, identifying skeletal structures in 2D medical images.
+4.vi) Indicators of Wider Influence
+Journal Editorships (65 total), including 5 Editor-in-Chiefs, e.g. Computer Journal (Furber, 2016-
+20); J. Biomedical Semantics (2009-19); 29 Associate/Guest Editors, e.g. Machine Learning Journal
+(Brown), J. Logic & Computation (Fisher); and 31 Editorial Board Members.
+Exemplars of participation on grant/awards committees: EPSRC peer review college (9 staff);
+staff acted for national awards committees, e.g. RAEng Chair Sift/Interview Panels (Goble, 2015-
+17), RS Newton Awards (2015-present), and EPSRC UKRI Innovation Fellowships Interview Panel
+(Dixon, 2018). Unit staff also contributed expertise for international agencies, including FNRS
+(Olivier), Polish National Science Centre (Pratt-Hartmann), Canada Research Fellowships (Harper),
+Heidelberg Laureates (Goble), Netherlands Organisation for Research (Dixon).
+Fellowships (14 total): 2x RAEng Research Fellows, (Pop, 2015; Petoumenos, 2018); ERC
+Advanced (Furber, 2013-18); RAEng Emerging Technologies Chair (Fisher, 2019); RAEng Industrial
+Chair (Lujan, 2019-24); RAEng Industrial Fellowship (Embury); renewal of Royal Society URF
+(Lujan, 2013-16); Royal Society Wolfson Merit (Lujan, 2019); SSI Fellowship (Jay, 2016); Royal
+Society Newton International Fellowship (Palomar-Perez, 2016); AstraZeneca Data Science
+Fellowships (Brown, Jay 2016-18); UK Parliamentary Fellowship (Battista, 2018-20); Rutherford
+Fellowship HDRUK (Lindner, 2015-20).
+Prizes:
+   Best Paper awards at international venues (27 total), e.g. ECML 2014, PACT (2016, 2017),
+    CGO (2017, 2019), VEE 2019, SWSA 2019 Ten-Year Award, and FG 2015 Test-of-Time Award.
+   Elected Fellowships/National-level awards: FREng (Goble/Furber/Taylor); FRS (Furber);
+    FBCS (Fisher/Cangelosi/Goble/Harper); Distinguished FBCS (Furber); FIET (Fisher, Furber);
+    CBE (Goble, Furber); OBE (Taylor); BCS Lovelace Medal 2014, RS Mullard Award 2016,
+    Science Council 100 Leading UK scientists 2014 (Furber); nomination by the President of Poland
+    to a Professorship of Mathematics (University of Warsaw, Pratt-Hartmann).
+   Discipline-specific awards: ELLIS Fellow (Kaski); IEEE (Furber); FIAPR (Cootes/Taylor);
+    Herbrand Award (Voronkov); Member of Academia Europaea (Paton/Furber/Sattler); 4 Turing
+    Fellowships (Ananiadou/Cangelosi/Jay/Nenadic); honorary doctorates: Goble (Maastrict),
+    Furber (QUB), Ananiadou (Thessaloniki).
+                                                                                                 Page 25
+
+
+Unit-level environment template (REF5b)
+Memberships of national/international councils: BBSRC council (Goble); Athena Swan panel
+(Clinch, 2016-21); Italian REF panel "Valutazione Qualità Ricerca" (Cangelosi); RAEng Membership
+Panel 9,10 (Taylor, Goble); EPSRC ICT Strategic Advisory Team (Fisher); Chair of EPSRC
+Healthcare Technologies SAT (Taylor, 2014-17); Director of N8 Centre of Excellence in
+Computationally Intensive Research (Taylor, until 2018); Chair of the Royal Society Sectional
+Committee 0 for CS (Furber); President of Extending Database Technology Association (Paton,
+2016-20); National Engineering Policy Centre’s Safety & Ethics of Autonomous Systems committee
+(Fisher); Management Board for UKRI/Turing A.I. for Science & Government programme (Taylor);
+Research/Innovation Council of Finland (Kaski).
+Invited Talks: 262 total, including 78 keynotes e.g.: Jisc Digifest 2015 (Goble), IJCNN 2015
+(Furber), IDA 2015, PAKDD 2020 (Kaski), FV 2017 (Dixon).
+Conference chairing: Unit staff held over 150 organisational roles in conferences/workshops in the
+period. Noting only senior roles: General Chair (35 times, e.g. Goodacre, HiPEAC 2018), Programme
+Chair (31 times, e.g. Nenadic/HealTAC 2019), Area/Track Chairs (16 times).
+Other: 5 staff (Taylor/Goble/Cootes/Stevens/Sattler), are in the UK Top 100 scientists for CS &
+Electronics (Guide2Research, 2020), and 2 (Goble/Stevens) in the WoS/Clarivate Highly Cited list.
+                                                                                           Page 26

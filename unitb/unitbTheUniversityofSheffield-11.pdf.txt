@@ -1,0 +1,978 @@
+Unit-level environment template (REF5b)
+ Institution: University of Sheffield
+ Unit of Assessment: B-11 Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+1.1 Overview
+The Department of Computer Science is committed to advancing the theoretical foundations of
+computer science and to achieving impact through close collaboration with end users. Our focus
+on interdisciplinary research is distinctive: much of our most impactful work arises from research at
+the boundaries between computer science and other disciplines. We play a central role in the
+University research environment, providing leadership for six interdisciplinary centres and flagship
+institutes.
+Our vision is to address major challenges within four themes: speech and language, healthcare
+technologies, bioinspired machine intelligence, and dependable and secure systems. Our
+strategy is to develop a large cohort of excellent researchers that exhibit breadth as well as depth,
+enabling us to forge international collaborations that advance the discipline and create real-world
+impact. Work across our four themes spans novel contributions to the theoretical foundations of the
+discipline through to the translation of our research into applications used by thousands of people.
+Research activity is supported by substantial investment in computing facilities and infrastructure,
+including a planned £10.5m refurbishment of our accommodation.
+Key achievements since REF2014 include:
+    ●    Growth in academic staff from 33 to 55, with a 100% increase in the number of female
+         academics and 67% growth in international academic staff.
+    ●    Publications in top computer science (e.g. ACM, IEEE, TCS, NeurIPS) and interdisciplinary
+         (e.g. Nature Communications, Nature Neuroscience, PNAS) venues.
+    ●    £32.5m in research income, a 73% increase from REF2014.
+    ●    Growth in industrial income from £875k to £2.1m, including two new industry-funded
+         research centres supported by £1.4m to date.
+    ●    New groups in Algorithms and Security of Advanced Systems, the latter with a £1.2m
+         strategic investment from the University.
+    ●    Growth in the PhD student population of 20%, with sustainability ensured through the
+         award of a £5.2m UKRI Centre for Doctoral Training (CDT) award, further supported by
+         £2.2m in industry-funded studentships.
+    ●    A successful impact pipeline that has produced three spin-out companies, informed
+         UNESCO’s COVID-19 response and added $120m to the value of a major Silicon Valley
+         speech technology company.
+We take great pride in being a collegial, supportive research community, one in which equality,
+diversity and inclusion (EDI) are core values. The Department was awarded an Athena SWAN
+Silver award in 2016. Through an ongoing action plan, we are committed to advancing EDI in the
+discipline through local, national, and international initiatives.
+                                                                                               Page 1
+
+
+Unit-level environment template (REF5b)
+1.2 Unit structure, research strategy and progress towards REF2014 objectives
+Our research strategy focuses on key questions and major challenges associated with our four
+themes. Research in each theme is supported by a cluster of research groups, each of which is led
+by a senior academic (Figure 1). Every theme addresses both fundamental research and
+engineering applications. Academic membership in these research groups is not exclusive; many
+researchers contribute to the activities of more than one group, and groups contribute to more than
+one theme.
+The Department sits within the Faculty of Engineering. All groups are supported by specialist
+laboratory facilities, interdisciplinary facilities provided by the Faculty, and University-level high-
+performance computing (HPC). Our Research Software Engineering (RSE) group provides
+expertise on HPC within the Department and across the whole University.
+In REF2014 we set out an ambitious plan for expansion, aiming to develop areas of existing
+strength (speech and language technologies, machine learning (ML), healthcare technologies) and
+grow our expertise in algorithms. Implementation of our REF2014 plans was further informed by a
+strategic review in 2015/16, which recommended that new groups be established in Algorithms and
+Security of Advanced Systems. The outcome over the assessment period has been a significant
+strengthening of our research across all four themes, as outlined below.
+                        Figure 1: Key strategic themes, structure, and collaborations
+Speech and language
+A major challenge for spoken language technology (SLT) is to develop conversational agents that
+can engage in human-like dialogues: this requires a deep understanding of spoken language
+behaviour and robustness to the presence of multiple talkers. Explainability, trustworthiness and
+elimination of bias in SLT systems are also fundamental concerns.
+We address these challenges through one of the strongest concentrations of SLT researchers in
+academia worldwide, comprising 18 academics from our Natural Language Processing (NLP) and
+Speech and Hearing (SPandH) groups (8 professors, 9 lecturers/ senior lecturers, 1 fellow). The
+cluster is unique in its ability to conduct research across a broad spectrum, from computational
+models of language and human hearing, to commercially deployed automatic speech recognition
+(ASR) and text engineering systems.
+                                                                                                    Page 2
+
+
+Unit-level environment template (REF5b)
+Our success in addressing the challenges of this theme is illustrated by influential publications.
+Work on noise-robust ASR includes an approach to using multiple microphones cited in Google
+patents (Hain ICASSP), and papers on the CHiME challenges for distant microphone ASR that
+have received over 1,000 citations (Barker, Computer Speech & Language). Papers published in
+top NLP venues cover social media analysis (Aletras, ACL), metaphor identification (Lin, ACL),
+idiomaticity detection (Villavicencio, ACL) and the evaluation of neural sentence encoders
+(Barrault, EMNLP). The latter has been cited over 1100 times and inspired the widely used GLUE
+benchmark. A study on predicting judicial decisions (Aletras, PeerJ CS) has received over 300
+citations since 2016.
+This theme was supported by funding awards totalling £16.3m. Additionally, we have ensured
+future sustainability through a £5.2m UKRI CDT award in Speech and Language Technologies,
+matched by £2.2m of industry sponsorship from Apple, Amazon, 3M and others. Three impact
+case studies have emerged from this theme. The Silicon Valley company VoiceBase established a
+centre to support Hain’s world-leading research on ASR (£500k p.a.). Machine translation research
+has been supported by a prestigious £1.2m ERC starting grant (Specia) and has informed
+technology used by Facebook and Microsoft. Text engineering for social media analysis
+(Bontcheva) has been an outstanding success, attracting nearly £4m of grant funding and being
+used by Buzzfeed and Nesta.
+Moving forward, a particular focus will be on SLT for low-resource languages and sparse data
+domains that are poorly served by current deep learning methods. We plan to establish a centre of
+excellence in NLP for computational social science.
+Healthcare technologies
+Research in this theme is driven by the complexity of the clinical setting, aligned with challenges in
+harnessing technology to deliver healthcare more effectively. We focus on computational models
+as tools to identify causal relationships in disease mechanisms. Key challenges include maximising
+the information gained from images and measurements, developing personalised models to
+improve diagnosis and target therapy, monitoring disease progression via data analytics, and
+translating these tools into routine use.
+This theme is primarily supported by our Organisations, Information and Knowledge (OAK) and
+Complex Systems Modelling (CSM) groups, with input from the ML group. Fifteen academics
+contribute to the theme (5 professors, 10 lecturers/ senior lecturers). It is further supported by a
+network of clinical and interdisciplinary collaborations provided by Insigneo (the Institute for in silico
+Medicine), the Centre for Assistive Technology and Connected Healthcare (CATCH), the Sheffield
+Institute for Translational Neuroscience (SITraN) and the flagship Neuroscience and Healthy
+Lifespan Institutes.
+Contributions to basic science and optimising therapy include insight into the mechanisms of
+wound healing from multiscale models of cells and tissue (Walker, J Roy Soc Interface), novel
+personalised models of the heart (Clayton, Phil Trans Roy Soc A), and models and risk
+stratification of intracranial aneurysms (Watton, Biomech and Model Mechanobiol). Examples of
+research translation include the integration of Watton’s aneurysm growth model into the ITIS
+(Switzerland) SIM4LIFE software and clinical testing of a speech analytics system for the detection
+of cognitive decline (Christensen). Data analytics approaches have been used to understand
+patient trajectories through the NHS (PathAnalyse, funded by the Health Foundation and deployed
+in Sheffield Teaching Hospitals, Villa-Uriol) and to quantify physical activity in the community
+setting via a smartphone app (Large-Scale Data case study, over 1m downloads by 2019).
+                                                                                                  Page 3
+
+
+Unit-level environment template (REF5b)
+Grants totalling £5m were secured from funders including BBSRC, British Heart Foundation, the
+EU, NIHR, the Health Foundation, Rosetrees Trust, Wellcome Trust, Amazon and EPSRC. Many
+grants are collaborations between academic and clinical partners in the UK and internationally, as
+well as industrial partners, e.g. we are partners in the €10.3m PRIMAGE Horizon 2020 project.
+Our future research focus will be on leveraging our expertise in ML in areas such as uncertainty
+quantification for personalised disease models and medical image analysis.
+Bioinspired machine intelligence
+Research is driven by the design of energy-efficient algorithms that learn from fewer data, and
+yield solutions that are interpretable and explainable. We tackle these challenges through
+fundamental research mainly inspired by biological organisms.
+This theme is supported by 14 academics (3 professors, 11 lecturers/ senior lecturers) across the
+ML, CSM, Visual Computing and Algorithms groups and makes a substantial contribution to
+Sheffield Robotics (Prescott is the Director). Research spans fundamental theory on graph
+networks, genetic algorithms and reinforcement learning to applications, e.g. in cognitive robotics.
+Highlights include work on graph clustering (Peng, STOC) described as “breakthrough” by ACM
+Fellow Sanjeev Khanna, work on graph convolutional networks (Lu, CIKM) that outperforms state-
+of-the-art models, and a novel energy-based formulation of learning for spiking neural networks
+(Gilra, ICML; e-Life). Models of insect navigation and learning (Marshall, Mangan, Vasilaki, PLOS
+Computational Biology) and their applications in robotics have provided the intellectual foundation
+for a spin-out company, Opteran. Alvarez’s work on data-efficient latent force models for
+reinforcement learning (IEEE TAC) led to EPSRC funding on “one-shot learning”. Oliveto and
+Sudholt’s runtime analysis of genetic algorithms won a GECCO’14 best paper award.
+The theme is supported by grants totalling £8.6m, including funding from Amazon (Lu) and Google
+(Vasilaki). Examples include the £1.2m ActiveAI EPSRC Centre-to-Centre grant (Mangan), which
+establishes a long-term research partnership with leading teams in Australia, and the £2m Brain on
+Boards programme grant (Marshall). Vasilaki has secured three grants for her work on
+neuromorphic engineering, forging links with the Department of Materials Science and Engineering
+(EPSRC and Leverhulme, £1.8m). Oliveto obtained an EPSRC Early Career Fellowship (£1.2m).
+Prescott collaborates internationally via the Human Brain Project (£0.7m).
+A particular focus of future research will be the development of explainable AI. Gilra and Vasilaki
+recently secured a CHIST-ERA grant addressing causal explanations in reinforcement learning,
+and Alvarez is developing methods for learning cause-effect models from large datasets. Lu will
+focus on interpretable ML for data-scarce domains. We will expand our work on bioinspired robotic
+vision (Sun), supported by additional staff recruitment.
+Dependable and secure systems
+Research is driven by the challenge of developing systems that are demonstrably dependable and
+secure. Key problems relate to concurrent systems, for which correctness is tightly coupled to
+architecture. Hybrid systems, which combine discrete and continuous data, provide particular
+challenges for smart manufacturing and autonomous systems. Ensuring privacy in modern
+advanced systems is also an important issue.
+The theme is supported by 18 staff (5 professors, 12 lecturers/ senior lecturers, 1 fellow) across
+the Algorithms, Testing, Verification and Security groups, including four of the most senior UK
+                                                                                               Page 4
+
+
+Unit-level environment template (REF5b)
+academics working in the field (Derrick, Hierons, Struth, Clark). Research income was £6.5m,
+including grants from the EPSRC, EU, Dstl, Google and Facebook.
+Highlights include significant contributions to concurrency theory, including
+completeness/decidability for concurrent Kleene algebras (Struth, LIPIcs), decidability/complexity
+for distributed testing (Hierons, IEEE ToC), and notions of correctness and complexity for weak
+memory (Derrick, ACM TOCL). We developed authentication protocols (Gope, IEEE TIFS), ciphers
+(Kavun, CRYPTO), and access control methods (Kaaniche, IEEE TCC) for resource-constrained
+architectures and novel techniques in distributed testing (Hierons, ACM TOSEM) and verification in
+the presence of transactional memory (Derrick, several EPSRC projects in collaboration with
+ARM). We addressed compositionality to enable scalability (Hierons, EPSRC RoboTest) and the
+testing of highly concurrent Erlang code (Derrick, EU PROWESS). We advanced automation
+through work on automated reasoning (Struth, FAOC), the theoretical basis for model checking
+(Ordyniak, FOCS) and theorem-provers applied to verify the security of real-world applications
+(Popescu, POPL). We use metaheuristics such as genetic algorithms (e.g., Clark, Journal Syst.
+Soft.; McMinn, ACM TOSEM) and are one of the few groups to provide theoretical results
+regarding the effectiveness of these techniques (e.g. Oliveto, TCS).
+Future plans include exploring the quantitative verification and testing of probabilistic systems,
+supported by the UKRI Verifiability Node and EPSRC RoboTest project (Hierons). We will further
+develop verification and testing techniques for transactional and non-volatile memory (Derrick).
+EPSRC-funded work on causal inference (Walkinshaw, CiTCOM) provides a starting point for
+addressing large-scale systems. Finally, we will investigate how AI can be exploited for defence
+and attack (Clark, Gope and Kaaniche).
+1.3 Approach to supporting interdisciplinary research
+Through our strategic themes, we carry out research in areas that are interdisciplinary by nature,
+and seek impact through partnerships with other domains. Speech and Language draws on
+phonetics, linguistics, psychophysics and engineering but also contributes to these disciplines (e.g.
+computational models of hearing, NLP methods in corpus linguistics). Healthcare Technology and
+Bioinspired Machine Intelligence are entirely interdisciplinary themes, in which close collaboration
+with other research areas (particularly medicine and biological sciences) is key. Approximately
+60% of our outputs and 35% of our grants involve collaborations with departments such as
+Biological Sciences, Neuroscience, Medicine, Psychology, Physics, and Law.
+We identify key interdisciplinary areas based on research strength and sustainability and support
+them through the following mechanisms:
+Strategic leadership of interdisciplinary University institutes and centres. We hold leadership
+positions in: Insigneo (Clayton); Sheffield Robotics (Prescott); and CATCH (Christensen) as well as
+in three of the four University Flagship Research Institutes - Neuroscience (Vasilaki, Gilra), Healthy
+Lifespan (Villavicencio, Villa-Uriol), Sustainable Food (Cunningham). These facilitate our
+involvement in large collaborative grants, e.g. the €15m SANO centre for personalised medicine,
+and lead to interdisciplinary outputs (e.g. Current Biology), and position papers in influential
+journals (e.g. Nature Food). We nurture future leaders of interdisciplinary research through early
+engagement with leadership (e.g. Gilra, Villa-Uriol and Christensen held roles in institutes as
+lecturers), supported by schemes such as Sheffield Leader (Section 2.3).
+Appointments in interdisciplinary areas. We recruit researchers with demonstrable ability to
+work across disciplinary boundaries. Appointments have cemented our links with Neuroscience
+(Alvarez, Gilra, Mangan, Wang), Neurology (Christensen), the NHS (Lanfranchi, Villa-Uriol),
+                                                                                                 Page 5
+
+
+Unit-level environment template (REF5b)
+Cardiology (Lu) and Psychology (Prescott). Outcomes include interdisciplinary publications in top
+venues (e.g. Nature Neuroscience) and £3.15m in collaborative grants.
+Internal funding to support interdisciplinary research. We invested £800k in interdisciplinary
+PhD studentships, and co-supervise students with 11 other departments. We organise events that
+catalyse interdisciplinary collaborations, e.g. an ML workshop for the Faculty of Science. Resulting
+outcomes include papers co-authored by PhD students in prestigious outlets (e.g. Nature Machine
+Intelligence) and new collaborations with the Department of Chemistry. We also fund infrastructure
+for interdisciplinary research (Section 3).
+Research software engineering (RSE). We support a rapidly growing RSE group by underwriting
+6 posts, an investment of £90k since 2014. The group underpins excellence in research software
+across the University: in 2019/20, it supported 28 grants, with a total value exceeding £9m. In turn,
+this leads to interdisciplinary collaborations: Richmond (head of RSE) holds interdisciplinary grants
+totalling £1.4m, including projects on bone disease and tuberculosis vaccine development.
+Our future strategy includes investment in these successful mechanisms and capitalising on our
+strategic involvement in interdisciplinary institutes, which will benefit from the University’s recent
+commitment to invest £13.7m in four flagship research institutes. We have leadership positions in
+three of these and are forging links with the fourth (Energy) via our new appointment Gope.
+1.4 Impact strategy, support mechanisms and outcomes
+Our impact strategy promotes early engagement with end users of our research across each of our
+four strategic themes to ensure that impact is embedded from project conception to dissemination.
+The identification and development of impact opportunities are supported by an impact champion
+(Cunningham), Faculty and University research support services, and the following mechanisms:
+Joint appointments. These bridge us with key targets for translating research. Lanfranchi has a
+joint appointment with the NHS, securing more than £400k in health-related grants in the last two
+years. Law’s appointment with the Advanced Manufacturing Research Centre (AMRC) led to the
+involvement of the AMRC in a UKRI TAS Verifiability Node.
+Visiting academic appointments. Six industry figures facilitate connections that support research
+impact. Collaboration with visiting academic Chakravarthy (Dstl) led to the foundation of a new
+University Technology Centre for AI in Defence and Security.
+Consultancy. Generous consulting and shared IP arrangements encourage staff to undertake
+consultancy that can lead to larger impact opportunities. Since REF2014, consultancy income
+exceeded £1.4m, involving 13 staff and 39 partners. These partners include SMEs such as
+Elephant Gin (Law) and Alchemy Machines (Aletras) and large companies such as Samsung
+(Ragni). The Large-Scale Data impact case study arose from consultancy contracts with Public
+Health England (to develop the “Active 10” app) and JustGiving.
+We proactively identify impactful research and support it via reduced workloads and impact
+sabbaticals. Professional knowledge exchange colleagues assist industry engagement, both in the
+Faculty (2 FTE) and in a central impact and knowledge exchange team (13.2 FTE). From the latter,
+we received Impact Accelerator Account, HEIF and Commercialisation of IP funds of £311k in the
+assessment period. Our RSE group is deployed to accelerate impact, supporting, e.g. our case
+study Combatting Disinformation by rapid delivery of an online COVID-19 disinformation
+dashboard.
+                                                                                                   Page 6
+
+
+Unit-level environment template (REF5b)
+                                        Figure 2: Impact pipeline
+Our successful impact strategy is apparent from the quality and diversity of our selected case
+studies, which range from influential research informing policymakers (Banning LAWS, Combating
+Disinformation) to speech and language research that underpins the technology of VoiceBase,
+Facebook and Microsoft (Automatic Voice Recognition, Machine Translation), and research on
+analysing data at massive scales, which has impacted hundreds of thousands of people (Large-
+Scale Data). Our successful impact pipeline is evidenced by many projects at various stages of
+translation, e.g. working with South London and Maudsley NHS Foundation Trust, we used the
+open-source GATE text engineering technology developed in our speech and language theme to
+find a link between symptoms of schizophrenia described in a patient’s clinical records and the
+likelihood of that patient being admitted to a hospital. In our bioinspired machine intelligence
+theme, fundamental research on the visual system of the honeybee has been translated via
+Opteran (Marshall). The company is pioneering bioinspired silicon-based solutions for computer
+vision and autonomous decision making and has raised £2.1m in seed funding.
+Existing case studies and new projects in our impact pipeline will provide the starting point for
+developing our future impact agenda. Our centres funded by VoiceBase and Dstl will be crucibles
+for translational research, further feeding our impact pipeline. Our impactful work on misinformation
+will be supported by additional academic appointments.
+1.5 Open research and research integrity
+Research integrity is a fundamental component of research excellence. We uphold principles of
+honesty, responsibility, fairness and accountability, supported by commitment from the institution,
+our staff and postgraduate research (PGR) students. Our strategy for developing open research
+and research integrity is based around the following three pillars:
+Developing a culture of research integrity. We adopt an approach to research that is
+underpinned by honesty and transparency and supported by rigorous methods and reporting
+principles. Training is a key factor in achieving this. All PGR students and new staff complete a
+course on Professional Behaviour and Ethical Conduct. We run an annual seminar on peer review,
+targeted at PGR students and postdoctoral research assistants (PDRAs). All staff and PGR
+students complete online training in unconscious bias and protecting research data. We ensure
+that informed, auditable oversight of research integrity occurs in practice. Ethics, data governance
+and research methodology are considered at all PGR progression/review points and in
+probationary staff reviews. We maintain a panel of trained ethics reviewers, supported by a
+bespoke online ethics approval system. Audits of our ethical approvals are undertaken by the
+University Research Ethics Committee. Declarations of interest are systematically reviewed and
+                                                                                                 Page 7
+
+
+Unit-level environment template (REF5b)
+updated annually. Faculty approval is required for the appointment of PGR examiners, with due
+regard to appropriate competence and independence. Finally, we seek to establish a culture in
+which concerns about research integrity can be raised without fear of reprisal. A procedure for
+whistleblowing is outlined (see REF5a); however, we emphasise that honesty is paramount.
+Support for open access (OA). We ensure that publicly funded research is accessible to the
+public, industry, and the wider academic community, and we adhere to University-wide principles
+of OA. To ensure maximum discoverability of our research, we aim to put all outputs in White Rose
+Research Online, our shared repository with Leeds and York (green route). The 1,463 outputs
+deposited over the assessment period were downloaded over 99,000 times. This is our preferred
+route, ensuring equity in publishing opportunities regardless of available funding; we also publish
+outputs in fully OA journals, supported by a Departmental fund, or hybrid where required for funder
+compliance. In addition, staff increasingly submit papers to preprint services such as arXiv to
+ensure timely dissemination of research findings. Twenty staff have editorial roles in journals that
+support open research.
+Support for open data, open methods and open-source software. This support is the core of
+reproducibility, being intimately linked to the culture of research integrity we seek. We publish
+software and datasets to the community through our institutional data repository, ORDA. The
+speech and language theme has been particularly active in sharing open data, including the
+Lombard Grid, an audiovisual speech corpus, and CHiME, a series of ASR challenges. Our RSE
+group supports a doctoral training module on software methodologies and tools, underpinning our
+commitment to the reproducibility of results. We promote open training to the community, e.g. the
+annual Gaussian Process Summer School (Lawrence, Alvarez, Smith) is a beacon of the open
+approach to research training. The related GPy open-source framework for Gaussian Processes is
+distributed through GitHub, with 431 users and 64 contributors.
+Going forward, our strategy is to recognise and promote methodological excellence within our
+research, e.g. by leveraging our capacity in RSE to support and educate staff and PGR students in
+open research software. We will develop short courses in open data and software for research
+locally and then make them available to the whole University as a beacon activity; Derrick’s
+experience as chair of the University OA Advisory Group will facilitate this. We will also promote
+awareness of the ethical requirements and practices of other disciplines. Lanfranchi is our ethics
+lead and has a joint position with the NHS; she is well positioned to advise on research integrity
+within the healthcare technologies theme, which increasingly involves clinical collaboration.
+1.6 Strategic priorities for the next five years
+Our ongoing strategy is to capitalise on our excellence and to grow our investment around our four
+key themes. Priorities in the next five years are as follows:
+Further develop collaborations in our strategic themes. Collaborations allow us to better
+understand challenges and act as vehicles for a broad range of impact. These collaborations will
+be facilitated by further growing our academic staff to 73 to enable theme, institute and end-user
+collaborations while maintaining a balanced growth across the four themes. Our first priority is to
+increase our capacity in machine vision, which will provide new opportunities for interaction with
+Insigneo, CATCH and Sheffield Robotics. Collaborations benefit from Sheffield’s commitment to
+invest £13.7m in four flagship research institutes, all of which we are linked to. Finally, we will
+enhance collaborations with the AMRC and High Value Manufacturing Catapult through our
+dependable and secure systems theme.
+                                                                                                 Page 8
+
+
+Unit-level environment template (REF5b)
+Exploit and contribute to wider infrastructure and services. Significant opportunities for
+leveraging infrastructure in areas of Sheffield’s strengths are the £43m Industry 4.0 investment in
+the AMRC and the HPC provision at the Faculty, University and national levels. IT infrastructure
+will benefit from a £10m University investment. A key aim will be to grow our HPC infrastructure at
+the scale necessary to support our research in ML. To address this, we will seek collaborations
+with other academic institutions and commercial cloud computing providers.
+Revitalise and exploit our physical infrastructure. We plan to be in extended and refurbished
+accommodation by the end of 2022, enabled by University investment of £10.5m. We will use this
+opportunity to re-equip our groups, stimulate cross-group research and enhance the PGR student
+environment. Our refurbished building will offer an improved environment for knowledge exchange
+and external engagement, facilitating our future impact strategy, which stresses early and close
+engagement with business, the public and the third sector.
+  2. People
+2.1 Overview
+Our REF2014 plans have led to significant, strategic growth within our key themes. The
+Department now has 55 academic staff, 2 academic fellows, 72 researchers; among those 2
+academic fellows, 6 University teachers, 39 professional support staff, and 86 PGR students of
+which 53 are Graduate Teaching Assistants (GTAs). Each theme is supported by a mixture of
+senior research leaders, mid-career staff and early-career researchers (ECRs) with an excellent
+trajectory.
+We take great pride in fostering a friendly, collegial and nurturing research environment. Our
+approach to staffing and recruitment is informed by deeply held EDI values, recognised through a
+Silver Athena SWAN award. The University is in the top 100 of the Sunday Times Best Employers
+List, is a Top 5% Stonewall employer and maintains an HR Excellence in Research Award and
+Disability Confident accreditation.
+2.2 Staffing and recruitment strategy
+Our staffing and recruitment strategy ensures that we have the breadth and depth of research
+excellence needed to address our research themes. Challenges have been to appoint outstanding
+individuals in competitive areas (e.g. cybersecurity, ML) and to attract senior academics to
+establish new groups and strengthen the leadership of existing groups.
+                                                                                              Page 9
+
+
+Unit-level environment template (REF5b)
+                          Figure 3: People, staffing and recruitment strategy
+We achieve these aims in two ways. Firstly, we develop a distinctive five-year support package for
+ECRs, in the form of internally-funded proleptic fellowships. These offer guaranteed progression to
+an open-ended academic position, subject to meeting standard probation requirements. Secondly,
+we support new lecturers and professors with an attractive package including internally-funded
+PGR studentships and a reduced teaching load for 2-3 years.
+This strategy has been successful in attracting outstanding talent. Over the assessment period, we
+appointed 2 fellows (1 female), 17 lecturers (5 female), 7 senior lecturers (1 female) and four
+professors (1 female). These contribute to the excellence of our research themes as follows:
+Speech and language. Research in multilinguality and cognitively motivated NLP was supported
+by the appointment of Villavicencio to a personal chair. Three senior lecturers (Goetze, Barrault,
+Lin) bring expertise in deep learning methods. Lectureship appointments Ragni and Aletras have
+progressed rapidly, the latter winning £508k in grant income since appointment. We deployed an
+internally-funded fellowship to recruit Scarton in the competitive area of machine translation. She
+has already won a major grant (EPSRC £446k).
+Healthcare technologies. We recruited Lanfranchi to a joint position with the NHS: she has
+secured £547k in grants since appointment, many with clinical partners. Villa-Uriol and Yang bring
+physiological modelling and machine learning expertise, cementing our links with Insigneo. Wang
+is a joint appointment with Neuroscience and SITraN, bringing expertise in bioinformatics.
+Christensen has developed extensive clinical collaborations through work on the assessment of
+neurodegenerative disorders (Journal of Neurology) and secured an EU Marie Skłodowska-Curie
+Training Network (TAPAS).
+Bioinspired machine intelligence. Prescott was recruited to a chair to grow links with Sheffield
+Robotics, where he is the Director. Lecturers Mangan and Sun bring expertise in bioinspired
+robotics and machine vision. Research in core ML methods was strengthened through Alvarez and
+Lu, who have earned £839k between them in grants, with both securing an EPSRC New
+Investigator Award. Expertise in graph clustering was strengthened by Peng, who publishes in the
+competitive SODA conference. Gilra’s work on recurrent spiking neural networks (eLife) cements
+our links with the flagship Neuroscience Institute. A proleptic fellowship was used to attract Smith,
+whose work on ML methods for pollution modelling is likely to become a future impact case study.
+Dependable and secure systems. Clark was recruited to lead our new Security group, supported
+by strategic University investment of £1.2m. The group now comprises 5 academics, 3 PDRAs and
+10 PGR students. Appointments in the Security group bring expertise in cryptographic algorithms
+(Kavun, Kaaniche), information flow security (Popescu) and internet-of-things (IoT) security
+(Gope). Our expertise in model checking was bolstered by Ordyniak, who publishes in top venues
+(e.g. Algorithmica). Leadership in testing was supported through the chair appointment of Hierons;
+                                                                                               Page 10
+
+
+Unit-level environment template (REF5b)
+with new senior lecturer Walkinshaw he has won an EPSRC grant on causal inference for testing
+computational models. Capacity in verification was increased by Beohar and Dimitrova, the latter
+having expertise in hybrid systems and potential links with the AMRC.
+All Category A staff are on open-ended contracts. We offer open-ended contracts to researchers
+on fixed-term projects wherever appropriate, taking account of longer-term strategy and plans.
+Currently 35% of researchers are on open-ended contracts (up from 24% in the last period).
+Going forward, a plan has been developed with Faculty approval to grow our academic staff to 73
+within 6 years. We will recruit a chair and two further lecturers in machine vision, supporting our
+bioinspired machine intelligence and healthcare technologies themes. The dependable and secure
+systems theme will be strengthened by a chair and two lectureships in distributed systems and an
+additional lectureship in security. An internally-funded fellowship will support the pipeline of
+researchers working on social media analysis in the speech and language theme.
+2.3 Staff development and support
+Our strategy is to provide support that enables high performance, agility, leadership, and
+intellectual and professional development. During the assessment period, a particular focus has
+been to support the progression of fellows to academic positions and to ensure that new
+appointees and ECRs become well-embedded in the unit and rapidly progress.
+The University’s Academic Career Pathways (ACP) framework provides a structure for academic
+staff progression from early career to professorship. Research and impact are explicitly recognised
+within the ACP framework, with appropriate expectations set to enable achievement to be
+rewarded in terms of progression. All staff have an annual review meeting that focuses on career
+planning and identifies ongoing training needs. Strong staff engagement with this process exists in
+the Department (e.g. 97% of staff completed a review in 2019).
+Supporting fellowships. Faculty professional services provide support by arranging mock
+interview panels, and workloads are adjusted for those developing fellowship applications. In the
+assessment period, seven of our staff held fellowships, three of which were ECRs (see below).
+Bontcheva won an EPSRC Career Acceleration Fellowship while working part-time, and Specia
+was awarded an ERC starting grant. In both cases, the fellowships supported work that led to an
+impact case study. Marshall was awarded an ERC Consolidator grant and Clark held a Royal
+Society Wolfson Research Merit Award.
+Supporting the development of ECRs and PDRAs. We proactively mentor our ECRs to ensure
+their retention and career progression, with close involvement of the Head of Department (HoD).
+The success of this approach is exemplified by Oliveto and Richmond, who were initially supported
+by Sheffield Vice-Chancellor Fellowships. Both were subsequently appointed to senior lecturer and
+won EPSRC Early Career and RSE Fellowships respectively. Croucher won a second RSE
+Fellowship and progressed to Head of Research Computing at the University of Leeds. An
+extensive range of development modules is available to PDRAs, including courses on
+entrepreneurship, research management, academic writing and media training. A professor and
+EPSRC panel chair (Clark) runs a proposal-writing training module for ECRs and PDRAs.
+Implementing the Concordat to support the career development of researchers. We have
+mapped our activities against the Concordat and implement its principles through an induction
+programme, annual reviews and away days for researchers. The latter covers topics such as
+industry engagement, frequently with an invited speaker. The “Think Ahead” development
+                                                                                                 Page 11
+
+
+Unit-level environment template (REF5b)
+programme, coordinated by a dedicated member of the University’s professional services team,
+further promotes employment and professional development opportunities.
+Supporting probationary staff. Probationary staff have a reduced teaching load for three years
+(set as 50%, 70%, and 90% of normal load). New appointees have a mentor and devise a
+probation plan with the HoD. They meet monthly with the HoD/Deputy HoD during the probation
+period. This close mentoring approach is successful: all 10 staff who completed probation
+exceeded their grant income target of £130k, with a mean grant income of £344k. Half of these
+staff completed probation a year early.
+Developing future leaders. Research groups are typically led by a professor. In some cases
+group heads are new senior appointments (Clark, Hierons), but in most cases future leaders are
+developed from existing staff (e.g. Bontcheva, Hain), with a succession pipeline supported by
+departmental mentors or institutional programmes such as Sheffield Leader. Twenty-six staff
+participated in these programmes (11 female, 15 male) and have gone on to assume major
+leadership roles within the Department (e.g. group heads, HoD, Director of Research) and in the
+wider University (Christensen is Faculty Director of EDI; Derrick is Vice President for the Faculty of
+Science).
+2.4 Support and reward for research and impact
+Research and impact are rewarded through the ACP framework, which sets out transparent
+expectations to achieve career progression. In the assessment period 23 staff were promoted,
+including 6 to personal chairs (3 women), which reflects the high quality of our staff, our robust
+processes for supporting career progression, and our readiness to recognise and reward
+achievement in research as well as broader contributions in leadership, professional standing and
+wider engagement.
+Sabbaticals allow one semester of leave after seven and are allocated according to a rolling
+schedule, looking several years ahead. Part-time staff take study leave on a pro-rata basis.
+Notable outcomes of 15 sabbaticals in the assessment period include the following: McMinn
+developed a new relationship with Facebook, leading to a £41k grant on search-based testing;
+Sudholt published four journal papers (Artificial Intelligence, Algorithmica, IEEE TEC) and four
+conference papers (GECCO); Prescott visited the Sage Centre for the Study of the Mind at the
+University of California Santa Barbara as Distinguished Fellow, leading to a co-authored article
+(Trends in Neuroscience); and Hain visited the Nagoya Institute of Technology as Visiting
+Professor, leading to a student exchange and collaboration on a grant proposal. We also fund
+shorter research visits that are likely to lead to high-quality outputs, e.g. Struth’s visit to Macquarie
+University and Data61 in Sydney led to two collaborative papers on quantitative information flow.
+We keep teaching and administrative loads in balance through a workload allocation model so that
+time for research and impact is protected. We also support research through spending on
+teaching-specialist staff; since 2014, we have appointed 6 university teachers (two were funded
+through a £1m Institute of Coding grant) and increased spending on GTAs from £31k in 2014/15 to
+£90k in 2019/20.
+2.5 Support for postgraduate research students
+Our strategy is to create a diverse community of PGR students with a broad range of specialist
+skills and intellectual perspectives. We aim to attract the brightest PGR students from the UK and
+internationally, driving recruitment with internally-funded scholarships (£3m over the assessment
+period) and through our CDT, which will sponsor 60 PGRs over 2019-2027. We attract diverse
+                                                                                                  Page 12
+
+
+Unit-level environment template (REF5b)
+candidates by advertising widely and support self-funded applicants where possible (e.g. via partial
+fee scholarships). Our success is evidenced by a diverse cohort (13% EU and 59% international
+representing 38 countries) and PGRs with first-authored papers in top journals (e.g. Paetzold,
+Journal of AI Research; Mirheidari, Computer Speech & Language; Osuna, IEEE Transactions on
+Evolutionary Computation).
+Supporting progression
+All PGRs are assigned a primary supervisor, an independent advisor from the same research
+group and a panel chair from a different group. We supplement University-required annual reviews
+with six monthly panel meetings, enabling clear and timely oversight of progress. For students
+registering in 2015/16, 89% submitted within their four-year time limit. A 2019 Postgraduate
+Research Experience survey showed high overall satisfaction (82%), with positive responses for
+supervision (86%), skills development (89%) and resources (85%).
+Skills training and preparation for future careers
+All PGR students complete training courses in research integrity, teamwork and presentation skills
+and must formulate a data management plan. Each student has a dedicated workspace and
+desktop computer and an allowance of £1,500 for conference participation. Outcomes include
+numerous prizes for presentations at international conferences (e.g. Ge, International Symposium
+on Search-Based Software Engineering 2017; Naith, International Conference on Crowd Science
+and Engineering 2018).
+We build connections with potential employers through industry talks, engagement with visiting
+professors (e.g. Leidner, Thomson-Reuters), collaboration with our CDT sponsors (e.g. Amazon,
+NHS Digital) and internships (e.g. Apple, Microsoft, Baidu, Google, Electronic Arts). Success is
+evidenced by the breadth of professional careers that our PGRs pursue after graduation, including
+postdoctoral positions (e.g. Loweimi, Edinburgh; Armstrong, Cambridge; Rabehaja, Macquarie)
+and fellowships (Richmond, EPSRC RSE Fellowship). Several have progressed to lectureships,
+e.g. Usman (UET Lahore), Roberts (KCL), Alharbi (King Saud University). Derczynski and
+Augenstein hold professorships at the University of Copenhagen, with Augenstein leading the NLP
+group (line managing 44 people). Our PGRs have taken up significant roles in tech startups (e.g.
+Mokharam, EmoTech) and have been employed by industry leaders (e.g. Gomes, Amazon;
+Doulaty, Facebook).
+2.6 Equality, diversity, and inclusion
+Our strategy is to ensure that our practices in recruitment, staff support and career development
+fully harness a diverse pool of talent, enabling us to advance our research themes. We implement
+this strategy by embedding EDI throughout departmental processes. All staff undertake
+unconscious bias training; a gender balance is ensured in all committees and appointment panels;
+and search committees seek applicants from underrepresented groups. The University has an
+active Disability Staff Network. Positive responses in the 2018 University Staff Survey confirm that
+the Department recognises and values diversity and difference (97%). Over the assessment
+period, we appointed eight women to academic (lecturing or fellowship) positions.
+Addressing gender equality. Our active engagement with Athena SWAN has led to both Bronze
+(2013) and a Silver (2016) awards. Through our action plan, mentoring by the HoD and the
+University’s peer mentoring scheme, we have been successful in improving gender equality in our
+pipeline from ECR to professor. We had 23 promotions, of which 6 were female. We increased the
+number of female professors from zero in 2014 to four over the assessment period, three of whom
+                                                                                             Page 13
+
+
+Unit-level environment template (REF5b)
+were promoted from within the Department. Currently women account for 36% of lecturers, 22% of
+senior lecturers/readers/advanced fellows and 17% of professors. Female academics have
+obtained £8.6m in external funding since 2014, generating 27% of our research income. This
+statistic is impressive, given that three women were recent appointments (<1y) and that, prior to
+2016, none were professors. Female senior leaders include our Director of Research, two research
+group heads, the Faculty Director of EDI and other leaders in the wider University.
+Eliminating discrimination and promoting diversity. We are a proudly multicultural department
+with 32 international academic staff of which 22 were appointed during the assessment period.
+Firmly embedding EDI principles in our recruitment processes has led to an increased proportion of
+BAME staff; with 25% of staff self-reporting as BAME. We are committed to supporting our
+LGBTQ+ staff and PGRs, as evidenced by the University’s Stonewall Top 100 Employers position
+for seven years running. We actively support different lifestyles, for example we have flexible
+arrangements for a number of academics with partners in different cities. In our most recent staff
+survey, 96% of staff agreed that they could talk openly with their line manager about flexible
+working. We offer targeted help to staff and PGRs with protected characteristics (e.g. changes in
+working pattern to accommodate disabilities). Support for international staff includes flexibility with
+overseas working, which was particularly important during the COVID-19 pandemic.
+Supporting mental health and neurodiversity. The Faculty has a wellbeing officer who provides
+expert one-to-one support and signposting to students, including PGRs. We plan to further buttress
+this support with a dedicated wellbeing officer for the Department. We are liaising with IBM on their
+industry-leading work in neurodiversity to gain greater insight into practices for recruiting and
+supporting neurodiverse staff; this has informed our ongoing Athena SWAN action plan.
+Parental leave and childcare. In addition to statutory maternity, adoption and shared parental
+leave, staff on leave can elect to perform up to 10 days of paid work without loss of statutory pay
+(‘keeping-in-touch’ days). Since 2014, 12 staff members have taken parental leave. All staff taking
+parental leave remained in employment with the Department after 18 months. One staff member
+received an award of £10k through the University’s Women Academic Returners’ Programme
+(WARP), which provides financial support for women to mitigate the impact of extended leave on
+research.
+Equality and diversity issues in the preparation of this REF submission. In accordance with
+the University Code of Practice, four principles were applied throughout all stages of our
+submission: transparency, consistency, accountability and inclusivity. Staff with a leading role in
+our REF submission (3 males, one female) have undertaken unconscious bias training; output
+selection was overseen by a female academic. The selection of outputs was guided by anonymous
+internal and external reviewers. Subsequent validation showed that we had not introduced
+significant gender bias in the selection of outputs. 40% of our impact case studies are led by
+women (20% of academic staff are women).
+  3. Income, infrastructure and facilities
+3.1 Overview
+We ensure that our four research themes are well supported through income capture,
+infrastructure provision and access to facilities. A particular focus has been to diversify our support
+base by increasing our UKRI and industry funding. This diversification reflects opportunities: the
+                                                                                                Page 14
+
+
+Unit-level environment template (REF5b)
+synergy between UKRI funding priorities (Industrial Strategy, Made Smarter), industry demand for
+our research (in areas such as SLT), and growth in our research strengths and ambitions.
+Diversification was also a response to the challenge of uncertainty regarding UK participation in EU
+research schemes. The key outcomes are an increase in grant income from £18.8m in the last
+period to £32.5m and more than doubling industry income from £875k to £2.1m.
+Our underlying strategy has been multi-pronged. We have actively recruited in areas of strategic
+importance, making professorial appointments to enhance leadership and appointments to fill gaps
+in our expertise (see Section 2.2). This has ensured sustainability of funding across our research
+themes. We have sought and achieved positions of leadership in major grants (e.g. EPSRC
+programme grants, fellowships, coordination of EU grants). Time for research and impact is
+protected through investment in teaching-specialist posts, sabbaticals and funded short-term study
+leave (see Section 2.4).
+Appointing staff with interdisciplinary profiles has created opportunities for new funding streams
+(e.g. Rosetrees Trust). Our interdisciplinary collaborations allow us to leverage a wide range of
+facilities across the University. We leverage and contribute to HPC provision across the University
+and through national initiatives such as JADE. This reflects the increasing importance of HPC to
+the ML interests of almost all of our research groups.
+3.2 Income
+Research grant capture. Our research income increased from £18.8m (REF2014) to £32.5m, with
+UK, EU, and industry funding in each of our four strategic themes. We have been highly successful
+in obtaining EU funding; this reflects the international and multidisciplinary nature of our work and
+the close alignment of our strengths with EU and UK priorities. We grew our EU funding from less
+than £10m (REF2014) to £15.4m. We collaborated with leading European scientists on 39 EU-
+funded projects, involving 177 universities, 92 companies and 85 charities, and coordinated 5
+FP7/Horizon 2020 grants (PROWESS, WeSenseIT, Pheme, CONTESSA, SETA). We achieved
+diversification of our grant capture: 56% of our funding was from non-EU sources, an increase from
+49%. UKRI funding increased from £6.5m to £12.4m. Income from charities was £717k, including
+grants from the British Heart Foundation, Wellcome Trust, Rosetrees Trust and Alzheimer’s
+Society. 62% of our submitted papers came from funded projects, as did four of our impact case
+studies. New staff have been responsible for £6.8m in external funding and approximately 50% of
+our outputs.
+Large grant leadership. Leadership in all four of our themes is demonstrated by major single
+grant awards, reflecting the excellence of senior research leaders within the groups. In the
+bioinspired machine intelligence theme Marshall leads a collaborative EPSRC programme grant,
+Brains on Board: (£4.8m, £2.2m to Sheffield). This was supported by a lecturer appointment
+(Mangan). Outputs from the grant include interdisciplinary papers in top journals (e.g. Proceedings
+of the Royal Society Series B) and a spin-out company (Opteran). In the dependable and secure
+systems theme, Clark leads the £4.9m Research England IoT innovation project PITCH-IN, a
+collaboration with Oxford, Cambridge, and Newcastle. In the speech and language theme, Hain
+held the EPSRC Natural Speech Technology programme grant, which laid the foundation for our
+CDT and VoiceBase centre.
+Fellowships. Fellowship income totalled £5.1m. An ERC Starting Grant to Specia (£1.2m) led to
+an impact case study on machine translation, which underpins technology used by Facebook and
+Microsoft. A £1.2m ERC Consolidator Grant to Marshall funded his research on bioinspired
+robotics, leading to a programme grant (see above) and first-authored interdisciplinary publications
+                                                                                               Page 15
+
+
+Unit-level environment template (REF5b)
+in competitive outlets, e.g. eLife. Richmond and Croucher won 2 of the 7 awards in the first round
+of the EPSRC Research Software Engineering Fellowships. Richmond has since established a
+team of 12 people (see Section 3.3); Croucher progressed to Head of Research Computing at the
+University of Leeds. Oliveto won an EPSRC Early Career Fellowship for his work on the rigorous
+runtime analysis of bioinspired computing (£1.3m). Over the assessment period, he published over
+50 papers in, e.g. Theoretical Computer Science and IEEE Transactions on Evolutionary
+Computation.
+New appointees. We support new appointees with dedicated grant writing workshops. EPSRC
+First Grant/New Investigator Awards were obtained by Vlachos (non-monotonic incremental
+language processing), Alvarez (one-shot learning of human motion), Lu (sparse features for fMRI
+analysis) and Ordyniak (parameterized algorithms).
+Industry income. This increased from £875k (REF2014) to £2.1m. Notable achievements include
+two new industry-funded centres, with funding totalling £1.4m. The Silicon Valley company
+VoiceBase funds a centre employing 12 people to support Hain’s research in ASR. A Dstl-funded
+University Technology Centre for AI in Defence and Security was established in 2020. Staff have
+been successful in obtaining research funding from tech companies, a total of £510k in the
+assessment period from Amazon, Google, and Microsoft, e.g. a Google award to Barker supported
+his work on the influential series of CHiME ASR challenges.
+PGR income. Our reputation for research excellence makes us an attractive environment for PGR
+students; since 2014 our PGR base has expanded by 25%. We have strategically invested our
+own funds in PGR scholarships to support new staff and major grants; since 2014 we spent ~£3m
+and have committed £3.35m over the next 5 years. We were awarded a UKRI CDT in Speech and
+Language Technologies, which will train 60 PGRs over 2019-2027. This award provided leverage
+for investment in staff within our speech and language theme, with the subsequent appointment of
+Barrault, Goetze, Lin, Ragni, Scarton and Villavicencio. The CDT has significantly grown our
+industry connections, leading to collaborative funding from Amazon Research, Google, Microsoft
+Research, NHS Digital and others. We participate in the EU Marie Skłodowska-Curie ITN TAPAS
+(Christensen, Barker, £454k) and NeuTouch (Prescott, £248k).
+By diversifying our support base and building connections across disciplines and with external
+partners, we are well positioned to respond quickly and flexibly to changing priorities and
+opportunities. A recent illustration is Lu’s success in winning a highly competitive US National
+Institutes for Health AI in Health and Care Award in 2020 (< 8% success rate, £504k) that brought
+together our ML expertise with clinical expertise from Sheffield Teaching Hospitals NHS Trust.
+3.3 Infrastructure and facilities
+Our growth in staff numbers is matched by investment in infrastructure and facilities, ensuring that
+our themes are well supported to generate excellent research and significant impact. Key
+investments during the assessment period are highlighted below.
+High-performance computing. Our strategy is both to fully exploit the extensive HPC facilities
+provided by the University and to further contribute to them. We maintain a server room for
+specialist equipment but increasingly we are investing in additional nodes for the central HPC
+clusters Bessemer, ShARC and Iceberg. Together, these provide 350 worker nodes, 6500 CPU
+cores, 49 TB of RAM, 60 GPUs and 1425 TB of fast network storage. 313 members of our staff
+and PGR students have accounts for these HPC facilities. We supplemented University investment
+in HPC facilities with £480k of equipment, in addition to £800k spent on large-memory nodes and
+GPUs for ML. Recognising the increasing importance of deep learning, particularly for our speech
+                                                                                              Page 16
+
+
+Unit-level environment template (REF5b)
+and language and bioinspired machine intelligence themes, we provide a significant number of
+state-of-the-art GPUs to individuals (eight in 2019) and our CDT (three 6GB NVIDIA Titan cards).
+We were the first UK university to purchase an NVIDIA DGX-1, an accelerated platform for deep
+learning. We are part of a consortium that has access to the JADE Tier 2 GPU cluster, designed
+for the needs of machine learning and related data science applications; this also supports work on
+machine translation. Going forward, a University £10m plan to deliver a new Research IT and
+Innovation Strategy has been agreed upon.
+Sheffield Robotics. Our close collaboration with Sheffield Robotics and links to the AMRC
+provides access to a wide range of specialised equipment and facilities. In addition to the 200m 2
+Sheffield Robotics lab, a human-robot interaction lab (17m2), a motion capture lab (60m2), two
+hangars (400m2) and a workshop (40m2) are available. Equipment includes Kilobots (Marshall on
+the DIODE project); KUKA iiwa (Law and Gaizauskas, EPSRC Network Plus Connected
+Everything project); Jaguar 4x4 rovers, Griffon dynamics Octocopters, and DJI Phantom 4 (Law,
+EPSRC UK-RAS Field Robotics Challenge 2016); iCub (Prescott, Horizon 2020 WYSIWYD and
+Cyberselves projects); 3D printers (Marshall, Green Brain and Brains on Board projects) and
+dedicated technical support (2 FTE). Sheffield Robotics has won over £1.5m in EPSRC capital
+awards since 2014, and we supported it with an additional £0.9m for staff and equipment.
+Research software engineering. Our RSE group, one of the largest in the UK, grew from 2 FTE
+in 2016 to 11 FTE. The group largely sustains itself on grant income, but together with central IT
+services we underwrite posts to offer staff job security and so to ensure retention. They have been
+instrumental in producing software usable by stakeholders, e.g. a web service for fact-checking
+used by journalists was developed (Rumour Analysis Service (RAS) project, funded by the Google
+Digital News Initiative and WeVerify, Bontcheva), and they are critical to our reproducibility strategy
+(see Section 1.5). The team contributes widely to the national RSE agenda through guidance for
+reproducible research (via The Turing Way with ATI), national training for HPC (via Software
+Sustainability Institute fellowships and HPC carpentry), and leadership (via a Future RSE Leaders
+workshop and an RSE Leaders panel) and includes two of the twelve members of the Board of
+Trustees of the Society of Research Software Engineering.
+Facilities for specific research clusters. We have an apiary and a beekeeper to support the
+Brains on Board project and invested £50k to start the Security group (specialist forensics
+equipment, oscilloscopes, and experimental robotics). Involvement in University interdisciplinary
+research centres and flagship institutes gives access to specialised equipment, such as the
+CATCH “home lab”, an instrumented living space for supporting research on disabilities, e.g.
+dementia (Christensen). Lanfranchi’s joint appointment with the NHS has resulted in access to
+clinical facilities, feeding into over £600k of grant funding. Wang’s work is supported by secure
+computing facilities provided by Genomics England, leading to two grants (over £900k). SANO
+(see Section 1.3) provides HPC infrastructure to support computational medicine research.
+Technical and research support staff. Our technicians (12 FTE) support software and hardware
+technologies, including a dedicated server room. Since 2014, the expansion of our robotics
+activities within the bioinspired machine intelligence theme necessitated the appointment of a
+dedicated safety officer. The Faculty has established a pipeline of technical staff through the
+Engineering Apprenticeship Scheme, in which apprentices rotate around departments before
+settling into an open-ended position. The result is technical staff with well-rounded expertise, able
+to provide software and hardware support. We invested £29k in the training of technical support
+staff. Our research support team (8 FTE) assists the development of funding bids and grant
+management and identifies potential industrial collaborators. A further 6 FTE provide professional
+support to specific projects and the CDT.
+                                                                                               Page 17
+
+
+Unit-level environment template (REF5b)
+The Diamond. Completed in 2015 at a cost of £81m (19,500m 2), the Diamond is the largest capital
+investment ever made by the University. Within this, the MindSphere Lounge provides a
+collaboration and IoT demonstration space for the University, Siemens and local business (Clark is
+the academic lead). The iForge maker space provides 3D printing, CNC and laser cutting and is
+available to all staff and PGRs (e.g. for the construction of bespoke hardware).
+Research laboratories. Our main office space and research laboratories are in the Regent Court
+building. We strategically maintain offices in multidisciplinary spaces, which encourages
+collaboration and provides additional space for equipment (e.g., Sheffield Robotics). A key part of
+our ongoing infrastructure strategy is to refurbish Regent Court (an estimated cost of £10.5m plus
+£1.5m for a student innovation hub). The overall space will increase by 35% and meeting space
+will increase by over 50%. The refurbishment will enhance our facilities for collaborative research
+(e.g. informal working spaces, a large social area, breakout rooms) and opportunities for
+engagement with the end users of our research (e.g. demonstration spaces).
+ 4. Collaboration and contribution to the research base, economy and society
+4.1 Overview
+Our strategy to facilitate collaborations and widespread impact depends on the creation of an
+environment for excellent research: we ensure that our researchers have the necessary time and
+support to develop significant collaborations at the international, national and regional levels. The
+previous sections outlined our pipeline for translating fundamental research into real-world impact
+(Section 1.4) and described our staffing strategy (Section 2) and underpinning infrastructure
+investment (Section 3.3). Here, we highlight the major outcomes arising from our strategy and
+actions.
+4.2 Research collaboration
+Much of our most impactful work arises from sustained, often interdisciplinary, collaborations. 84%
+of research outputs produced during the assessment period involved collaborators from a different
+discipline or university. 83 research grants involved an industrial partner or another university.
+International collaboration. International best-with-best collaborative projects facilitate world-
+leading research. We collaborated on 44 EU projects and coordinated 5 EU FP7/Horizon 2020
+grants totalling over £3.3M. We also collaborate with a range of international companies and have
+received nearly £2M in funding from them. Examples include VoiceBase, BioGen, Amazon and
+Microsoft. Collaborations are also sustained through our involvement in international centres.
+ActiveAI brings together world leaders in entomology, neuroscience, biorobotic modelling and
+computational neuroscience to develop new algorithms for robust and efficient learning for
+autonomous robotics. SANO (see Section 1.3) is funded by the EU and Polish government and
+Clayton is on the Scientific Committee.
+We also support individual collaborations: our internationally leading research has attracted 99
+visitors from 26 countries. Visits of our staff to international collaborators include world-class
+institutions such as the University of Pittsburgh, Indian Institute of Science Bangalore, ETH Zürich,
+University of Zürich, KTH Royal Institute of Technology Stockholm, and Yale University.
+                                                                                                 Page 18
+
+
+Unit-level environment template (REF5b)
+Approximately 60% of our submitted outputs had an international co-author, with 40% externally
+funded and 20% stemming from individual collaborations .
+National and regional collaboration. Since 2014, our staff held grants of £15.2m with 40 UK
+academic collaborators. Of our papers, 12% have been co-authored with other UK universities.
+Programme grants have been effective at establishing long-term collaborations with national
+academic partners, e.g. Natural Speech Technology (Hain, EPSRC £6.2m) supported a
+collaboration with Edinburgh and Cambridge, leading to significant growth in our speech and
+language theme and ultimately to our CDT.
+Within the Sheffield Region our work with Sheffield Teaching Hospitals NHS Trust led to further
+NHS collaborations (Sheffield Children's Hospital, Rotherham General Hospital). Outcomes include
+technologies for remote healthcare monitoring and the early detection of conditions, e.g. diabetic
+retinopathy, funded by 7 projects totalling £331k (Lanfranchi, Villa-Uriol). We collaborate with
+Sheffield mobility-tracking company The Floow, funded by the EU SETA project (Ciravegna,
+£1.03m), and HumanStudio on virtual/augmented reality for digital heritage (Maddock, funded by
+the AHRC and leading to a Festival of the Mind exhibit; see below).
+4.3 Engagement with key research users, beneficiaries, and audiences
+Our strategy is to identify key research users aligned with our four research themes and engage
+with them through collaborative research projects, technology centres, joint appointments, spin-out
+companies, our CDT and our industrial advisory board (IAB). Key users include IT companies and
+the industrial sector, the NHS, education, and policymakers. Our impact pipeline (Section 1.4)
+plays a crucial role in sustaining long-term, productive engagements with key research users.
+Within the speech and language theme, engagement has been driven by strong commercial
+demand for our SLT research. Our ASR technology adds $120m to the value of VoiceBase
+(Automatic Voice Recognition impact case study). Automatic translations in Facebook are
+underpinned by our research on quality assessment for machine translation (Machine Translation
+case study). ZOO Digital joined our IAB and is now co-developing technology for dubbing video
+content through an Innovate UK grant (MAUDIE, £314k). Initially attracted by the CDT, Huawei are
+now supporting SLT research with a further £700k in funding.
+The healthcare technologies theme engages with key research users (NHS, Public Health
+England) through research projects, some of which have been catalysed through a joint
+appointment with Sheffield Teaching Hospitals (Lanfranchi). Ciravegna’s work on mobility tracking
+led to an impact case study and a spin-out company, Aeqora Ltd. Brown’s work with SME Passion
+for Life Healthcare (PFLH) demonstrates how engagement with research users enriches our
+research. A discussion with PFLH suggested that methods developed in our Department could be
+applied to the acoustic monitoring and diagnosis of sleep disorders, which led to our first
+Knowledge Transfer Partnership award and a growing research stream on the health applications
+of acoustic monitoring, supported by a PFLH-funded PGR studentship and a subsequent Innovate
+UK grant (BRAHMS, £243k).
+In the bioinspired machine intelligence theme, a key beneficiary of Prescott’s research is the
+education sector: his work on bioinspired robot control is embedded in the MiRo robot, marketed
+through Consequential Robotics Ltd. Approximately 400 units have been sold to schools and
+universities. Working with researchers in Uganda, Smith has contributed ML expertise to a project
+that has rolled out 70 low-cost pollution monitoring stations across Kampala, engaging schools,
+businesses, civil society organisations and citizens.
+                                                                                              Page 19
+
+
+Unit-level environment template (REF5b)
+In the dependable and secure systems theme a key audience is the advanced manufacturing
+community. A joint appointment with the Advanced Manufacturing Research Centre (Law) led to
+the involvement of AMRC in a TAS Verifiability Node (Hierons), engagement in the security of
+manufacturing robotics (AAIP CSI:Cobot, Clark) and a jointly funded PhD studentship (Popescu).
+The University has a dedicated account manager for Siemens; this facilitated the opening of the
+first MindSphere Lounge in Sheffield and the involvement of Siemens in PITCH-IN (see Section
+3.2), which addresses IoT across manufacturing, health, energy, and cities. Research on the
+security of energy systems with our Department of Civil and Structural Engineering, supported by
+the EPSRC £34m Active Building Construction project, provides further opportunities for
+stakeholder engagement.
+4.4 Wider contributions to the economy and society
+Strategic investment in Faculty marketing resource (14 FTE) enabled us to raise the profile of our
+research, leading to influence on policy makers. The high media profile of Bontcheva’s work on
+fake news led to policy work with the UK government (DCMS report on social media
+disinformation) and UNESCO (report on COVID-19 disinformation). Our research on the ethics of
+autonomous weapons has influenced policy within the UN and non-government organisations such
+as the Campaign to Stop Killer Robots (Banning LAWS impact case study).
+We achieve broad contributions to the economy through the provision of open-source software.
+Our GATE text engineering platform is used by Oracle, the BBC, the Press Association and
+Euromoney. FLAME GPU, a high-performance framework for agent-based modelling, allowed
+Atkins to achieve an order of magnitude speedup in transport simulations. We expect these
+advances to be incorporated into the Atkins software used by Highways England.
+Our research contributes to public health, both internationally and nationally. Clayton has co-
+authored a research agenda for uncertainty in computational models of cardiac physiology with
+regulatory scientists from the US Food and Drug Administration. During the COVID-19 pandemic,
+we were agile and responsive. Working with colleagues from four Chinese universities, Yang
+published a feasibility study of mitigation and suppression strategies for COVID-19. Richmond led
+a national development team working on COVID-19 modelling to inform the Royal Society RAMP
+initiative, the Scientific Pandemic Influenza Group on Modelling (SPI-M) and the Scottish
+government. Wang contributed to an effort that sequenced more than 1,000 COVID-19 genome
+sequences, uploading them to the COVID-19 Genomics UK (COG-UK) Consortium and helping
+researchers around the world to fight the pandemic.
+4.5 Engagement with diverse communities and the public through research
+We engage citizens in our research through participatory design studies. Examples include an
+AHRC-funded grant in which a group of cochlear-implanted users co-developed materials for
+conversational training (Brown) and patient involvement in developing technology to diagnose
+diabetic retinopathy (Lanfranchi, Villa-Uriol).
+Close engagement has been established with the arts around AI, visualisation and sound. Brown
+collaborates with the rock band Reverend and the Makers on AI methods for music generation,
+supported by HEIF funding of £54k. This collaboration was featured in Sheffield’s Sensoria festival
+and led to the foundation of a new AI record label. The biennial Festival of the Mind, has engaged
+approximately 103,000 people to date. We have provided exhibits that engage the public in our
+robotics research (Prescott), virtual and augmented reality (Maddock), and sentiment analysis
+                                                                                             Page 20
+
+
+Unit-level environment template (REF5b)
+(Stevenson). Outside of this festival, our staff regularly engage in “pint of science” pub talks and
+other events, numbering over 70 in the assessment period.
+We have achieved extensive media engagement over the assessment period. Sharkey is a strong
+voice in the debate on the ethics of robotics, AI and data science with frequent media contributions
+including The Guardian, BBC News and the New York Times. Lawrence wrote 11 articles for The
+Guardian on topics relating to the ethics of AI, open data science and data privacy, shared more
+than 1500 times via social media and other news outlets. Marshall’s work on biomimetic robotics
+has engaged audiences in bee behaviour (BBC Click) and drone delivery (Financial Times, Daily
+Mail).
+We are passionate about engaging young audiences in our research. We host the UK-RAS School
+Robotics Competition and offered more than 28 talks and events addressed to a school audience
+over the assessment period. Prescott’s interdisciplinary research at the boundary of psychology,
+neuroscience and robotics has engaged children through the Cyberselves Roadshow and Norwich
+Science Festival.
+4.6 Academic leadership and contribution to the sustainability of the discipline
+Through our strategy, we are well placed to contribute to the sustainability of the discipline. An
+example is research by Marshall, Vasilaki and Mangan within our bioinspired machine intelligence
+theme, which promises next-generation AI systems that match insect performance in tasks such as
+vision and navigation and are power efficient due to having lower computational requirements. We
+are well placed to develop this theme, with more than £8.9m in funding in place and a route to
+translation through spin-out Opteran.
+We actively engage in setting the national agenda. Prescott and Law have co-authored EPSRC
+UK-RAS white papers on robotics in social care and manufacturing robotics, which have been
+influential in setting EPSRC priorities. Our robotics activity makes us well prepared to respond to
+initiatives such as the Made Smarter Review, which identified Sheffield Robotics as a “significant
+contributor and innovator in global robotics research” (p. 66). By growing our healthcare
+technologies and dependable and secure systems themes (13 new appointments, see Section
+2.2), we have strengthened our research base in areas related to AI and data science for health
+and to Industry 4.0. This puts us in a strong position to respond to developments in the Industrial
+Strategy. Our RSE group contributes to the sustainability of the discipline by advocating excellence
+in research software engineering practice through Richmond’s leadership positions in the Software
+Sustainability Institute and the Society of Research Software Engineers (see Section 3.3).
+We provide leadership through international steering groups and advisory boards. Six of our staff
+hold such roles. For example, Vasilaki advises the AI Centre at the University of Mainz, Germany.
+Prescott leads a UK-RAS strategic task group on robotics, involving 14 organisations spanning
+universities, professional societies and the private sector. Lawrence has been a member of the AI
+Council since it was founded in 2019, an independent expert committee advising the government
+and high-level leaders of the AI ecosystem.
+Our staff are active members and leaders of national research networks. We led two EPSRC
+networks (HealTex, POEMS) and participated in 12 others. Hierons is on the BCS-FACS
+committee and acts as their representative on the LMS Computer Science Committee. Since 2007,
+Struth has co-organised the Midlands Graduate School (MGS) in the Foundations of Computing
+Science, involving the Universities of Sheffield, Leicester, Nottingham, and Birmingham. Moore
+and Hain make significant contributions to international leadership of the SLT community as board
+members of the International Speech Communication Association (ISCA).
+                                                                                                Page 21
+
+
+Unit-level environment template (REF5b)
+The Gaussian Process Summer School, run by Lawrence and Alvarez since 2013, has become a
+staple of PGR training and attracts industry delegates from Amazon, Spotify, JPMorgan, Siemens
+Gamesa etc. Data Science Africa, an annual series of workshops led by Lawrence and Smith since
+2015, has brought together academic and industry experts in data science and ML to deliver
+research training across Kenya, Uganda, Tanzania, Nigeria, Ghana and Ethiopia.
+Our staff make outstanding contributions to international science publications. They hold 20
+editorial positions, including 3 Editor-in-Chief positions, e.g. Moore is editor-in-chief of Computer
+Speech and Language, a key journal in the area of SLT. During the assessment period, 33 of our
+staff were involved in organising conferences, with 17 acting as Programme Chair. Lawrence was
+General Chair of the influential NeurIPS conference (2015) and Hain was Technical Chair of the
+Interspeech conference (2019).
+12 of our staff provided leadership as full members of the EPSRC college, three of which are
+associate members. 9 colleagues sat on grant panels, 4 as chair. Vasilaki and Clark were in the
+top 6% of college members for participating in peer review activities during the academic year
+2017/18. Our staff were external examiners for theses and habilitations in more than 40 institutions
+across 11 countries, including several prestigious universities (e.g. Sorbonne, Oxford, Cambridge,
+La Sapienza).
+The esteem and success of our staff are reflected by the award of many prizes and honours,
+including 24 keynotes/invited talks and 7 fellowships since REF2014. Hain was elected a Fellow of
+the ISCA, and Moore is a Distinguished ISCA Lecturer. 14 staff members are members or fellows
+of professional societies.
+We are immensely proud of our contributions to computer science, our productive engagement
+with the end users of our research, and our success in communicating our exciting findings to the
+public. Since 2014 our growth has delivered an outstanding complement of staff and increased our
+momentum. With a clear strategic plan, we are well placed to build on our strengths over the next
+decade and make further significant contributions to the discipline, economy and society.
+                                                                                                Page 22

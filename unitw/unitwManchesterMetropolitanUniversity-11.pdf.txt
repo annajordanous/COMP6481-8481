@@ -1,0 +1,870 @@
+Unit-level environment template (REF5b)
+ Institution: Manchester Metropolitan University
+ Unit of Assessment: B11 Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+ Computer Science research at Manchester Metropolitan University focuses on the real-world
+ applications of technology that are of strategic importance to the UK’s economy and society.
+ Research in artificial intelligence (AI) and cybersecurity aligns to local and national Research
+ and Development (R&D) priorities. Leadership of collaborative initiatives such as the Greater
+ Manchester AI Foundry and Cyber Foundry consortia give us the means to translate our
+ research into economic and commercial impacts. Interdisciplinary research with healthcare,
+ social science and agriculture is rapidly expanding and leading to new developments that are
+ transforming the lives of people across the world.
+ The vitality and sustainability of our research and impact strategy is evidenced by:
+      A 100% increase in the number of staff that we are returning to REF 2021.
+      A 156% increase in research income from £1.4m in REF 2014 to £3.58m in REF 2021.
+      A 113% increase in PhD completions from 16 in REF 2014 to 34 in REF 2021.
+      Leadership of the £12m AI Foundry and Cyber Foundry projects.
+ Unit context and structure
+ Research is led by the Centre for Advanced Computational Science (CfACS), one of 14 flagship
+ University Centres for Research and Knowledge Exchange (UCRKE) that were established as
+ part of the University’s ambitious RKE Strategy (see REF 5a).
+ CfACS is quality-focused and innovation-driven. It was created following an assessment of REF
+ 2014 results mapped against areas of growing research excellence that link into the strategic
+ policy landscape including the Industrial Strategy, the Science and Innovation Audit and the
+ national skills agenda. CfACS was approved with a five-year development plan that outlines its
+ management structures, research themes and includes specific funding, publication, citation,
+ impact and staffing strategies.
+ Yonghong Peng (Professor of Artificial Intelligence) and Liangxiu Han (Professor of
+ Computational Science) provide leadership for CfACS, which includes 54 staff (29 full research
+ members with a significant responsibility for research, seven research assistants, seven
+ Knowledge Exchange members who lead on industrial collaboration and ten associate members
+ undertaking research skills development). CfACS currently has 40 PGR students.
+ CfACS is submitting 23 staff to B11 with a further six staff submitted to B12 Engineering. Staff in
+ CfACS are from the Department of Computing and Maths in the Science and Engineering
+ Faculty, one of the UK’s largest providers of research-led teaching in Science and Technology.
+ This submission includes four research themes:
+ Data Science
+ With funding from BBSRC, Royal Society (Newton Advanced Fellowship), British Council and
+ Innovate UK, data science research develops interdisciplinary methods, frameworks, algorithms
+ and systems to enable the extraction of knowledge from the integrative analysis of structured
+ and unstructured data. Our research concerns data science fundamentals and the application of
+ cutting-edge technologies in big data, machine learning/deep learning, AI, natural language
+ processing, governance and security. The impact of our research on social network analysis,
+ data science and AI in Pakistan is in impact case study (reference: ICS 3).
+ Machine Intelligence
+ Machine intelligence research explores the design and application of biologically and
+ linguistically motivated computational paradigms (e.g. conversational agents, natural language
+                                                                                                Page 1
+
+
+Unit-level environment template (REF5b)
+ systems, robotics and synthetic biology), computational intelligence, adaptive psychological
+ profiling and human-computer interaction. This group is investigating the ethical, social and legal
+ dimensions of AI through place-based research, working with policy think tanks and local and
+ national government and community stakeholders (ICS 1). Research is funded by the European
+ Commission and Innovate UK. This group provides academic leadership for the GM AI Foundry.
+ Smart Infrastructure
+ Smart infrastructure research focuses on the increasing demands of digital transformation and
+ Industry 4.0. Researchers investigate future network and computation (e.g. 5G and 6G),
+ intelligent transport, connected healthcare, Internet of Things and smart cities. Research leads
+ to the development of tools and methodologies that address challenges in cybersecurity, privacy
+ and computer forensics (ICS 2). Funding comes from industrial partners and Innovate UK. This
+ group provides research leadership for the GM Cyber Foundry.
+ Human-Centred Computing
+ Research focuses on computer image and video analysis, visual computing, augmented/virtual
+ reality, serious games and approaches to empower individuals to take better control of their
+ data. Projects funded by The Royal Society, Cancer Research UK, EPSRC and Innovate UK are
+ concerned with ageing and the use of virtual cosmetics. Interdisciplinary collaboration is leading
+ to new innovations for the detection and amelioration of conditions such as dementia and
+ diabetes, human motion analysis for rehabilitation and serious games for the development and
+ understanding of healthcare issues.
+ Review of plans and objectives from REF2014
+ REF2014 Objective 1 - Cohesion and Communication
+ Our major objective in 2014 was to strengthen core areas of research and to encourage
+ interdisciplinary activities. CfACS has provided the leadership to achieve this primary objective.
+ We have built critical mass with a large uplift in the volume of staff and outputs, increased
+ quality, and fostered interdisciplinary research. Research cohesion has been strengthened
+ through significant investment and the career development of staff (Section 2).
+ REF2014 Objective 2 – Key themes
+ We have continued to collaborate with high-quality partners in the delivery of technology that is
+ important to the wider economy and society. Research in AI, cybersecurity and big data aligns to
+ ‘future and emerging technologies’ and are important themes in the Government’s R&D
+ ambitions. We have built on strengths in AI and Digital Health with industrial partners, NHS
+ Trusts and healthcare academics. For example, the development of AI-enabled technology for
+ the early detection of diabetic foot ulcers has led to clinical trials expected to deliver significant
+ patient benefits and cost savings (see output reference: 2354).
+ REF2014 Objective 3 – Facilitation
+ We aimed to enhance the quality of research by securing increased levels of external funding
+ and through additional investment in the development of staff. We have achieved increased
+ value of competitive awards over the assessment period winning £5.27m from prestigious
+ funders (EPSRC, STFC, BBSRC, Innovate UK, The Royal Society, Cancer Research UK,
+ H2020). We have also captured significant knowledge exchange funding to transfer research
+ excellence into impact through the award of ERDF funds for the AI Foundry and Cyber Foundry.
+ REF2014 Objective 4 – Public engagement leading to impact
+ We have curated innovative and popular Manchester Science Festival events characterised by a
+ deep understanding of best practice that go well beyond ‘top down’ dissemination formats. In
+ 2018, we developed an immersive theatre experience that put AI ‘on trial’ in the Manchester
+ Police Museum and in 2019; we delivered an event around public attitudes to AI. The results of
+ these activities are informing our forward strategy and the development of initiatives such as the
+ Greater Manchester Charter for Ethical AI.
+                                                                                                    Page 2
+
+
+Unit-level environment template (REF5b)
+ Strategy for the next ten years
+ Our future strategy aims to enhance research excellence, targets the delivery of global impacts,
+ encourages the development of new areas of intellectual leadership and increases opportunities
+ for commercial development. We will achieve this by supporting a collaborative and inclusive
+ research culture; inspiring support for future research leaders and promoting our world-leading
+ research.
+ Investing in People: We are continuously strengthening our themes by investing in high-quality
+ staff that understand our ethos and are passionate about our mission. We will focus on
+ expanding the equality and diversity of staff and have ambitions to create a gender-balanced
+ research centre. We support our ECRs to become future leaders with continued mentoring and
+ access to development programmes (Section 2). We will expand national and international
+ collaboration linked to strengths in AI, data science, and cyber security.
+ Sustaining excellence: We have an important role in helping businesses to recover from Covid-
+ 19. The impact of our research on the technological advancement and productivity of SMEs and
+ its link to the future skills agenda will be critical for Greater Manchester. We will develop a
+ ‘Research Institute for Future AI’ that will support the rapid and extensive uptake of AI-enabled
+ technology. Our work will be at the forefront of efforts to promote an ethical approach to AI, and
+ we will embed this approach across disciplines and sectors for the achievement of positive
+ economic and societal impacts. Postgraduate researchers are vital for the sustainability of our
+ research, and we will embed them into the full range of our activities so they are well prepared
+ and equipped for their future careers.
+ Engagement = Impact: Collaboration is vital for our intellectual and financial sustainability and is
+ the key mechanism for delivering economic and societal impact. We anticipate that future
+ funding will go to interdisciplinary projects that can harness the collective knowledge of diverse
+ teams of researchers, industrial partners and communities. The sustainable partnerships that we
+ are developing through our KTP pipeline and large-scale KE initiatives will ensure we play an
+ important role in these emerging opportunities. We will set ambitious targets for the growth of
+ research awards and deliver impacts with a global resonance.
+ Enabling impact
+ CfACS has an Impact and Engagement Manager who helps staff to embed impact across
+ research activities. The Impact Manager works with a group of seven KE members whose focus
+ is on the translation of research into activities that lead to impact.
+ We have an outstanding KTP portfolio supported by an award-winning team. In the assessment
+ period we have secured £2.3m for 17 KTPs that have transformed the productivity of North West
+ SMEs. We have delivered KTPs across all research themes, but they have played a particularly
+ important role as pathway to impact in cybersecurity (see ICS 2). Staff who act as KTP
+ supervisors are rewarded by a 10% workload allocation throughout the duration of their project.
+ Staff are supported by MetroPolis, the University’s research-led think tank (see REF 5a).
+ MetroPolis links our research into policy and provides funding for roundtable events and
+ resources that have helped us to respond to parliamentary enquiries.
+ Internal funding supports impact. Prof Liangxiu Han accessed £30,000 to develop drone
+ technology, which led to field trials to protect food crops from disease in China. Global
+ Challenges Research Funding (GCRF) is used for impact. For example, Dr Nawaz used GCRF
+ to support activities around gender-based violence in Pakistan (see ICS 3).
+ We collaborate closely with NHS Trusts on technology-enabled healthcare. For example, we are
+ working with the Royal Wolverhampton NHS Trust on AI applications for pathology and with the
+ Salford Royal Foundation Trust on AI for Health and Social Care.
+                                                                                                 Page 3
+
+
+Unit-level environment template (REF5b)
+ Support for impact will continue after REF 2021. Our Impact and Engagement Manager is
+ already working with staff to make plans for the areas where we want to develop future benefits.
+ Interdisciplinary research
+ Our research structures and strategies encourage staff from different disciplines to undertake
+ collaborative research that would otherwise not be possible. We have a particular strength in
+ research that is at the interface of informatics, health and agritech, and our outputs report many
+ collaborations with healthcare providers and international partners. 30% of the outputs included
+ in the submission are interdisciplinary.
+ Examples include collaboration with ecologists on early warning systems which led to co-funded
+ work with the EPSRC (output 2347), an exploration into the decision-making processes of
+ physiotherapists that led to a large MRC grant on neuromuscular control in children (output
+ 2367) and research on machine learning with psychologists and media professionals. We have
+ won £955,000 from the BBSRC, EPSRC and Innovate UK for international interdisciplinary
+ research in precision agriculture with botanists from the Royal Botanic Gardens at Kew and the
+ Centre for Agriculture and Bioscience International.
+ Open research
+ Our open access policy is fully compliant with REF requirements and 90% of our in-scope
+ outputs are fully open access compliant (without exceptions). Staff have access to resources for
+ both green and gold open access (see REF 5a). Our institutional repository currently includes
+ 700 items associated with CfACS. Some of the most downloaded work is on traffic-management
+ systems and interdisciplinary collaborations on micro-facial expressions, wrinkles and ageing
+ (over 1,000 downloads). We have UKRI and institutional funding available for article processing
+ charges as well as arrangements with various publishers such as an IEEE Deposit Account.
+ Twenty-two outputs were made immediately available through Gold Open Access resources
+ including impactful research on health informatics and data science.
+ We are fully compliant with the Concordat for Open Research Data, adhere closely to funder
+ policies and seek to make research data accessible and useful to others. Staff share their data
+ using the University repository (see REF 5a), and there are examples of the use of GitHub and
+ other systems to create datasets that have a big impact. For example, in output 2354 we report
+ the creation of the world’s largest dataset for the medical imaging of diabetic foot ulcers used by
+ over 50 institutions from 25 countries.
+ Research Integrity and Ethics
+ Researchers are aware of their responsibilities under the revised Concordat for Research
+ Integrity. Our unit has 3 ethics leads (Prof Han, Dr Yap and Dr Kharel) who represent computer
+ science at the Faculty Research Ethics and Governance Committee. All staff, PGRs and taught
+ students obtain ethical approval before commencing any data collection. Ethical approval is
+ managed through EthOS (see REF 5a). Our Research Ethics and Governance Manager
+ provides training and guidance and has expertise in healthcare-related research.
+ We participate in annual audits of compliance with the institutional expectations around research
+ ethics and governance. We are fortunate to have staff who provide academic leadership for
+ ethics across Computer Science disciplines. In 2019, Prof Crockett co-organised a special
+ session at the IEEE CEC on the Ethics of Computational Intelligence and in 2020, she co-
+ chaired a panel and workshop on Ethical AI at IEEE WCCI.
+ 2. People
+ Staffing strategy
+ Our staffing strategy is to attract high-quality researchers and to provide support to enable staff
+ to achieve their full potential. We have invested in staff development and infrastructure. This has
+ underpinned a large growth in critical mass and the number of staff included in our submission
+ has increased by 100% from 11.5 FTE in REF 2014 to 23 FTE in 2021. Our recruitment policy
+                                                                                                Page 4
+
+
+Unit-level environment template (REF5b)
+ emphasises the importance of high-quality research, we have workload processes that
+ incentivise and reward good performance, staff development and training initiatives that
+ underline our commitment to the Concordat for the Career Development of Researchers,
+ support for early career researchers, and clear research-based academic pathways and
+ promotion routes.
+ Recruitment
+ We work closely with Heads of Departments and Faculty planners to recruit into areas of
+ expertise. The Director of CfACS and our theme leads are included in recruitment processes to
+ ensure that candidates meet our requirements for both quality and ‘fit’. Beyond like-for-like
+ replacement, recruitment is driven by our strategic plans. We have demonstrated world
+ leadership and reputation in specific areas and are using this leverage to attract new talent. The
+ reputation and profile of our research is evidenced by the fact that we attract high quality from an
+ international talent pool and we regularly receive a high volume of applications from around the
+ world. Principles of equality, diversity and inclusion are embedded throughout our recruitment
+ processes.
+ A series of new appointments has underpinned a growth in critical mass in all core areas.
+ Twelve staff were recruited during the assessment period including two professors (Profs Peng
+ and Aspin) and five early career researchers (Cavaliere, Drikvandi, Cunningham, Moretti and
+ Shardlow).
+ Our recruitment strategy in combination with staff development activities (see below) has led to a
+ large increase in overall research capacity, as reflected in our staffing contract profile (Table 1).
+   Professor                      Reader               Senior Lecturer         Lecturer, Research
+                                                                               Fellow
+   17%                            26%                  48%                     9%
+ Table 1: Staff contract level profile
+ All of our submitted staff are on permanent employment contracts. 22% of our staff are ECRs.
+ Staff development and progression
+ We provide time for colleagues to engage in a minimum of ten days professional development
+ each year. We organise a vibrant programme of ongoing activity including seminars where staff
+ (including ECRs and PGRs) share findings and build collaborative networks. The University is a
+ signatory to the revised Concordat for Career Development of Researchers and has held the EU
+ HR Excellence in Research award for eight years (see REF 5a).
+ Workload allocation
+ All staff with a significant responsibility receive a minimum of 20% of their time allocation for
+ research and are full members of CfACS in line with our approved Code of Practice. Our
+ members have access to internal funds to produce high-quality outputs. They generate research
+ income, supervise PhDs and mentor ECRs.
+ Pay and career progression
+ Colleagues at the top of Grade 8, 9 or 10 (Lecturer, Senior Lecturer, Reader) can apply for
+ additional increments to reward excellent research or impact activities. Professors have their pay
+ reviewed annually to provide the flexibility to reward outstanding contributions and retain our top
+ performers.
+ Promotion from Lecturer to Professor is delivered through two Academic Career Pathways:
+ Education, Pedagogy and Citizenship and Research, Knowledge Exchange, Impact, Education
+ and Citizenship. In the assessment period, five staff (22% of our submission) were promoted for
+ their contribution to the production of high-quality outputs and impact. This includes promotions
+ from Reader to Professor for Han, Crockett and Hammoudeh and from Senior Lecturer to
+ Reader for Yap and Kharel.
+                                                                                                 Page 5
+
+
+Unit-level environment template (REF5b)
+ Mentoring and individual research plans
+ Mentoring from research leaders is a key part of our culture. All ECRs are assigned a mentor
+ who can help with their career development. Mentors provide input into the development of
+ individual research plans, publications and grant applications. Information from individual
+ research plans feeds into departmental professional development reviews (PDRs), ensuring that
+ individual research supports departmental strategies and goals.
+ Induction
+ All new staff (including ECRs) undertake an induction program, providing critical knowledge on
+ research conduct, integrity and ethics, the use of RKE Systems, health and safety, procurement
+ and grant management. Institutional training is provided on PhD supervision, postgraduate
+ examining and chairing assessment panels and our equality and diversity policies. All new
+ starters have a reduced workload during their probation period, with a 25% uplift in preparation
+ time for units taught in their first year at the University.
+ Our postdoctoral research associates (PDRA) and KTP associates are members of the UCRKE
+ and engage with seminars, training, funding and other aspects of research culture. They are
+ supported by the PDR system, are allocated mentors and are able to access internal funds to
+ attend conferences and research networking meetings in the same way as other staff.
+ Early career researchers
+ We currently have five ECRS (22% of our overall submission) who were all appointed during the
+ assessment cycle. ECRs are assigned a mentor and complete an individual research plan.
+ We have a number of internal funding schemes and training programmes to support the career
+ development of ECRs including Research Accelerator Grants and RKE Future Leaders. The
+ CfACS management structure includes a dedicated ECR Lead (Prof Crockett) who represents
+ our ECRs at an institutional ECR forum. Prof Crockett organises an annual ECR Showcase to
+ raise the profile of individuals and their research areas. We have an excellent record of
+ supporting ECRs to achieve their full potential, and we see this as a distinctive feature of our
+ culture. For example, Dr Yap was appointed as a lecturer in 2011 and was returned as an ECR
+ in REF 2014. She was promoted to senior lecturer in 2014, and subsequent participation in our
+ Future Leaders scheme helped her to develop larger funding applications such as the Royal
+ Society Industry Fellowship that she was awarded in 2016. This activity led to promotion to
+ Reader in 2017. Dr Yap is now benefitting from the University’s Good to Great programme that
+ is designed for advanced career development and progression.
+ Internal investment and support for professional development
+ We provide staff with access to resources to pursue their ideas and a range of internally funding
+ opportunities for career development.
+ Funding for conferences and events: CfACS members including ECRs and PGRs have access
+ to funding to attend international and national networking events and conferences, to run
+ workshops, to invite external speakers and for knowledge exchange and public engagement
+ activities.
+ Writing Retreats: CfACS organises a biannual writing retreat that has provided staff at all career
+ stages (including ECRs and PGRs) with mutual help and support in developing their personal
+ publication strategies and outputs.
+ Seed funding for the development of new activities: Staff can apply for seed funding (up to
+ £10,000) to develop RKE activities. This has been used variously to purchase equipment, to pay
+ for the costs of visiting research partners, to access external facilities and to support activity that
+ can leverage new funding opportunities and generate high-quality outputs or impact.
+                                                                                                  Page 6
+
+
+Unit-level environment template (REF5b)
+ Sabbatical arrangements: Staff have access time and resources for sabbaticals that have been
+ used to support high-quality work. For example, Prof Hammoudeh’s sabbatical helped him to
+ develop a strong collaboration with Lab-STICC CNRS, Université De Bretagne
+ Occidentale, France, and Al-Balqaʼ Applied University, Jordan. This led to the creation of the
+ world's first simulator for smart city digital twin and the production of over 10 publications. Dr Yap
+ used a sabbatical to establish new collaborations with University of Waikato. This led to an
+ EPSRC funding award (EP/N02700/1) and an international workshop in conjunction with
+ MICCAI.
+ Research Accelerator Grants: CfACS staff have been able to access research accelerator grants
+ (see REF 5a) to collect preliminary data for proof of the concept and feasibility. Staff have used
+ the funds to develop capacity in software agents and big data analyses.
+ Global Challenges Research Funding: GCRF is used to develop overseas links with a particular
+ emphasis on support for impact-related activities. Prof Han and Dr Nawaz have used £12,000 of
+ GCRF to extend partnerships around crop disease and gender-based violence in China and
+ Pakistan, respectively.
+ RKE Future Leaders Scheme: CfACS has five RKE Future Leaders (Yap, Latham, Dhajel,
+ Hammoudeh and Kharel) who have benefited from this scheme. Participants are selected
+ through a competitive application process and are given a £5,000 personal development
+ allowance and time allocation to attend the cohort-based learning opportunity. RKE Future
+ Leaders has helped Yap, Hammoudeh and Kharel to secure promotions during the assessment
+ period.
+ Good to Great (G2G): G2G is a competitive development scheme that provides an advanced
+ level of career development for staff who are moving towards the highest levels of academic
+ leadership. Each G2G participant undertakes a needs analysis that informs their learning
+ pathway. They receive internal and external mentorship and are able to access considerable
+ funds for personal and professional development. Dr Yap received £35,000 and teaching relief
+ that enabled her to participate in a series of funding sandpits that led to a successful award from
+ Cancer Research UK and EPSRC.
+ Strategic Opportunities Funding (SOF): SOF provides strategic investment into areas of growth
+ that align with our research ambitions. In 2018, we invested £65,000 for Prof Hammoudeh to
+ produce a prototype system for cybersecurity in the pharmaceutical supply chain (see ICS 2),
+ and Prof Han accessed £30,000 to extend field trials around agritech solutions for crop disease
+ in China (output 2363).
+ Staff exchange mechanisms
+ We have funded mechanisms in place to facilitate staff exchanges including the International
+ Visitor and Research Network Fund that staff use to develop strategic collaborations with
+ overseas partners. Dr Nawaz used the funding for a partnership with the National Centre for
+ Artificial Intelligence in Pakistan, and Dr Dhajel developed links with the University of Rennes
+ around research into smart transportation.
+ We also have a number of visiting professorships which staff use to develop new, externally
+ funded collaborations. For example, Prof Ana Fernández Vilas (University of Vigo) visited staff in
+ the Machine Intelligence group in 2018. This led to the successful award of the €64,600 grant
+ Magos (Secure sMArt Grid using Open Source Intelligence) funded by the Ministerio De
+ Economia, Industria Y Competividad, and joint supervision of a PhD student (output 2352).
+ 2.4 Research students
+ Strategy
+                                                                                                  Page 7
+
+
+Unit-level environment template (REF5b)
+ Postgraduate Research Students (PGRs) are a vital part of our research community. Our
+ strategy highlights the importance of PGR quality and allocates funding to provide in-depth
+ personalised support to develop our PGRs’ research skills and career development.
+ A proportion of our UCRKE budget is ring-fenced to support PGR activities. In the 2019
+ Postgraduate Research Environment Survey (PRES) we were in the top quartile for the quality
+ of our supervision, and we have delivered 34 doctoral completions in the assessment period – a
+ 113% increase on REF 2014.
+ Recruitment and funding
+ Eighty students have enrolled with CfACS during the assessment period, and we currently have
+ a diverse community of 40 PGRs recruited from all over the world including China, Saudi,
+ Malaysia, India, Iran, France and Spain. CfACS leads the advertising, recruitment and
+ appointment process to ensure that we attract the right candidates. All PGRs are interviewed by
+ a gender-balanced panel who have completed equality and diversity training including a
+ mandatory module on unconscious bias. Our commitment to individual circumstances is
+ reflected in our PGR community. Fifteen percent of our PGR students have declared a disability,
+ 29% are female and 46% identify as Black and Minority Ethnic (BAME).
+ Studentships are funded from external and internal sources. We have been successful in
+ winning competitive funding such as the Royal Society PhD Studentship for Industry Fellows in
+ 2017 when we were awarded £86,000 for a joint studentship with Image Metrics (output 2339).
+ We were also the first modern University to win the EPSRC Dorothy Hodgson Postgraduate
+ Award to support research on the detection of glaucoma (output 2342). PhD student Dr Haleem
+ was selected as a finalist under the Transforming Society category in the UK ICT pioneer
+ competition 2015 as a result of this project. We have received full funding for studentships from
+ Service Power and matched funding from partners such as Intellicentrics and IBM (output 2385).
+ We are also able to access fully funded Vice-Chancellor Scholarships which are advertised on
+ an annual basis in high-profile global campaigns.
+ Monitoring and support
+ PGRs have a minimum of two academic supervisors including a Director of Studies who
+ supports the development of the student’s research including access to training and career
+ development opportunities. One hundred hours of annual supervision is usually divided between
+ the supervisory team.
+ The SkillsForge system supports student progress and development (see REF 5a). SkillsForge
+ generates automatic reminders about official milestones and records training and actions from
+ supervisory meetings. An Application for Registration takes place after three months (for full-time
+ study) and a Progression Review or Transfer of Registration takes place after 12 months full-
+ time). All PGRs are expected to submit within four years (pro-rata for PT students).
+ The most recent (2019) results of the Postgraduate Research Experience Survey (PRES)
+ evidence our strong support for PGRs. We were ranked within the top quartile for the quality of
+ supervision in the Computer Science and Informatics category with 100% of respondents
+ reporting that they had regular contact with supervisors that was appropriate for their needs. We
+ have delivered 34 successful doctoral completions during the assessment period.
+ PGR Support and Training
+ All PGRs automatically become members of CfACS, which gives them access to funding,
+ research-focused events and the opportunity to contribute to our collaborative research culture.
+ We run a bi-weekly seminar series that integrates PGRs into our wider mission. A departmental
+ Research Degree Co-ordinator is assigned to provide dedicated support to PGR students.
+ CfACS has a PGR representative (Prof Crockett) who provides an opportunity for the PGR voice
+ to be heard and understood in CfACS meetings.
+                                                                                              Page 8
+
+
+Unit-level environment template (REF5b)
+ We work with the University’s Graduate School to provide training for PGRs (see REF 5a).
+ CfACS hosts away days where we discuss research, career development and practical and
+ theoretical techniques. We encourage PGR students to join professional societies to develop
+ their academic networks, and we signpost opportunities to get involved in public engagement
+ activities, present at conferences, and encourage PGR representation on committees. For
+ example, 10 PhD students were involved in the 2018 and 2019 Manchester Science Festivals
+ supporting our events on AI. PGRs in their second and third year are encouraged to act as
+ mentors to new students. Regular teaching opportunities are available with the process de-
+ coupled from the Director of Studies in order to provide a range of academic experience and
+ viewpoints. PGRs have access to lockers, staff common rooms and desks, with the majority
+ using university laptops to allow flexible working.
+ Dr Ryan Cunningham provides a good ‘case study’ of how we support PGRs and how this, in
+ turn, feeds back into our research environment. In 2012, Ryan was awarded a fully funded PhD
+ studentship on a collaborative project with healthcare scientists. Following a successful
+ completion, we were able to offer a research fellowship in Healthcare Science and afterwards a
+ lectureship in Computing. As part of his development, we have been able to provide
+ approximately £20,000 internal funding for Dr Cunningham to attend conferences and to
+ purchase research equipment. In 2019, Ryan’s work with musculoskeletal scientists was
+ awarded £900,000 from the Medical Research Council (output 2383).
+ 2.5 Equality and Diversity
+ We have made progress in improving equality and diversity with a particular emphasis on
+ addressing levels of gender and ethnic representation at senior roles. The equality and diversity
+ of our submitted staff against the total eligible population is included in Table 2 below.
+   Protected                  % of submitted           % of staff in overall eligible
+   characteristic             staff (REF 2021)         population (REF 2021)
+   Female                     17%                      13%
+   Male                       83%                      87%
+   Declared disability        0%                       5%
+   White                      61%                      73%
+   Total BAME                 39%                      27%
+   Black                      0%                       0%
+   Chinese                    13%                      7%
+   Asian                      17%                      15%
+   Mixed / Other              9%                       5%
+ Table 2: Equality characteristics of staff against the total eligible population.
+ Our submission is more representative then the total eligible population with more women
+ included in the return and more staff who identify as BAME. We are more representative than
+ the sector average in terms of ethnicity (39% of staff identify as BAME whereas the average
+ according to the latest HESA data for academic staff in relevant disciplines is 25%). Fifty percent
+ of our professors are female and all of our research themes are led by women. Three out of four
+ professors identify as BAME (compared with nil in REF 2014).
+ We have inspirational leaders of the sector’s approach to equality and diversity. Prof Crockett is
+ Chair of the IEEE Women in Computational Intelligence Committee and Chair of IEEE Task
+ Force on Ethical and Social Implications of Computational Intelligence. In 2019, Prof Crockett
+ was tagged as a “Woman to Watch” (IEEE Women in Engineering Magazine), and in 2020 she
+ was shortlisted as one of the 100 most influential women in UK Technology by Computer
+ Weekly. Dr Latham is currently the Chair of IEEE UK and Ireland Women in Engineering
+ Committee (serving since 2012) and is a committee member of IEEE Women in Computational
+ Intelligence.
+                                                                                               Page 9
+
+
+Unit-level environment template (REF5b)
+ CfACS makes a contribution to the University’s equality and diversity agenda. We provided
+ leadership for activities that underpinned the award of Athena SWAN Bronze, and Dr Latham is
+ currently leading a team of academics, technicians and PGRs assembling an application for a
+ departmental submission.
+ Flexible working arrangements
+ Our flexible working procedure facilitates temporary part-time working, compressed hours, job
+ share, and career breaks, combined with a promotions scheme to ensure that colleagues are not
+ disadvantaged by career breaks (see REF 5a). We recognise the effect that equality-related
+ circumstances can have on an individual’s ability to research or on their productivity. Following
+ disclosure of an equality-related issue, we adjust our expectations for the production of research.
+ ECR colleagues have reduced expectations of research outputs.
+ Part-time and fixed-term staff have access to the same support and progression systems as full-
+ time staff including PDR, career development funds and opportunities. Additional training to
+ gaining academic qualifications is made available to all.
+ Support for staff and research students returning from leave
+ We have policies in place to support staff who are returning from leave or other long-term family
+ absence. We have a generous annual leave allowance with enhanced maternal, paternal and
+ adoption leave in addition to unpaid parental leave if required. We make adjustments for
+ colleagues with caring responsibilities; those with chronic disabilities; and those returning to
+ work after a period of sickness or leave of family-related absence (see REF 5a).
+ The wellbeing of staff and research students
+ All staff have access to the Lifeworks portal for counselling, confidential advice and support for
+ personal issues. Lifeworks is a fully integrated wellbeing platform that provides everyone access
+ to discounts and wellbeing assistance seamlessly via website and a mobile app. Regular
+ meetings with mentors and research theme leaders help us to identify staff that might need to be
+ signposted to support where appropriate.
+ Equality and Diversity and our REF 2021 return
+ In the process of preparing for REF 2021, the Unit of Assessment coordination team aimed to be
+ fair, transparent and inclusive, following the processes set out in our University’s Code of
+ Practice, which we have used to guide decisions around our submission. All colleagues with
+ significant responsibility for research are included in the submission. All staff involved in unit of
+ assessment co-ordination have completed training on ‘Managing Diversity’, ‘Equality and
+ Diversity Essentials’ and ‘Unconscious Bias and REF2021’.
+ All colleagues have been made aware of the processes surrounding requests for a reduction in
+ output expectations, and adjustments in expectations have been made where appropriate. We
+ studied EDAP’s guidance closely and decided that we could manage the cumulative effect on
+ our submission within the revised rules and therefore did not request a reduction in the number
+ of outputs.
+ We have paid particular attention to ensuring that equality and diversity are embedded into the
+ development and preparation of the submission. The Computer Science and Informatics
+ REF2021 Coordination Group featured one male and three female colleagues. We have taken
+ positive steps to share the attribution of outputs: 26% of the outputs are attributed to females
+ despite the fact that there are only 17% female staff in the overall submission.
+ 3. Income, infrastructure and facilities
+ 3.1 Income
+                                                                                                Page 10
+
+
+Unit-level environment template (REF5b)
+ Strategic investment in staff including development schemes as well as excellent support from
+ our Research Development Managers has resulted in 51 external research awards totalling
+ £5.26m. We have also secured significant knowledge exchange awards, principally for the GM
+ Cyber Foundry and AI Foundry projects (see below).
+ Research income is £3.58m (156% larger than the £1.4m we reported in REF 2014) with funding
+ from BBSRC, EPSRC, MRC, Royal Society, European Commission, Innovate UK and industrial
+ collaborators. There has been a sustained uplift in external income from 2013/14 (£142,000) to
+ 2019/20 (£863,000).
+ The scope of our funding portfolio remains diverse with 21% from UK Research Councils
+ (EPSRC and BBSRC are our main UKRI sources of income) and 15% from European Funders
+ (see table 3 below). The majority of our income is from UK business, industry and government
+ sources including a large and successful KTP portfolio comprised of 17 projects worth £2.3m.
+ Diversity of Income Sources
+   Source of            BEIS          UK Charities,   UK Govt,        European        Non-EU
+   Income               Research      Open            Industry &      Union
+                        Councils      Competition &   other UK
+                                      Other           Sources
+   Percentage           21%           0%              64%             15%             0%
+   of Income
+ Table 3: Diversity of Income Sources
+ Major competitive awards include:
+ “UK-China Agritech Challenge: CropDoc - Precision Crop Disease Management for Farm
+ Productivity and Food Security” BBSRC (BB/S020969/1), £449,193 (2019).
+ Prof Han leads this international project in collaboration with industry and academia in UK and
+ China. The project overall funding is £1.5m. CropDoc employs cutting-edge technologies such
+ as IoT, mobile devices, big data and AI to tackle the economic devastation that potato blight
+ causes (output 2363).
+ “iBorderCtrl” European Commission (ID: 700626), €4,501,877, £301,776 to Manchester
+ Metropolitan (2016).
+ Prof Crockett leads our contribution to this EU-funded project with partners from Luxembourg,
+ Greece, Spain, Hungary and Latvia. The project implements faster, more thorough border
+ control for third-country nationals crossing European borders. This project has received a lot of
+ media and political attention (see ICS 1), fuelling international public discourse about the ethics
+ of AI technology.
+ “Populism and Civic Engagement – a fine-grained, dynamic, context-sensitive and forward-
+ looking response to the negative impacts of populist movements (PaCE)", European
+ Commission (107402), €2,319,719, €332,063, to Manchester Metropolitan (2019).
+ This is a cross disciplinary project, led by Prof Edmonds (Centre for Policy Modelling, C17) in
+ collaboration with Prof Crockett and Dr David McLean. Project partners include organisations in
+ Iceland, Bulgaria, Austria, Germany, Belgium, Ireland and Finland.
+ “Air Handlers KTP” Innovate UK (KTP 11024) £284,948 (2018)
+ This project led by Dr Kharel is in partnership with Air Handlers who manufacture heating and
+ ventilation systems that are used in hospitals, schools and other public and private settings. The
+ KTP was awarded for the development of a smart, scalable and productive manufacturing
+ system that could expand the existing product range through the adoption of leading-edge mass
+ customisation techniques.
+ “Greater Manchester Cyber Foundry” (ERDF) £6,615,951, £3,000,000 to Manchester
+ Metropolitan (2018)
+                                                                                              Page 11
+
+
+Unit-level environment template (REF5b)
+ Dr Kharel and Keith Miller (KE member) lead this major collaborative project with the universities
+ of Lancaster, Manchester and Salford to deliver targeted business support to SMEs whilst
+ identifying projects that can harness R&D expertise to develop new products, services and
+ capacity. The Cyber Foundry is driving economic growth and productivity through the application
+ of cyber research and innovation (see ICS 2).
+ “Greater Manchester AI Foundry” (ERDF) £6,876,491, £3,000,000 to Manchester Metropolitan
+ (2020)
+ Keith Miller (KE member) leads this major collaborative project with Profs Aspin and Crockett.
+ From disease detection using deep learning to autonomous vehicle technology using computer
+ vision – the AI Foundry, led by Manchester Metropolitan, harnesses the research across a
+ consortium of four universities (partners are universities of Lancaster, Manchester and Salford)
+ to unlock new products and services in Greater Manchester’s businesses.
+ Strategy for external research income generation
+ Strengthen leadership for developing collaborative larger bids: Engagement with funders
+ and priority-setting exercises led by our Research Development Manager has resulted in an
+ increasingly strategic approach to bidding. Experienced researchers are encouraged to bid more
+ selectively, for larger grants. Robust peer review processes, starting with formal CfACS-level
+ support and scrutiny, enhance the quality of bids and share expertise across the staff team.
+ A careful pathway of mentoring and support for ECRs: We support ECRs to identify
+ opportunities, write convincing cases for support and conduct rigorous peer review and
+ mentoring activities. We also provide internal investment through RKE Future Leaders and
+ Research Accelerator Grants.
+ Playing our part in the Industrial Strategy and future economy: We have won large awards
+ for knowledge exchange projects that translate research in cyber security and AI into tangible
+ benefits for the region’s economy and workforce. Our research and teaching nexus provides a
+ fantastic opportunity for us to feed research-led innovations into a new way of doing things
+ across Greater Manchester. Our large and expanding KTP portfolio is enabling us to translate
+ new ideas into impact that benefits North West SMEs, and we will continue to grow this activity
+ into the future.
+ Using knowledge of funders more strategically: Regular bidding workshops across
+ disciplines share specific funder knowledge. We have used this experience to work alongside
+ our Research Development Manager to provide critical appraisal of proposals throughout. This
+ has been a successful approach for us with BBSRC funding and with Royal Society funding in
+ particular.
+ Internal investment to support external income: As reported in section 2 we use internal
+ funding to support early-stage ideas from our staff. Schemes such as the Strategic Opportunities
+ Fund (SOF) and Research Accelerator Grants are used with precision to pump prime activities
+ that have been worked up into full external proposals. For example, Dr Yap has been able to use
+ internal investment to grow her research team and to develop collaborations with Image Metrics
+ Ltd (output 2339) and CSols Ltd into successful awards from The Royal Society (£146,381) and
+ Innovate UK (£218,486). This has resulted in more than 30 high-quality publications.
+ The development of new clusters of expertise: We have invested in the development of
+ significant new clusters of activity during the assessment period such as “Precision Agriculture”.
+ With £30,000 internal support from the SOF and GCRF, Prof Han has constructed a portfolio of
+ precision agriculture solutions for crop health management and monitoring, soil analysis and
+ crop site management, which has generated more than £900,000 to Manchester Metropolitan
+ and resulted in eight high-quality research papers.
+                                                                                            Page 12
+
+
+Unit-level environment template (REF5b)
+ Exceptional support from the RKE Directorate: We have a strong relationship with our
+ Research Development Manager, who attends management meetings and works with us on
+ long-term funding strategy. We also have access to an International Research Development
+ Manager and an experienced Delivery team (see infrastructure below).
+ Infrastructure
+ Research and Knowledge Exchange Directorate (RKE)
+ CfACS benefits from significant expertise in an expanded RKE Directorate. RKE includes
+ research development and delivery, research ethics and governance, impact, business
+ engagement, KTP support and The Graduate School (see REF 5a).
+ We have access to fantastic RKE Systems including Symplectic for outputs and web profiles,
+ Worktribe for external funding applications, EthOS for research ethics, and SkillsForge for
+ managing the PGR student journey. We also have access to SciVal for benchmarking and
+ reporting purposes.
+ We have a press officer, an HR business partner, Information Systems support and expertise for
+ the negotiation of RKE-related contracts and commercialisation activities. We receive excellent
+ support for the management of our web and social media presence.
+ Technical Support
+ We receive support from 16 technicians organised across research-facing teams in Diagnostic,
+ Mobile and Digital Computing (8 FTE) and Computational Facilities (8 FTE). Research
+ Technicians manage our “core” facilities and provide hands-on expertise for research. We are a
+ signatory to the Science Council and Gatsby Foundation’s Technical Commitment.
+ IT Infrastructure
+ We have access to a £500,000 Research Data Storage facility that provides a centrally
+ managed data storage solution. This provides a system that is highly available with performance
+ and storage capacity to meet current and future needs (multiple petabytes).
+ Library Services
+ Research Support Librarians provide access to 349 electronic databases including CORE,
+ Scopus, Web of Science and Science Direct, and provide guidance on appropriate publishing
+ routes, copyright, enquiries around Open Access and Research Data Management. The Library
+ also manages green open access through the ‘e-space’ repository (integrated with Symplectic)
+ and administers funding for article processing payments for gold open access.
+ Specialist facilities
+ Research takes place in the John Dalton Tower on 8 floors of combined research space.
+ The Visual Computing Lab is equipped with six GPU machines (including one that is sponsored
+ by Nvidia). Research on facial analysis uses high-speed cameras and a specialist machine for
+ facial micro-expressions research. For human motion analysis, we have two types of depth
+ sensors to measure movement.
+ The CfACS IoT Lab has a 50-device test-bed of Internet of Things (IoT) and Wireless Sensor
+ Networks. It is also equipped with specialist kit including IoT Care (Norma, Korea), Next
+ Generation Firewall (Palo Alto Networks, US) and Quantum Secure IoT chipset (BST, UK). We
+ have in-house tools, including Smart City Digital Twin, RFID deployment and planning tools, an
+ indoor-IoT simulator and smart healthcare kits.
+ Adaptive psychological profiling research within the Machine Intelligence theme utilises a state-
+ of-the art Usability Lab to capture and analyse human behaviour utilising a wide range of
+ technology including remote eye-tracking hardware (SMI RED 250) and the head-mounted eye
+ tracking system (SMI) using lightweight glasses.
+                                                                                             Page 13
+
+
+Unit-level environment template (REF5b)
+ Access to shared facilities and “in-kind” support
+ A collaboration with Scan Computers enables us to use their DGX high-performance machine,
+ and we secured Nvidia sponsorship for training in the use of deep learning algorithms. We also
+ received an Oracle Innovation Accelerator Program Award to use their cloud infrastructure for
+ the proof-of-concept phase of our FootSnap AI-enabled product (output 2354).
+ 4. Collaboration and contribution to the research base, economy and society
+ Support and effectiveness of collaborations, networks and partnerships
+ Staff collaborate with a wide range of partners in many fields; the reach of this work is evidenced
+ by the fact that 69% of our submitted outputs are co-authored with 114 international partners.
+ We participate in various European consortia including iBorderCtrl with 13 partners including
+ Leibniz University and the National Technical University of Athens, Populism and Civic
+ Engagement (PaCE) with 8 partners including University of Helsinki and University of Salzburg,
+ and ImageInLife with the University of Montpellier.
+ Internationally, we work with partners in Pakistan on AI-enabled applications including National
+ University of Science and Technology (NUST) and the National Centre for Artificial Intelligence.
+ We have collaborations in China where we work on agritech applications and Internet of Things
+ technology. We have visiting professorships at Sudan University of Science and Technology and
+ Southwest University of China (Yap).
+ In the UK, partnerships include the £12m GM AI and Cyber Foundry projects with Lancaster
+ University, University of Manchester and Salford University. We are partners in the Cancer
+ Research UK, EPSRC-funded ‘Mammobot’ project that is investigating breast cancer diagnosis
+ with University of Bath, King’s College London, Leeds, Edinburgh and Imperial. We are working
+ on the early detection of skin cancer using mobile devices with The Dermatology Centre at
+ Salford Royal Foundation Trust.
+ Contributions to the economy and society
+ Our researchers make a major contribution to the regional economy through one of the UK’s
+ largest KTP portfolios. We have been awarded 17 KTPs leading to new products and services
+ for SMEs including Access Systems, Blueskytec, Cherry Pop Games, RAA IT, Kindus, REM UK,
+ Service Power, Brodericks, Packaging Automation Limited and The Insights People. We even
+ have an international KTP for a project that uses data to enhance crop yields with the University
+ of Johannesburg. Outcomes of KTPs not featured in our impact case studies include research
+ on quantum technology with Service Power Ltd that led to several patents and a £14m buyout
+ from US investors in 2017.
+ CfACS carries out research into the development of smart transport systems. We are partners
+ with Network Rail on an Innovate UK funded project using disruptive radar technology to create
+ 3D visualisations of subsurface rail infrastructure that will lead to improved safety for rail
+ passengers. We have a KE Fellowship arrangement with the Transport Systems Catapult
+ providing ongoing advice and consultancy and stimulating innovation projects.
+ Research contributes to national policy. Prof Hammoudeh’s research on zero trust was cited
+ nine times in the reports of the Joint Committee on National Security Strategy and the Joint
+ Committee on Domestic Threat of Drones. Research in quantum annealing featured as a case
+ study in a Parliamentary Office of Science and Technology publication. Prof Crockett’s work on
+ place-based ethical AI has engaged policymakers and data scientists in round tables organised
+ by think tank Policy Connect with the All-Party Parliamentary Group on Data Analytics.
+ Prof Peng has been appointed as honorary visiting professor with SRFT and the Northern Care
+ Alliance NHS Group to advise on the development of AI for health in the region. Prof Peng is
+ collaborating with The Royal Veterinary College and the London School of Hygiene and Tropical
+                                                                                                Page 14
+
+
+Unit-level environment template (REF5b)
+ Medicine to investigate the applications of AI and machine learning in combating infectious
+ disease and Anti-Microbial Resistance (AMR). We undertake research in partnership with
+ University Hospitals Coventry and Warwickshire NHS Trust (automation analysis of
+ embryoscope images), Manchester University NHS Foundation Trust (body scanning and self-
+ esteem), Lancashire Teaching Hospitals NHS Foundation Trust (diabetes) and Norfolk and
+ Norwich Teaching Hospital (breast cancer). We also collaborate with technology providers such
+ as Oracle, Cisco, Croda and Image Metrics on health-related contributions to wider society.
+ Public and end-user engagement
+ We gain enormous benefits from public engagement both in terms of improving the quality and
+ direction of our research but also the opportunity that it provides for staff and PGRs to
+ collaborate on interesting projects. We believe in meaningful two-way public engagement in
+ which the expertise of the public is valued. For example, the outcomes of our events at
+ Manchester Science Festival are informing the future direction for the development of a Greater
+ Manchester charter for ethical AI. Our staff frequently work with artists and authors to develop
+ innovative forms of public engagement. ICS01 describes our collaboration with the award-
+ winning Manchester-based independent Comma Press who we have worked with over a number
+ of years on popular science fiction anthologies inspired by our research. ICS01 also features
+ Prof Crockett’s collaboration with world-renowned composer Bofan Ma, whose experimental
+ pieces have featured in performances across Europe. Whilst we are enthused by the
+ development of new forms of collaborative public engagement, we also engage the public
+ through more traditional routes. Staff regularly contribute to schools engagement and outreach
+ activities, and our researchers feature regularly in the broadcast and print media and use social
+ media channels such as The Conversation.
+ Contribution to the discipline
+ Invited/plenary lectures: Staff are invited to give many invited presentations, plenary lectures
+ and seminars at key international conferences. A selection includes:
+      10th International Joint Conference on Computational Intelligence, Spain 2018
+      4th International Conference on Green Computing and Engineering Technology,
+          Denmark 2018
+      International Conference on Wireless Communication and Networks, US 2018
+      18th International Conferences on Ubiquitous Computing and Communications, China
+          2019
+      IEEE European Summer School on Smart Cities, Italy, 2017
+      NSF Workshop on Interdisciplinary and Collaborative Research in Cybersecurity, USA,
+          2019
+      ACM Distinguished Lecturer Series, USA, 2020
+      Role of Network Virtualization in the Future Internet, India, 2020
+      IEEE International Conference on Computing, Electronics and Communication
+          Engineering, London, 2019
+      10th International Congress on Ultra Modern Telecommunications and Control Systems,
+          Russia, 2018
+ Conference Session Chairs/Organising Committee: Staff are active members of the organising
+ committees of several major conference series. A short list includes:
+      19th IEEE International Conference on Scalable Computing and Communications, 2019
+      4th IEEE International Conference on Data Science and Systems, 2018
+      10th IEEE International Conference on Cyber, Physical and Social Computing, 2017
+      13th IEEE International Conference on Ubiquitous Intelligence and Computing, 2016
+      19th IEEE international Conference on Scalable Computing and Communications, 2019
+      3rd IEEE International Conference on Smart Data, 2017
+      IEEE International Conference on Fuzzy Systems 2015 - 2020
+      IEEE Women in Computational Intelligence 2014, 2016, 2018, 2020
+      10th IEEE International Conference on Big Data and Cloud Computing, 2020
+                                                                                             Page 15
+
+
+Unit-level environment template (REF5b)
+        23rd International Conference on Medical Image Computing and Computer Assisted
+         Intervention (Diabetic Foot Ulcer Challenge) 2020
+        18th IEEE International Symposium on Parallel and Distributed Processing with
+         Applications, 2020
+        IEEE/IFIP Wireless Days Conference 2018, 2019
+        IEEE 91st Vehicular Technology Conference, 2020
+        IEEE International Smart Cities Conference 2015 – 2018, 2020
+        17th IEEE Consumer Communications & Networking Conference, 2020
+        IEEE Globecom, 2019 – 2020
+        ACM MobiCom, 2020
+        IEEE International Conference on Computing, Electronics & Communication
+         Engineering, 2020.
+        International Conference on Smart Machine Intelligence and Real-Time Computing, 2020
+        IEEE Wireless Communication and Networking Conference, 2020
+        IEEE International Conference on E-health Networking, Applications, and Services, 2019
+        International Conference on Emerging Technologies in Computing, 2019
+        IEEE World Congress on Computational Intelligence 2016, 2018, 2020
+        Panel of “Women in AI” at IEEE Symposium Series on Computational Intelligence, 2020
+        IEEE Symposium Series on Computational Intelligence, 2020
+        International Conference on Cyber Security Intelligence and Analytics, Canada, 2019
+ Editorships:
+ Staff are members of the editorial boards or guest editors of many journals (>50):
+      IEEE Transactions on Artificial Intelligence
+      IEEE Transactions on Fuzzy Systems
+      IEEE Transactions on Emerging Topics in Computational Intelligence
+      IEEE Transactions on Big Data
+      IEEE Transactions on Intelligent Transportation Systems
+      IEEE Transactions on Industrial Informatics
+      IEEE Sensors
+      IEEE Access
+      IEEE Internet of Things Magazine
+      IEEE Future Directions Newsletter
+      IET Networks, Computer and Electrical Engineering
+      Journal of Supercomputing
+      Digital Communications and Networks
+      Natural Computing
+      Journal of Computational Science
+      Journal of Healthcare Engineering
+      PeerJ and PeerJ Computer Science
+      Computer Communication, Elsevier
+      Personal and Ubiquitous Computer, Springer
+      Wireless Personal Communication, Springer
+      Cluster Computing, Springer
+      Multimedia Systems, Springer
+      Sustainable Computing: Informatics and Systems, Elsevier
+      Journal of Multimedia Tools and Applications, Springer
+ External advisory boards:
+ CfACS makes a significant contribution to a range of external advisory bodies, including:
+      International Society for Computational Biology (Han)
+      IEEE Special Interest Group on Big Data for Cyber Security and Privacy (Peng)
+      IEEE Taskforce on Ethical and Social Implications of Computational Intelligence and
+         Ethics (Crockett)
+                                                                                           Page 16
+
+
+Unit-level environment template (REF5b)
+         Well Being Officer for Special Interest Group on Humanitarian Technology UKRI
+          (Crockett)
+         Oracle Research Industry Strategy Council (Yap)
+         Transport Catapult (Djahel)
+         Adviser, Prime Minister’s Task Force on Science and Technology, Pakistan (Nawaz)
+         IEEE Special Interest Group on Green Internet of Vehicles (Djahel)
+         Chief Adviser, Visual Intelligence Research Centre, University of Electronic Science and
+          Technology of China (Bashir)
+         IEEE Women in Engineering Chair UKRI (2016-2021) (Crockett)
+         Member IEEE Women in Engineering Leadership Committee (Crockett)
+         IEEE World Congress on computational intelligence 2016, 2018, 2020
+         Shoman Arab Researchers Award (Hammoudeh)
+         Chartered Institute of Information Security (Hammoudeh)
+ Fellowships and Prizes:
+ The quality of our research is recognised through numerous awards and prizes:
+      Best paper award, the 16th IEEE International Conference on Smart City, 2018
+      Best paper award, the 8th IFIP International Conference on New Technologies, Mobility
+          and Security
+      ACM Distinguished Speaker (2019-2022)
+      IEEE Outstanding Leadership award as a chair of ScalCom 2019
+      IEEE Outstanding Leadership award as a chair of DSS-2018
+      FY2021 JSPS Invitational Fellowships for Research in Japan award
+      Best paper award IEEE Conference on Cognitive Machine Intelligence, 2019
+      Best student paper award by Beijing Technology and Business University, China, 2019
+ National and international peer review:
+ Staff in the unit have been members of national grant award bodies including:
+      EPSRC Peer Review College (Han and Hammoudeh)
+      EPSRC Funding Panel – big data call and ICT prioritisation (Han)
+      ESRC Funding Panel – Canada-UK Artificial Intelligence Initiative (Peng)
+      The Royal Society Industry Fellowship Joint Panel (Yap)
+      Horizon 2020 proposal evaluation and mid-term project reviewer (Han)
+      British Council (Han and Hammoudeh)
+      IEEE CIS Graduate Student Research Grants Committee (Latham)
+      IEEE CIS Outstanding PhD Award Committee (Crockett)
+      Cancer Research UK Expert Panel (Yap)
+      Czech Science Foundation (Djahel)
+      Swiss National Science Foundation (Djahel)
+      The Netherlands Organisation for Scientific Research (Djahel)
+      Science Foundation Ireland (Hammoudeh)
+                                                                                             Page 17

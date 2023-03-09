@@ -1,0 +1,983 @@
+Unit-level environment template (REF5b)
+ Institution: University of Nottingham
+ Unit of Assessment: 11 – Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+ 1.1. Context and Strategy
+ Computer Science at Nottingham continues to pursue and maximise the impact of its highly
+ successful strategy of grounding its research in real-world challenges and settings. Our strength
+ in advancing core computer science, combined with flexible structures that allow timely response
+ to new challenges and an ability to connect knowledge and methods both across computer
+ science and between the computational and other disciplines enables deep collaborations with
+ diverse research users. Our research naturally remains strongly user-focused, interdisciplinary
+ and impactful.
+ Following intense strategic expansion in the previous REF period, the School has worked to
+ maximise flexibility and effectiveness before again increasing both capability and capacity. Over
+ the current period our commitment to and success in delivering our research strategy -
+ supported by significant investments in both people and facilities - have been marked by:
+        Extension of our core capability through the establishment of a new Cyber Security
+         (CybSec) group (following recruitment of Furnell, He, and Muller) and new appointments
+         in visualisation (Laramee) and robotics (Kucuckyilmaz, Turner). The existing Horizon
+         Digital Economy Institute, Intelligent Modelling and Analysis Group, Computer Vision
+         Laboratory, Functional Programming Laboratory, Mixed Reality Laboratory and
+         Computational Optimisation and Learning Group have also been strengthened by new
+         appointments.
+        Restructuring of and relaxation of the boundaries between the School’s research groups
+         to produce an increased number of more responsive smaller, often overlapping, units.
+        Increased interdisciplinary activity through the establishment of the Smart Products
+         Beacon of Excellence [REF5a-2.1b] within the School (led by Benford) and active
+         involvement in the University’s Future Food (Pridmore, Pound) and Precision Imaging
+         (Valstar, French, Pound, Chen) Beacons (all arising from a £22.5M investment by the
+         University) and the Mental Health and Technology Theme of the £23.6M NIHR
+         Biomedical Research Centre (Valstar, Garibaldi, Perez).
+        Renewed funding for the Horizon Digital Economy Institute (£4.1M, Koleva, McAuley)
+         and Centre for Doctoral Training (£5.8M, Benford) for an unprecedented 3rd iteration.
+        Strengthened links with established industries (e.g. Unilever, Microlise, Syngenta,
+         NATS(Services) Ltd, BBC) and successful establishment of the spin-out company
+         BlueSkeye AI with £235K investment from Angels and the University (Valstar).
+        Influence on Government policy through McAuley and Rodden’s work on the ‘Age-
+         Appropriate Design Code’ introduced by the Information Commissioner's Office and
+         Rodden’s appointment as Chief Scientific Advisor to the Department for Digital, Culture,
+         Media and Sport (DCMS).
+ The School currently numbers 50 Category A academic staff (46.2 FTE, of which 21% are
+ female), 47 post-doctoral researchers and 76 PhD students with further support from the
+ experience of 24 technical, managerial and professional employees. Our funding portfolio has
+ matured, with average income increasing from £3.9M p.a. in 2014 to £4.7M p.a. from a broader
+ range of funding sources. The School is now in receipt of awards from six of the seven UK
+ Research Councils, Innovate UK, the Royal Society and EU. Our international standing has also
+                                                                                              Page 1
+
+
+Unit-level environment template (REF5b)
+ led to direct funding by the US Air Force Office of Scientific Research (Altenkirch) and US Dept
+ of Energy (Pridmore).
+ The School has directly received £33M in research income. The rich interdisciplinary nature of
+ our research, however, means that School staff are often instrumental in obtaining funding for
+ projects spanning the University; the total value of these awards to UoN within the REF period is
+ £70.9M, a significant increase on the £52M reported in 2014.
+ As recognised in our REF 2014 strategic aims, our vision of Computer Science as “computing in
+ the world” requires the School to continually strengthen and extend its core research base,
+ reach out to new industrial and academic partners and broaden its international scope. In
+ addition, flexible structures are required which both maintain depth of research in key areas of
+ computer science while supporting intra- and inter-disciplinary collaboration. Throughout the
+ current REF period the School has successfully achieved these goals; and it will maintain this
+ approach.
+ 1.2. Flexible Structures
+ The School’s research structures are designed to allow those working in distinct areas of
+ computer science the autonomy needed to pursue the most promising lines of enquiry while
+ encouraging and supporting intra-disciplinary collaboration. Our strategy has been to i)
+ recognise areas of significant activity within the previous group structure and ii) soften
+ boundaries between groups to encourage greater collaboration. Our model is of a larger network
+ of more interconnected, often smaller units, with staff operating across that network to best
+ advance their research and address emerging opportunities.
+ In the REF period the School has recognised the Agents Laboratory as performing high-quality
+ research in a distinct area; Alechina and Logan were previously members of the Foundations of
+ Programming group, now Functional Programming lab. The Lab for Uncertainty in Data and
+ Decision Making (LUCID) has emerged from Intelligent Modelling and Analysis (IMA) and
+ Computational Optimisation and Learning (COL, previously Automatic Scheduling and Planning)
+ to sit between and foster collaboration between those continuing groups. Renewed funding for
+ the Horizon Digital Economy Institute has ensured its continued existence, while the creation in
+ 2020 of a Cyber Security group further extends core capabilities.
+ The School now recognises nine groups:
+      Agents Laboratory
+      Computational Optimisation and Learning (COL)
+      Computer Vision Laboratory (CVL)
+      Cyber Security (CybSec)
+      Functional Programming (FP)
+      Lab for Uncertainty in Data and Decision Making (LUCID)
+      Intelligent Modelling and Analysis (IMA)
+      Mixed Reality Laboratory (MRL)
+      Horizon Digital Economy Research Institute (Horizon)
+ These are discipline-based and located in distinct areas of the Computer Science building,
+ allowing senior staff to support the development of early career researchers and students and
+ encouraging co-working between staff with shared research interests. Each group is primarily
+ responsible for the development and pursuit of its research agenda, operating in the context of
+ the University’s research initiatives and structures; this independence is facilitated by devolved
+ budgets over which the groups have full autonomy. While each staff member is assigned to one
+ group for administrative purposes, group membership is informal and flexible. Many colleagues
+                                                                                                Page 2
+
+
+Unit-level environment template (REF5b)
+ identify with and contribute to multiple groups, providing transfer of ideas and knowledge across
+ the School and allowing us to respond effectively to emerging challenges and opportunities.
+ Cross-group strategy and processes are co-ordinated by the School’s Director of Research
+ (Pridmore) who convenes a quarterly Research Strategy Group (RSG). RSG is a broad forum
+ discussing both long-term strategy and operational matters and includes representatives of each
+ group and School Research Administration Team. The Director of Research serves on the
+ School Operations Team alongside the Head of School (Garibaldi), Director of Teaching (Landa
+ Silva) and Director of Operations (Palmer), ensuring effective communication between research
+ groups and School Management.
+ 1.3. Strengthening Core Research
+ Throughout the REF period the School’s core research has been driven and strengthened by the
+ creation, activities and achievements of its research groups.
+ Agents Laboratory (Logan, Alechina (until 2019)). Research in the Agents Lab spans the
+ specification, design and implementation of agent-based systems, including logics for agents,
+ agent programming and verification, and the application of agents in simulation and virtual
+ environments. The Lab is internationally leading in the verification of autonomous systems that
+ operate under resource constraints, and in the synthesis of provably correct multi-agent
+ programs. Since 2014 the group has produced 9 PhDs and published 23 papers in top-ranked
+ (Microsoft Academic) international AI conferences (IJCAI, AAAI, AAMAS, ECAI) and 7 papers in
+ leading journals (AIJ, TCS, JAIR, JCSS). With financial support from the School, Agents Lab
+ instigated the Intention Progression Competition, an international initiative to advance research
+ in agent decision making (the paper proposing the competition won Best Paper at AAMAS
+ 2017). The Lab has received funding for work on the verification of multi-agent systems and has
+ strong links with colleagues in the Faculty of Engineering, collaborating on manufacturing-
+ focussed grants with a total value of £7.2M.
+ Computational Optimisation and Learning (Atkin, De Maere, John (new, until 2020),
+ Karapetyan (new), Landa Silva, Neri (new), Ozcan, Parkes, Qu, Triguero(new)). COL (the
+ natural evolution of the previous ASAP group) is at the cutting edge of new methodologies and
+ techniques for optimisation and learning. COL’s research is driven by a strong multi-disciplinary
+ approach to tackling real-world optimisation and data science problems across various sectors
+ including transport, energy, food production, logistics, healthcare, manufacturing, aerospace,
+ communications, finance and built environment. Core research covers mathematical
+ optimisation, evolutionary algorithms, swarm optimisation, hyper-heuristics, learning classifiers,
+ big-data learning algorithms, feature selection, neural P systems and membrane computing.
+ Impact is realised through the group’s many successful collaborations with industry. During the
+ REF period, COL has produced 37 PhDs and published 142 papers in leading journals (IEEE
+ TEC, IEEE TFS, EJOR, COR and others). COL’s work has contributed two ICSs [REF3
+ Improving Operations at London Heathrow and Geneva Airports and Improving Homecare
+ Quality]. The high-impact, multi-disciplinary nature of COL’s work is evidenced by their success
+ in obtaining Innovate UK and EU funding; during this REF period the group has been awarded 6
+ KTPs, 2 R&D Collaborative projects and 1 EU Horizon 2020 project.
+ Computer Vision Laboratory (French, Pound, Pridmore, Torres Torres, Tzimiropoulos (new,
+ until 2019), Valstar). CVL performs basic and applied research in image manipulation, analysis
+ and computer vision. The group develops novel and efficient techniques for the extraction of
+ quantitative descriptions of viewed objects from a variety of images and image sequences, and
+ translates those techniques into high quality software tools addressing real world problems. This
+ REF period has seen CVL supervise 43 PhDs, publish 8 papers in the top 3 computer vision
+                                                                                              Page 3
+
+
+Unit-level environment template (REF5b)
+ conference (CVPR, ICCV, ECCV – Microsoft Academic) and 6 in top 5 Computer Vision journals
+ (IEEE PAMI, IEEE IP, IJCV – Microsoft Academic). CVL’s application-focussed work is also
+ internationally recognised. The group has expertise in visual affective computing and face
+ analysis, conducting world-leading research on topics including apparent emotion recognition,
+ face tracking, and the automatic assessment of mental health based on expressive behaviour.
+ Valstar (internationally the second-highest cited person in the field of social signal processing) is
+ Deputy Director of the Biomedical Research Centre’s Mental Health & Technology theme, a 5-
+ year interdisciplinary research programme on objective mental health assessment. This led to
+ spin-out in 2019 of BlueSkeye AI. CVL is at the forefront of image-based plant phenotyping
+ research in the UK and Europe, evidenced by its key role in the ESFRI roadmap project
+ EMPHASIS, in which they are partnered by BBSRC and BEIS. Pridmore received £300K from
+ the US Dept of Energy (ARPA-e) to support work in this area and is Director of the UK’s national
+ plant phenotyping network, PhenomUK.
+ Cyber Security (Furnell (new), He (new), Muller (new), McAuley, Wagner, Pound, Twycross,
+ Radenkovic). CybSec was formed in 2020 following appointment of Prof Steven Furnell but
+ draws together members of pre-existing groups with an interest in security. CybSec is a centre
+ of interdisciplinary cyber security research and education, securing the digital environment
+ through combined advances in formal and human-centric cyber security research. The unpinning
+ aim of the group’s research is ensuring security that is effective for those who need it,
+ recognising who cybersecurity is actually for – namely the individuals, organisations and wider
+ society that want to use and trust the technology – and enabling protection that works in a
+ manner that they can relate to. CybSec’s core activities sit at the intersection of security
+ technology and those that use it. The group’s focus is upon delivering the theoretic security
+ properties in practice, removing technical obstacles and achieving effective and usable
+ approaches, alongside human-centric solutions that empower people to be the strongest link.
+ Functional Programming Lab (Altenkirch, Capretta, Hutton, Kraus (new), Nilsson). FP’s aim is
+ to develop simple but powerful techniques for writing and reasoning about programs, by
+ recognising and exploiting their underlying mathematical structure. Since 2014 FP received
+ £1.75M of external funding, graduated 15 PhDs, and developed fundamental new results in type
+ theory, category theory, functional programming, reactive programming and corecursive
+ structures. Altenkirch’s work on dependent types was internationally recognised by the award of
+ $700 from the US Air Force Office of Science and Technology. Kraus recently joined the group
+ as an associate professor, supported by a £550K Royal Society University Research
+ Fellowship. Members played a leading role in the international community, serving on the
+ editorial boards of the Journal of Functional Programming, Fundamenta Informaticae and ACM
+ ICPS, program chair of the TLCA, MPC and FARM conferences, chair of the Haskell committee,
+ member of the EU-TYPES cost action and co-founders of the Midlands Graduate School.
+ Intelligent Modelling and Analysis (Chen (new), Garibaldi, Greensmith, Qiu, Siebers, Turner
+ (new), Twycross, Wagner, Zhou(new)). IMA’s work on complex data analysis, knowledge
+ representation, machine learning, decision support algorithms and modelling of human decision
+ making have impacted biomedical informatics, security, energy management and digital
+ economy. The group played a leading role in developing computational algorithms for the
+ Nottingham Molecular Pathology Node, one of the six national MRC/EPSRC pathology nodes
+ launched in 2014 which aimed to establish multidisciplinary centres of innovative molecular
+ diagnostic test discovery and development bringing together the research base,
+ pathology/genetic NHS services and industry. IMA also contributes decision support algorithms,
+ medical modelling and data analysis to the Nottingham Biomedical Research Centre. IMA's
+ multidisciplinary research has been instrumental in creating novel models of synthetic biology
+ within the University's Synthetic Biology Research, a £14.M centre funded by BBSRC/EPSRC in
+ 2014. IMA has strong links to the Advanced Data Analysis Centre (now Digital Research
+                                                                                                Page 4
+
+
+Unit-level environment template (REF5b)
+ Service), which has been established as a permanent unit within UoN during the REF period and
+ links IMA research outputs to real-world applications.
+ Laboratory for Uncertainty in Data and Decision Making (Wagner, Garibaldi, Figueredo,
+ John (new, until 2020)). Alongside colleagues from COL, members of IMA established LUCID in
+ 2016 to encourage agile collaboration between staff and students working on uncertainty in data
+ and decision making. Building on a rapidly growing network of national and international
+ collaborators, including at ANU (Australia), CMU (USA), UNavarra (Spain), and Uni.lu
+ (Luxembourg), LUCID has addressed research challenges around uncertainty-in-data in areas
+ from data-driven environmental management and smart (consumer-led) manufacturing to cyber
+ security. It has attracted ~£1.7M direct funding and ~£24M as stakeholder in hub and centre
+ grants from a diverse set of research funders including EPSRC, NERC, Unilever, JP Morgan,
+ DSTL and the NCSC. Most recently, LUCID launched DECSYS, a novel survey platform for
+ sourcing uncertain information directly from people, with direct support from the NCSC.
+ DECSYS has already been used in cyber security and marketing research and the underpinning
+ science is being explored for a new generation of consumer engagement with leading
+ manufacturers including Unilever, Nestlé and PepsiCo.
+ Mixed Reality Laboratory (Benford, Chamberlain, Crabtree, Fischer, Flintham, Greenhalgh,
+ Koleva, Kucuckyilmaz (new), Laramee (new), Milic-Frayling (new), Marshall, Reeves, Rodden,
+ Tennent, Wilson). The lab creates and studies interactive technologies and experiences that
+ interleave the digital and the physical to enhance everyday life. Research themes have included
+ human interaction with agent collectives; establishing trust in personal data; and brain and body
+ control of interactive systems. Cultural and creative applications have remained a major focus,
+ with collaborations with artists producing performances that have been directly experienced by
+ 40000 people in 40 venues across seven countries [REF3 ICS: Innovating Cultural Products].
+ Work on Internet of Things has led to burgeoning research on smart products including a
+ research framework agreement with Unilever, while digital technology and mental health is
+ emerging as a key research area, in collaboration with the University’s Institute of Mental Health.
+ Notable achievements during this period include: 3 Best Papers, a Best Arts Paper and 6
+ Honorable Mentions at the CHI conference; 9 papers in ACM Transactions on CHI; an EPSRC
+ Platform Grant; two EPSRC Programme Grants; two EPSRC Fellowships; a Leverhulme
+ Fellowship; a Nottingham NRF Fellowship; and Rodden being elected an ACM Fellow, seconded
+ to be deputy CEO of EPSRC, and Chief Scientific Advisor to DCMS. The lab celebrated its 20th
+ anniversary in 2019 by staging a major retrospective exhibition at the CHI conference and
+ hosting the first Halfway to the Future symposium.
+ Horizon Digital Economy Research Institute (Koleva, McAuley, Benford, Crabtree, Fischer,
+ Flintham, Perez, Radenkovic, Reeves, Rodden, Valstar, Wagner). The UKRI funded Horizon
+ Digital Economy Research Institute centred at the University of Nottingham brings together an
+ interdisciplinary team with expertise from a wide variety of backgrounds including computer
+ science, engineering, mathematics, psychology, sociology, business, social science and the
+ arts. Horizon focusses on the collection and understanding of personal data to address the user-
+ centred design and development of data-driven products, which are more personalised, adaptive
+ and trusted and as a result, deliver greater value to consumers, producers and society. Horizon
+ was established in 2009 and its EPSRC funding renewed in 2015 and 2020, providing £20.7M in
+ total. It is an active member of the national network of Digital Economy Centres. Horizon has
+ strong links with external organisations including those working in the areas of healthcare, art,
+ communications, finance and creative media. Horizon’s body of research and the impact this is
+ having on how users and policy makers engage with technology is the subject of an impact case
+ study [REF3 ICS: Protecting the Rights of Young People].
+                                                                                              Page 5
+
+
+Unit-level environment template (REF5b)
+ 1.4. Working across Disciplines
+ The University of Nottingham’s commitment to maximising the transformative value of research
+ led to a £22.5M investment in 6 Transdisciplinary Beacons of Excellence [REF5a-2.1b] during
+ the REF period. Each Beacon addresses a global challenge and is directed at UN Sustainable
+ Development Goals. Computer Science is closely involved with 3 Beacons: Smart Products
+ (intelligent products, production and consumer experiences), Future Food (feeding the world in
+ the context of climate change) and Precision Imaging (precision medicine).
+ Smart Products (centred on the School and led by Benford) articulates a new research vision
+ around the future of products. This brings together views from manufacturing and consumption
+ into a whole-life perspective and combines technologies concerned with physical artefacts from
+ Engineering with those focused on digital media from Computer Science and Arts and
+ Humanities. Smart Products is supported by two new appointments (Kucuckyilmaz, Turner) in
+ Computer Science, and investment of £632K (£212K by EPSRC and £420K by the University) in
+ a new Cobot Maker Space, a facility dedicated to human-robot interaction and collaboration
+ where researchers, industry partners (especially SMEs) and the public can engage with
+ Interactive Robotics and AI.
+ Smart Products has awards totalling £21M, including £17.9M directly linked to the Beacon (30
+ awards). A significant proportion are strategic awards to multidisciplinary groups of researchers
+ at UoN, working alongside collaborators at other Universities. This includes the EPSRC-funded
+ Horizon CDT (£5.8M) and Horizon Digital Economy Research Centre (£4.1M) - both proposals
+ had the Smart Products vision at their core – and the recently announced Trustworthy
+ Autonomous Systems Hub (£2.2M).
+ Computer Science involvement in Future Food centres on plant phenotyping technologies,
+ specifically the computer vision techniques underpinning image-based phenotyping. Pridmore
+ serves on the Leadership Team of the Beacon, and Pound transitioned to an Assistant
+ Professorship in Computer Science in 2020 following successful completion of his Nottingham
+ Research Fellowship, associated with Future Food. Beacon investment has provided some £2M
+ in cross-university support for phenotyping equipment and development resources, including
+ state of the art laser ablation tomography, fluorescence and structured light imaging equipment
+ and a dedicated Maker Space supporting development of hardware solutions. Within the REF
+ period CVL has won 10 research awards targeting computer vision problems in plant
+ phenotyping with a total value of £2.2M. Nottingham now leads both the UK national plant
+ phenotyping network and UK involvement in the ESFRI EMPHASIS project, highlighted in
+ BBSRC’s 2019 Delivery Plan.
+ School staff contribute to and benefit from interactions with the University’s world-leading MRI
+ and precision medicine community. Valstar’s work on computer vision and healthcare, and
+ French, Pound and Chen’s on bioimage analysis contribute to the Precision Imaging Beacon.
+ Valstar, Perez Vallejos’ and Garibaldi’s involvement in the University’s Biomedical Research
+ Centre (BRC) has contributed to Nottingham becoming a recognised centre of excellence for
+ objective assessment of mental health conditions and led to collaboration with the University of
+ Auckland on digital mental health interventions (Greenhalgh).
+ In addition to these established and recognised research units, interdisciplinary projects are
+ common within the School including:
+      Greensmith’s (IMA) completion of an EPSRC-funded discipline hopping grant working
+          with immunologists in Nottingham’s School of Medicine.
+                                                                                               Page 6
+
+
+Unit-level environment template (REF5b)
+        Ozcan’s partnership in two Marie Curie ITN awards led by Nottingham’s Faculty of
+         Engineering and co-investigator role in an EPSRC CDT in Sustainable Chemistry led by
+         Nottingham’s School of Chemistry.
+        Twycross’ involvement in the Nottingham Synthetic Biology Research Centre and work
+         with School of Life Sciences.
+        MRL’s multiple collaborations with the Dept. of Music (including Greenhalgh’s ‘Losing her
+         voice’ opera project) and portfolio of four AHRC grants totalling over £1M.
+ 1.5. Impact and Knowledge Exchange
+ Impact and knowledge exchange is guided by the University’s Knowledge Exchange Strategic
+ Delivery Plan, Research Vision and Impact Strategy, with local support and processes in place
+ at school level.
+ The School takes a proactive approach to impact, with investigator-led impact reviews of each
+ grant being prompted by administrative staff at regular intervals. Investigators have access to a
+ Faculty-funded Impact Officer who works with academics and researchers to develop, document
+ and evidence impact, and a senior academic has time dedicated to supporting impact. Horizon
+ employs a dedicated Knowledge Exchange and Impact Officer who works across the portfolio of
+ Horizon projects to identify, accelerate and publicise impacts generated by the institute and a
+ Transformation Manager with expert knowledge of the funding environment and who facilitates
+ industrial links. These colleagues work with academic staff to identify opportunities for impact
+ acceleration and translation through engagement with bodies such as Nottingham’s Institute for
+ Policy and Engagement, the IP Commercialisation Team and by supporting applications to
+ Impact Acceleration Account (IAA) funding. In the REF period the School has won 13 EPSRC
+ IAAs, one BBSRC IAA and an MRC Confidence in Concept with a total value of £184K.
+ In addition to the four impact case studies in REF3 - Improving Operations at London Heathrow
+ and Geneva Airports Through Modelling and Optimisation (Atkin), Improving Homecare
+ Quality in the UK Through Optimised Workforce Planning (Landa Silva), Innovating Cultural
+ Products for the Creative Industries (Benford), Protecting the Rights of Young People Within the
+ Digital Space (McAuley, Perez) - impact achieved in the current period includes:
+      integration of the School’s research into government policy through Rodden’s role as
+         Chief Scientific Advisor to DCMS.
+      contribution of research expertise to UK government policy supporting the UK’s digital
+         competition market (McAuley).
+      adoption by the Western Australian Government of the uncertain data-driven
+         environmental management and policy design methodology developed in collaboration
+         with LUCID and highlighted in the 20-year management plan for the Toolibin wetland, a
+         Ramsar-certified wetland of international importance.
+      successful spin-out of BlueSkeye AI with £235K venture capital (Valstar). Blue Skeye has
+         met its OEM targets each year, now employs 7 staff (2 further posts advertised) and has
+         contracts worth £360K in its development pipeline.
+      embedding of high dynamic range imaging research at Nottingham into photo editing
+         software, providing the foundation of the internationally renowned photo editing
+         application, FOTOR (Qiu).
+      adoption of novel deep machine learning applications by Syngenta, a leading
+         international agritech company (French, Pridmore, Pound).
+      development (with the BBC) of ‘Databox’, a platform allowing individuals to securely
+         manage their own personal data (McAuley, Crabtree).
+      commercial impact on the BBC through understanding of people’s engagment with
+         Internet of Things devices in the Living Room of the Future (Crabtree).
+                                                                                               Page 7
+
+
+Unit-level environment template (REF5b)
+        release of a machine learning-based software tool for neurofibre segmentation, now in
+         use by >100 groups worldwide (Chen).
+        educational and commercial impact from the best-selling book Programming in Haskell
+         (Hutton), which includes many aspects of the author’s research, sold 34,000 copies
+         worldwide and has been adopted by >100 University courses and online professional
+         courses with >100,000 participants.
+ 1.6. Broadening International Scope
+ REF2014 outlined plans for further global outreach. That this is being achieved is evidenced by:
+      48/116 (41.3%) of our returned outputs including international co-authors.
+      MRL’s two AHRC-funded UK-China creative industry grants focussed on connected
+         museums.
+      Qiu’s collaboration on FOTOR (China).
+      Pridmore and French’s £320K BBSRC GCRF project in collaboration with CIAT,
+         Colombia.
+      Wagner’s work on environmental management tools with the Dept. of Parks and Wildlife
+         and University of Western Australia.
+ School researchers also collaborate on large scale international research projects including EU
+ projects (worth £3.65M or 9.5% of award income) and projects funded by the US Government
+ through ARPA-e (Pridmore) and the US Air Force Office of Scientific Research (Altenkirch). Our
+ growing presence at and strengthened research links with the University’s China and Malaysia
+ campuses are evidenced by collaborations including Qu’s work on container transportation
+ scheduling at Ningbo port, the world’s 4th largest container port.
+ 1.7. Open Research
+ We strongly promote a culture of open research [REF5a-2.3], as the delivery of our vision of
+ “computing in the world” turns on users being able to use solutions developed at Nottingham and
+ feed back to research teams. Support staff target reminders about open access and depositing
+ outputs into the institutional repository to academics with new publications and assist in the
+ process. The School hosts sessions on open access publication at academic meetings and
+ away days, provided by specialists from within the University.
+ We are proactive in the development of open research infrastructures. Wagner has co-
+ developed multiple open-source software frameworks making research outputs accessible to
+ peer researchers within and beyond computer science including Juzzy and JuzzyOnline, each
+ with some 1000 users. In the last 5 years JuzzyOnline was accessed by users from more than
+ 50 and Juzzy by users from over 125 countries. IMA has released a Fuzzy-R toolkit. Valstar has
+ created and released the AVEC, FERA, SEMAINE, and Noxi datasets, which together have
+ been cited 1575 times during the REF period. Pound and French have developed and released
+ a variety of annotated image data sets designed to support development of machine learning
+ solutions to agricultural challenges through the Annotated Crop Image Database (ACID). ACID
+ has recently been adopted as a national resource by PhenomUK. Links to the open access
+ software and data resources produced by the School are maintained on the School website.
+ 1.8. Research Integrity
+ The School follows the UoN Code of Research Conduct and Research Ethics [REF5a-2.4],
+ ensuring a sustainable culture of research integrity and good practice. The School Research
+ Ethics Committee (seven academics, four researchers, one research student, one non-school
+ representative, one lay member) approves all taught and research projects involving human
+                                                                                               Page 8
+
+
+Unit-level environment template (REF5b)
+ participants or personal data in advance (69 projects in 2019/20). All new research and teaching
+ staff and research students attend compulsory research ethics training; research students also
+ complete an online introduction to research integrity. All taught project students receive a lecture
+ on research ethics. The Ethics Committee maintains a web page with details of processes and
+ links to supporting resources, including relevant school and university policies and best practice.
+ The Research Ethics Officers (Greenhalgh, Crabtree) Chair the committee, contribute to
+ University discussion of research ethics and integrity and ensure that the School remains up to
+ date with University requirements and best practice, updating School processes and reporting to
+ the School at least annually.
+ The School’s research also contributes to wider ethical thinking in Computer Science through
+ Horizon’s contribution to methods for Responsible Research Innovation (RRI), led by Perez in
+ partnership with RRI researchers at Oxford and De Montfort, and to industry through the release
+ of our Moral-IT deck of ideation cards and through shaping policies such as Online Harms at
+ DCMS.
+ 1.9. Future Plans
+ In the next period the School’s strength in multidisciplinary research will be expanded through
+ investment in capacity around Cyber-physical AI (CYPHAI) and the related areas of Embodied
+ Intelligence and AI in Manufacturing. Following the formation of the Cyber Security Research
+ Group and building on the recent investments in Smart Products, the School will create three
+ further groupings in this broad area:
+      1. Cyber-Medical Research [1-2 new staff]: A Professor in Cyber-Medical Systems will be
+          recruited to integrate the various strands of medical research underway in the School
+          building on our involvement in the NIHR-funded £24M Nottingham Biomedical Research
+          Centre.
+      2. Cybernetics (AI Robotics) Research [5 new staff]: A Professor in Cybernetics / AI will
+          be recruited to lead a new research group in intelligent robotics, with potential for multi-
+          disciplinary interactions with the Faculty of Engineering, and leading the further
+          development of our newly created Cobot Maker Space.
+      3. Embodied Intelligence Research [5 new staff]: A Professor in Embodied Intelligence
+          will be recruited to lead a new research group in Human-AI Hardware/Software
+          Interaction deepening our involvement with the new UKRI programme in Trustworthy
+          Autonomous Systems, where we are one of the three partners in the £12M national hub
+          and a partner in the Governance node.
+ A total of 12 new academic staff will be recruited across these areas, taking into account the
+ need to strengthen complementarity with existing research groups within the School. These new
+ initiatives will be supported by construction of a new £260K CYPHAI Laboratory in the School of
+ Computer Science and further investment in the Smart Products Cobot Maker Space. The
+ School will also establish a Doctoral Training Programme in Artificial Intelligence, continuing our
+ policy of supporting intra- and interdisciplinary research in key areas of computer science and
+ further strengthening links with industrial and academic partners.
+ Though the challenges addressed naturally change over time, our successful strategy of
+ engaging world-leading computer science research with real-world problems has remained in
+ place since the previous REF and is expected to underpin the School’s activities for the
+ foreseeable future.
+                                                                                                 Page 9
+
+
+Unit-level environment template (REF5b)
+ 2. People
+ 2.1. Staffing Strategy and Staff Development
+ The School of Computer Science aims to attract, develop and retain high performing talent while
+ fostering a culture focused on diversity, inclusivity, wellbeing and positive engagement across all
+ our groupings and activities.
+ At the REF2021 census date: 17% (1.8F, 11.2M) of Category A staff were employed at
+ Professorial level,13% (2F, 9.2M) at Associate Professor/Principal Research Fellow level, 27%
+ (6F,16M) at Lecturer/Senior Research Fellow level and the remaining 43% (9.5F, 24M) as
+ Research Fellows. In our UoA, we have 3% (2M) (FTE) early career, 65% (7.8F, 42.4M) of staff
+ are employed on permanent, contracts and 35% (9.5F, 18M) on fixed term contracts.
+ 2.1.1. Recruitment
+ 16 external appointments have been made to strengthen and extend our core research base
+ and support increased intra- and inter-disciplinary collaboration, particularly around Cyber
+ Security and the Smart Products Beacon. Four Professors (Furnell, Gaertner (until 2019), John,
+ Milic-Frayling), three Associate Professors (Kraus, Laramee, Neri) and nine Assistant Professors
+ (Chen, He, Karapetyan, Kucukyilmaz, Muller, Triguero, Turner, Tzimiropoulos, Zhou) have been
+ appointed in the period. 16 staff left, and Professor John passed away in 2020.
+ A further four Transitional Assistant Professors were appointed through the Horizon Digital
+ Economy Research Institute. All have now moved to permanent Assistant Professorships at the
+ University, two (Reeves, Torres Torres) in Computer Science, one (Perez) in Mathematical
+ Sciences and one (Pinchin) in Engineering. Twycross (2016), Schnadelbach (2018) and Pound
+ (2020) transitioned to Assistant Professorships in Computer Science on completion of
+ Nottingham Research Fellowships [REF5a-3.2]. Marshall and Tennent were promoted from
+ Senior Research Fellow to Assistant Professor.
+ Progression of post-doctoral staff has been supported by appointments to partial (0.2 FTE)
+ Assistant Professor positions alongside their research posts. Of the four during the REF period,
+ De Maere is now full time Assistant Professor in the School, Coughlan is Lecturer at the Open
+ University, Soria is Senior Lecturer at the University of Westminster and Rennick-Egglestone is
+ Senior Research Fellow at Nottingham’s Institute for Mental Health.
+ Our recruitment processes take input from the whole School community; interview panels
+ (trained in Interview Skills for Chair and Panel Members) comprise diverse academics working
+ across the School. All academic and research staff and PhD students are invited to and
+ encouraged to attend presentations by candidates and given opportunities to feed their opinions
+ into the process. We strictly follow UoN EDI strategies throughout recruitment to ensure
+ candidates are treated solely on the basis of their abilities and potential.
+ We take a flexible approach to working patterns; four staff have taken a reduction in FTE at the
+ University, on a permanent or temporary basis, to take on roles at Samsung (Tzimiropoulos),
+ Yahoo (Zhou), Standard Chartered (Nilsson) and Ernst & Young (Koene). These arrangements
+ allow staff to pursue opportunities with high-profile companies and advance the School’s
+ strategy of reaching out to new industrial partners. UoN is actively exploring how policies for
+ flexible working can being used as effectively as possible to support all staff.
+                                                                                              Page 10
+
+
+Unit-level environment template (REF5b)
+ 2.1.2. Staff Development
+ Personal development and research career progression of all staff are supported and reviewed
+ at least annually through UoN’s Appraisal Development Conversation (ADC) process [REF5a-
+ 3.1]. This is overseen by the Head of School and Director of Staff Development (Hutton). Early
+ career academic staff benefit from reduced teaching and administrative loads and the support of
+ a senior academic mentor. They are prioritised in the PhD studentship allocation process and
+ provided with a seed budget to help them establish their research. Research staff are supported
+ in achieving their potential through a system of mentoring including their immediate principal
+ investigator, research group leader and the Director of Staff Development.
+ In addition to peer mentoring and support schemes operating both formally and informally in the
+ School, staff are supported by a comprehensive programme of professional development
+ training. PhD supervision and review skills training is provided by the PGR Director (Qu),
+ working with the Researcher Academy [REF5a-3.3]; research ethics training is provided by the
+ Research Ethics Officers. The University provides numerous research-focussed training courses
+ including annual sessions on research integrity. Staff in leadership roles have access to training
+ and resources through the Nottingham Leadership and Management Academy, which provides
+ a comprehensive programme of activities for staff (Pridmore 2015, Gaertner 2016) across
+ themes including leading people, financial management, networking and managing change
+ [REF5A-3.5].
+ Support for the development of research is comprehensive:
+       Since 2014 our Study Leave programme provided over 8000 hours of paid study leave to
+         academic staff to support writing of research proposals and papers and the development
+         of international collaboration.
+       Financial support for the development, acceleration and dissemination of research is
+         provided through the devolved budgets allocated to each research group. These are
+         based on the number of academic staff and PhD students plus a generous percentage of
+         research income. Groups have full autonomy over this budget.
+       Additional funding for conference attendance is made available by the Faculty of
+         Science. Allocation is managed by the School to ensure those who most need the
+         funding are able to access it, taking into account individual circumstances, caring
+         responsibilities, etc.
+       The School operates a Grant Academy to which staff can submit, at any time, draft
+         research proposals for review by and discussion with senior colleagues.
+       The Director of Staff Development is available to support staff at all stages of the
+         proposal development process including assisting with responding to reviewer comments
+         and adapting unsuccessful ideas for further submission.
+       In preparation for REF2021 the Faculty made funding available to support enhancement
+         of impact of both potential impact case studies and research outputs. The application
+         mechanism included an EDI process to ensure gender balance and encourage a positive
+         action balance for staff with protected characteristics.
+ Exceptional performance and contribution in the School are recognised through nomination by
+ colleagues to the Nottingham Reward Scheme, which provides a framework of financial rewards
+ recognising contributions spanning the full range of activities. The School has facilitated eight
+ awards in the REF period (two to academic, three to research and three to administrative and
+ professional staff).
+ Through ADC we have facilitated seven promotions to Professor (Altenkirch, Crabtree, Koleva,
+ Landa Silva, Qiu, Valstar, Wagner), seven promotions to Associate Professor (Atkin, Fischer,
+ French, Ozcan, Triguero, Tzimiropoulos, Wilson). In line with principles of responsible metrics, h-
+                                                                                              Page 11
+
+
+Unit-level environment template (REF5b)
+ index and other publication metrics are no longer an assessment criterion for promotion. Part-
+ time contracts and periods of absence (e.g. maternity leave) are taken into account and the
+ process concentrates on quality of delivery over quantity. Staff are supported through the
+ promotions process by a School promotions group and assigned mentor. Unsuccessful
+ applicants are given constructive feedback, supporting future applications.
+ 2.2. Research Students
+  Our PGR community comprises 49.4% Home, 7.9% EU, 42.7% International, 96.6% full-time,
+  3.4% part-time, 27.7% female, and 13.8% declared a disability. Over the REF period we have
+  graduated 157.49 FTE (46.49 F/101 M) PhDs with an average 4-year submission rate of 51%.
+  34.4% of our REF outputs include a PhD student author and 10.4% of our PhD students have at
+  least one author credit.
+  PhD funding is received from UKRI, industry, charities and the Horizon CDT, which was renewed
+  for a £5.8M third iteration in the REF period, bringing its total funding to £14.9M. We provide 6-10
+  fully-funded PhD studentships each year from our Scholarship budget (£194K in 2020/21). A
+  rigorous application and assessment process involves a diverse panel of academic staff who
+  adhere to UoN EDI strategy to ensure the highest quality students receive priority on funding. The
+  CDT programme admits one intake of students per year to promote the building of collegiate
+  cohorts, providing peer support networks for students. The current CDT award will see five cohorts
+  admitted, totalling 65 students and building on the 109 students supported through the first two
+  funding rounds.
+  2.2.1.Training
+  PGR students undertake a structured induction programme (covering research methods, ethics,
+  communication and dissemination, supervision practice and University processes) and have
+  access to academic, career and personal development courses run by the Professional
+  Development Unit and the Researcher Academy [REF5a-3.3]. Students funded by the Horizon
+  CDT complete a four-year programme involving an initial training year in the Centre followed by
+  a three year PhD programme embedded in an academic department, many being based in
+  Computer Science. These initial processes are supported by provision of online PGR study
+  materials. PhD students have opportunities to develop teaching/dissemination skills alongside
+  their research with teaching lab demonstration work, guest lecturing opportunities and voluntary
+  placements to teach at Nottingham’s overseas campuses in China and Malaysia, all overseen by
+  an academic mentor.
+  The School takes an active role in the development of research students per se by its involvement
+  in development programmes. Nottingham is a founder member of the Midlands Graduate School
+  in the Foundations of Computer Science (MGS) and hosted the weeklong programme of courses
+  twice during the REF period. Nottingham is also a founder member of the National Taught Course
+  Centre in Operational Research (NATCOR) and has hosted training for PhD students seven times
+  during the REF period. Both MGS and NATCOR have become self-sufficient since 2014.
+  2.2.2. Support
+  PGR progress, experience and well-being are overseen by the PGR Director and Director of
+  Research with support from the Researcher Academy.
+  During the REF period, the School has enhanced its internal review processes to ensure that
+  students are best prepared to progress between each stage of their PhD and into their viva. Each
+  student undergoes a rigorous end of year review, in addition to their regular, recorded, supervisor
+                                                                                               Page 12
+
+
+Unit-level environment template (REF5b)
+  meetings, which confirms their progress and implements actions to address areas of concern. At
+  the end of their third year, each student meets with the Director of Research and PGR Director to
+  discuss the writing, submission and examination process and ensure they understand what is
+  expected of them. A Student Welfare Officer is based in the School to provide advice, guidance
+  and support to students experiencing difficulties of any nature, and we have trained seven mental
+  health First-Aiders. Student Services staff are embedded in the School’s administration office to
+  provide further advice and support.
+ The School holds a PGR Learning Community Forum (LCF) meeting three times per year. This
+ is chaired by the PGR Director and provides a forum for representative PGR students to discuss
+ both academic and non-academic issues. In recent meetings, the LCF has discussed the
+ implementation of further support structures for students in their thesis pending periods, an
+ internal communications tool for PhD students to help build the community and representation of
+ PGR students at Faculty level.
+ Our PhD graduates have been highly successful in their onward careers in this period, securing
+ academic research positions (e.g. Wang and Song now PDRAs at Cambridge), launching start-
+ up companies (e.g. Userfy, Makers of Imaginary Worlds and callforparticpants.com (acquired by
+ Jisc Beta service)), and securing competitive positions in industry (e.g. Amazon, Samsung AI,
+ Facebook, Microsoft, Airbus, Jaguar Land Rover).
+ 2.3. Equality, Diversity and Inclusion
+ EDI underpins all activities, following UoN’s EDI Strategy and supported by the School’s EDI
+ Committee, which includes academic, technical, research and administrative staff together with
+ UG and PGR students. The School has held an Athena Swan Bronze award since 2013,
+ renewed in 2017. Our Athena Swan Self-Assessment Team sits quarterly. Each group within the
+ School community is represented, ensuring that our Athena Swan action plan meets the needs
+ of the diverse community it serves.
+ The school fosters an environment of inclusivity through leadership, education and celebration of
+ diversity adjoined to key national events including annual Ada Lovelace day, celebrating women
+ in STEM, celebration of pioneers in computer science from the LGBTQ+ community and delivery
+ of on campus events (e.g. film nights) during Black History month.
+ During REF2021 preparations, the University supported employees to voluntarily declare
+ relevant personal circumstances and their impact on REF outputs [REF5a-3.7], while
+ maintaining confidentiality. All staff involved in REF preparations completed a training course
+ covering EDI legislation and principles governing REF conduct, protected characteristics,
+ unconscious bias, and management strategies for positive outcomes. All researchers were
+ asked to nominate as many outputs as they thought eligible for inclusion for REF2021 to our
+ annual internal review process, and all were encouraged to put forward impact case studies
+ (ICSs). Our strategy is to submit the very best outputs and ICSs regardless of other criteria.
+ 2.4 Concordat Implementation
+ The University of Nottingham is a signatory, through Universities UK, of the Concordat to
+ Support the Development of Researchers and holds an HR Excellence in Research award from
+ the EC. Local implementation of the Nottingham Concordat Plan [REF5a-3.2] is ensured through
+ the inclusion in the School management team of the roles of Director of Research and Director
+ of Staff Development, who are directly tasked with supporting the career development of the
+ School’s researchers. The ADC process is applied uniformly to research and academic staff,
+                                                                                             Page 13
+
+
+Unit-level environment template (REF5b)
+ researchers are invited to School Staff Meetings and PhD and research staff make up 1/3 of the
+ EDI committee.
+ Data Protection training is compulsory for all University staff, and refresher training was
+ mandated on the introduction of GDPR legislation, with completion monitored via personalised
+ links. All work conducted using personal data undergoes ethical approval. As a member of the
+ UK Research Integrity Office (UKRIO), the University has access to training provision of UKRIO
+ on research integrity and organised research integrity workshops for academic staff and
+ research students from 2017. Responsible Research and Innovation training is provided by the
+ Institute of Science and Society at the University, one of the foremost interdisciplinary centres for
+ research excellence in the field of science and technology studies.
+ 3. Income, Infrastructure and facilities
+ 3.1. Research Income
+ In the REF period research income to the School totalled £33M, an average of £4.7M p.a., up
+ from £3.9M p.a. in 2014. Staff have been investigators on grants resulting in £70.9M of income
+ to the University, up from £52M in 2014. We receive funding from a wide range of sources
+ including EPSRC, BBSRC, MRC, NERC, AHRC, InnovateUK, European Commission, US Govt.,
+ charitable bodies and industry.
+ The School leads or contributes substantially to key strategic projects, including:
+       the EPSRC-funded Horizon Digital Economy Research Institute, which received a £4.1M
+          renewal in 2020, bringing its total funding to £20.7M.
+       Nottingham’s £14.2M EPSRC/BBSRC Synthetic Biology Research Centre.
+       the £23.6M NIHR-funded Biomedical Research Centre led by UoN and Nottingham
+          University Hospitals Trust.
+ Other notable awards are:
+       UnBias: Emancipating Users Against Algorithmic Biases for a Trusted Digital Economy
+          (£1.3M, EPSRC); followed by ReEntrust (£218K, EPSRC) [REF3 ICS: Protecting the
+          Rights of Young People].
+       Living with Digital Ubiquity (£1.2M EPSRC Platform Grant to MRL).
+       Defence against Dark Artefacts (£1.1M, EPSRC).
+       SAGE (€2M European Commission, coordinated by Nottingham).
+       Leveraging the Multi-Stakeholder Nature of Cyber Security (£770K, EPSRC).
+       Health Data Research UK (£724K, UKRI, Wellcome).
+ 3.1.1. PhD Training
+ PhD funding centres upon the twice-renewed (total £14.9M) EPSRC-funded Horizon CDT;
+ Nottingham remains the only institution with both a Digital Economy Research Hub and CDT.
+ The renewed CDT will also benefit from over £4.7M in cash and in-kind contributions from
+ industry and academic partners, demonstrating external commitment to its work.
+ In addition, Ozcan is partner in two Marie Curie ITN awards led by Nottingham – No2Noise
+ (€809K) and OptiMACS (€1.3M) - supporting PhDs across engineering and computer science.
+ 3.1.2. Enabling the Wider Community
+ In line with our goal of extending intra- and inter-disciplinary collaboration, the School actively
+ seeks funding for transdisciplinary networking:
+                                                                                                Page 14
+
+
+Unit-level environment template (REF5b)
+         John (COL) was co-investigator on the £1.4M EPSRC NetworkPlus Digitally Enhanced
+          Advanced Services (DEAS). DEAS focusses on how digital products and services are
+          used, cascading over £600K to researchers spanning business, computer science and
+          human factors to stimulate engagement in a coordinated programme of research pilots.
+         Pridmore (CVL) holds a £528K UKRI Technology Touching Life grant to establish a
+          national network promoting a holistic approach to plant phenotyping. This includes £225K
+          to be distributed to multidisciplinary pump priming projects. Together with £600K funding
+          from the H2020 EPPN2020 and ESFRI EMPHASIS-PREP projects, this award is
+          intended to lead to the creation the UK node of the distributed research infrastructure
+          EMPHASIS.
+         Wagner (LUCID) was awarded £400K by EPSRC to fund 15 residencies at the Digital
+          Catapult.
+ 3.1.3. Supporting Impact
+ The School has secured impact support grants totalling >£200K, including:
+      Valstar (CVL) secured EPSRC IAA grant to optimise face recognition technology, leading
+          to the spin-out Blueskeye AI.
+      Flintham (MRL) won EPSRC IAA funding for a 6-month collaboration with the National
+          Videogame Arcade on Internet of Things, securing an ongoing partnership between UoN
+          and the British Games Institute.
+      Ramchurn and Patel (PhD students, MRL) won EPSRC Digital Economy Telling Tales of
+          Engagement awards to promote the impact of their research [REF3 ICS: Innovating
+          Cultural Products].
+      Crabtree (MRL) completed the Impact Leaders Programme with the BBC (2015).
+ 3.1.4. Industry partnerships
+ During the REF period we have participated in four major European projects with industry:
+ MAGELLAN (€477K), GIFT (€ 598K), OPTIMISED (€291K), SelSus (€75K). Innovate UK funding
+ has included Value Enhancement for Data from Assets and Transactions (£359K total) awarded
+ jointly with Microlise and MyHouse (£79K total) awarded jointly with Legendary Games. We have
+ been awarded 9 KTPs with Krow, E.On, EventMAP, PXTech, Intechnica, 121 Systems, Optrack,
+ JP Morgan and Gleeds to a total value of £1.85M. We have received direct industry funding from
+ Google, Adobe, Unilever, NATS, Ford and Syngenta. Our total direct industry funding is
+ £3.532M (9.2% of award income). This is complemented by funding from government agencies
+ including GCHQ (£222K) and DSTL (£95K).
+ The Horizon CDT benefits from a total of £4.7M industrial funding, working with >50 industry
+ partners including ARM, BBC, Captial One, Digital Catapult, DSTL, Experian, Ipsos-MORI,
+ Ordnance Survey and Unilever.
+ 3.1.5. Fellowships
+ Staff have held a number of prestigious fellowships during the REF period including awards from
+ the Royal Society (Kraus £550K), Leverhulme (Marshall, £142K), EPSRC (Established
+ Fellowship, Crabtree, £1.13M, Early Career Fellowship, Reeves, £458K) and three Nottingham
+ Research Fellowships [REF5a-3.2] (Schnadelbach, Twycross, Pound).
+ 3.2 Infrastructure and Facilities
+ The School is located in a purpose-designed building on the University’s Jubilee Campus,
+ providing a large, flexible space readily adaptable to our evolving research needs. Research
+                                                                                              Page 15
+
+
+Unit-level environment template (REF5b)
+ groups are allocated specific areas of the building, ensuring staff and PhDs are co-located and
+ allowing groups to manage and adapt their space. MRL, for example, has a large open,
+ configurable space equivalent to 8 large offices plus corridor space which allows the creation
+ and study of large facilities [REF3 ICS: Innovating Cultural Products]. CVL has a dedicated
+ laboratory used to develop robot systems and a ‘virtual’ human which can recognise e.g. facial
+ expression, gaze and tone of voice.
+ Computer Science provides nine meeting and collaborative working spaces, bookable by staff
+ and students and including projectors and video-conferencing. Since 2014 we have invested
+ £15K in facilities for these rooms and committed a further £30K in collaborative working
+ equipment, ensuring that staff and students have access to the latest technology.
+ The School has invested heavily in internal network infrastructure during the REF period,
+ including the renewal of high specification servers running research tasks and creation of an in-
+ house high-performance computing facility for staff and student work. Our in-house technical
+ and IT service comprises three highly qualified technicians who support research in the School
+ through close liaison with research staff.
+ Specialist research equipment is provided within both the School and the wider University. Smart
+ Products’ dedicated Cobot Maker Space includes a cobot room equipped with human-friendly
+ robots allowing up to four human-robot collaboration studies to run simultaneously while
+ gathering data from sensors including thermal cameras, brain scanners and gaze trackers.
+ Creation of this space is made possible by a £632K EPSRC and University investment, while the
+ School’s devolved budgets have allowed CVL to construct a cluster of nine multi-GPU enabled
+ servers with associated network storage and scheduling software. This facility is designed to
+ support work in deep machine learning and has facilitated development of novel and highly
+ successful convolutional neural network architectures. CVL is a partner UoN’s unique Hounsfield
+ Facility, which provides state-of-the-art imaging facilities supporting their work in plant
+ phenotyping.
+ The University has invested substantially in High Performance Computing, launching a new HPC
+ service (Augusta) in 2018 (REF5a-4.1(d)). The service now provides 4,720 cores, 31TB RAM, 8
+ GPUs and 750TB of storage. A charging model for use ensures long-term sustainability and the
+ School is provided with an annual budget of £30K (equivalent to 2,000,000 core hours) for HPC
+ activity not funded by other sources, ensuring that the service is widely available. The University
+ is also a member of the HPC Midlands Plus consortium which allows users at the Universities of
+ Aston, Birmingham, Leicester, Loughborough, Nottingham, Queen Mary and Warwick to access
+ further high performance facilities across the region.
+ UoN facilitates cloud computing solutions through Microsoft Azure, Amazon Web Services and
+ Google Cloud Platform. This reduces waiting times and allows staff and students to complete
+ tasks requiring more cores than are available on site. These services are managed by the
+ University’s Digital Research Services department; each Faculty has a dedicated representative
+ assisting in their use and handling requests for new or extended services. Secure, GDPR-
+ compliant data storage facilities are also available. Research projects with significant data
+ storage needs can access the University’s Central Performance facility, which offers up to 5TB
+ free with a subsequent nominal cost per terabyte.
+ A comprehensive range of central services support the development of proposals, project
+ finances, business engagement, IT and infrastructure support, digital research support and
+ technology transfer and commercialisation. The School supplements this with a Director of
+ Operations, a Research and Operations manager (a post created during this REF period), a
+ Research Administration Manager, Research Officers and Operations Administrators.
+                                                                                              Page 16
+
+
+Unit-level environment template (REF5b)
+ The Advanced Data Analysis Centre (ADAC) was founded in 2012 to further increase the impact
+ of the School’s research on data manipulation and analysis. It remained part of the School until
+ 2018 when, supported by £300K from the University’s Strategic Research Board and renamed
+ the Digital Research Service REF5a-4.1(d), it became independent of the School structure while
+ maintaining its presence in Computer Science. ADAC/DRS’s mission is to provide both a service
+ to Nottingham scientists needing access to data analysis and a conduit for the transfer of new
+ techniques to other disciplines. DRS now employs 23 staff, up from six in 2014.
+ 4. Collaboration and Contribution to the research base, economy and society
+ Our strategy of grounding core computer science in real-world challenges and settings has led to
+ collaborations with a wide range of commercial, public and third-sector partners, as evidenced
+ by the diversity of our four ICSs [REF3]. Supported by the University’s Technology Transfer
+ Team, our research has had demonstrable impact in a diverse range of sectors including
+ Government and policy, healthcare and medicine, logistics, food and agriculture, aerospace,
+ creative industries, retail, energy, finance, biomedical and manufacturing.
+ 4.1. Partnership on Research Grants
+ COL continues its unique relationship with NATS, refining the take-off time prediction system
+ which has been operational at Heathrow since 2012 and developing and implementing a new
+ departure management system which is further reducing delays and improving recovery from
+ delay incidents [REF3 ICS: Improving Operations at London Heathrow and Geneva Airports]. EU
+ projects have allowed the School to engage with research users in developing and testing
+ research solutions in real-world environments, companies the School has collaborated with on
+ EU projects include Laing O’Rourke, Dassault Systemes, Alstom Transport, SimPlan and
+ Smarter Grid Solutions.
+ 4.2. KTPs and Industry-funded Research
+ During the REF period the School has held 9 KTP awards with a total value of £1.85M. These
+ have embedded the School’s research into the industrial practice of Krow, E.On, EventMAP,
+ PXTech, Intechnica, 121 Systems, Optrack, JP Morgan and Gleeds. IMA have continued their
+ relationship with the National Cyber Security Centre, part of GCHQ, and have received two
+ instances of funding; to support a programme of software development and to facilitate an
+ international workshop around handing uncertainty in data and decision-making hosted in
+ Nottingham. The School has received direct research funding from Huawei, Google, Adobe,
+ Syngenta, Diamond Light Source, Meograph, Microsoft Research, NATS and Unilever during
+ this REF period, to a total value of £3.53M (9.2% of award income).
+ 4.3. Spin-outs and Start-ups
+ Blue Skeye AI (Valstar) was successfully spun out, with £235K venture capital. Blue Skeye has
+ met its OEM targets each year, now employs 7 staff (2 further posts advertised) and has
+ contracts worth £360K in its development pipeline.
+ Three further start-ups are linked to the School’s research: Studio Go Go (Walker, previously
+ Senior Research Fellow, MRL), Makers of Imaginary Worlds (Patel, PhD, MRL), and Userfy
+ (Sam Howard PhD student in Human Computer Interaction).
+                                                                                            Page 17
+
+
+Unit-level environment template (REF5b)
+ 4.4. PhD Training
+ Collaboration with industry is a vital element of the Nottingham PhD experience, and embedded
+ in the Horizon CDT. Each Horizon CDT student undertakes an internship (e.g. with Ordnance
+ Survey, DSTL, Experian, Nottingham Contemporary). Diamond Light Source, The Roslin
+ Institute and Microsoft Research are each funding a PhD student and Unilever are supporting an
+ EPSRC iCase studentship.
+ 4.5. Engaging Citizens
+ The public are the ultimate beneficiaries of our research and much of the School’s work engages
+ with the public at some point. Collaborations with artists and cultural institutions have toured
+ galleries, festivals and museums in 22 cities around the world, have been directly experienced
+ by 40,000 people and indirectly by thousands more online and have received media coverage
+ on BBC Radio 4’s Saturday Review, BBC News Click, BBC1 East News, ITV East Anglia News
+ [REF3 ICS: Innovating Cultural Products].
+ MRL was commissioned to produce four Artcode pieces to be displayed in the Royal Marsden
+ Hospital’s Teenage Cancer Trust Unit, building on work from the EPSRC-funded grant ‘Living
+ with Interactive Decorative Patterns’. This work has also been applied in the ‘Ice Age to Digital
+ Age’ strand of the Nenescape project to celebrate, protect and conserve the natural and built
+ environments of the River Nene Regional Park.
+ CDT student Ramchurn’s brain-controlled film, The Moment, has been featured on BBC Click
+ and has toured film festivals in the UK and across Europe.
+ Our research on airport scheduling [REF3 ICS: Improving Operations at London Heathrow and
+ Geneva Airports] has been featured on BBC4’s The Secret Rules of Modern Living: Algorithms.
+ MRL work on a project with the School of Law, Corrupt Kitchen, which raises awareness of food
+ hygiene and safety and explores workplace attitudes towards corruption using virtual reality was
+ featured on BBC East Midlands Today. Corrupt Kitchen was also demonstrated at an event held
+ by Just Eat where several hundred food industry professionals had the opportunity to try the VR
+ experience.
+ Tzimiropoulos’ work on 3D face modelling from a single image received national media coverage
+ including BBC TV interviews and articles in e.g. Mail Online. An online demonstration generated
+ >1.5M 3D faces from images uploaded by the public, and 3D prints generated by the method
+ have been exhibited in art galleries.
+ The School’s Computerphile YouTube channel hosts bespoke videos presenting our research
+ and its context to the general public. Computerphile benefitted from funding from Microsoft
+ Research and John Warnock (co-founder of Adobe) during the REF period and received its
+ YouTube ‘Golden Button’ for 1 million subscribers in 2018. Computerphile now has 1.72M million
+ subscribers and has received over 136 million video views. YouTube also commissioned the
+ Computerphile team to produce a set of bespoke videos in the area of data analysis.
+ 4.6. Widening Participation in Computer Science.
+ The School is an active part of the academic community in Nottingham and works with local
+ schools and other institutions to engage communities which may not traditionally have identified
+ with Computer Science. Examples include:
+       Nottingham’s first girls-only CoderDoJo, organised in conjunction with Thomson Reuters
+          and attended by 40 girls aged 7 to 17 (2017, repeated in 2019).
+                                                                                               Page 18
+
+
+Unit-level environment template (REF5b)
+       A CodeFirst:Girls course for 30 female Nottingham students in other disciplines including
+        law, chemistry and economics, teaching them how to code, with female researchers and
+        PhD students delivering the course content.
+       Ada Lovelace Day events in 2018 and 2019 engaging some 100 female year 12 and 13
+        students from local schools including Nottingham Girls’ High School and Nottingham
+        University of Science and Technology. These students attended talks by women
+        occupying high profile computing roles in industry and academia including academic and
+        research staff at UoN.
+       An annual Sutton Trust Summer School, hosting 25 students jointly with Engineering and
+        Mathematical Sciences. Places on Sutton Trust Summer Schools are prioritised for
+        students who are high academic achievers and from underprivileged backgrounds.
+       Partnership on the £500K Institute of Coding-funded programme, TechUp Women, which
+        upskilled 100 women from BAME and underrepresented communities in the North and
+        Midlands in the digital sector through online training and a residential course at UoN.
+       Exhibitions at the Nottingham Festival of Science and Curiosity in 2018 and 2019.
+       Organisation of Inspire Women in Technology Nottingham in 2018.
+       Delivery, with B3 Media, of TalentLab, which trained 40+ young BAME artists in digital
+        technologies and provided indirect support to a further 500 through spinout projects
+        [REF3 ICS: Innovating Cultural Products].
+ 4.7. Academic Collaboration and Leadership
+ The School has engaged in extensive academic collaborations during the REF period to
+ strengthen its core activities and develop new research areas. These include:
+      Agents Laboratory’s joint publications with Cornell (United States), Bozen-Bolzano (Italy),
+        Utrecht (Netherlands), Rio Grande do Sul (Brazil), RMIT (Australia).
+      COL’s relationship with Queen’s University Belfast produced a spin-out company,
+        EventMAP, in the previous REF period. In this period EventMAP partnered with the
+        School on a KTP project. Other international collaborations include Granada (Spain),
+        Maringá (Brazil), Leuven (Belgium) and Virginia (United States). Ozcan was awarded
+        Royal Society-Newton International Exchanges funding to collaborate with the University
+        of KwaZulu-Natal in South Africa.
+      CVL research collaborations include two ARPA-e projects with UHV Technologies and
+        Penn State University (both US). CVL collaborated with Rothamsted Research on an
+        MRC-funded Technology Touching Life network and with Augsburg University
+        (Germany), University of Twente (Netherlands) and Paris Telecom (France) on the
+        Horizon 2020 grant ARIA-VALUSPA, which it coordinated.
+      Horizon’s collaborations include two EPSRC Digital Economy Research hub grants with
+        the University of Cambridge, Nottingham Trent University, the University of Oxford, the
+        University of Exeter and more than 50 partners across the transport, communications,
+        entertainment and policy-making sectors. Horizon collaborates with the Universities of
+        Oxford and Edinburgh on UnBias and ReEnTrust, two EPSRC-funded Trust, Identity,
+        Privacy and Security grants. Research findings from Unbias and ReEnTrust were
+        instrumental in driving UK policy change for online protection of young people [REF3
+        ICS: Protecting the Rights of Young People].
+      IMA collaborations include those built as part of the Marie Curie IAPP Action AIDPATH
+        which included hospitals in Italy and Lithuania and universities in Italy and Romania.
+        Wagner spent 9 months as Visiting Professor at Michigan Technical University and holds
+        a collaborative EPSRC grant with Carnegie Mellon University.
+      MRL’s international collaborations include the EU-funded GIFT project, led from
+        Copenhagen, which is enabling people to experience art and culture from home as an
+        immediate solution to COVID-19 restrictions. MRL staff were investigators on the
+                                                                                             Page 19
+
+
+Unit-level environment template (REF5b)
+         EPSRC-funded project ‘Scaling the Rural Enterprise’, which included research
+         institutions in India and South Africa.
+ 4.8. Esteem and Research Leadership
+ Our success in research leadership is evidenced by editing major journals, chairing key
+ conferences, major strategic advisory activities, invitations to present prestigious keynotes and
+ best paper awards. Selected examples include:
+ Journal editors-in-chief. IEEE Transactions on Fuzzy Systems, 2017-date (Garibaldi),
+ Information and Computer Security, 2007-date (Furnell), Plant Methods, 2016-2019 (Pridmore).
+ Associate Editors. International Journal of Human-Computer Studies, 2015-date (Wilson),
+ Journal of Simulation, 2014-date (Siebers), Computational Intelligence Magazine, 2016-date
+ (Qu), Image and Vision Computing, 2014-date (Tzimiropoulos), IEEE Transactions on Fuzzy
+ Systems, 2014-date (Wagner), Plant Phenomics, 2019-date (Pridmore).
+ Editorial board members. Memetic Computing, 2009-date (Landa Silva), Neural Computing
+ and Applications, 2013-date (Landa Silva), Journal of Functional Programming (2014-date)
+ (Hutton), BMC Source Code for Biology and Medicine, 2006-date (Garibaldi), Fundamenta
+ Informaticae (Altenkirch), ACM Transactions on CHI (Benford).
+ Guest Editors. ACM Transactions on Computer-Human Interaction special issue, 2013
+ (Crabtree), Functional Plant Biology, 2015 (French), Mixed Reality Interfaces in Multimodal
+ Technologies and Interaction, 2019 (Koleva), IEEE Access, 2018 (Triguero).
+ Senior and Strategic Advisory Roles. Members of staff have engaged in managerial and
+ advisory roles at external institutions including key funders and government departments.
+ Rodden was elected a Fellow of the Royal Academy of Engineering in 2018, ACM Fellow in
+ 2015 and seconded to the role of Deputy CEO at EPSRC from 2016 to 2019. Since 2019,
+ Rodden has been Chief Scientific Advisor to the Department of Culture, Media and Sport.
+ McAuley is advising the Investigatory Powers Commissioner’s Office and serves on HM
+ Treasury’s Digital competition expert panel. Furnell is a Member of DCMS Cyber Resilience
+ Expert Advisory Group (2020-date), a Steering Group member for the Cyber Security Body of
+ Knowledge (2020-21), Member of the UK Cyber Security Council Formation Project (2019-21),
+ Chair of Technical Committee 11 of IFIP, and a Board member of the Chartered Institute of
+ Information Security. Since 2018 Crabtree is a member of the EPSRC Strategic Advisory
+ Network. Benford and Rodden are members of the CHI academy. In 2015, Hutton was
+ recognised as a Distinguished Scientist by ACM. Valstar sits on the board of the Association for
+ the Advancement of Affective Computing (AAAC) as Treasurer. Milic-Frayling is Chair of the
+ Programme Technology and Research Workgroup, part of UNESCO’s Platform to Enhance the
+ Sustainability of the Information Society Transglobally (PERSIST) and Chair of ACM Women
+ Europe.
+ Best-paper awards and other prizes. KI 2018 – Best student paper (2018); ACM CHI
+ Conference on Human Factors in Computing Systems – Best paper (2020, 2018, 2014),
+ Honourable mention (2020, 2019, 2016, 2015); Designing Interactive Systems – Honourable
+ mention (2018); Autonomous Agents and Multi-Agent Systems – Best paper (2017);
+ International Symposium on Algorithms and Computation – Best paper (2014); Ackermann
+ Award (European Association for Computer Science Logic Outstanding Dissertation for Logic in
+ Computer Science) (2016), L’Oréal-UNESCO For Women in Science UK & Ireland Rising Talent
+ Programme (2020).
+                                                                                              Page 20

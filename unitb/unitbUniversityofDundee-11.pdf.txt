@@ -1,0 +1,721 @@
+Unit-level environment template (REF5b)
+  Institution: University of Dundee (UoD)
+  Unit of Assessment: UoA11 Computer Science and Informatics
+  1. Unit context and structure, research and impact strategy
+1.1 Unit Structure and Context
+UoA11 research is structured as four clusters (each with a lead, underlined):
+     • Argument Technology (ARG-tech) (Lawrence, Pease, Reed, Visser) focuses on
+         theoretical and practical aspects of argumentation and artificial intelligence.
+     • Computing Theory & Methodologies (CTM) (Edwards, Fiadeiro, Janjic) spans parallelism
+         and data science, graph theory, and formal software system modelling and analysis.
+     • Computer Vision & Image Processing (CVIP) (Magerand, Martin, McKenna, Trucco)
+         develops and applies visual data analysis and machine learning for biomedical, space
+         exploration, and vision applications.
+     • Human-Centred Computing (HCC) (Crabb, Rough, Waller) research includes
+         Augmentative & Alternative Communication (AAC) and User Experience (UX).
+Together these form the Computing Sciences research theme, one of four overarching themes in
+the School of Science and Engineering which spans UoA10, UoA11 and UoA12. Researchers can
+affiliate with multiple clusters from across the University to facilitate inter-cluster working and build
+capacity beyond the core disciplines.
+The Unit’s vision to enable significant societal benefits through its research articulates clearly with
+the University’s mission “to transform lives, locally and globally through the creation, sharing and
+application of knowledge”. Unit staff have taken and will continue to take lead roles in research and
+impact aligned with the University’s interdisciplinary themes, most obviously those of Innovating
+Technology and Health and Wellbeing. The Unit benefits from interdisciplinary collaborations
+across the University and beyond, embracing the institution’s strategic priority of embedding
+interdisciplinarity to build a vibrant research culture that delivers impact.
+1.2 Research Objectives and Plans during the Period
+The Unit’s vision at REF2014 was to be a world-leading centre of research excellence in its areas
+of specialisation, enabling societal benefits through research. REF2014 aims and plans were:
+1. To develop critical mass in focused specialisms, driven by strong connections to research users.
+It planned to grow sustainably, strengthening existing specialisms and cross-cluster synergies.
+The Unit strengthened its specialisms in ARG-tech, CVIP, and HCC through recruitment of early
+career Category A staff. Cross-cluster synergies were strengthened through joint EPSRC projects
+between HCC and ARG-tech (BESiDE, £1.3M, 2013-17), and between HCC and CVIP (ACE-LP,
+£1.0M, 2016-20). These clusters have strong connections to research users as exemplified by
+those projects’ partners, and by user pools maintained by HCC (see 4.2). The CTM cluster was
+formed to consolidate research in that area. The Unit saw 15% growth in Category A FTE.
+2. To ensure stable research income from a diverse funding base.
+Total research income was £11.45M. This was from 39 different sources including EPSRC, NERC,
+BBSRC, EU, Space Agencies, BBC, Google, Microsoft, and CRUK (3.1). Mentoring helped
+achieve grant success, e.g. Pease’s EPSRC First Grant.
+                                                                                                   Page 1
+
+
+Unit-level environment template (REF5b)
+3. To grow Postgraduate Researcher (PGR) numbers, increasing student staff ratio to 2:1 by
+boosting international recruitment of high-quality candidates, leveraging research networks, new
+agreements, and rolling recruitment.
+There are currently 22 PGR students with primary supervisors in Computing and another 10 co-
+supervised with other disciplines, a 2.3:1 ratio of supervisions to category A staff. PhD applications
+are now triaged and managed on a continual basis by Computing’s PGR Lead. PhD funding was
+sought through industry with funding provided by Toshiba, NIDEK Technologies Srl, and Optos plc.
+during the period. Students were also funded by EPSRC, the Scottish Imaging Network
+(SINAPSE), and the Scottish Informatics & Computer Science Alliance (SICSA) research pool.
+4. To harness and build coherence through awareness raising and enhanced collaboration in areas
+of local strength where there are natural synergies, e.g. Health Informatics, Clinical Imaging, Life
+Sciences, Art & Design.
+CVIP raised awareness through involvement in the Academic Health Science Partnership between
+UoD and NHS Tayside, for example, leading to enhanced collaboration with the School of
+Medicine aligned to the UoD themes of Health and Wellbeing and Innovating Technology. In health
+informatics and imaging, CVIP has key roles (co-investigators, work package leaders, committee
+members) in large and strategic projects, e.g., Health Data Research UK (HDR-UK, £4M first-
+tranche funding, 2018), the £3.8M MRC/EPSRC PICTURES Programme Grant, the £7M NIHR
+Global Health Unit Dundee-Chennai INSPIRED project, UoD’s Health Informatics Centre, and the
+Scottish National Safe Haven project. An example of synergy with Life Sciences is the £1.3M MRC
+project Dynamics of Fundamental Cellular Processes by Live Cell and Tissue Imaging.
+5. To seek new high-value international partnerships with leading research institutes reflecting the
+Unit’s research strengths, to encourage visits and exchanges with leading labs, and further raise
+the Unit’s profile by organising/hosting conferences.
+The Unit has been highly active in achieving these aims by (i) building collaborations with key
+partners including the Universities of Cambridge, Edinburgh, UCL, Duke, Göttingen, Harvard, and
+Twente, (ii) undertaking visits, e.g. to University of Konstanz (Reed, Senior Fellowship), University
+of Göttingen, Isaac Newton Institute for Mathematical Sciences (Pease), Chinese Academy of
+Sciences (Trucco), (iii) hosting research visits, e.g. from SICSA Distinguished Visiting Fellows,
+and (iv) hosting meetings and organising conferences, e.g. European Conference on Computer
+Vision general and poster Chairs (Trucco, McKenna), COMMA Co-Chair (Reed), ASSETS User
+Experience Chair (Waller), Future of Assistive Technology Conference Invited Chair (Waller), and
+Royal Society Science+ meeting Chair (Trucco).
+6. To enhance monitoring, governance, and management of research and strategy.
+These aspects have undergone major reorganisation and are now coordinated by the School
+Research and Knowledge Exchange Committee, as described in 3.2. It oversees an Annual
+Research Review of all aspects of the Unit’s research and impact.
+Cluster-level plans stated at REF2014 were:
+     o  ARG-tech aimed to contribute to cultural wellbeing by developing critical literacy through
+        research in debate and argument, partnering with organisations such as the BBC.
+As detailed in a REF Impact Case Study, the BBC commissioned ARG-tech to produce the
+Evidence Toolkit, challenging young people to spot "fake news" and illustrating how to recognise
+claims and evidence; founded upon the world’s first public deployment of argument mining, into
+over 3000 schools, it has influenced UK and EU policy. Building on this foundation, ARG-tech
+                                                                                                Page 2
+
+
+Unit-level environment template (REF5b)
+secured COVID-19 funding (ESRC, £94k to UoD) to tackle fake news around Coronavirus. It is
+now partnering with the Universities of Konstanz and Göttingen on argument technology-based
+interventions to augment and enhance deliberative democracy in partnership with Scottish and
+German governments.
+    o   CVIP aimed to emphasise biomedical image analysis with application to translational and
+        stratified medicine, focusing on high-incidence conditions. Space research aimed to
+        increase the number and value of missions to which its software is critical, as well as
+        providing a near-Earth observation service consistently top-rated by NERC.
+Renewed emphasis on biomedical image analysis led to strengthened interdisciplinary
+collaborations in applied and translational research. Major projects investigating the role of retinal
+and brain image analysis focused on high-incidence conditions such as vascular dementia
+(EPSRC, £1.1M with UoD School of Medicine and University of Edinburgh), personalised medicine
+for diabetes (NIHR, with UoD School of Medicine and Dr Mohan’s Speciality Diabetes Centres,
+India), and profiling diabetic cardiomyopathy (contribution to £10M CARDIATEAM, EU Innovative
+Medicines Initiative). Interdisciplinary initiatives included research on ophthalmology (NIDEK Co.
+Ltd. Technologies grant), digital pathology (EPSRC studentship, with UoD Pathology), HDR-UK
+(with UoD School of Medicine and University of Edinburgh), profiling lipoproteins linked to
+cardiovascular disease (with University of St Andrews) and screening pathologies in the food
+industry (BBSRC/Innovate UK with Newcastle University, Tulip Ltd., Hellenic Systems Ltd.). The
+European Space Agency (ESA) continues to fund (€1m since 2014) the Unit’s research on its
+Planet and Asteroid Natural Scene Generation Utility (PANGU), a tool for testing and developing
+space navigation and guidance systems. Its impact is detailed in an Impact Case Study; it is critical
+to multiple missions including the ESA ExoMars Rover and Surface Platform Mission, the ESA-
+NASA Asteroid Impact and Deflection Assessment programme’s HERACLES mission, and the
+ESA Phootprint mission. The Dundee Satellite Receiving Station provided its top-rated near-Earth
+observation service with NERC funding until 2019.
+    o   HCC aimed to expand and capitalise on its research in areas of high impact and national
+        priority; its work on Augmentative and Alternative Communication (AAC) and Digital Social
+        Inclusion impacting directly on social, cultural and physical wellbeing.
+HCC’s reputation and high impact was nationally recognised with Waller receiving an OBE for
+services to people with complex communication needs. Its AAC research received EPSRC funding
+on the use of context to improve communication for users of voice output communication aids
+(£1M with CVIP, University of Cambridge, and others). Capitalising on the Social Inclusion in the
+Digital Economy hub with Newcastle University, HCC won further EPSRC funding, enabling
+research into understanding wellbeing within care home environments (BESiDE, £1.3M with
+Newcastle University, Balhousie Care Group, Heathfield Residential Home Ltd., Collective
+Architecture Ltd., and BUPA). The group’s work aimed to impact accessibility through research into
+colour identification systems for people with colour vision deficiency (ColourSpecs: £100k with
+Norwegian University of Science and Technology); tools for accessible table discussion (Scottish
+Funding Council, with Ideas for Ears); and accessible interaction techniques (Carnegie Trust, with
+BBC R&D and Rochester Institute of Technology).
+1.3 Research and Impact Objectives for the Next Five Years
+The Unit will continue to compete effectively by focusing on excelling at research in its specific
+areas of strength. Each of the Unit’s specialisms, as well as being internationally leading, should
+be positioned to contribute in unique and important ways to collaborative research projects in its
+                                                                                                Page 3
+
+
+Unit-level environment template (REF5b)
+area. Cluster research plans will continue to support vitality and sustainability of multiple areas of
+impact (3.1), including PANGU space technology (CVIP) and argument technology in the public
+sphere (ARG-tech), as detailed in the Impact Case Studies.
+ARG-tech will apply its techniques to real-world applications of argumentation and AI in domains
+such as healthcare, academic collaboration, intelligence & defence, law, and democracy. It will
+deliver new foundational results in philosophy and linguistics (theoretical and computational), and
+forge new deployments for both professional and general audiences.
+CTM will address foundational, methodological, and architectural aspects of modern computing
+systems, whose complexity arises from high levels of distribution and connectivity that can change
+over time, bringing them closer to the dynamical systems found in, say, biological or social
+systems. It will develop tools and methodologies for structured, formalised high-level programming
+of massively parallel hardware, while addressing the pressing issues of performance versus
+energy consumption (green computing) and application security for modern hardware systems.
+HCC will leverage its track record in designing for diverse users and situations to understand and
+address challenges that exist when people use technology to actively participate in society. Work
+will focus on enabling digital participation with a focus on complex human limitation and equally
+complex environmental considerations. HCC will increase multidisciplinary collaborations,
+combining skills from researchers in computing, psychology, design, medicine, and business.
+CVIP will collaborate to leverage big data from Scotland's national medical imaging archive to
+develop new AI tools for disease diagnosis and risk prediction. CVIP will increase intra-School
+collaboration with colleagues in Mathematical Sciences and Engineering & Physical Sciences. Its
+space technology research will continue to focus on surface modelling and simulation for vision-
+based guidance and navigation.
+1.4 Facilitating Impact and Interdisciplinary Research
+The Unit runs a seminar series with external speakers and encourages research visitors (4.1). It is
+an active member of the Scottish Informatics & Computer Science Alliance (SICSA), a research
+pool funded by the Scottish Funding Council comprising 14 computing ‘departments’ across
+Scotland. It thus benefits from SICSA’s research themes, funding support, graduate academy
+training activities and knowledge exchange events. For example, staff are encouraged to present
+at the annual SICSA DemoFest, showcasing the best Computing research from Scotland’s
+Universities to private and public sector organisations. Most of the Unit’s research involves
+interdisciplinarity; researchers can affiliate with multiple research clusters in a way that is not tied to
+discipline.
+Strategic research retreats for staff and students, supported through the School’s Research Fund,
+provide opportunities to engage in strategy refinement. For example, CVIP ran annual summer
+workshops at a country hotel and winter workshops away from the Computing building over the
+entire REF period, at which all cluster staff and students presented research and planned joint
+working. ARG-tech’s annual retreat focuses on creative thinking around new problems; the 2017
+edition led to successful application to Dstl/DASA for Dialogical Fingerprinting (£94k) in 2019. PhD
+students and post-docs get involved in impact activities including award-winning public
+engagement (see Black in 4.2) and industrial liaison (see Gemechu in 2.2), and a strategic aim is
+to increase this further. The Unit encourages and facilitates public engagement as described in 4.2.
+                                                                                                  Page 4
+
+
+Unit-level environment template (REF5b)
+The School’s Associate Dean for Industrial Engagement provides leadership on engagement with
+industrial partners and organisations, supporting its ambition to be a preferred partner in the
+economic and social progress of the city, the region, and beyond. This includes creating and
+growing partnerships, developing opportunities for industry-led research and consultancy, and
+encouraging pathways for impact and commercialisation. The Unit works closely with UoD’s
+Research and Innovation Services which provides advice on routes to impact, exploitation options,
+and industry engagement and commercialisation.
+The Unit convenes an Industrial Advisory Board whose roles include provision of a network of
+contacts, assisting with research collaborations, and advising on commercialisation and impact
+activities. Chaired by Drew Bryce (Bluebox Aviation Systems Ltd.), it has members from IBM,
+NCR, ScotlandIS, Edesix, Contact Engine, and Circle IT. The Unit also engages with companies
+involved in the School’s Graduate Apprenticeship work-based degree programmes, which include
+a degree in software development.
+1.5 Open Research Environment
+Significant progress towards an open research environment has been made, leveraging UoD’s
+Library and Learning Centre (LLC) and Discovery Repository to ensure open access compliance.
+Standard practice for the Unit is to deposit all research publications, including those not in scope of
+REF policy, in this repository. Staff serve on editorial boards of open access journals (4.4).
+LLC advises on data management planning and compliance with funders’ open data policies.
+Datasets arising from the Unit’s research have been published (with DOIs) as open data,
+sometimes where this was not a requirement, e.g. 50 Salads for evaluation of activity recognition
+algorithms, Recorded Observation in Care Homes from the BESiDE project, plant-soil data from
+the Grow Observatory European citizen science project. HCC made workshop material and
+software associated with ACM CHI publications available (CC BY-SA 4.0). All data published by
+the Unit has been published using CC-BY licenses, facilitating re-use.
+ARG-tech’s open infrastructure for hosting and managing argumentation datasets (AIFdb,
+www.aifdb.org) has been used to develop corpora by teams in France, Germany, Poland, Spain,
+Portugal, the Netherlands, Russia and the US. As a result it supports the world’s largest collection
+of argumentation datasets. With metadata and permalink guarantees in place, the infrastructure
+aims to mint its own DOIs. ARG-tech software includes the openly accessible Argument Mining
+Framework (amf.arg.tech), argument translation and evaluation web services (ws.arg.tech), and
+the world’s most widely used argument analysis tools: OVA (ova.arg.tech) with over 100,000 users
+in 80 countries (Google analytics). Most components are released LGPL or CC-BY-SA, with
+derivatives then developed, e.g. of OVA at University of Trier and of AIFdb at Dstl.
+1.6 Research integrity
+The School has a Research Integrity Lead, supported by a Deputy. They are responsible for
+promoting a culture of research integrity in the School and provide (i) an independent point of
+contact for staff and research students outside their immediate research environment, (ii) impartial
+advice on responsible conduct of research, and (iii) advice on making misconduct allegations.
+Research staff and students are provided with online video-based training in Responsible and
+Ethical Practice in Research and Publication which is mandatory for research students and new
+supervisors. Additional workshops from an external trainer are provided by UoD’s Organisational
+and Professional Development (OPD) unit. Ethical review and approval of non-clinical research
+involving human participants proposed by staff and students is overseen by the School Research
+                                                                                                 Page 5
+
+
+Unit-level environment template (REF5b)
+Ethics Committee. It reports to the University Research Ethics Committee, which provides
+oversight, monitoring and guidance.
+  2. People
+2.1 Staffing strategy and staff development
+In addition to the 13.5 FTE returned staff, UoA11’s wider research community includes research
+assistants, research students, technical support, and staff who engage with research to inform
+teaching.
+Computing is committed to recruiting researchers with outstanding research track records and
+potential for achievement at the highest level. The Unit recruited from high profile international
+institutions such as ETH Zurich, Chapel Hill North Carolina, and CTU Prague. Appointment of
+Magerand (2019) to CVIP, Crabb (2018) and Rough (2020) to HCC, and Lawrence (2019) and
+Visser (2019) to ARG-tech, helped maintain or build capacity in those clusters. Janjic (2019) was
+recruited to strengthen capacity in data science, working across clusters, especially around
+parallelism and medical big data. Fiadeiro (2019), who researches formal software system
+modelling and analysis, was appointed as Dean of the School of Science & Engineering.
+Demographic profile is well balanced after healthy recent intake of early career academics, thereby
+supporting succession planning. Five professors (distributed across clusters, one of whom is
+Dean), two senior lecturers, and seven lecturers make up the Category A staff, all of whom are on
+permanent contracts. The age profile is 20-29: 7%, 30-39: 36%, 40-49: 21%, 50-59: 29%, >60: 7%.
+Strategy for recruitment and growth is aligned with clusters, allowing for cross-discipline
+appointments. New teaching programmes will enable expansion following this REF period. HCC
+has already grown by a further 2 FTE since the REF census date with the appointment of a Senior
+Lecturer and a Lecturer (both on Teaching & Research contracts) in Assistive Technology. A new
+appointment (1 FTE) in networks and sensors is also being made.
+The Associate Dean for Research sits on all shortlisting and appointment panels for roles that
+include significant research responsibilities. The appointment process usually runs over two days
+to ensure candidates interact with staff in relevant clusters and become familiar with the research
+structure before interview.
+All research active academic staff undergo an Annual Research Review, in addition to the annual
+Objective Setting and Review process. These supportive processes prompt reflection and
+guidance regarding research goals, achievements and challenges. Given multiple new academic
+staff, mentoring and development are critical for the Unit. Early Career Researchers (ECRs) are
+provided with a tailored programme of support to prepare them for leadership and are assigned a
+mentor (a senior academic in an aligned research area) whom they meet regularly. They are also
+enrolled on postgraduate training for teaching and learning in Higher Education. The Unit is
+committed to the Concordat to Support the Career Development of Researchers. Its staff benefit
+from UoD’s researcher development programme including courses mapped to the Vitae
+Researcher Development Framework.
+Senior staff provide mock panels and pre-reviewing of proposal drafts/rebuttals. Staff who have
+held fellowships mentor new applicants during fellowship proposal drafting. Staff are regularly
+briefed on appropriate funding opportunities using RESEARCHconnect. Individual staff research
+activities, such as travel and networking, are supported at School level by a Research Fund
+                                                                                                Page 6
+
+
+Unit-level environment template (REF5b)
+approved by the Research Committee, with priority given to ECRs. All staff align their research
+interests with at least one research cluster, and thereby become incorporated in group activities
+(e.g., reading groups, postgraduate supervision, group funding applications). The Workload
+Allocation Model protects research time; newly appointed academic staff on teaching and research
+contracts are allocated reduced teaching workloads. Cluster Lead roles are recognised in the
+model, as is PGR supervision, time on external research projects and impact generating activities
+such as consultancy and service work, meaning that the teaching and non-research project-
+supervision load is balanced across all staff taking into account these research commitments.
+These come on top of a baseline research allocation to support generation of new avenues of
+research and strong contribution to the wider academic community.
+UoD sabbatical leave may be granted to staff who have served three years or more, at the rate of
+one semester per three years of service. Staff are encouraged to fund research sabbaticals
+through external funding. Reed secured £40k funding as part of DFG’s Cluster of Excellence in the
+Politics of Inequality for a 5-month visiting senior fellowship at University of Konstanz. McKillop
+(Research Assistant) spent a month at University of Göttingen furthering collaboration with political
+scientist Gold; post-doc Snaith made extended visits to Roessingh Research & Development in the
+Netherlands.
+2.2 Research students
+All PhD students are provided with computer equipment and individual desk space in the most
+relevant lab. Privileges they share with staff include 24-hour access and a shared staff common
+room. They are welcome at Computing staff meetings. PhD students are expected to contribute to
+regular cluster and project meetings and encouraged to interact in a spirit of collaboration and
+sharing with other students and researchers. They often assist with supervision of MSc and
+undergraduate projects related to their research.
+UoD procedures and practices for postgraduate research are supplemented by the School’s own
+Postgraduate Research Guide. All doctoral students are allocated two supervisors with further
+supervision from collaborating academics in the case of interdisciplinary research. Each student
+meets twice a year with two members of academic staff other than their supervisors as part of the
+Thesis Monitoring Committee programme to discuss achievements, goals, and individual
+development plans. This provides an opportunity to raise concerns (e.g. regarding supervision or
+access to resources) and contributes to a documented portfolio of progress. Students can also
+seek guidance from the Computing PGR Lead and the School’s PGR Director (who is a member of
+the board of the UoD Doctoral Academy). Students transfer formally to the PhD programme after
+their first year, having satisfied an examining committee based on a report (including plan),
+presentation, mandatory research integrity training, and oral examination.
+All research students are encouraged to present at high quality international and national
+conferences, and to attend relevant summer schools. Financial support for this is provided by the
+School’s Research Fund and the Discipline of Computing’s budget. Students benefit from the
+environment provided by SICSA with its seminars, masterclasses, conferences and funding
+opportunities, e.g. there have been 36 UoD PhD student attendees at SICSA PhD Conferences
+(2014-19), a student representative on its organising committee, and SICSA summer school
+sponsorship and bursary support. OPD’s Researcher Development Programme provides training
+suitable for Computing PhD students including workshops covering PhD Launchpad (year 1),
+Making Progress in Your PhD (year 2), Finish Up, Move on (year 3), Career Options, Researcher
+Wellbeing and Mental Health, EDI, and research ethics. Bespoke training (e.g. in statistics) and
+                                                                                                 Page 7
+
+
+Unit-level environment template (REF5b)
+graduate school events provide further opportunities for development. Research clusters run
+regular journal clubs, at which staff and students meet to review research together.
+The School supports an annual two-day Computing PhD Symposium organised and chaired by
+PhD students with two senior academics acting as advisors. It features student-edited proceedings
+and student-selected keynotes/panels on, e.g. open data, publishing, and ‘life after the viva’. All
+students are required to participate each year by reviewing extended abstracts and giving a talk on
+their research. Annual prizes are given to reward the best first-year student presentation and the
+best overall PhD student.
+The quality of PhD education is evidenced by external awards to students, e.g. Best Student Paper
+Awards at European Conference on Argumentation (Visser, 2015) and Computational Models of
+Argument (Duthie, 2016), EPSRC UK ICT Pioneers Finalist (Stein, 2014). PhD students are
+encouraged to participate in public engagement activities and spend time as research interns or
+visiting researchers in companies or labs elsewhere to broaden their experience, e.g. Duthie and
+McKillop visited University of Konstanz; Akbar was research intern at Toshiba Medical
+Visualization Systems; Gemechu was appointed Industrial Fellow in Residence, funded by Contact
+Engine. The quality of PhD training provided by staff is evidenced by their invited contributions to
+doctoral training and summer schools (4.3).
+The Unit strives to balance retaining talented local graduates and attracting students from
+elsewhere. UoD receives an EPSRC Doctoral Training Award used to competitively fund
+studentships in the School, in some cases with staff securing matched funding externally.
+Studentships are also funded by industry and other organisations (1.2).
+2.3 Equality, Diversity and Inclusion (EDI)
+The School is committed to the Athena SWAN charter principles, holds an Athena SWAN Bronze
+Award (since 2018) and is working towards a Silver Award application in 2022. Its Athena SWAN
+self-assessment committee, led by Computing academic Murray, focuses on actions that maintain
+and enhance inclusive culture and collegiate working practices. School and University-level EDI
+and Athena SWAN action plans guide ongoing improvements in support of all staff and students;
+these are informed by the University's biennial staff survey.
+Staff in the Unit can access a range of University work-life balance policies including coverage for
+those with changed circumstances, compassionate leave, parental leave (including shared),
+adoption/fostering leave, carer's leave, and fertility treatment leave. Computing’s Discipline Lead
+maintains regular contact with staff during their leave. Discussions related to return to work,
+including requests for reductions in FTE, are held prior to return in line with UoD’s Flexible Working
+Policy. The Unit can be flexible in transitioning staff to/from part-time working; job sharing and
+flexible/phased retirement are also supported. During lockdown, staff and research students were
+supported to work effectively from home, and computational resources were fully accessible to
+support remote working on research. Voluntary declaration of any mitigating circumstances is part
+of the standard academic promotions process.
+The Unit appoints staff and recruits research students on merit alone and is committed to equality
+and diversity. Staff appointing and shortlisting panels are gender balanced. Online training in
+equality and diversity is mandatory for staff and includes modules on Diversity in the Workplace,
+Disability, Diversity in Learning and Teaching, Stress in the Workplace, and A Manager’s Guide to
+Stress. Additionally, a Recruitment and Selection module is taken by staff involved in those
+activities. Unconscious bias training sessions are available to all in the School. A full-time
+                                                                                                 Page 8
+
+
+Unit-level environment template (REF5b)
+counsellor for mental-health issues has recently been appointed and has supported staff and
+students with caring responsibilities and other needs during the Covid-19 pandemic. Harassment
+advisers are available for staff and students.
+Staff from the Unit organised and hosted the SICSA Women in Computing Research event
+(Pease, Komendantskaya, 2016). Pease is joint leader for the SICSA theme Supporting and
+Recruiting Women in Computing. Strong female role models in the Unit during the period include
+Computing’s Discipline Lead (Waller, OBE) who was born with cerebral palsy, and the President of
+the ACM (Hanson, FRSE).
+2.4 Preparation of the REF Submission
+In preparing this submission, the Unit’s Planning Group was guided by the University’s REF 2021
+Code of Practice, framing its decision-making process in the context of the principles of equality,
+diversity, and inclusion. The Planning Group made decisions on outputs and attributions in a
+manner that aimed to maximise the overall quality profile, based on a thorough process of internal
+and external evaluation. All staff were invited to propose potential Impact Case Studies. The
+submitted Impact Case Studies reflect the Planning Group’s view of the strongest demonstrable
+research impacts in the reporting period. All Planning Group members completed EDI and
+Information Security training modules, and REF-specific training in Equality & Diversity including
+Unconscious Bias training, prior to the decision-making process.
+ 3. Income, infrastructure and facilities
+3.1 Research Funding
+The Unit attracted £11.45M in research funding over the period. In addition to published outputs,
+this funding led to significant impact, including enabling aspects of the Impact Case Studies.
+Specifically, research underpinning the PANGU case study was supported by the European Space
+Agency (ESA) PANGU-4: Planet and Asteroid Natural Scene Generation Utility Tool Enhancement
+project (Grant to UoD £494k. Martin, Parkes). The EPSRC-funded project Argument Mining
+(£680k. Sole investigator: Reed) underpinned the Argument Technology case study. Further
+funding for ARG-tech included £671k from Dstl (Mar 2019-Mar 2021) on applications of argument
+technology to intelligence analysis. Academics in the HCC and CVIP clusters led further major
+EPSRC-funded projects:
+    •    ACE-LP: Augmenting Communication using Environmental Data-driven Language
+         Prediction. £1M. Waller (PI), McKenna, Zhang. Partners: University of Cambridge
+         (Kristensson), Arria NLG Ltd, Edesix Ltd, Scope, Capability Scotland, Communication
+         Matters, National Museum of Scotland, Ninewells Hospital & Medical School, Sensory
+         Software International Ltd, Tobii Dynavox. (Ranked number one at the ‘User Interaction
+         with ICT’ prioritisation panel).
+    •    Multi-modal retinal biomarkers for vascular dementia. £923k, Unit income £313k. Trucco
+         (PI), McKenna. Collaborators: UoD School of Medicine (Doney), Edinburgh Centre for
+         Clinical Brain Sciences and Centre for Cognitive Ageing & Cognitive Epidemiology (Deary,
+         Dhillon, Doubal, MacGillivray, Wardlaw).
+    •    BESiDE: Built Environment for Social Inclusion in the Digital Economy. £1.3M. Hanson (PI),
+         Reed. Collaborators: UoD Art & Design (Lim, White), UoD School of Medicine (McMurdo),
+         Newcastle University (Watson). Partners: Balhousie Care Group, BUPA, Collective
+         Architecture Ltd, Healthfield Residential Home Ltd.
+                                                                                               Page 9
+
+
+Unit-level environment template (REF5b)
+Grants obtained as part of major international consortia included:
+    •   COUCH: Council of Coaches. EU H2020. Grant to UoD: £416k. Pease. Collaborators: UoD
+        School of Medicine (Conway, Wake). Partners: University of Twente, Roessingh Research
+        & Development BV, Danish Board of Technology Foundation, University Pierre and Marie
+        Curie, Polytechnic University of Valencia, Innovation Sprint.
+    •   INSPIRED: India-Scotland Partnership for Precision Medicine in Diabetes. NIHR Global
+        Health Research Unit (£7M, PI: Colin Palmer, School of Medicine). Trucco leads the
+        Retinome package. Income to Unit: £852k.
+Sustainable research income generation will target interdisciplinary, challenge-based research in
+areas where the Unit is well placed to lead or provide critical input. For example, CVIP will leverage
+opportunities provided by the scale and nature of medical data resources available through
+collaborations in Tayside (e.g. GoDarts: Genetics of Diabetes Audit and Research; SHARE:
+Scottish Health Research Register) and strong links nationally (UK Biobank) and internationally
+(e.g. 0.5M patients in India via INSPIRED), building on extensive collaborative networks and long
+experience of interdisciplinary biomedical research to target research questions that require large-
+scale data and high quality consortia. As a current example, Trucco is computing investigator on
+the UoD-led PICTURES programme (2019-2024), a £3.8M consortium with the Universities of
+Edinburgh and Abertay, NHS Scotland, and industry, funded through MRC/EPSRC as part of
+HDR-UK. ARG-tech will grow funding based on its reputation for techniques in argument mining
+(surveyed by Lawrence and Reed in Computational Linguistics, 2020) and its applications
+including intelligence analysis.
+A key target for 2021-23 is to secure funding for ECRs; submission of a New Investigator Award
+proposal is a minimum expectation for ECRs (Pease won her EPSRC First Grant during the
+period), and applications for externally-funded personal Fellowship support are strongly
+encouraged. Internal peer review of proposals and responses to reviewers, as well as mock
+interview panels, involving fellowship holders, and Research Council panel and college members,
+together with proposal development support from Research & Innovation Services, will help ensure
+bids of the highest quality. There will be a focus on fellowship funding at all levels including UKRI
+and charitable sources.
+The Unit will take opportunities with colleagues and collaborating institutions, working with the
+Doctoral Academy, to bid for large scale Doctoral Training initiatives. It will harness its Industrial
+Advisory Board in planning how to better marshal and leverage its many successful commercial
+collaborations, to win service and industrial research funds, and to enhance its impact.
+3.2 Organisational and Operational Infrastructure
+Human Infrastructure
+Research clusters deliver the strategic research directions of the School. They inform staff
+recruitment, coordinate ECR mentoring and training, organise seminars, and coordinate peer-
+review of grant applications and mock-interviews for fellowship applications, drawing on expertise
+across UoD. They also serve as interfaces with other schools in the University for inter- or multi-
+disciplinary research.
+Management structures in which the Unit operates were reorganised in 2015 with formation of the
+School of Science and Engineering. Management and monitoring of research and impact, and
+sharing of best practice, are now coordinated by the School Research & Knowledge Exchange
+Committee whose membership includes the Computing Research Lead and PGR Lead. It is
+                                                                                                Page 10
+
+
+Unit-level environment template (REF5b)
+chaired by the Associate Dean for Research who is a member of the University Research &
+Knowledge Exchange Committee as well as other groups convened by the Vice-Principal
+(Research) for defining or monitoring implementation of University-wide strategic objectives. The
+Associate Dean meets staff individually for monitoring, planning, and scoping of opportunities as
+part of the Annual Research Review process. Together with target setting at Objective Setting and
+Review meetings, and research cluster meetings, this helps keep ambition levels high for the Unit’s
+research activities, environment, outputs, and impact.
+The School Research Administrative Lead coordinates a team supporting the research-driven
+culture. This includes (i) collating and analysing data relevant to Annual Research Reviews and
+other research activity; (ii) supporting adherence to Open Access and Open Data policies; (iii)
+disseminating research funding opportunities using RESEARCHconnect; (iv) ensuring effective
+support is in place for costing research proposals (pre-award); and (v) liaising with Research
+Finance Services over creation of grant administration structures and cost centres (post-award).
+Physical and Digital Infrastructure
+The Queen Mother Building (QMB) was purpose-built for Computing and designed to be fully
+accessible. Space in QMB is organised to co-locate cluster members, achieving a working
+environment, in which cognate researchers, from PhD students to professorial staff, are in close
+physical proximity, facilitating collaboration. QMB was designed to allow a fourth floor to be added,
+a cost-effective option for expansion that would maintain co-location and cohesion.
+The QMB received further investment during the period. It has been part of a university-wide £7M
+network upgrade project delivering a gigabit network to the desktop. Additionally, a dedicated
+firewall solution that caters for Computing’s requirements has been implemented to satisfy Cyber
+Essentials requirements. Furthermore, the server infrastructure has seen hardware upgrades with
+some storage being transferred from traditional magnetic HDD to SSD technology at a cost of
+around £8k. Overall maintenance and improvement of services such as web and database hosting
+for the research portfolio, and new investment into GPU-driven processing, cost approximately
+£50k. The Unit’s research is currently aided by a School support team of 3 FTE administrative and
+1 FTE specialist support staff who work closely with centralised IT support (UoDIT).
+Computing operates a hardware/software investment cycle to ensure staff have up-to-date
+resources. Software requirements are also gathered on a continuous basis to support research. All
+research students and staff have access to a wide range of software including Visual Studio
+Enterprise, MATLAB (with over 40 toolboxes), CUDA and Python in-house. Computing has
+invested in shared GPU servers and desktops that have greatly facilitated deep learning research
+by staff and students in CVIP and ARG-tech with support from Nvidia and from research funds.
+The loan of a Nvidia DGX server and storage solution was an example of Nvidia’s support. Staff
+can also access the University’s centrally supported High-Performance Computing facilities.
+The QMB User Testing Lab has been renovated, providing state-of-the-art AV recording and eye-
+tracking capabilities within an HCI testing environment, and HCC has set up dedicated prototyping
+space for Virtual/Augmented Reality research with equipment such as HTC Vive Pro, Microsoft
+Hololens, and Sony Xperia Touch (c. £50k investment). QMB houses the User Centre, a unique
+resource hosting user groups who meet regularly to learn about technology and take part in
+research (4.2).
+The Unit benefits from investment across UoD to support its interdisciplinary strengths. Dundee
+Interdisciplinary and Innovation Forum events included Artificial Intelligence, Health Informatics,
+                                                                                              Page 11
+
+
+Unit-level environment template (REF5b)
+and Health and Wellbeing: Ageing Society. The University’s Health Informatics Centre (HIC) has
+an ISO27001 certified environment, part of a federated Scottish network of Safe Havens, and
+develops a Research Data Management Platform to manage, anonymise, and extract images
+linked to health data, to support over 1.5 Petabytes of routinely collected radiological imaging data.
+CVIP is collaborating in this effort and will continue to work with HIC to leverage this infrastructure
+to develop algorithms for diagnostics, risk prediction, and discovery. CVIP’s research on digital
+pathology benefits from the Tayside Biorepository secure tissue bank.
+  4. Collaboration and contribution to the research base, economy and society
+4.1 Support for and Effectiveness of Research Collaborations and Networks
+Unit staff collaborated productively with UK Universities (e.g. Cambridge, Edinburgh, Newcastle,
+UCL), overseas universities (e.g. Duke, Göttingen, Harvard, Twente) and companies and NGOs.
+Funded industrial collaborations in the REF period include those with the BBC, Roessingh R&D
+BV, OPTOS plc UK, NIDEK Technologies Srl (Italy/Japan), Hellenic Systems Ltd., and Tulip Ltd.
+Exemplars of effective research collaborations and networks not detailed elsewhere in this
+document include the following:
+ARG-tech’s network includes Contact Engine (Reed appointed to Scientific Advisory Board),
+Ombudsman Services, Juralio Ltd. (Reed served as interim CTO), IBM, and the UN. Pease has
+long-term connections and collaborations with the Universities of Edinburgh, Heriot-Watt, Queen
+Mary London, Saarbrücken, Genoa, Cambridge and Oxford, and with Dundee colleagues in
+Medicine (Conway) and Art & Design (Moncur). Further ARG-tech collaborations include the
+Universities of Amsterdam, Utrecht, Southampton, Cardiff, Liverpool, Rutgers, CMU, and MIT.
+CTM, through the European H2020 SERUMS (Securing Medical Data in Smart Patient-Centric
+Healthcare System) project (Janjic), collaborates with University of St Andrews, Universite
+Catholique de Louvian (Belgium), University of Cyprus, IBM, Accenture, Sopra-Steria (UK),
+Software Competence Center Hagenberg (Austria) and two large hospital centres, Zuyderland
+Medisch Centrum (Netherlands) and Fundacio Clinic per a la Recerca Biomedica (Spain). This
+consortium aims to put patients at the centre of future healthcare provision, enhancing personal
+care and quality of treatment, while ensuring trust in security and privacy of confidential data.
+CVIP involvement with the Academic Health Science Partnership, established between UoD and
+NHS Tayside in 2014 to promote translation of University healthcare technologies, has enhanced
+collaboration with NHS clinicians; McKenna and Trucco have funded collaboration with
+dermatology on deep learning for skin lesion diagnosis; in HDR-UK (with UoD Medicine) Trucco
+leads the Advanced machine learning for image analysis theme with University of Edinburgh
+focusing on MRI and clinical risk and outcome associations. The VAMPIRE retinal image analysis
+programme (led by Trucco in long-term partnership with McGillivray at University of Edinburgh)
+has built an extensive network of interdisciplinary collaborators and clinical centres nationally
+(Queen’s University, Belfast Ophthalmic Reading Centre and Centre for Public Health; Ulster
+University; UCL/Moorfields Eye Hospital) and internationally (Duke University; Tufts School of
+Medicine; Harvard Medical School; Centre Hospitalier Universitaire de Grenoble; Universidad del
+Valle, Colombia; Dr Mohan’s Diabetes Speciality Hospitals; Madras Diabetes Research Centre)
+who apply VAMPIRE software and contribute directly or indirectly to the image analysis research.
+HCC collaborates in W3C where Crabb leads on developing Mixed Reality Web Guidelines for
+WCAG3.0. Crabb is a member of the BBC UX Research Partnership, established between BBC
+R&D, UoD, UCL, and the Universities of Bath, Newcastle, Nottingham, and Swansea. Work on
+                                                                                                Page 12
+
+
+Unit-level environment template (REF5b)
+implementation of accessible services has resulted in changes within the iPlayer platform, creating
+international digital impact, as well as in joint publications and BBC White Papers.
+External collaborations are fostered by encouraging incoming visitors as seminar speakers, visiting
+scholars and distinguished visitors funded through external programmes such as SICSA and by
+internal strategic funding. SICSA sponsored the UoD-organised and hosted SICSA Medical Image
+Analysis Workshop in 2015 (McKenna, Trucco, Zhang) to build a network of researchers in
+medical image analysis, further bolstered through the SINAPSE Scottish Imaging network (Image
+Analysis Deputy Lead: Zhang), and helping to raise CVIP’s profile nationally and strengthen
+collaboration, particularly with the University of Edinburgh.
+The Unit has had a continuous flow of international research visitors including exchanges based on
+exchange/travel grants or project grants. It hosted three Distinguished Visiting Fellows
+(competitively awarded through SICSA): Moens (KU Leuven), Carpendale (University of Calgary)
+and Johann (Appalachian State University). The Unit’s seminar series funds visitors largely from
+the UK and Western Europe for short stays, and occasionally longer visits from further afield. ARG-
+tech alone hosted 34 research visitors over the period, nearly all international. Outgoing
+international visiting positions included Trucco’s adjunct professorship at the Chinese Academy of
+Sciences, Ningbo (2016-19) and Reed’s appointments as Visiting Professor, Polish Academy of
+Sciences (Dec 2016-Dec 2017) and Senior Research Fellow, University of Konstanz, DFG Cluster
+of Excellence (Jan-Jun 2020).
+4.2 Relationships with Research Users, Beneficiaries and Audiences to Develop Impact
+End users are involved in most of the Unit’s research from grant application through to impact.
+Projects typically have advisory groups, ensuring relevance to users and beneficiaries, and more
+lasting impact, e.g. the ACE-LP (EPSRC) advisory group drawn from people who use AAC,
+clinicians, charities representing disabled people, and industrial experts. Its central hypothesis was
+that communication rate and experience of people who use Voice Output Communication Aids can
+be improved by leveraging automatically perceived contextual data to inform a probabilistic
+language module. In addition to engaging in research, industry research partners actively took part
+in HCC public engagement with national museums, e.g. More than just computer speech (National
+Museums Scotland, https://vimeo.com/358837456) and Technology Taster Day (V&A Dundee,
+https://vimeo.com/359049317).
+The Unit has a Public Engagement Officer, and the School Deputy Director for Public Engagement
+is from the Unit (Black). All clusters are involved in public engagement. In 2015, Computing, in
+collaboration with Leisure & Culture Dundee and Life Sciences, created a public engagement
+venue: Outer Space|Inner Space (https://aac.dundee.ac.uk/osis/) at the iconic Mills Observatory.
+Computing events hosted there include Ways of Vision (Flatla) and Alien Surfaces (Martin). Outer
+Space|Inner Space created the brands Science Saturdays and Wednesday Wonders, offering
+activities for an established, interested audience of all ages. This will continue to allow the Unit to
+share its work without the need to organise suitable accessible venues. Staff gave outreach talks,
+e.g., at Edinburgh International Science Festival (Pease 2017); Café Science on Computational
+Creativity (Pease 2016) and Voices from Care Homes (McIntyre, Postdoc, 2015); TedX Dundee
+(Trucco 2015); and Dundee Women’s Festival (Waller 2020).
+HCC maintains the User Centre, a collaborative network drawn from “hard to reach” population
+groups, meeting weekly in the QMB, run by users, and with Crabb as academic contact. It includes
+a pool of older computer users from which researchers can recruit participants for user studies; the
+Straight-Talking Group, an active group of adults with complex physical disabilities who use AAC
+                                                                                                Page 13
+
+
+Unit-level environment template (REF5b)
+systems; and the Tap and Talk Aphasia Group which works with former NHS stroke patients
+investigating mainstream iPad apps from an accessibility perspective. User pools are augmented
+by users accessed through clinical partners. They have been involved in multiple projects in UoD
+and elsewhere (e.g. Napier, Robert Gordon, and Newcastle Universities).
+UoD recognises excellence in public engagement through its Stephen Fry awards; commendations
+for work that excelled at engaging audiences with research were awarded to ARG-tech (Reed et
+al., 2018, 2019) for “argumentation technology and the BBC”, for Outer Space|Inner Space (2017),
+and for engaged researcher of the year (Black, HCC 2019). As an example of media coverage, the
+ACE-LP EPSRC project featured on BBC Click with a live computer vision and AAC demo and
+interview in front of a V&A audience (2020).
+Staff contribute to policy debate and provide commentary on industry research. For example, Reed
+was invited speaker at the Holyrood Communications' Effective Digital Communication event
+(2018), contributed to Scientific Briefing on “Fake News” at the Parliamentary & Scientific
+Committee, Palace of Westminster (2019), and to an All-Party Parliamentary Group on AI (2020).
+McKenna and Trucco have both participated in scoping events for Toshiba/Canon as invited
+experts (2015, 2019). Reed was invited as sole academic commentator at IBM's Project Debater
+launch (San Francisco, 2018).
+STAR-Dundee, a 2002 spin-out from the Unit, continues to work with UoD and won Design and
+Innovation Business of the Year at the Courier Business Awards 2017. The Enterprise in Education
+award was won by My Diabetes My Way, Scotland’s interactive website and mobile app for people
+with diabetes, impact arising from user-centred design and health informatics research supervised
+by Waller in collaboration with the School of Medicine. It allows all 310k people with diabetes in
+Scotland to support self-management and access clinical records, is evidenced to improve clinical
+outcomes and quality of life with cost savings of £230 for £33 invested (independently validated)
+and was embedded in the Scottish Diabetes Improvement Plan and eHealth Strategy. It led to a
+2017 spin-out (MyWay Digital Health) now employing 25 staff.
+Consultancy is an important part of the Unit’s research activity as it provides a means to deliver
+impact and establish commercial relationships. Examples are Reed’s work as CTO for Juralio Ltd
+(2013) and as a member of Contact Engine Ltd.’s AI Board (2018-) whose CEO is an Honorary
+Professor in ARG-tech.
+4.3 Contributions to Sustainability of the Discipline
+Apart from all the research activities already mentioned that help to build and sustain the discipline,
+staff contribute by engaging with external PhD training. Nationally, for example, Computing hosted
+the SICSA PhD Conference 2017, the HCI Camp one-week summer school 2019 (Co-Chair:
+Crabb), and the first Summer School on Argumentation (SSA-2014) with Pease contributing an
+invited talk. Internationally, Pease co-chaired the ICCC-2017 Doctoral Symposium and was an
+invited ICCC-2018 PhD panellist. Reed gave invited tutorials at the International Graduate School
+on Argument & Rhetoric (IGSAR-2014), and the Swiss Universities Doctoral Programme Language
+& Cognition PhD Workshop on Linguistic & Corpus Perspectives on Argumentative Discourse
+(Fribourg 2019), an invited lecture at the Argupolis doctoral programme (Lugano 2014) and taught
+a course (with Budzynska) at ESSLLI-2017 European Summer School. Pease was invited speaker
+at the Summer School on Creative Cognition (Budapest 2017). Trucco gave an invited 3-day
+course on retinal image analysis at Universidad del Valle, Colombia (2015) and was invited lecturer
+at the Computer Vision summer school, Lappeenranta University (2018). Reed gave argument
+                                                                                              Page 14
+
+
+Unit-level environment template (REF5b)
+mining tutorials at ACL-2016 and ACL-2019. UoD is an active contributor to the SICSA pool,
+having provided its Director of Education and committee members throughout the period.
+4.4 Selected indicators of influence, contributions to and recognition by research base
+Fellowships, Honours
+OBE for services to people with Complex Communication Needs, 2016 New Year’s Hons. (Waller)
+Fellow, International Association for Pattern Recognition (FIAPR) 2016 (Trucco)
+Elected member of Academia Europaea 2017 (Fiadeiro)
+Honorary Fellowship, Royal College of Speech and Language Therapists, 2017 (Waller)
+Visiting Fellow, Isaac Newton Institute for Mathematical Sciences, Big Proof 2017 (Pease)
+Distinguished Fellow, British Machine Vision Association (BMVA) 2020 (Trucco)
+Editorial Board Memberships, Programme Chairs (Open Access journals in italics)
+Argument & Computation (Reed, -2015, Coordinating Editor), ACM TACCESS (Waller), Applicable
+Analysis & Discrete Mathematics (Edwards), Applied Intelligence (McKenna), Argumentation and
+Advocacy (Reed, -2016), Electronic Proceedings Theoretical Computer Science (Fiadeiro),
+Informal Logic (Reed, -2017), Information Processing Letters (Fiadeiro), J. Computational
+Creativity (Pease), J. Imaging (McKenna), J. Modelling in Ophthalmology (Trucco), J. Public
+Deliberation (Reed, -2016), Machine Vision & Applications (McKenna), SN Computer Science
+(Fiadeiro). Selected Guest Editorships: Computerized Medical Imaging and Graphics, 2017
+(Trucco), J. Diabetes Science & Technology, 2016 (Trucco), Philosophy & Technology, 2017
+(Reed), Science of Computer Programming, 2014, 2015 (Fiadeiro). Programme co-chairs:
+Brazilian Symposium on Formal Methods (SBMF-2017) (Fiadeiro), European Computer Science
+Summit (ECSS-2017) (Fiadeiro), Int Conf on Computational Creativity (ICCC-2017) (Pease).
+Research Council Membership, Grant Committees
+EPSRC College (Full: Fiadeiro, McKenna, Reed, Trucco, Hanson, Newell; Associate: Waller);
+Committee 25, French Research Council/ANR (Fiadeiro); Carnegie Trust Assessors (McKenna,
+Reed, Trucco); BBSRC TRDF Panels 2014/2016/2018 (McKenna); Academy of Finland Review
+Panel, Japan-Finland Call 2015 (McKenna).
+International Prizes (Selected)
+Best Paper Awards CHI-2015 (Flatla) CHI-2016 (Flatla), CHI-2020 (Waller)
+Winner, Endoscopic Vision Challenge Sub-challenges on Polyp Localisation and Early Barret's
+Cancer Detection, MICCAI-2015 (Zhang, Trucco, McKenna)
+Winner, Performance Evaluation of Indirect Immunofluorescence Image Analysis Systems (both
+tasks), I3A@ICPR-2014 (McKenna, Zhang)
+Winner, White Matter Hyperintensities Segmentation Challenge, MICCAI-2017 (Zhang)
+International Keynotes and Invited Talks (Selected)
+International Conference on Agents and AI, Lisbon 2015 (Reed)
+Cultures of Mathematics, New Delhi 2015 (Pease)
+MICCAI Workshop Keynotes: CARE-2015, OMIA-2016, LABEL-2017 (Trucco)
+Big Data, Reasoning and Decision Making (BraD-2017), Zhejiang University (Reed)
+Public Policy and Good Governance (CPG) Conference on Governing the Future (German-
+Southeast Asian Center of Excellence) Bangkok 2019 (Reed)
+Body of Knowledge: Art and Embodied Cognition, Melbourne 2019 (Waller)
+Image-based Systems Biology (IbSB), Jena 2014 (McKenna)
+AAAS Symposium Massively Collaborative Global Research in Maths & Science 2016 (Pease)
+DFG funding programme launch (Schwerpunktprogram) RATIO, Bielefeld 2018 (Reed)
+                                                                                          Page 15
+
+
+Unit-level environment template (REF5b)
+CVPR Workshop on Medical Computer Vision & Health Informatics, 2019 (Trucco)
+Invited Winter Lecture, Int J Language and Communication Disorders 2017 (Waller)
+Schloss Dagsthul Workshops: Present & Future of Formal Argumentation, Debating Technologies,
+2015 (Reed).
+                                                                                    Page 16

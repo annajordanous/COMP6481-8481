@@ -1,0 +1,747 @@
+Unit-level environment template (REF5b)
+ Institution: Nottingham Trent University (NTU)
+ Unit of Assessment: B11 - Computer Science and Informatics
+ 1. Unit context and structure, research and impact strategy
+ The Computer Science and Informatics Unit of Assessment (UoA) at NTU is a highly
+ interdisciplinary UoA that delivers theoretically grounded and determinedly impactful research
+ that enables us to bring multiple computer science approaches to bear on issues of societal
+ concern. Our research coalesces under the theme of ‘Enabling Digital Technology’ and extends
+ to the following areas: health and wellbeing; physical rehabilitation; care of the elderly; education
+ through personalised learning systems; and intelligent transportation systems. Our
+ collaborations involve industrial partners across 18 countries, sharing our vision of bringing
+ together advanced technologies and digital systems to create smart innovative services and
+ intelligent business models for our end-user communities.
+ Building on the strengths documented in RAE2001/2008 and REF2014, we have created a vital
+ and sustainable research environment with significant levels of growth. Notable achievements
+ for this UoA include:
+         grant income spend has increased to £3.06M in REF2021 from £1.26M in REF2014;
+         PhD completions have more than doubled to 34 in REF2021 compared to 14 in
+          REF2014; and
+         414 outputs have been published with 84.8% in Q1 journals by SNIP and 62% with
+          international co-authorship (Scopus/SciVal, 2014-2020).
+ 1.1 The UoA’s research structures
+ Professor David Brown is the Director of the UoA’s Computing and Informatics Research Centre
+ (CIRC), which is based within NTU’s School of Science and Technology (SST). Alongside
+ Brown are Dr Colin Wilmott as Research Coordinator and Deputy Director and Professor
+ Ahmad Lotfi as Head of the Department of Computer Science. Research leadership is provided
+ by the Centre’s Research Advisory Group, which is responsible for developing and implementing
+ our research strategy. CIRC comprises 14 research academics, 2 independent research fellows,
+ 35 post-doctoral and PhD researchers across four Research Groups: Interactive Systems (IS);
+ Computational Neuroscience and Cognitive Robotics (CNCR); Computational Intelligence and
+ Applications (CIA); and, Network Infrastructures, Computing and Cyber Security (NICCS). Each
+ Research Group is led by two senior researchers (e.g., a professor and an associate professor)
+ to ensure expertise and sustainability. Since 2014, NTU has invested in an Associate Dean for
+ Research (ADR) in every academic school who mentors group leads. As a member of both the
+ University Research Committee and the University Leadership Team, this role links the UoA
+ directly to the strategic decision making of the University. SST provides a Postgraduate
+ Researcher Tutor who supports PhD student recruitment, selection, and training, as well as
+ supervisor training. CIRC also engages with NTU’s five strategic research themes (see REF5a)
+ which bring together researchers from across disciplines to address key societal challenges as
+ outlined in Section 1.3 on interdisciplinarity.
+                           Figure 1: Research Group structure within the UoA
+                                                                                                Page 1
+
+
+Unit-level environment template (REF5b)
+ 1.2 Research and Impact strategy
+ 1.2.1 Achievement of REF2014 research strategy
+ The UoA reviewed its research objectives at the start of this REF period before embarking on an
+ ambitious strategy to realise our Enabling Digital Technology vision. Highlight metrics include:
+      £3.06M in grant income spend, representing a 155% increase over REF 2014;
+      34 PhD completions, representing a 143% growth;
+      414 scholarly outputs co-authored by UoA members, with 84.8% in Q1 journals by SNIP
+         and the majority having at least one international co-author (Scopus/SciVal 2014-2020);
+         and
+      15 keynote speeches, 4 visiting professorships, participation on 20 journal editorial
+         boards, 5 conference prizes, hosting of 6 international conferences and membership of
+         16 research funding panels.
+ Our strategy was to enhance the quality of colleagues’ contributions in world class facilities, thus
+ growing our portfolio of grant income from high-quality sources. Strategic investments in people,
+ buildings and equipment, and utilisation of enlarged key University teams (Section 3.2), including
+ Research Operations (RO) and Research and Strategic Partnership Development (RSPD), have
+ driven a step-change in the UoA’s research environment since REF2014. In REF2014 (REF5),
+ we undertook:
+     1.  To address societal needs with ubiquitous computing research, increase user
+         engagement, diversify our funding portfolio, and grow our research base
+   This REF period has seen the formation of CIRC where our Enabling Digital Technology vision
+   has focused on applying computational research to areas of societal concern (Sections 1.2.2
+   and 1.2.3).This has inspired a virtuous circle from innovation through to implementation, user
+   engagement and impact, leading directly to high levels of grant capture from prestigious
+   sources.
+              Table 1: Data on income and PhD completions
+                                                      REF2014             2014-2021
+                 Grant Income Spend                    £1.2M               £3.06M
+                 PhD Completions                         14                  34
+     2.  To conduct interdisciplinary research and partnerships
+  Investments in state-of the-art, interdisciplinary research facilities have pioneered new research
+  areas and facilitated interdisciplinary research. These include: the £11M Interdisciplinary
+  Science and Technology (ISTeC) facility for integrating computational techniques with cognate
+  disciplines for applications to the real-world; and the £0.5M SmartNTU House facility (Section
+  3.3). Examples of consequent interdisciplinary research encompass CNCR’s SiElegans project
+  and NICCS’s REMOURBAN project involving 21 partners (Section 3.1). More recent
+  investments, such as with Medical Technology Innovation Facility (MTIF) and Smart Wireless
+  Innovation Facility (SWIFt) continue this trend of interdisciplinary research into the next REF
+  cycle (Section 3.3).
+     3.  To recruit and nurture excellent research staff and students
+  Investment has strengthened senior leadership in CIRC with new professors and associate
+  professors. Given sector challenges in recruitment, the development of early career
+  researchers has been supported through two appointments under the SST Early Career
+  Independent Research Fellowship (IRF) Scheme and through four academic associates who
+  conduct PhD studies alongside a part-time teaching position (Section 2).
+                                                                                               Page 2
+
+
+Unit-level environment template (REF5b)
+     4.    To increase our national and international profile for research excellence
+   Our external collaboration evidences our increased profile with nearly three quarters of our
+   outputs having external collaborators. Staff in CIRC are now involved in a range of high-profile
+   activities beyond NTU, from H2020 grant panel memberships to visiting professorships and
+   delivering international summer schools in quantum computing (Section 4).
+   5.      To improve our external standing in research strength and quality
+   CIRC staff have maintained a record of publication in high-quality journals and the highest
+   profile academic conferences, including IEEE Transactions on Fuzzy Systems, IEEE Internet of
+   Things Journal, and IEEE Transactions on Systems, Man and Cybernetics.
+ 1.2.2 Achievement of REF2014 impact strategy
+ In REF2014 (REF3a), we aimed to: target wider engagement with end user communities;
+ influence government via our Research Centres, conferences, KTNs and equivalent networks;
+ embed the value and importance of impact into the foundations of our work; and engage in
+ consultancy and partnerships. These aims have been achieved across a range of initiatives set
+ out below.
+ We have developed impact with a range of end-user communities across all our research
+ activities (Section 4.2). This is exemplified by service users from Nottinghamshire MIND being
+ central to Brown’s EPSRC project to enable improved perceptions of mental wellbeing by
+ networked smart textile objects. Brown also engaged stakeholders across Europe, through two
+ H2020 funded projects (No One Left Behind and MaTHSiS), to improve the inclusion of students
+ with learning disabilities through accessible and adaptive learning technologies (REF3). As a
+ consequence, he has influenced government through giving oral evidence to the House of
+ Commons Education Select Committee in 2019 on the future of AI in the classroom (Section
+ 4.3). We have developed new end-user engagement through the award of three Innovate UK
+ projects; of particular note is Kanjo’s eNurture Project (TangToys) in partnership with the
+ Nottingham Schools’ Trust and the Ann Craft Trust.
+ In recognising the value and importance of impact, we have developed an extensive network of
+ partnerships within financial services, transportation, energy and education sectors with which
+ we have facilitated sustained knowledge transfer through explorations of new products and
+ services. Examples include Kanjo’s match-funded studentship with The Manufacturing
+ Technology Centre (Section 2.2.1), Peytchev’s REMOURBAN project involving 21 partners,
+ including local authorities and companies, and Wilmott’s quantum computing work with UK-
+ based banking institutions (Section 4.4).
+ Through our commitment to developing and strengthening partnerships with industry, we have
+ secured £0.8M competitive D2N2 Local Enterprise Partnership (LEP) Local Growth Fund co-
+ funding to support the establishment of NTU’s new £1.6M Smart Wireless Innovation Facility
+ (SWIFt, Section 3.3). This will enable senior academics from CIRC to work ever more closely
+ with local businesses on the development and implementation of innovative 5G technology.
+ 1.2.3 Enabling, facilitating, and achieving impact
+ Building on the REF2014 strategy, CIRC has generated a range of sustainable mechanisms to
+ help incubate the best impact of our research at all stages. We have targeted resources,
+ including funds, studentships and sabbaticals, towards prioritising projects with planned impact
+ routes. This has included: practice-sharing workshops with RAND Europe; a ‘Fast Track Impact’
+ workshop by Prof Mark Reed; IP exploitation training by NTU’s Knowledge Exchange team; and,
+ funding for collaborative travel for all CIRC staff.
+ Examples of where investment has enabled impact include:
+                                                                                              Page 3
+
+
+Unit-level environment template (REF5b)
+       The realisation of the impact of Peytchev’s ‘Connected and Autonomous Vehicles i-
+        Motors’ project with Control F1 was underpinned by a six-month research assistant (RA).
+        This CIRC-funded RA provided critical stability of skills and expertise for impact
+        development. The i-Motors project enabled a communication framework capable of
+        improving autonomous vehicles’ awareness of surrounding traffic. It was described as
+        ‘instrumental for development and economic impact’ (Dale Reed, Control F1) and has
+        since generated £5M of economic impacts for Control F1 (see our Mobile Networking
+        Case Study);
+       The realisation of the impact of Brown’s co-creation project with Fujitsu and the
+        subsequent co-development of the mobile app to improve the mental wellbeing of
+        workers with autism, called ‘My-State’, was supported by a one-year RA. It was also
+        underpinned by a formal strategic partnership between NTU and Fujitsu (see our
+        Inclusive AI Learning Systems Case Study);
+       Two NTU-funded RAs underpinned Lotfi’s research to assist regional companies to
+        explore the use of emerging technologies within their business environment products.
+        JustChecking Ltd deployed the group’s expertise in activity recognition and machine-
+        learning for future product lines. Alcuris Ltd made use of our insight into activity
+        recognition and abnormality detection for their elderly monitoring product ‘memo’; and
+       Funding from the ‘Enabling Innovation’ project, jointly funded by European Regional
+        Development Fund (ERDF) through the LEP and NTU, allowed CIRC to work on product
+        and process innovation within SMEs in the D2N2 area. We supported over 150 local
+        SMEs and companies, such as Digital Affinity, through design workshops, prototype
+        building, and continuing support.
+ 1.2.4 Future research and impact objectives
+ Our future strategy synergises further our approach to research and impact and will continue our
+ Enabling Digital Technology vision:
+     1. Exploit our interdisciplinary strength to explore ‘Smart Technologies’ for future living and
+        working spaces.
+        The University’s new £1.6M Smart Wireless Innovation Facility (SWIFt, Section 3.3) will
+        allow CIRC, especially our CIA and NICCS groups, to introduce innovative technology
+        onto the Clifton campus, allowing us to explore ‘Smart Places’ for the future. The £280K
+        5G Connected Forest project, newly-awarded to Kanjo, will explore the potential for 5G
+        applications to preserve forests and their environment. Similarly, our NICCS Research
+        Group will work towards a smart cloud-based activity recognition system as a service for
+        real-time monitoring and recognition. Our SmartNTU House facility will also provide a
+        living lab facility to explore further research in improving people’s lives through the
+        application of smart technologies.
+     2. Address grand societal challenges, such as human health and an ageing society,
+        through digital technologies, such as AI and data science.
+        In terms of health and AI, our IS Research Group will explore the relationship between
+        interaction and wellbeing of students with learning disabilities using tangible interfaces.
+        For example, a €449K Erasmus+ project newly awarded to Brown will develop an AI tool
+        to predict engagement and 'Meltdown' events in individuals with autism. Our CIA
+        Research Group will pursue further algorithms for human activity recognition in multi-
+        occupant environments using new sensors, such as Infrared Thermal Sensor Array,
+        alongside the application of entropy measures in activity recognition.
+     3. Develop innovative and intelligent technologies for future medical devices and industrial
+        practice.
+        CIRC, through IS, CIA and CNCR Research Groups, is a collaborative partner in NTU’s
+        LEP co-funded £23M new Medical Technology Innovation Facility, MTIF, that will
+        specialise in healthcare-related commercial product development (Section 3.3).
+        Furthermore, our Research Groups have expertise in cognitive and assistive robotics
+        which will be explored for human-robot co-working scenarios in industrial digitalisation.
+                                                                                                Page 4
+
+
+Unit-level environment template (REF5b)
+     4. Recruit and support excellent researchers, embedding diversity, inclusion, and innovation
+         in our ways of working.
+         CIRC aims to build on our successes since 2014, enhancing sustainability and increasing
+         research capacity. Our objective is to recruit and support the highest quality staff aligned
+         to our Research Groups and further develop EDI policies and practices. We will also
+         continue our drive to attract high-quality research awards and exploit new investments in
+         research facilities (SWIFt and MTIF, Section 3.3). We are also committed to recruiting
+         excellent and diverse PhD students and enabling their full research potential.
+ 1.3 Approach to Interdisciplinary Research
+ The structure of CIRC was designed deliberately to cultivate interdisciplinary and
+ multidisciplinary research within the UoA and across SST and NTU. This is further achieved by:
+        Our shared research infrastructure (Section 3.3) supports excellent research with impact
+         across all areas.
+        CIRC groups coordinate weekly meetings where all members meet alongside our
+         departmental seminar sessions allowing for frequent interactions and enabling cross-
+         disciplinary work.
+        CIRC encourages multi-disciplinary collaborations across NTU, which have led to joint
+         publications including: Brown with Pockley and others in UoA A03; Shahtahmassebi
+         with Liang in UoA B12; and Kanjo with Kuss in UoA A04.
+        CIRC staff are involved in NTU’s five strategic research themes (REF5a), in particular
+         with the Medical Technologies and Advanced Materials theme through work with the
+         John van Geest Cancer Research Centre and with Liang on Global Heritage: Science,
+         Management and Development. The latter has now been selected as NTU’s first
+         Research Peak (REF5a), with £500k pa of investment to further development, it
+         exemplifies NTU’s excellence in research and societal impact; CIRC is involved through
+         Pourabdollah’s work on digital humanities.
+        To encourage cross-disciplinary discussions, SST’s Annual Research (STAR)
+         conference brings together speakers from across all the STEM disciplines.
+ 1.4 Strategy for an open research environment
+ NTU’s Publication Policy mandates the deposit of full text journal articles in our institutional
+ repository; this enables the sharing of research outputs and underlying data. A centrally-
+ managed open access fund was established in 2014 to increase our ability to provide immediate
+ open access to outputs via the gold route; within the UoA, funding of some £40k has supported
+ publications since 2014.
+ 1.5 Supporting a culture of research integrity
+ Matters relating to research integrity, including research ethics, are overseen centrally (REF5a)
+ and managed locally. The University Research Committee, chaired by the Deputy Vice-
+ Chancellor – Research and Enterprise, and reporting to Academic Board, is responsible for the
+ development and monitoring of research integrity policies and procedures. The Research
+ Integrity Committee provides support and advice to Research Centres, including CIRC. Robust
+ systems are in place to ensure research projects requiring ethical enquiry are thoroughly
+ scrutinised.
+ 2. People
+ 2.1 Staffing strategy and staff development
+ CIRC has an inclusive staffing strategy focused on strategic recruitment and supportive
+ retention. The UoA has targeted growth through strong research teams, with senior
+ appointments and internal promotions providing credible leadership and succession planning.
+ Key external appointments have been made at senior levels including 2 new professors
+ (McGinnity, Sanei) and 2 new associate professors (Cang, He). Through the SST Early Career
+                                                                                                  Page 5
+
+
+Unit-level environment template (REF5b)
+ IRF Scheme (Section 2.1.3), launched in January 2016, we have appointed two individuals on
+ ascending research trajectories and provided them with time to get their research portfolio
+ established whilst building their teaching experience.
+ 2.1.1 Staffing and Recruitment policy
+ Staff retention. CIRC has actively facilitated existing researchers fulfilling their potential. As
+ already mentioned, the UoA has also recently piloted a doctoral fellow scheme (academic
+ associate), which has seen four new part-time lectureship/research associate posts leading to a
+ PhD award.
+ External recruitment. Recruitment has focused on the establishment of new robotics research in
+ addition to significant investments in our three existing Research Groups. CIRC has attracted
+ and promoted two internationally leading professors in robotic systems research, ambient
+ assistive technologies (McGinnity) and networking technologies (Sanei). The UoA has
+ benefitted from the SST IRF Scheme that supports increasing research capacity whilst providing
+ areas of research strength with succession planning. Two high achieving researchers (Shen
+ and Zhong) with outstanding potential were appointed in 2019 to 5-year positions with tenure
+ track routes to lectureships (Section 2.1.3).
+ In making new appointments, we ensure that each of our four Research Groups enjoy a mixture
+ of staff seniorities to allow for succession planning, mentoring and exchanges of ideas. Each
+ Centre has benefitted from new appointments and promotions as set out below:
+         The CIA Research Group has benefitted from a promotion to professor for group lead
+          (Lotfi), the external appointment of two associate professor posts (Cang and He) and
+          the external appointment of a senior lecturer (Pourabdollah). The group has also
+          received additional investment in an IRF (Zhong) in assistive robotics who is being
+          supported to progress to permanent status.
+         The NICCS Research Group’s strengths have been complemented by the recruitment at
+          professorial level of an expert (Sanei) in signal processing with application to analysis of
+          brain signals and images (particularly brain-computer interfacing). Additionally, the group
+          has benefitted from an internal promotion to associate professor (Peytchev), and the
+          recruitment of two senior lecturers (Sculthorpe and Kaiwartya).
+         The CNCR Research Group was established in 2014 with the external appointment of a
+          professor (McGinnity) in robotics research. It has been strengthened further by an
+          external appointment at senior lecturer level (Ferreira) and the appointment of the UoA’s
+          second IRF (Shen).
+         The IS Research Group has been strengthened by an internal promotion to associate
+          professor (Kanjo) and through the recruitment of a senior lecturer (Mahmud) with
+          expertise in machine-learning that has led to the further development of the group
+          around its commitment to user-centred approaches of enabling technologies.
+ This approach to ensuring mentorship and new ideas is underpinned by a programme of
+ international exchanges and visiting researchers, including Professor Muñoz-Organero
+ (Universidad Carlos III de Madrid, Spain) and Professor Jose Maria Sarabia (University of
+ Cantabria, Spain) who contribute to and enrich the research culture (Section 4.1).
+ 2.1.2 Staff Development Strategy
+ Staff development is coordinated by the Director of the UoA’s Computing and Informatics
+ Research Centre (Brown) in concert with the Head of the Department of Computer Sciences
+ (Lotfi). In line with the UK Concordat to Support the Career Development of Researchers, a
+ range of opportunities are offered, tailored to career stage. Our mentorship programmes provide
+ all staff below professorial level with a senior research mentor (professors or associate
+ professors), who has relevant research experience, to complement support through the
+ Department-run annual appraisal system that encompasses Individual Research Plans to
+ identify short-term goals and longer-term career objectives. Developing funding applications
+                                                                                                    Page 6
+
+
+Unit-level environment template (REF5b)
+ through individual peer-review and sandpits aids colleagues to transform new ideas into stronger
+ project proposals.
+ CIRC invests in a portfolio of staff development initiatives that build strategic research capacity
+ in areas aligned to our Enabling Digital Technologies vision, including: staff research
+ sabbaticals; incoming and outgoing international researcher mobility; match-funded PhD
+ studentship scheme (Section 2.2.1); and financial support leading to grant capture (Section 3.2).
+ Sabbatical leave has been provided to allow concentration on research, impact and building
+ collaborations via the UoA's funded study leave programme. Two types of sabbatical have been
+ funded based on research accomplishment and leadership and research career stage. During
+ the period, Wilmott and Shahtahmassebi have received periods of research leave.
+ 2.1.3 Early Career Researcher Support
+ ECR support is particularly important to our long-term strategy and the sustainability of the UoA.
+ A wide range of support for ECRs is available, including: the Winning Grant Funding Programme
+ (Section 3.2); new ECRs pairing with a research mentor; and ECRs being prioritised with NTU-
+ funded studentships. They have also benefitted from reduced teaching and administrative loads for
+ ECRs, typically, a reduction of 60% in Year 1, 30% in Year 2 and 10% in Year 3.
+ An exemplary case of our ECR strategy is the SST IRF programme: five year roles with reduced
+ teaching (initially 50 rising to 100 contact hours/year) and dedicated research support
+ (£10k/year) are intended as ‘tenure-track’ routes to permanent lectureships.
+ The UoA benefits from a vibrant community of research assistants and research fellows.
+ Postdoctoral staff are actively supported in their transition to academic or non-academic posts
+ by the School’s Staff Development Programme and via the University’s appraisal framework,
+ involving regular career development meetings with senior CIRC staff. Staff undertake a
+ bespoke programme, offered through NTU’s Researcher Development Gateway, to assist
+ career planning and grant writing. There are also opportunities to gain teaching experience and
+ qualifications.
+ 2.2 Postgraduate Researchers
+ Postgraduate researchers (PGRs) are an integral part of our research culture. The total number
+ of PhDs completed in the UoA has increased to 34 (4.9 p.a.) in REF2021 from 14 (2.8 p.a.) in
+ REF2014. CIRC has developed a research environment involving academic staff, research
+ fellows, PhD students, Erasmus students and summer interns in discussions that are inclusive
+ with the aim of promoting the sharing and exchange of research ideas with and through the use
+ of computing environments and facilities. CIRC also enjoys a number of cross-institutional
+ supervision collaborations, including McGinnity’s supervision of 7 doctoral candidates from
+ Ulster University (Professor Coleman), Pourabdollah’s supervision of 2 doctoral candidates with
+ the University of Nottingham (Professor Jon Garibaldi), and Shahtahmassebi’s co-supervision
+ of PhD research with University of Plymouth (Peninsula College of Medicine, Mr David Stell).
+ 2.2.1 PhD Funding and Recruitment
+ CIRC’s PhD student cohort: Support for, and the development of, the UoA’s expanded
+ postgraduate student community is core to the success of our research environment. Our current
+ cohort of 26 PhD students (31 July 2020) includes 50% Home/EU and 50% international students,
+ the latter from Libya, Nepal, Argentina, Iran, Nigeria and India. Our current PhD cohort includes 7
+ funded by overseas Governments, 6 that are self-funded, and 2 part-time PhD students who study
+ as academic associates with a concurrent 0.5 FTE 5-year Lectureship, promoting career
+ development. NTU’s PhD Studentship Scheme has provided competitive, fully-funded
+ scholarships that cover tuition and stipends to 13 CIRC PhD students since 2014. Collaborative
+ PhD research is promoted via NTU’s match-funded scheme (launched 2016) which covers half of
+ tuition fees and stipend, where an external sponsor contributes the other half. An example is
+ Kanjo’s project with The Manufacturing Technology Centre (Section 4.2).
+ Recruitment. Fair and consistent admission is ensured by the School Postgraduate Research
+ Tutors who chair PhD interviews. PhD applicants are required to have a Master’s degree (with
+                                                                                                Page 7
+
+
+Unit-level environment template (REF5b)
+ Merit) or a first-class or 2:1 BSc Honours degree. EDI data on enrolled PhD students is available
+ at School of Science and Technology level; our gender balance is the same as the sector
+ (HESA) whilst our PhD population is considerably more ethnically diverse than the sector
+ (HESA).
+ Supervision. Supervisory teams include at least two NTU staff with experience of at least two
+ PhD completions between them. All supervisors attend a two-day training course and are invited
+ to meetings of SST’s Supervisors’ Forum, which supports best practice in supervision.
+ Monitoring. Students typically meet their supervisors weekly. Progress is formally monitored via
+ a supervisory panel and independent assessor, with annual monitoring as well as key
+ deliverables around Month 6 (Project Approval) and Month 18 (Transfer from MPhil to PhD).
+ Training and support. Training opportunities are covered during induction with the SST PGR
+ tutor and postgraduate representative and reviewed as part of annual monitoring. The NTU
+ Doctorate Plus Programme (see REF5a) maps PGR training to the Vitae Researcher
+ Development Framework and the requirements of the UK Research Councils and Quality
+ Assurance Agency.
+ SST-specific training supplements NTU-wide opportunities such that PGRs can create bespoke
+ packages of activities to support their development. There are workshops on research methods,
+ report writing, project management, research data management, equality and diversity
+ awareness, and additional English classes for researchers with English as a second language.
+ Our PGRs receive an annual research budget of £1K. In Year 1, this is expected to help fund
+ any additional specialist training requirements, equipment, or conference attendance, and in
+ Years 2 and 3, the funds are expected to contribute to conference attendance.
+ Throughout their degrees, PGRs also have opportunities to share their research and develop
+ presentation skills, including:
+        In our annual SST STAR Research Conference PGRs typically present a poster in their
+         first year and a talk in their second. In 2020, presentations were adapted to an
+         online/virtual setting, incorporating a 3-minute thesis competition.
+        The Department of Computer Science runs a weekly seminar series, with a mixture of
+         invited external and internal speakers from Computer Science and related disciplines.
+         PGRs are invited to present their work as a full seminar in their third year.
+        CIRC groups coordinate their own research meetings, with informal opportunities for
+         PGR presentations, such as practice talks for conferences.
+        In 2019, SST established a biannual joint networking series with University of
+         Nottingham for PGRs to share research ideas and grow sustainable collaborations.
+        CIRC has hosted 6 international conferences this REF period which have provided an
+         excellent platform for our PGRs to share their research (Section 4.4).
+ The success of our PGR strategy can be seen in our high level of on-time thesis submission
+ rates; 89% in 2017/18. The overall satisfaction for PhD students in the School of Science and
+ Technology in PRES 2019 was 84%, 3% higher than the sector as a whole. It is reflected also in
+ PGRs from CIRC winning awards at major conferences, including the recent best paper award
+ at ICACII 2020: XIV. We have appointed a number of our PhD community into postdoctoral
+ positions (Taheri, Sarsfield and Ortega).
+ 2.3 Equality, diversity, and inclusion (EDI)
+ The University was awarded the bronze Athena Swan charter mark in April 2019 (see REF5a)
+ and targets a silver submission in 2023. Supporting this, our School strategy aims at
+ departmental Athena Swan submissions from 2022; the Deputy Head of the Computer Science
+ Department (Hartley) is leading on the delivery of an action plan towards a departmental Athena
+ Swan submission, which embeds staff and student mentoring, and includes initiatives such as
+ involvement by female members of academic staff in the creation of the "Women in Tech"
+                                                                                             Page 8
+
+
+Unit-level environment template (REF5b)
+ network for East Midlands, and encouraging students (of all genders) to volunteer for Code First
+ Girls. Our School Athena Swan champion supports this initiative and coordinates School-level
+ EDI activities, including participation of six School staff in the Advance HE Aurora programme,
+ events for International Women’s week, international women in engineering day, Black History
+ month, LGBT History month, the installation of an on-campus nursing room for nursing mothers,
+ and maintenance of an EDI intranet with links to staff networks, policies and resources.
+ Recruitment across SST has transitioned through gender decoding of recruitment materials and
+ mixed-gender interview panels, to attract a more diverse staff pool. Specific training improves
+ understanding of equality and diversity within the workplace, including unconscious bias training
+ for all staff. Across all academic and research staff in SST in 2019: 32% identified as women;
+ 16% as being Black Asian and Minority Ethnic; and 4% declared a disability. Within CIRC, 19%
+ are women and over 45% of staff in the Department of Computer Science are from a BAME
+ background. CIRC supports NTU’s institutional target to increase the representation of women
+ within the professoriate to 35% by 2022. Presently, 50% of our associate professors are female.
+ Furthermore, we encourage a flexible and inclusive approach for staff working from home or
+ remotely. For example, the Support of Academic Returners (SOAR) scheme funds up to £5k
+ following a period of caring-related leave to support career pathway development.
+ Staff perception of EDI issues is very positive. The 2018 staff survey (run by an external
+ company) collected responses at departmental level. In the Department of Computer Science, of
+ which the majority of UoA staff are members, there was an aggregate average 92% positive
+ response to EDI questions on equality of opportunity, including EDI awareness and the
+ University’s approaches to respect and equality of opportunity.
+ 3. Income, infrastructure and facilities
+ Our target for this REF period was to develop a portfolio of significant new grant income from
+ diverse, high-quality sources. This has been delivered with an income-spend of £3.06M,
+ compared to £1.26M in REF2014, and major grants from prestigious sources, including EPSRC,
+ BBSRC Innovate UK, The Royal Society, EU H2020, EU Erasmus+, and Leverhulme.
+ 3.1 Research income and funding strategy
+ The CIRC Advisory Group has consistently offered high levels of support to members to ensure
+ that all Centre-supported proposals are as competitive as possible through detailed grant
+ proposal assessments on a one-to-one basis, and multiple iterations of refinement from
+ conceptualisation to submission. We encourage all members to attend annual Research
+ Operations and Research and Strategic Partnership Development grant writing events (Section
+ 3.2) that focus on building a competitive bid, different types of research calls, and specific
+ funders. CIRC has also utilised direct University investment (approx. £80K p.a.) to pump-prime
+ research and grant submissions through 6-month research assistance, sabbatical cover, and
+ short-term research exchanges. We maintain a specific fund with a light-touch and responsive
+ application process so that we can react to immediate funding opportunities. Our €449K
+ Erasmus+ ‘An AI Tool to Predict Engagement and Meltdown Events in Students with Autism’
+ and £280K 2020 UK Government (Media, Culture and Sport) ‘5G Connected Forrest’ projects
+ are recent examples of how our strategy, research structures, support via studentships and
+ internal investment have led to major grant capture.
+ CIRC’s research funding portfolio consists of 11 projects, comprising funding from UK research
+ councils (EPSRC and Innovate UK) and EU research bodies (FP7, Horizon 2020 and
+ Erasmus+). There are significant awards in all Research Groups throughout our scope. For
+ instance:
+         Within CNCR, Si–Elegans is a £1.2M EU FP7 project investigating performance
+          discrepancies between artificial computational systems and brains.
+         Within IS, No One Left Behind is a £457K EU Horizon 2020 project involves gaming
+          toolkits that enhance student abilities across all academic subjects, MaTHiSiS is a £467K
+                                                                                                Page 9
+
+
+Unit-level environment template (REF5b)
+          EU H2020 on multimodal affect recognition for students with learning disabilities, and An
+          AI Tool to Predict Engagement and 'Meltdown' Events is a £430K EU Erasmus + project
+          that focuses on helping individuals with autism.
+         Within NICCS, REMOURBAN is a £300K EU Horizon 2020 multidisciplinary project
+          centred on accelerating smart urban transformations.
+         Within CIA, iCarer is a £250K EPSRC project offering adaptive platforms to carers
+          support through a range of monitoring activities.
+ 3.2 Organisational infrastructure
+ Since 2014, CIRC has engaged with significantly expanded University teams, including our
+ Research Operations (Pre-Award, REF, Governance and Research Information Management)
+ (RO) and Research and Strategic Partnership Development (RSPD) teams. The RO team
+ provides bespoke advice and guidance to researchers with regard to external research grant
+ applications, including the Winning Grant Funding Programme. This team also ensures
+ compliance with terms of national and international research funders and provides support for
+ research integrity and research ethics policies. The RSPD team provides up-to-date knowledge
+ of funding bodies and supports academics to develop external partnerships, build research
+ consortia, and create high quality research and innovation funding proposals. CIRC engages
+ actively with NTU’s Knowledge Exchange Directorate (KED) for commercialisation support
+ where it is well practised in developing close partnerships with businesses to maximise
+ commercial potential. Working closely with KED, we have been able to identify, protect and
+ develop intellectual property assets arising from research with a clear and constant focus on
+ potential applications and markets. Other grant support infrastructure includes the £1.1m NTU
+ investment in ‘Worktribe’, a holistic research management system that is designed to support the
+ whole project proposal life cycle from proposal development to post-award management and
+ publication. Worktribe has been designed as a series of interconnecting modules: Pre-award;
+ Post-award; Contracts; Output Deposit; Staff Profiles; and Impact Recording.
+ 3.3 Infrastructure and facilities
+ Infrastructure. We have seen very major investment in state-of the-art, interdisciplinary research
+ facilities, including:
+         The Interdisciplinary Science and Technology Facility (ISTeC, £11m including £5m from
+          HEFCE/Research England, 800m2 research wing, completed 2017) that brings STEM
+          subjects together to support collaboration between different subject areas, outreach
+          activities, and industry engagement. This brings high specification spaces for
+          collaborative and multidisciplinary research within one building, including, for example,
+          our robotics research (CNCR).
+         The £0.5M SmartNTU House facility (CIA Research Group) which takes the form of a
+          typical home and is fitted with a wide-ranging collection of smart sensors (see detail
+          below).
+         CIRC is a collaborative partner in NTU’s Medical Technologies and Innovation Facility
+          (MTIF, £23m including £9.7m from D2N2 Local Growth Fund, 3318m2 on two sites;
+          completed 2020) which aims to enable early stage research and development in medical
+          technology and medical devices. The Boots Enterprise Zone component supports our
+          CNCR and IS research activities in medical design and research, providing an
+          unprecedented new product development facility in the Midlands for partners. The MTIF
+          building on the NTU Clifton campus enables early-stage innovation and impact-
+          generation activities from our researchers.
+ The provision of significant and innovative new facilities is continuing into this REF cycle. The
+ University’s £1.6M Smart Wireless Innovation Facility (SWIFt), again co-funded by the LEP, will
+ turn Clifton Campus into a smart and sustainable ‘living laboratory’ for businesses, academics,
+ and policy makers. The project heralds a range of innovations, such as intelligent wayfinding and
+ virtual assistants, smart parking and building controls. SWIFt will also examine the application of
+ 5G and other smart technologies in industry, logistics and agriculture and explore how to create
+ ‘Smart Places’ for the future.
+                                                                                               Page 10
+
+
+Unit-level environment template (REF5b)
+ Lab facilities. All our UoA members are located on the Clifton Campus. Our doctoral community
+ is co-located with research staff and supervisors. Every PhD researcher is allocated a desk and
+ computer workstation. The UoA has dedicated research labs within ISTeC, the Engineering
+ Building, and the SmartNTU house facility. The main facilities include:
+        a 75m2 robot arena that has a VICON tracking system and state-of-the-art humanoid
+         robots engaging human-robot/robot-human object handovers where we utilise a range of
+         high specification robots, including iCUB, Sawyer and Robotniq robots, equipped with
+         robot hands and the best tactile robotic sensors currently available (BioTac sensors from
+         Syntouch). Other sensor systems include an AR10 hand and a DAVIS spiking neuron
+         camera;
+        a VR Interaction lab equipped with a range of sensors connected to sensing the affective
+         state of learners (Tobi eye gaze, EEG – Open BCI);
+        a 300 core HPC cluster;
+        a 400 board FPGA computing cluster based on Altera (Intel) Stratix 5 devices. This
+         system is one of the largest FPGA clusters in the country and each FPGA processing
+         board incorporates an Intel/Altera Stratix 5 FPGA device, and is complemented by a
+         separate embedded CPU processor board, memory, and high-speed interconnect. The
+         overall system was developed with a budget of approximately £1M. Recent purchases of
+         Stratix 10 devices from Terasic maintain the currency of the system;
+        a 3Brain multi-electrode array system and a BioBot 3D bioprinter which enhances
+         multidisciplinary computational neuroscience projects; and
+        SmartNTU house, which is a living lab facility equipped with a range of ambient sensors
+         including PIR motion sensors, thermal cameras, depth sensors, pressure and presence
+         sensors. The facility is also equipped with assistive robotic platforms including a Pepper
+         robot and several NAO robots. As part of the research facilities available to CIA
+         Research Group, a Baxter robot and UR5 robots are also available for research in the
+         development of transfer learning algorithms.
+ 4. Collaboration and contribution to the research base, economy and society
+ CIRC is inherently interdisciplinary, with members of the UoA having backgrounds in
+ mathematics, physics, engineering, and bioscience. We have worked with more than 30
+ organisations across 18 countries such that that over 70% of the outputs submitted by this UoA
+ involve co-authors from other institutions, and over 50% of the outputs submitted by this UoA
+ involve international institutions. This has been enabled by: internal funding for research
+ visits/exchanges; match-funded PhDs (Section 2.2.1); supporting conference attendance
+ particularly for ECRs; support for pump-prime projects with strategically important collaborators;
+ and organising series of conferences (Section 4.4) in areas of strength and priority.
+ 4.1 Research collaborations, networks, and partnerships
+ The Computational Intelligence and Applications group enjoys a number of ongoing national and
+ international collaborations. Examples include Lotfi’s fruitful collaborations with Prof Mario
+ Muñoz-Organero (Universidad Carlos III de Madrid) on the topic of applied machine learning for
+ wearable and mobile sensor data, and Prof Naoyuki Kubota (Tokyo Metropolitan University) on
+ assistive robotic and community-centric system for elderly care. Members are collaborating with
+ the National Institute of Advanced Industrial Science and Technology in Tokyo, Japan on
+ assistive robotics, and, through Cang, we have ongoing links with Chiang Mai University
+ (Thailand) through our involvement in the €3M EU Erasmus Modus ‘FUSION’ project. In terms of
+ other international projects, the group enjoys on-going strong links with the Chinese Academy of
+ Science (China) through three other major projects (the €900K H2020-MSCA-RISE ‘SMart
+ rObOTs for fire-figHting’, the €310K H2020 ‘RABOT - Real-Time Adaptive Networked Control of
+ Rescue Robots’ project, and the £152K Royal Society and National Natural Science Foundation
+ of China funded project entitled ‘Adaptive Learning Control of a Cardiovascular Robot using
+ Expert Surgeon Techniques’). Pourabdollah is engaged on a major international collaborative
+ endeavour, ‘AI-FML International Academy’, whose aim is to promote the IEEE 1855-2016
+                                                                                               Page 11
+
+
+Unit-level environment template (REF5b)
+ standard (Fuzzy Markup Language) through real-world applications, including organising
+ educational activities, workshops and competitions for different audiences. The work of the AI-
+ FML International Academy has led to the establishment of the IEEE CIS Content Curation
+ Subcommittee in collaboration with 7 international institutions, including Tainan, Tokyo
+ Metropolitan, Naples, and Santiago de Compostela. Jun He has international collaborations with
+ researchers from Sun Yat-sen University, China (Professor Yuren Zhou) on optimization and
+ evolutionary computation, and the University of Nottingham Malaysia (Dr Siang Yew Chong) on
+ co-evolution systems and computational intelligence. Both collaborations have produced journal
+ outputs in leading journals, including IEEE transactions on Cybernetics, Evolutionary
+ Computation, and Artificial Intelligence.
+ The Computational Neuroscience and Cognitive Robotics group has engaged in an innovative
+ collaboration with the international SiElegans project consortia to deliver an enhanced
+ understanding of retinal ganglion cell visual processing. In particular, McGinnity collaborates
+ with the Istituto Italiano di Technologia (Neuroscience), University of Ulster (Intelligent Systems),
+ Vicomtech-IK4 (eHealth and Biomedical Applications), and the National University of Ireland.
+ Ferreria has been engaged in two Portuguese National Innovation Agency projects (ANI
+ Portugal 2020) with the University of Coimbre, Portugal: SEMFIRE provides for the development
+ of a robotic system designed to reduce the accumulation of combustible material in forests for
+ wildfire prevention, and CORE which centres on fundamental robotics research. More locally,
+ the group has ongoing collaborations with researchers from the University of Birmingham on
+ topics including machine-learning and data science.
+ The Network Infrastructures, Computing and Cyber Security group and Peytchev have
+ collaborated with 21 partners across 7 countries in the €25M Horizon2020 REMOURBAN project
+ which aims to showcase sustainability and future cities. Shahtahmassebi is engaged on 2
+ multinational projects (DigiLab and Swarm-VIP), and was responsible for the delivery of
+ intensive summer training courses on the R Software Package over the period 2016-2018
+ (attended by 50 researchers from 7 universities (including Nottingham, Imperial and Bristol) and
+ professionals from the NHS, Boots, PepsiCo and E.ON.
+ The Interactive Systems group has engaged with an extensive range of academic partners and
+ SMEs. On the group’s research in Digital Game Making through their EU H2020 No One Left
+ Behind grant, Brown collaborated with 7 partners from the game industry and the education
+ sector from 4 European countries - Austria, Germany, Spain and United Kingdom, including
+ Graz University of Technology, Universidad Politécnica de Madrid, Stuttgart Media University,
+ INMARK Europa (ES), and Grupo ZED Pyro Studios (ES). This work has led to internationally
+ co-authored papers in Sensors and in Computers and Education. The group’s research in
+ Robotics and through their EU Lifelong Learning Programme grant has engaged 7 partners from
+ third sector, industry and education sectors from 6 European countries, including the
+ Pedagogical University of Crakow Department of Psychology, and Aias Bologna Onlus (IT). This
+ partnership has led to internationally co-authored work in British Journal of Educational
+ Technology. The group’s Research in AI approaches to personalisation through EU H2020
+ MaTHiSiS engaged 18 partners from 9 EU countries, compromising European leaders in
+ business, technology, research and ethics including University of East London, Maastricht
+ University, and Vrije Universiteit Brussel. The project has led to internationally co-authored work
+ in British Journal of Educational Technology. A second strand to the group’s Research in AI
+ approaches to personalisation has, through EU Erasmus Pathway+, seen partnerships with 7
+ partners from 5 EU countries, representing education, local authority, third sector and industry,
+ and led to an ICACII 2020 best paper award (International Conference on Affective Computing
+ and Intelligent Interaction 2020) for ‘Modelling Engagement with Multimodal Multisensor Data
+ Using the Continuous Performance Test as an Objective Tool to Track Flow’.
+ During this REF period, members of the UoA were supported in visits to over 50 overseas
+ institutions. CIRC funds have been used for research visits to and from NTU, nationally and
+ internationally: examples include exchanges with Masaryk University, Czech Republic to build
+ an EU consortium, and collaborations with van Binsbergen (Royal Holloway, London), Moses
+                                                                                                Page 12
+
+
+Unit-level environment template (REF5b)
+ (Delft University of Technology, the Netherlands), the University of Cantabria, Spain (Professor
+ Jose Maria Sarabia) and the University of Waterloo, Canada (Professor Mu Zhu).
+ These research exchanges have helped to expand the international collaboration links within the
+ UoA, including visiting professorships. Professor Mario Muñoz-Organero (Universidad Carlos III
+ de Madrid) was a visiting professor leading to journal outputs with our CIA group, and Professor
+ Jose Maria Sarabia (University of Cantabria, Spain) who was a visiting professor in 2014, also
+ leading to a number of journal outputs. The UoA supports staff to attend international
+ conferences and staff were also active in organising over 20 international conferences, including
+ 3 international conferences hosted by the UoA (see Section 4.3).
+ 4.2 Collaborative creation of research impact
+ Our Enabling Digital Technology vision has involved extensive engagement with research users
+ from diverse sectors including financial services, transportation, energy, healthcare, education
+ and security with whom we have facilitated sustained knowledge transfer through explorations of
+ new products and services. Specific examples include:
+      Our IS group (Brown) has developed AI-based algorithms which can infer users’
+         affective states (Horizon 2020 MaTHiSiS and Erasmus Pathway+ projects) that have
+         been adopted by Fujitsu.
+      The EPSRC ‘An Internet of Soft Things’ (Brown) project investigated how networked
+         smart textile objects could improve perceptions of mental wellbeing in partnership with
+         service users from Nottinghamshire MIND.
+      Our NICCS group (Peytchev) is part of the €25M Horizon2020 REMOURBAN project
+         (REF3 case study), which is a large-scale, international collaborative venture involving
+         hundreds of research users across three lighthouse cities (Valladolid in Spain,
+         Nottingham in United Kingdom and Tepebasi/Eskisehir in Turkey).
+      Wilmott has engaged with UK-based banking institutions on quantum computing and
+         associated security implications such as Deutsche Bank UK (Andrew Wray COO),
+         Deutsche Bank Labs, Palo Alto (Aleksandr Oysgelt, Director for Technology and
+         Innovation), and Santander UK (Ceri Godwin CIO). Wilmott’s ‘Quantum Readiness
+         Programme’ which assesses robustness levels of current banking security against
+         quantum technology, is due to be delivered at Refinitiv’s three Gravitate Global Summits
+         (NY, Singapore, London in 2021/2).
+      Our collaborations with research users extend to engaging the public as the ultimate
+         users of our research. We hold annual conferences at NTU to engage teaching staff and
+         Special Educational Needs Coordinators from the Nottingham Schools’ Trust to involve
+         them in research on enabling technologies that support education.
+      Our match-funded PhD programme (Section 2.2.1) also prioritises collaboration,
+         industrial sponsorship, and networking opportunities. Partners include The Manufacturing
+         Technology Centre that is part of the High Value Manufacturing Catapult, supported by
+         Innovate UK.
+ 4.3 Contributions to the economy and society
+ Our REMOURBAN project in sustainable energy solutions improves the quality of life for
+ residents and smart energy usage initiatives have reduced energy costs. The energy monitoring
+ systems developed through REMOURBAN have impacted on the supply chain for SMEs
+ involved in the production of sustainable energy products, leading to the development of more
+ cost-efficient methods of housing retrofit, thus increasing the size of the potential market for
+ these products. Further, this increased quality of life and reduced fuel poverty for over 460
+ households in a deprived area.
+ Interactions with research users through our collaborative projects have led to economic and
+ societal impacts. Specific examples are reflected in our UKRI eNurture Project (TangToys) in
+ partnership with the Nottingham Schools’ Trust and the Ann Craft Trust. TangToys examines
+ how the digital world is changing the way young people with learning disabilities interact with
+ family, school and peers and what these changes mean for their mental health.
+                                                                                               Page 13
+
+
+Unit-level environment template (REF5b)
+ Our IS research in multimodal affect recognition has informed UK policy debates. In May 2018,
+ the House of Commons Education Select Committee launched its inquiry into the Fourth
+ Industrial Revolution. Based on his published research, Brown gave oral evidence to the
+ Committee in January 2019. Brown’s appearance in front of the Committee led to an invitation
+ from David Davis MP to meet in Westminster to discuss how his research would enable changes
+ in the role of the teachers in the classroom and help to increase the effectiveness of education.
+ Other contributions to society delivered by the UoA include: our work on improving the
+ accessibility of Digital Game Making for students with disabilities involving 6 key European
+ partners; and our AI research to create personalised learning pathways for students with
+ learning disabilities and autism (EU H2020 MaTHiSiS and Erasmus+ Pathway+) involving 18
+ international partners from industry and academia including the aerospace and gaming sectors,
+ education, local authorities, and disability charities. The MaTHiSiS project focused on the real
+ issue of teachers not having enough capacity to attend to individual learning needs. Our
+ engagement detection algorithms addressed this issue and have been adopted by Nottingham
+ City Council’s Educational Psychology Service in its wider toolkit developed to support children
+ with social, emotional and mental health needs across 66 schools.
+ 4.4 Contributions to the research base
+ Our members have delivered 15 keynotes at international conferences and have chaired 21
+ conferences, secured 4 visiting professorships, acted on 20 journal editorial boards, and
+ assisted 16 research funders through peer reviews. Over the REF period, our UoA hosted 6
+ international conferences: iTAG 2014-2016 which was attended by 100 participants each year;
+ the 18th UK Workshop on Computational Intelligence (UKCI 2018) which was attended by 108
+ participants and led to the publication of 32 peer reviewed research papers as part of the
+ Workshop’s edited book (Advances in Computational Intelligence Systems: 18th UKCI,
+ Nottingham UK 2018, Advances in Intelligent Systems and Computing, 840 Cham, Switzerland:
+ Springer); and Recent Advances in Industrial Digitalisation, Robotics and Automation (Smart
+ Industry) Workshop 2019 comprising 13 keynote lectures. Recently, CIA group members with
+ researchers from Tokyo Metropolitan University have co-hosted the international conference on
+ community-centric systems.
+ In terms of peer review three of our staff are current members of the EPSRC peer review
+ college; one is on the ESRC review college; four sit on the European Science Foundation peer
+ review college; and a further three sit on other international peer review colleges (including,
+ EURAMET and Marie Curie Fellowships). We are active in journal editing with eight staff holding
+ 23 editorships, including Brain Informatics; Soft Computing; IET Intelligent Transport System;
+ EURASIP Journal of Computational Intelligence and Neuroscience; IEEE Signal Processing
+ Magazine. Eight staff have organised or chaired 21 conferences. Sanei had several visiting
+ professorships during the REF cycle (Imperial College London since 2016, King’s College
+ London 2016–2018, University of Surrey 2016-2018 and Shahid Beheshti University, Iran since
+ 2014. A further five staff have delivered 15 keynote lectures.
+ CIRC members have secured best paper awards. For example, Brown at JAT 2014 and ICACII
+ 2020: XIV, Cang at 10th Int. Conf. Software Knowledge Information Management and
+ Applications Chengdu China 2016, and Mahmud at ICEEICT2014 and IEEEHealthCom2018.
+ Other recognition awards include Peytchev’s Best Reviewer award at EURASIP 2014, Diploma
+ of Honour from the Romanian Biomedical Engineering Council and EPSRC (Recognition of
+ Major Contribution) award in 2018.
+ In addition to contributions to academic publishing as members of editorial boards, CIRC
+ members have acted as guest editors on 8 Special Issues including: Brain Informatics (Machine
+ Learning Techniques for Neuroscience Big Data); Cognitive Computation (Advances in Brain-
+ Inspired Cognitive Systems) 2016; and Virtual Reality (Virtual Reality for Therapy, Psychological
+ Interventions, and Physical and Cognitive Rehabilitation).
+                                                                                              Page 14

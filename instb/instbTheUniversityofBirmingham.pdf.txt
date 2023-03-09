@@ -1,0 +1,654 @@
+Institutional level environment template (REF5a)
+ Institution: University of Birmingham
+ 1. Context and mission
+ Founded in 1900, The University of Birmingham (UoB) is a civic, research-intensive
+ University with a strong global footprint. Our goal is to use our strengths in research and
+ education to find solutions to the big problems of our day, increasing well-being, social
+ mobility and prosperity globally and locally.
+ The University comprises around 36,900 students (22,500 UG, 11,000 PGT; 3,400 PGR)
+ and 8,500 staff, (2,700 academic staff, 1,560 REF-eligible). A founder member of the
+ Russell Group and Universitas 21, we regularly rank among the top 100 in major
+ international league tables.
+ We have one of the broadest disciplinary bases of any UK university, submitting to 28
+ UOAs in REF2021. Structurally, UoB is divided into 5 academic Colleges: Medical and
+ Dental Sciences (MDS; Main Panel A (MPA)), Engineering and Physical Sciences (EPS;
+ MPB), Life and Environmental Sciences (LES; MPs A, B and C), Social Sciences (CoSS;
+ MPC) and Arts and Law (CAL; MPs D and C). The latter 4 Colleges are further divided
+ into 4 to 7 Schools, the lowest level of budgetary academic unit. In 2015, MDS reorganised
+ into an 8-Institute structure to reflect its key research priorities. Most disciplines are
+ mature; Pharmacy is the only new area that we are submitting compared to previous
+ REF/RAE exercises.
+ As a measure of research volume, UoB’s annual number of research publications
+ increased from 4,799 in 2014 to 5,734 in 2019 (Section 2), while our research income has
+ increased from £112m to £151m (Section 4).
+ The University is located within the West Midlands, population 5.6m. The city of
+ Birmingham, population 1.08m, has greater economic inequality than any other British city
+ and high ethnic diversity (53% White British). The University engages with the city and
+ region across the full breadth of our research portfolio, from health and environment, to
+ energy, transport and leadership.
+ Our Dubai campus opened in 2017 (target 2,940 students by 2028) and a research stream
+ is being developed - including recent funding from UAE Education Ministry. We also have
+ strategic research partnerships and collaborations in Europe, India, China, Brazil, USA
+ and Australia.
+ 2. Strategy
+ 2.1 Strategic Goals for Research and Impact
+ The goals and actions for research and impact specified in our Strategic Framework 2015-
+ 2020 are to:
+ 2.1.1 ‘Enhance the quality and reach of our research’
+ Investment in academic staff has been key:
+      Recruitment to Research Fellowships to build critical mass (3.4.1)
+      Launch of a Research Leaders’ Programme, supporting selected mid-career
+         academic staff to progress (3.4.4)
+      Local (UoA-level) support to build an enhanced research culture ‘that stimulates,
+         nurtures and engenders drive, confidence and ambition’
+      Measures to enhance interdisciplinary collaboration and external partnership (2.3)
+                                                                                       Page 1
+
+
+Institutional level environment template (REF5a)
+ Research publications data indicate an increase in quality, disciplinary breadth and reach
+ over the REF period, with significant increases in publication with international partners.
+                           Table 1: Publications Data (SciVal 2020)
+  Measure               2014     2015      2016       2017    2018      2019    % change
+                                                                                  since
+                                                                                   2014
+  Volume:              4,801    4,887     5,235      5,428   5,600      5,734     19.4%
+  Scholarly output
+  Breadth:             89.5%    92.8%     92.2%      91.9%   91.9%     93.7%       4.7%
+  Subject areas
+  covered
+  Breadth:              6.3%     6.4%      6.5%       6.2%    6.1%      6.2%      -1.6%
+  Academic-
+  Corporate
+  Collaboration
+  Breadth:             48.8%    50.3%     51.7%      50.6%   55.6%     56.9%      16.6%
+  International
+  Collaboration
+  Impact: Outputs      22.2%    22.9%     23.6%      21.4%   23.2%     24.2%       9.0%
+  in Top 10%
+  citation Percentile
+ 2.1.2 ‘Invest strategically to create and strengthen areas of excellence’
+ Through our Dynamic Infrastructure Fund, we have invested strategically (ca. £30m) in 20
+ key research areas, including Gravitational Waves, Regional Economic Development,
+ Human Brain Health, Quantum Technologies, Biomedical Imaging, Modern History,
+ Thermal Energy, Superdiversity, Security. The University’s Foresight and Strategic
+ Research Themes Group comprises members from a range of sectors and backgrounds,
+ providing external context, advice and advocacy to steer investment and shape major
+ funding bids. Strategic research partnerships in US, China, India, Australia, Europe have
+ been built around key research areas, and we have implemented a £500m capital
+ programme for research infrastructure focussing on them (4.2). These key areas have
+ generated over £300m in new research awards in the REF period. The Queen’s
+ Anniversary Prize awarded to our Centre for Rail Research and Education exemplifies
+ external recognition of our strengths.
+ 2.1.3 ‘Expand the impact of our research’
+      We have invested, and leveraged investment, in facilities that enable external
+         engagement and impact (4.3) and in teams supporting intellectual property
+         development (UoB Enterprise), business engagement, research impact and public
+         engagement.
+      The Industry Professorial Fellows scheme (3.4.1) was established to stimulate and
+         link basic research to translation.
+      Impact culture has been strengthened by training the next generation via ECR
+         networks (3.3) and the ‘Medici’ academic entrepreneurship programme; increasing
+         the number of School-level industry advisory groups; embedding impact in
+         recognition and reward (3.4.6); initiating annual University Prizes and a central fund
+         for impact; encouraging leadership through School and College Impact Leads, and
+                                                                                         Page 2
+
+
+Institutional level environment template (REF5a)
+         appointing a DPVC (Research Impact) and a DPVC (Regional Engagement);
+         communicating impact through e.g., the ‘Birmingham Heroes campaigns’ in
+         2018/19, including features at Euston Station.
+        We developed key external partnerships to enable impact, e.g. establishing
+         Birmingham Health Partners (BHP), an alliance between UoB and two NHS
+         Foundation Trusts bringing healthcare innovations to clinical application at pace
+         and scale; sponsoring CBI annual conference in 2017, 2018; Membership of
+         Business in the Community network.
+ Two success indicators have been the growth of new research awards from industry (£6m
+ in 2015-16 to £24m in 2019-20), and the growth of the University’s HEIF allocation
+ (determined by metrics including IP income, business, consultancy, regeneration, SME
+ support).
+ 2.1.4 ‘Increase levels of external investment in our research and our share of
+         competitively-won research income’
+ In 2016 we set ambitious 10-year targets for 10% annual research-income growth (to
+ £300m by 2026); new research awards have grown by an average of 12% a year since
+ 2015 (4.1.1).
+ 2.1.5 ‘Work with other universities to increase influence and impact’
+ We are founder members of Midlands Innovation (MI), a collaborative network of eight
+ research-intensive universities. Two key MI projects led by UoB are the £5m
+ Commercialisation of Research Accelerator (MICRA), funded by Research England; and
+ the Energy Research Accelerator (ERA) research hub, (Director: Freer, UoB), with
+ ~£180m of Innovate UK, University and industry funding. Since 2018, MICRA has trained
+ 1,200 academics and leveraged £65m of additional funding across the eight universities,
+ while ERA has created 23 major new research and innovation facilities in energy
+ technologies across the network.
+ Through our strategic partnership with Nottingham University, we jointly invested £10m in
+ ‘COMPARE’ (2016-21), assembling leading researchers and facilities to develop novel
+ methods for visualising single membrane proteins, with application to prevention and
+ treatment of cardiovascular disease and cancer. We are partners of the Turing Institute
+ (since 2018), Faraday Institution, and Rosalind Franklin Institute, working with leading
+ universities to advance data science, electrochemical energy storage and life sciences
+ technologies.
+ 2.1.6    ‘Develop strategic partnerships with business, public sector and third sector
+         organisations’
+ We have received major ISCF awards to address national priorities with industry partners
+ in, e.g., robotics and batteries, and established new national facilities including the
+ National Buried Infrastructure Facility and the Centre of Excellence in Digital Rail Systems
+ (Section 4). The Birmingham Stories National Literacy Hub is a collaborative initiative with
+ the National Literacy Trust (their first hub partnering a university) aiming to improve
+ literacy among KS3 students and adults by embedding UoB research into the NLT’s
+ programs and interventions.
+ 2.1.7 ‘Collaborate to shape priorities and activities to increase opportunity and
+         well-being in the region’
+ Strong links are established with the West Midlands Combined Authority (WMCA) through
+ our joint WM-REDI economic development institute (£4.9m from Research England’s
+ Development Fund), and through membership of the WMCA Innovation Board; and the
+                                                                                         Page 3
+
+
+Institutional level environment template (REF5a)
+ Royal Shakespeare Company through our Shakespeare Institute at Stratford. We have
+ secured £30.2m ERDF funds to work on R&D challenges involving approximately 1,500
+ SMEs across Energy, Rail, Manufacturing, Quantum Technology, Materials and Health
+ Technologies, and a further £7m from the LEP’s Local Growth Fund to establish the
+ Birmingham Energy Innovation Centre. Located in Tyseley Energy Park, the centre will
+ demonstrate new low-carbon technologies, contributing to Birmingham’s reduced CO 2
+ targets by 2030.
+ 2.1.8 ‘Strengthen relationships with key international partners and foster new ones
+         to enhance reach and relevance globally’
+ We have established secure, long-term, strategic relationships globally for research
+ collaboration and influence:
+       University of Illinois Urbana-Champaign: Our BRIDGE partnership involves 80
+         academics across all five UoB Colleges. Research collaboration has led to
+         increasing output of jointly authored papers: 142 in 2017 (FWCI of 6.43). Five three-
+         year BRIDGE research fellows have completed their fellowship and transferred into
+         academic positions. (3.4.1).
+       University of Melbourne: Over 50 active research links across all disciplines, and
+         the £2m Priestley Joint PhD Scholarships programme for life sciences and
+         engineering, established 2016. 199 jointly-authored papers were published in
+         2019, FWCI of 8.01.
+ To secure strong relationships in Europe, post-Brexit, we have signed strategic
+ partnerships with Trinity College Dublin (bio-engineering, digital humanities and clinical
+ trials) and University of Amsterdam, the latter to share best practice in equality, diversity
+ and inclusion. The launch of the European consortium EUniWell in 2019 involving UoB
+ has resulted in a €5m Erasmus+ award to support wellbeing-related collaboration.
+ Our China Institute has facilitated new partnership development, including a ¥6m
+ microparticles initiative with Jiangsu Industry Technology Research, and increased
+ collaborations leveraged through bases in Guangzhou and Nanjing, with enhanced
+ outputs and grant capture. Our India Institute has improved visibility and profile,
+ significantly increasing joint publications with Indian partners in the top 10% of highly-cited
+ outputs, and stimulating greater grant capture and formal agreements to develop major
+ collaborations, notably with Haryana State Government. Our 10-year engagement in
+ Brazil has yielded resilient, impactful partnerships, notably through the UoB-FAPESP fund
+ that created a pipeline for external grants, including a £2M MRC/Newton/FAPESP award
+ for the UK-Brazil Joint Centre for Arbovirus with Sao Paulo University. A strategic
+ partnership with Waseda University in Japan features collaboration from Shakespeare to
+ Robotics.
+ 2.2 Research Integrity and Open Research
+ We are committed to maintaining high standards of scholarly and scientific integrity in our
+ research, with policy development led by the Research, Governance, Ethics and Integrity
+ Committee, chaired by the PVC (R&KT), and supported by the RGEI office (8 FTE). We
+ adhere to the 5 commitments of the UK National Concordat, setting expectations and a
+ governance framework in our Code of Practice for Research. We publish an annual
+ Research Integrity Statement outlining our processes, and integrity features in PGR
+ courses and staff inductions, including bespoke discipline-based activities and online
+ training for researchers and distance learners. The Clinical Research Compliance Team
+ (6.4 FTE) delivers proactive, expert support for research involving human participants that
+ is subject to external regulatory standards, ensuring responsibilities under the UK Policy
+                                                                                          Page 4
+
+
+Institutional level environment template (REF5a)
+ Framework for Health and Social Care Research are undertaken effectively and efficiently
+ with appropriate ethical review.
+ We are increasingly prioritising Open Research (OR), which in turn facilitates testing of
+ reproducibility, and are a signatory of DORA. The Open Research Board focuses on
+ developing initiatives beyond compliance to reap the benefits of OR.
+ The Scholarly Communications team supports our open data repository (4.5) accessed
+ via the Pure CRIS system, manages the University’s Gold Open Access funds and
+ provides guidance on Green Open Access. The Library Research Support Team runs
+ workshops and online courses on OR, and when negotiating journal subscriptions, we
+ prioritise Open Access provisions within licence agreements.
+ 2.3 Interdisciplinary research
+ 2.3.1 We aim to support, recognise and reward interdisciplinary research. The Institute
+ for Advanced Studies (IAS) and Institute for Global Innovation (IGI) together provide a
+ framework for developing interdisciplinary research from idea generation to securing
+ funding and output production. Additionally, there are numerous interdisciplinary centres
+ (see research centres) at local level.
+ 2.3.2 The IAS facilitates ‘bottom-up’ interdisciplinary networking through workshops and
+ talks, international visiting fellowships, funding and engagement with end users. Support
+ from IAS led to the development of the Institute for Mental Health, National Centre for
+ Nuclear Robotics and the Centre for Human Brain Health.
+ 2.3.3 The IGI, launched in 2018, takes a challenge-led, mission-driven approach to
+ interdisciplinary research, aiming to inspire, facilitate and deliver research addressing
+ pressing global challenges. Harnessing the breadth of UoB research, it has raised nearly
+ £20m in research funding, including £5.7m from the GCRF, and promotes four main
+ themes: Gender Inequality, Resilient Cities, Water Challenges and Transnational Crime,
+ alongside emerging themes. The IGI enables scholars from multiple disciplines, financially
+ and logistically, to generate holistic responses to challenges and connect with scholars
+ and stakeholders in LMICs, ensuring diverse global perspectives are incorporated into our
+ research culture.
+ 2.4 New Strategic Framework
+ Building on the success of the last 5 years, our draft Strategic Framework (2021-2025),
+ sets 4 key research goals:
+     1. Identify, review and invest in key research strengths: initiate a robust review
+          (with international input) of research strengths, and 5-year plans to develop 30-40
+          such areas; build strategic partnerships with other HEIs, nationally and
+          internationally, around these strengths.
+     2. Reduce barriers to interdisciplinary working: establish the Interdisciplinary
+          Data Sciences Institute; joint supervision of PhDs across disciplines; digital
+          networking of researchers across UoB.
+     3. Embed impact in our research: review our assets – facilities, expertise, support
+          teams – to maximise benefit; develop a culture of enterprise and innovation
+          supported by an ‘ideas factory’; maximise public engagement opportunities of our
+          city-centre hub, ‘The Exchange’ (4.2.2).
+     4. Continue to enhance our research culture and address EDI issues: develop
+          new academic-staff-development programmes; new research-integrity strategy;
+          new university-wide academy to support ECRs.
+                                                                                        Page 5
+
+
+Institutional level environment template (REF5a)
+ We will ensure professional support and infrastructure underpin these priorities, with
+ emphasis on co-ordination across professional services.
+ 3. People
+ 3.1 Strategy
+ We aspire to be a destination of choice for the best researchers – from postgraduates to
+ professors. People and Culture is a theme in our new Strategic Framework, and places
+ value on those who are at the heart of what we do. Our ambition is to continue developing
+ a vibrant research culture that stimulates and nurtures, is inclusive, equal and diverse,
+ and recognises the importance of staff development from recruitment and induction
+ through to support, progression and retention.
+ 3.2 Postgraduate researchers
+ With nearly 4,000 postgraduate researchers (PGR) (30% international), including 440
+ visiting students, we focus on creating a supportive infrastructure and a high-quality
+ student experience. The Postgraduate Dean (position established 2018) develops
+ strategy and leads enhancements of the offering for all postgraduate students, supported
+ by a Director of Postgraduate Research. UoB commits to welcoming all postgraduates
+ into our vibrant and supportive research culture through our Postgraduate Guarantee. The
+ Westmere Hub, run by the University Graduate School (UGS), opened in 2015, providing
+ a training and social space for all PGR students. The Hub hosts training to support PGRs’
+ development across the Researcher Development Framework (e.g., academic skills,
+ entrepreneurship, career management), whilst high-profile annual events disseminate
+ PGR research widely within the University (Research Poster Conference, Images of
+ Research, Three Minute Thesis). A cross-institutional community is facilitated by the PGR-
+ led activities fund, and five PGRs are appointed as Westmere Scholars to support peer-
+ led community building and researcher-development activities within the Hub, with key
+ themes including wellbeing and inclusivity.
+ The UGS manages the PGR Annual Review process and leads quality assurance projects
+ to understand the PGR experience and tackle any issues. This includes face-to-face
+ training for new PGR supervisors (and those new to the University) and conducting
+ surveys (e.g., Postgraduate Research Experience Survey, PGR Exit survey) to collect
+ initial destinations data and details of PGR alumni to facilitate future career
+ talks/mentoring.
+ Annually, we spend approximately £10m on PhD scholarships distributed by the Colleges,
+ and have offered 10-15 Global Challenges PhD scholarships annually since 2016 with
+ cross-College supervision.
+ 3.3 Early Career Researchers (ECRs)
+ The University is committed to enhancing the development and careers of ECRs. A
+ major route to achieving this is the Postdoctoral / Early-Researcher Career
+ Development and Training (PERCAT) scheme for STEM Colleges and the Early
+ Career and Research Staff Committee (ECARS) for non-STEM Colleges. With senior
+ academic and ECR representation from Colleges, these tailor personal and career
+ development to disciplinary needs. Regular activities developed by ECRs include
+ seminars, training, research-funding and Fellowships workshops. We aim to foster a
+ collective identity for ECRs, ensuring the postdoctoral voice is represented in
+ formulating College strategy. These groups, in turn, feed into the University-level
+ Researcher Development Steering Group, comprising senior academic and ECR
+ representation from all Colleges and reporting directly to Research Committee.
+                                                                                       Page 6
+
+
+Institutional level environment template (REF5a)
+ Our European HR Excellence in Research Award was renewed in 2016 and 2020,
+ recognising the work we do to support ECRs. We have conducted a gap analysis
+ against the principles of the New Concordat leading to an action plan that also
+ underpins our HR Excellence in Research actions. The ECR work-stream of the
+ Birmingham Academic Career Framework project has embraced the Concordat principles
+ and is recommending their adoption through a guidance code for research leaders. The
+ Careers in Research Online Survey (CROS) and the PIs and Research Leaders
+ Survey (PIRLS) are conducted biennially and an ensuing action plan is agreed. In 2019
+ we received positive (higher than national) responses, for ECRs feeling valued in
+ publications, funding applications, and public engagement. The University supports the
+ National Postdoc Appreciation Week.
+ 3.4 Academic Staff (Teaching and Research)
+ 3.4.1 Recruitment strategy
+ The University has expanded REF-submitted staff FTE, from 1,141 (REF 2014) to 1,560
+ (REF 2021), via a sustained academic staff recruitment drive - at junior levels to grow
+ careers, and senior levels to provide research leadership. Research-only staff numbers
+ have also grown from 899 to 1,114 in the period, with staff originating from 78 countries.
+ This recruitment, including the fellowship schemes given in Table 2, has selectively
+ enhanced research strengths and critical mass in areas including Corpus Linguistics,
+ Biomedical Imaging and Mathematical Biology.
+                                Table 2: Fellowship schemes
+       Scheme         Number recruited in REF                      Description
+                              Period
+     Birmingham                 90                   attracts early-career independent
+       Fellows                                        researchers to conduct original high-
+                                                      quality research
+                                                     five years protected research time
+                                                     Fellows graduate to Lecturer/Senior
+                                                      Lecturer at the end
+  BRIDGE Fellows                 5                   novel variation of Birmingham Fellows
+                                                      scheme including provision to spend one
+                                                      year at University of Illinois developing
+                                                      research collaborations
+     Professorial               23                   targeted at mid-career academics on a
+      Research                                        steep upward research trajectory
+     Fellowships                                     three years protected research time
+       Industry                  2                   targeted at individuals in industry or
+     Professorial                                     working      at    the    industry-university
+       Fellows                                        interface
+                                                     supports transition to academic sector to
+                                                      drive      industry-university      research
+                                                      collaborations
+   Interdisciplinary             4                   targeted at individuals in established
+      Professors                                      Chair positions
+                                                     expected to lead and develop significant
+                                                      interdisciplinary research spanning two or
+                                                      more Schools, e.g., Computer Science
+                                                      and Law
+                                                                                            Page 7
+
+
+Institutional level environment template (REF5a)
+ 3.4.2 Staff Inductions
+ Central Inductions for new staff provide an overview of the University’s priorities and
+ academic environment, and are delivered simultaneously to academic and professional
+ services staff to encourage collaboration. Mandatory online training for new starters
+ includes Equality and Diversity and Health and Safety.
+ 3.4.3 PDRs and Study Leave
+ New academic staff have a probationary personal development planning (PPDP) period,
+ and are allocated a PPDP mentor to help develop their initial academic objectives with
+ their Head of School. Performance and Development Reviews (PDRs) are conducted
+ annually and managed locally by Colleges and Schools. The University’s HR Excellence
+ Award action plan shows our commitment to a consistent approach to PDRs, recognising
+ their centrality to career development, particularly for those from less represented
+ backgrounds. Academic staff are entitled to apply for study leave (up to 1 semester per 7,
+ with an enhanced scheme in CAL), an opportunity to develop research activities and for
+ personal development.
+ 3.4.4 Training and Development
+ A suite of leadership training courses is tailored to all academic career stages. This
+ includes teaching ECRs to understand core leadership and management skills, and a
+ Senior Leaders Programme for staff taking up greater formal leadership and managerial
+ roles (e.g., College Director of Research), incorporating sessions on ED&I and ‘leading in
+ a diverse context’. The Research Leaders Programme, introduced 2016, offers mid-career
+ academic staff training and support to lead large research programmes with multi-
+ disciplinary collaborations (90 academic attendees to date).
+ The Aurora Leadership Programme, completed by 100 early-career female academics
+ and new senior leaders, aims to develop skills and confidence to negotiate careers and
+ build networks. The Aditi Leadership Programme for BAME academic and academic-
+ related staff, completed by 58 colleagues, helps identify and address the barriers
+ colleagues may face.
+ Our University-wide ‘Developing as a Researcher’ courses for all career stages include
+ career planning, encouraging research integrity, grant writing sessions hosted by external
+ academics and Journal Article writing. Our ‘Influential Researcher’ workshops focus on
+ reaching audience and raising research profile, including sessions on collaboration and
+ wellbeing.
+ 3.4.5 Staff Support
+ The wellbeing of staff is central to creating an inclusive, thriving research environment.
+ The Workplace Wellbeing team provides an Employee Advice and Listening Service to
+ support staff in making informed decisions about work and personal issues, an Employee
+ Disability Service offering practical guidance for disabled staff, and an Occupational
+ Health Service to advise staff about how health (e.g., return to work after sickness) may
+ affect work. Cross-University teams collaborate annually to provide a week of wellbeing-
+ related activities, such as ‘The Happiness Workshop’, for academics. Additionally, we host
+ a staff-wellbeing conference with Nottingham University; in 2019, over 30 HR practitioners
+ and researchers from across the Midlands looked at how wellbeing initiatives work.
+ In 2016, we created a DPVC (ED&I) role to provide leadership and drive progress on ED&I
+ issues, and a network of College Equality Leads to support and embed change using
+ local, subject-specific approaches. The central Equality Team oversees implementation
+                                                                                      Page 8
+
+
+Institutional level environment template (REF5a)
+ of ED&I strategy and inter alia provides ED&I information to support research funding bids,
+ including participation of University academics in equality events. An important
+ contribution is to support academic staff (particularly women) to use techniques to combat
+ ‘trolling’.
+ Supported by an EPSRC "Inclusion Matters" award, we are conducting rigorous research
+ into bias in making judgements of academic quality, and evaluating the effectiveness of
+ trial interventions, such as ‘reverse mentoring’. Our staff networks are increasingly
+ recognised as models of sector best practice, and include thriving LGBTQ+, BAME,
+ Enabling, Women’s, and Parents’ and Carers’ networks, to ensure staff from under-
+ represented groups are supported and visible. They work together to host ‘Branching Out’
+ events across campus, recognising intersectionality in the ED&I agenda.
+ Our successful 2019 Athena Swan Bronze-level award application demonstrated that our
+ focus on developing female colleagues – through the introduction of institutional targets
+ and recent promotions and recruitment activities - has significantly improved the
+ proportion of senior female staff:
+                       Table 3: percentage senior female academic staff
+                          2014                 2020                  Target
+   Professors             20                   28                    30
+   Grade 9                27                   34                    30
+ The University received a bronze-level award under the Race Equality Charter (REC)
+ scheme in 2020. Analysis of staff data indicates issues in the recruitment and progression
+ of some groups of BAME academic and Professional Services staff. A key initiative is
+ delivering ‘Talking Confidently About Race’ workshops to all senior management teams,
+ focussing on identifying and addressing bias, micro-aggressions, institutional racism and
+ white privilege. We have also introduced institutional targets for BAME staff representation
+ at each grade.
+ We engage with the Stonewall Workplace Index, aiming to enter the Top 100 Employers’
+ Index as a demonstrable sign of commitment to LGBTQ+ issues. We launched an
+ LGBTQ+ Allies Scheme, open to all staff. In 2020, UoB hosted the LGBTQ+ STEMinar,
+ an annual UK research conference celebrating the work of STEM researchers who identify
+ as LGBTQ+.
+ All staff can request a flexible working pattern. Academic staff on research and teaching
+ contracts returning from maternity, adoption or Shared Parental Leave are entitled to one
+ term’s respite from teaching or administration duties to enable them to focus on research.
+ 3.4.6 Promotions, Reward & Recognition
+ A focus in the REF period has been on embedding reward and recognition of Research
+ Impact in processes at every career stage, including recruitment, PDR, and as a prioritised
+ criterion in promotion. We have committed to valuing and rewarding impact in its broadest
+ sense, appointing or promoting a number of Chairs in direct recognition of their excellence
+ in Impact.
+ 4. Income, infrastructure and facilities
+ 4.1 Research Awards
+ Our strategic goal is to increase research awards and income by 10% per annum from
+ 2016 to 2026 to enhance the volume, quality and impact of our research. Table 3 shows
+                                                                                       Page 9
+
+
+Institutional level environment template (REF5a)
+ a steady increase in income and awards over the second half of the REF period, on track
+ to reach our 2026 goal.
+                  Table 4: Research Awards and Total Research Income (HESA)
+                 2013-14 2014-15       2015-16 2016-17 2017-18 2018-19 2019-20
+   Awards
+                 123,573 143,683 136,948 170,197           204,300     215,475     220,343
+   (£000s)
+   Total
+   Research
+                 111,769 126,395 135,465 124,031           134,237     150,620     140,266*
+   Income
+   (£000s)
+ *(including - £11m ‘COVID accounting adjustment’)
+ To achieve such increases, we have expanded our research support ecosystem.
+ Research Development teams (42.8FTE) are embedded in each of the Colleges,
+ providing discipline-specific advice to PIs preparing funding bids. Central teams provide
+ support for EU/International funding, engagement with industry/charity funders, grant set-
+ up and post-award support. Our Business Engagement team, increased from 9 to 21 FTE
+ since 2014, develops strategic academic-industry partnerships and has helped to
+ increase industry research grants by over 200% between 2014 and 2020. Our Research
+ Planning Team provides institutional support and guidance and training in Impact and
+ REF, Open Access and Research information.
+ We support PIs to develop applications for multimillion-pound complex research and
+ innovation projects (e.g., RPIF, ISCF, ESIF) through the Strategic Research Development
+ team, typically co-ordinating a range of external partners/stakeholders and internal
+ academic and professional services teams across the University. The Development and
+ Alumni Relations Office encourages philanthropic support for research projects, including
+ from Trusts and Foundations; the Birmingham in Action campaign, launched 2019, set
+ stretching targets for philanthropic research awards to help tackle global challenges, such
+ as youth mental health.
+ University of Birmingham Enterprise supports academics to take ideas to market, creating
+ new businesses and social enterprises, providing enterprise training, access to
+ investment, office and laboratory space and a full ‘Knowledge Exchange’ service. In
+ 2019-20, 63% of researchers used these services.
+ Our research communications team has recently prioritised examples of research impact:
+ 53 impact cases were supported with communications and policy activity across the
+ Colleges and 41 through high-profile Heroes and Quest campaigns. These campaigns
+ feature diverse academics in terms of gender, ethnicity, sexual orientation and career
+ stage, creating visible role models.
+ 4.2 Major Capital Investment
+ In this REF period, we have invested substantial capital and leveraged external
+ investment, in physical assets that provide a world-class environment for research and
+ extend the breadth and depth of knowledge exchange and impact.
+ 4.2.1 Core research facilities
+ Investments in the core research and education environment since 2014 include the
+ £25.9m Business School Extension (opened 2019), a £83.7m new building for
+ Engineering (2021), £ 16.3m refurbishment for Law/Music, £22.6m investment in the
+                                                                                     Page 10
+
+
+Institutional level environment template (REF5a)
+ School of Psychology, new £80m Molecular Sciences building (2023) as a principal
+ research space for Chemistry and Environmental Sciences, and a £59.2m new Main
+ Library (2016).
+ 4.2.2 Knowledge Exchange investments
+ To enhance the University’s external engagement, knowledge exchange and impact
+ strategy we have invested in:
+                            Table 5: Knowledge Exchange Investments
+       Building          Investment (£)                            Purpose
+  The      Exchange          40.2m              hub to bring local partners and community
+  (Opening 2021)                                 together to shape and transform the region,
+                                                 deliver public engagement programmes
+                                                housing the new RED-funded regional economic
+                                                 development institute, WM-REDI.
+  Edgbaston      Park        40.9m              hosts research conferences, and knowledge
+  Hotel           and                            exchange activities e.g., the 2019 Quantum
+  Conference Centre                              Technologies Hub Phase 2 launch, involving
+                                                 national and international academics and
+                                                 companies
+  University        of   22.6m (20m from        the only UK-university-owned comprehensive
+  Birmingham           DoE)                      school; engages strongly with university
+  School                                         researchers, including the Jubilee Centre for
+                                                 Character and Virtues and School of Education
+  Birmingham                  15m               harnessing academic and clinical partnerships
+  Health Innovation                              establishing West Midlands as a leader in Life
+  Campus (Opening                                Sciences R&D
+  2023)                                         bringing together our research expertise in health
+                                                 data, medical technologies and clinical trials with
+                                                 NHS and industry partners
+  Tyseley     Energy           3m               working with the Birmingham City Council, LEP
+  Park                                           and WMCA to deliver large-scale sustainable
+                                                 solutions for energy, waste and transport for the
+                                                 city, including an innovation hub with £7m of LEP
+                                                 funding
+  IGI     and     IAS         995k              newly-refurbished        building on campus,
+  (Section 2)                                    facilitating Global Challenges research and
+                                                 interdisciplinary dialogue across Colleges and
+                                                 disciplines
+ 4.2.3 Strategic research and innovation themes
+ Capital investments (£47m UoB, £136m external) to support specific research and
+ innovation themes include:
+                                                                                          Page 11
+
+
+Institutional level environment template (REF5a)
+                                    Table 6: Capital Investments
+         Building          Investment                               Purpose
+                                (£)
+    Centre for Human          9.9m                a new-build housing functional magnetic
+  Brain Health (CHBH)                              imaging (fMRI) and magnetoencephalography
+                                                   (MEG) scanners
+      Digital Systems     18.6m (14.325           part of Birmingham-led UK Railway Research
+    Integration Centre       UKRPIF)               and Innovation Network
+      National Buried     27.6m (21.6m            unique facility for research/training in buried
+  Infrastructure Facility    EPSRC)                infrastructure-ground interaction, soil
+                                                   stabilisation and improvement, geophysical
+                                                   sensing, and trenchless technologies; part of
+                                                   the UKCRIC national programme
+       Birmingham          3.116m (1m             refurbishment of glasshouse, providing a
+      Environmental          Wolfson)              controlled environment for plant sciences
+     Research Facility                             where conditions (eg CO2 and pathogen
+                                                   levels) can be manipulated
+     Free Air Carbon       15.7m (15m             assesses the impact of rising CO2 levels on
+   Enrichment (2018)         JABBS)                whole forest ecosystems - the second such
+                                                   facility worldwide, unique in Northern
+                                                   Hemisphere
+                                                  Part of Birmingham Institute of Forest
+                                                   Research providing a step-change in UK
+                                                   interdisciplinary forest research
+        Institute of           24m                promotes NHS-industry-academia interactions,
+       Translational                               accelerating development of healthcare
+         Medicine                                  innovations
+                                                  houses the £7m Healthcare Technologies
+                                                   Institute within a Class 2 containment area,
+                                                   equipped with the latest electro-mechanical
+                                                   testing machines for evaluating surgical
+                                                   implants, enabling work with surgeons and the
+                                                   healthcare industry
+    High Temperature        60m (20m              joint with Rolls-Royce; the unique processing
+     Research Centre      UKRPIF; 40m              capability for investment casting of aeroengine
+                               RR)                 components, and design and simulation for
+                                                   advanced manufacturing, enables production-
+                                                   scale research delivering rapid high-quality
+                                                   product and process innovation
+ 4.3 Libraries and museums
+ Our libraries are key to supporting research, holding over 1.8 million print and 500,000
+ online books, and over 85,000 print and online journals. The Library Research Suite
+ includes a reserve amassing stock from previously disparate stores in a controlled
+ environment. The Cadbury Research Library houses extensive special collections with
+ rare books and manuscripts dating back to 1471, including 120,000 books and 3 million
+ manuscripts available to researchers.
+                                                                                               Page 12
+
+
+Institutional level environment template (REF5a)
+ Our Research and Cultural Collections, one of the most varied University offerings in the
+ UK, incorporates the Danford Collection of West African Art and Artefacts, the
+ Archaeology Museum, the Historic Physics Instruments, the Historic Medical Artefacts and
+ a Fine Art Collection (including outdoor sculpture). The Barber Institute of Fine Art holds
+ one of the most outstanding and internationally-significant collections of Western Art
+ assembled in the UK in the 20th Century.
+ Our Lapworth Museum of Geology (reopened 2016 following an award-winning £2.5m
+ redevelopment) has >60,000 visitors/year. Designated as ‘outstanding’ by Arts Council
+ England (ACE) and an ACE National Portfolio Organisation, it was shortlisted for Art Fund
+ Museum of the Year 2017. This outstanding venue for researchers to engage the public
+ houses around 300,000 internationally-renowned objects.
+ 4.4 Enabling Technologies
+ We have invested £7.8m in our Enabling Technologies function during the REF period,
+ providing a sustainable equipment base and technical expertise in key life-sciences areas
+ such as Sequencing, Mass Spectrometry, Cell Sorting, Fluorescent Imaging, NMR, and
+ Computational Biology, and a platform for engaging external users.
+ We provide match funding for equipment bids to research councils and other funders
+ through a central fund, and made a one-off investment of £10m in 2016-17 to upgrade
+ research equipment, principally in STEM disciplines. Our PVC (R&KT) established and
+ chaired the Midlands Innovation Research Efficiency Group (2016-2018), developing
+ policy and mechanisms for sharing facilities and equipment across the Midlands.
+ National-level facilities include the Henry Wellcome Building for Nuclear Magnetic
+ Resonance, a £16m resource on campus providing access to six high-field NMR
+ spectrometers, with funding competitively won from Wellcome and EPSRC. The UK’s only
+ 1 GHz liquid-phase spectrometer was delivered in 2020, providing scientists with insights
+ into the molecular basis of human health, cancer progression and infectious diseases.
+ Phenome Centre Birmingham, developed through an £8m MRC award and four scientific
+ instrument companies, is a state-of-the-art metabolic phenotyping centre conducting small
+ and large-scale studies in medical research and stratified medicine, from conception and
+ experimental design through data acquisition and analysis, and biological interpretation.
+ The University uses external facilities to enable research and impact that cannot be
+ conducted on campus. A 10-year agreement with Diamond Light Source includes lead
+ responsibility for beamline I18 designed for corrosion studies. The US-based Laser
+ Interferometer Gravitational-Wave Observatory (LIGO), is used by our Institute for
+ Gravitational Wave Astronomy.
+ Our 300+ technical staff play a critical role in enabling researchers to deliver cutting-edge
+ research. As a signatory of the national Technician Commitment we support the visibility,
+ recognition, career development and sustainability of the technician community and in
+ 2017 launched our Technical Academy to implement this commitment.
+ 4.5 Research Computing
+ The Birmingham Environment for Academic Research (BEAR) supports researchers with
+ high-performance computing and data storage facilities and expertise. Key services
+ include BlueBEAR, a Linux-based, batch-processing HPC Cluster and BEAR AI, the
+ largest IBM AI cluster in the UK. The Research Software Engineers team (3 FTE) has
+ delivered ‘Software Carpentry’ since 2018, supporting researchers in delivering quality,
+                                                                                        Page 13
+
+
+Institutional level environment template (REF5a)
+ reproducible research through the adoption of accepted good practice. In 2018, we
+ opened a £6m research data centre to meet the demands of a high power, dense
+ research-computing infrastructure.
+ Our Open-Data strategy is supported by UBIRA ePrints, which currently contains 174 data
+ set records, 94% openly accessible and 160 published in the REF period. The Library’s
+ e-thesis repository contains 7,703 theses (3924 in REF period, 86% open access) with
+ 7.5 million downloads to date.
+                                                                                  Page 14

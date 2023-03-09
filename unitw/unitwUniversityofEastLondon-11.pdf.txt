@@ -1,0 +1,600 @@
+Unit-level environment template (REF5b)
+  Institution: University of East London
+  Unit of Assessment: 11 Computer Science and Informatics
+  1. Unit context and structure, research and impact strategy
+1.1      Overview
+The Computer Science and Informatics UoA is based in the Department of Computer Science &
+Digital Technologies, within the School of Architecture, Computing and Engineering at the University
+of East London (UEL) and supports internationally leading applied research with a clear focus on
+knowledge transfer to government and industry. We firmly believe the vital role of research in
+our academic life and support UEL’s key strategic objective of increasing the economic, social and
+cultural impact on communities through our education, research & enterprise activities. Since 2014
+the Unit has pursued the following strategic aims:
+•    Develop solutions for economic and environmental challenges [SDG Goal 9], while searching for
+     opportunities of application and commercialisation
+•    Increase the income generation of external research collaborations and knowledge exchange
+     projects
+•    Prioritise the recruitment of new staff who produce high-quality research in common with our
+     focus of 'responsive’ research and knowledge transfer
+•    Increase our research focus by extending our existing areas of strength – software engineering
+     and cybersecurity – and to build two new research groups (Enterprise Computing group and
+     Intelligent Systems group)
+•    Taking advantage of the School’s diverse range of subject expertise and their synergy to conduct
+     interdisciplinary impactful research
+•    Improve the impact and dissemination of our work
+Despite our small scale, with 12.2FTE research-active staff members, increasing from 4FTE in our
+2014 REF submission, we are pleased we have tripled the size of our research-active staff.
+Research in the Unit has been structured around the following research groups:
+• Secure Software Engineering [1]
+• Enterprise Computing [2]
+• Intelligent Systems [3]
+These groups have a mentoring and peer support role rather than a formal management function
+and encourage inter-disciplinary research, mentoring of early career researchers and the
+collaborative supervision of research students.
+Since 2014, our portfolio of funded research has grown to all-time high levels, with over GBP1.97M
+of newly announced awards in this period. We regularly publish the outputs of our research in top-
+rated conferences and journals. We have focused our internal and external funding to improve our
+research environment, supporting high impact public engagement events, sabbaticals, research
+support, journals and conferences, and equipment.
+1.2 Research Strategy
+Our performance in REF2014 (UoA11, 4% 4*, 33% 3*, 33% 2* and 30% 1*) was good considering
+it was our first submission with just 4FTE. Over the last seven years, the institution has invested in
+people, specialist resources, and research infrastructure, to enhance capabilities and ensure a
+supportive and sustainable research environment.
+                                                                                               Page 1
+
+
+Unit-level environment template (REF5b)
+Informed by the feedback from our submission to REF2014, our research strategy during this period
+was adjusted to include the following:
+• Build on our track record of excellence in cybersecurity that was recognised by the REF2014
+    panel as an area of strength, with the creation of the Secure Software Engineering group.
+• Sustain the growth in important areas like cloud computing and artificial intelligence with the
+    creation of two new research groups, the Enterprise Computing research group and the
+    Intelligent systems research group.
+• Use our expertise to develop solutions to economic and environmental challenges, as outlined
+    in UN SDG Goal 9 of the Sustainable Development Agenda [16]. The outcome has been artefacts
+    used for knowledge transfer with government and industry.
+• Support the development of our new staff members through targeted investment, reduced
+    teaching loads and mentoring.
+• Enhance the research environment through internal investment in the recruitment of high-quality
+    research students with PhD scholarships.
+1.3      Plans for Research Support
+To foster academic collaboration, a series of research seminars have been delivered by research-
+active staff members to inform teaching-focused staff and PhD students on their research and to
+stimulate internal discussion and collaborations across various research topics. PhD students were
+also invited to present their projects to get feedback and prepare for their annual reviews and PhD
+viva. To foster external collaboration, a range of guest speakers have been invited from industry and
+academia to deliver lectures and participate in networking sessions. Furthermore, we have regular
+input to the Department from our industrial advisory panel and we have recently appointed a senior
+industrialist as a Visiting Professor, Lex Coors from Interxion, who will support our Enterprise
+Computing group, in particular.
+Lex is a veteran key international figure in data centres, where he serves as the Chief Data Centre
+Technology and Engineering Officer for Interxion / Digital Realty, one of the world’s largest data
+centre providers (who provide data centre services to large organisations, including Microsoft, IBM,
+Uber, etc.). Interxion has major data centres in the UK, particularly in East London. Working with
+Lex, we will explore opportunities for industrial placements within Interxion data centres and PhD
+scholarships. Lex holds key positions in organisations such as The Green Grid where he chairs
+various committees, as well as the European Commission where he serves as advisor on the subject
+matter. This collaboration will give us the opportunity to work with Lex on some of the major research
+issues currently being addressed in this field, particularly around Energy Efficiency KPI’s,
+Sustainability and Reliability. This relationship would be valuable for our future research funding bids
+given Lex’s standing. Lex could be very helpful in attracting major industry in any future attempts to
+create a major UEL data centre hub, not the least being a C level executive in one of the largest data
+centre organisations globally, with budget responsibility of $500M.
+Across the unit, institutional funding was provided to research-active staff to cover research
+expenses, such as software and hardware equipment, training, and ranked conferences. We
+invested significantly (over GBP0.5M) in new computer labs: a private OpenStack cloud computing
+platform, a Digital Security and Forensics Lab, a specific lab for post-docs and PhD students, a
+recently approved GBP300K multipurpose digital learning hub, and a new Cyber Security and
+Artificial Intelligence Research and Application Centre which will formally open in 2021.
+1.4 Research strategy for the next five years
+Building on our achievements since 2014, and reflecting the expansion of our research base, our
+future strategic aims from 2021 is in line with the institution’s ‘Future Life’ strategic objective. The
+goals of this objective are for UEL to be in the top quartile of REF2028 impact; to achieve sector-
+recognition for leading economy 4.0 innovation; while encouraging our economic and societal impact
+within our East London community. To achieve this, we will work towards improving the key
+performance indicators of research quality, research impact, innovation growth and international
+growth, by facilitating impact-led research and knowledge exchange, outreach activities, while
+                                                                                                  Page 2
+
+
+Unit-level environment template (REF5b)
+maintaining an emphasis on civic engagement in our department. We propose to achieve this in the
+following ways:
+•    Invest in emerging multi-disciplinary and established research areas. We will further invest in
+     staff and infrastructure that will help to position us as a recognised department for delivering
+     innovative solutions to both economic and environmental challenges.
+•    Manage and deliver impact from our research and communicate this to scientific, business and
+     public audiences. Alongside investment in research areas that can generate impact, we will
+     monitor and facilitate impact, and embed impact delivery into our research training.
+•    Increase our current collaboration and knowledge exchange with industrial partners on real-world
+     applications of Computer Science and AI. This enables us to produce impactful and real-world-
+     based research, per the institution’s long-term strategy for advancing knowledge and innovation.
+•    Continue the use of internal and external funding to provide a useful budget for all research-
+     active staff.
+•    Increase the number of PhD scholarships, and set aside funding for PhD students to buy
+     equipment and attend conferences and doctoral summer schools.
+•    Increase our research focus by utilising the expertise in the department held by our more
+     teaching-focused staff and early career researchers. We propose to establish a fourth research
+     group, namely the Technology Enhanced Learning research group.
+1.5 Proposed Research Group
+Technology Enhanced Learning (TEL) comprises a variety of innovative technological solutions to
+deal with numerous evolving educational challenges, including improving the experience of learners,
+academics, and institutions; providing adaptive, effective, and personalized learning to learners,
+managing and meeting users’ requirements, etc. Overcoming these challenges can empower
+learners and consequently society and contribute to improving the community quality of life. This
+interdisciplinary group will focus on the following three key themes:
+•    Technology for learning and teaching, assessment, and learner experience.
+•    Best academic practices to support effective formal and informal learning policies.
+•    Domain-specific education.
+Expertise from the current research groups will support this new research area. Technology
+Advanced Learning artefacts are enabled by various AI technologies and techniques, which can be
+used to customize the learner’s e-learning process, predict their performance, recommend learning
+activities, etc. Other distributed computing models such as Cloud Computing allow further flexibility
+so that e-learning scenarios/processes can be enacted/orchestrated using a series of web services.
+Finally, the substantive rise of adopting Technology Enhanced Learning software systems in real-
+life scenarios (e.g., academic organisations, lifelong learning, formal/informal learning, etc.)
+necessitates these software systems to be properly architected using various Enterprise Architecture
+concepts, standards, and frameworks.
+  2. People
+Our research-active staff are divided into three research groups, see Figure 1. Whilst it is not possible
+to elaborate in detail all our researchers and their work, we have selected a few individual stories to
+highlight instead.
+                                                                                                  Page 3
+
+
+Unit-level environment template (REF5b)
+                                     Figure 1 Research groups
+2.1 Research Group 1 - Secure Software Engineering
+The Secure Software Engineering research group currently has three staff members: Paolo Falcarin
+(working on software protection and security), Shareeful Islam (risk management and security
+requirements), and Ameer Al-Nemrat (cybercrime and digital forensics).
+Here is an example of a research project from this group:
+Dr Paolo Falcarin, Reader in Computer Science, led as principal investigator of the UEL team in the
+project ASPIRE (Advanced Software Protection: Integration, Research, Exploitation) [5], a 36-month,
+3M Euro project funded by the EU FP7 programme (UEL quota GBP390,897), where he worked with
+six partners across Europe on developing advanced software protections for Android apps against
+reverse engineering and software piracy.
+Flacarin’s contribution to the ASPIRE software toolchain [18] is the first software freely offering
+various code protection techniques against software piracy and copyright infringement, allowing
+SMEs to improve their software security without paying the exorbitant license fees of the current
+market leaders. The ASPIRE toolchain has been integrated in commercial products of companies
+such as Thales and NAGRA-Kudelski.
+In particular, the ASPIRE Code Renewability Framework plugin [17] of the ASPIRE Toolchain, led
+by Paolo Falcarin UEL’s team and Ghent University, has helped NAGRA-Kudelski addressing the
+challenge of dynamically updating crypto-libraries in their digital TV products, deployed across the
+globe in around 200 million devices, and in 2017 it also helped Thales in improving the security of
+the first version of the Alicem application, used by the French government to authenticate citizens
+through their mobile phones.
+All the software developed by UEL in ASPIRE has been published open-source and is freely
+available as part of the ASPIRE toolchain. A YouTube channel [19] was created with thirty
+demonstration videos of all the ASPIRE protections, industry use-cases and security assessments,
+reaching more than 10,000 views worldwide.
+                                                                                             Page 4
+
+
+Unit-level environment template (REF5b)
+Figure 2 highlights our collaborative efforts within UEL, with other Universities, with Industry and with
+Government.
+                       Figure 2 Internal and external collaborative relationships
+2.2 Research Group 2 - Enterprise Computing
+The Enterprise Computing research group is led by Rabih Bashroush, working on the design and
+implementation of energy-efficient systems, especially in Cloud and data centre environments.
+Here is one example of their world-leading research:
+Dr Rabih Bashroush, Reader in Distributed Systems and Software Engineering, is Global Head, IT
+Infrastructure Advisory at the Uptime Institute, whilst leading this research group at UEL. He plays a
+key role in driving energy efficiency in the design and operation of data centres and computer
+servers. Rabih provides strategic advice to public and private sector IT Infrastructure transformation
+projects covering consolidation, cloud adoption, resiliency and sustainability. He was named in the
+UK Universities top 100 Best Breakthrough list for his work on energy conservation in ICT and was
+the recipient of the Industry Initiative of the Year DCD Global Awards 2018. The Breakthrough list
+demonstrates how UK universities are at the forefront of some of the world’s most important
+discoveries, innovations and social initiatives. It was compiled by Universities UK, the umbrella group
+for the country’s universities, as part of the MadeAtUni campaign to show how lives are transformed
+through research and practical applications of theory and knowledge.
+The work conducted by Rabih in the EU-funded EURECA project [6], which examined the energy
+efficiency of data centres across Europe, provided the policy team with solid data. It demonstrated
+that IT servers in Europe remain idle for about 80 per cent of the time, making the introduction of
+energy caps the right thing to do. His research has impacted various other European policies such
+as the EU Environmental Management Audit Scheme (EMAS) for Telecommunications and ICT
+Services sector and the new EU GreenPublic Procurement (GPP) Criteria for Data Centres. Annual
+savings of over 27 thousand tons of CO2 equivalent emissions can be attributed to research and
+innovation projects led by him. He has led other European initiatives such as the European
+Commission DG CONNECT SmartCities research cluster and has advised and supported various
+governments including the UK, Ireland, and the European Commission.
+                                                                                                  Page 5
+
+
+Unit-level environment template (REF5b)
+Other group members are Dr Fahimeh Jafari and two lecturers who recently left (Dr Syed Islam and
+Dr Joseph Doyle) whose outputs are part of this submission.
+2.3 Research Group 3 – Intelligent Systems
+The Intelligent Systems Research Centre is led by Professor Mansour Moniri and focuses on
+applying innovative AI solutions to real-world business problems. Research topics include video,
+image, audio processing using AI techniques such as natural language understanding, machine and
+deep learning, big data analytics, mixed reality and recommendation systems.
+Here is one example of their research projects:
+Dr Julie Wall, Reader in Computer Science, investigates research along the theme of designing
+intelligent systems for processing and modelling temporal data. She has explored neural network
+architectures, ranging from biologically inspired modelling to computationally efficient machine and
+deep learning, to process a variety of data structures from numerical, audio, images, video, to 3D
+feature data from virtual and augmented reality environments. Julie has a close working R&D
+relationship with industry, which has involved joint industry-relevant research projects, internationally
+leading publications and sponsorship for research interns and PhD candidates.
+This ongoing successful collaborative R&D history has led to the submission of successful grant
+applications to Innovate UK, with a combined value of GBP2.2M. One of these projects is one of the
+four large Innovate UK grants awarded in 2019. This grant funded a post-doctoral research fellow
+and two research assistants, two of whom are UEL alumni. The work of Julie’s team in this project
+has focused on the development of an explainable AI-based software pipeline that will identify and
+justify the behavioural elements of a fraudulent claim during a telephone report of an insured loss,
+using statistical data science approaches and machine/deep learning models. The software
+developed in this Innovate UK project is being deployed in the insurance sector to tackle insurance
+fraud. It has also been trialled by the emergency services to tackle hoax calls. In both sectors, the
+aim is to reduce expensive fraud and unnecessary resource deployment. This work has already
+been published at Neural Information Processing Systems (NeurIPs), the top-ranked conference in
+Artificial Intelligence, amongst other top-level conferences. The technology is also patent pending.
+Other group members are Dr Saeed Sharif, Dr Amin Karami, Dr Mustansar Ghazanfar, Dr Seyed Ali
+Ghorashi, Dr Sin Wee Lee, and Dr Fadi Safieddine.
+2.4 Staffing strategy
+We have invested in high-quality research staff, and our REF submission from 4 FTE in 2014 has
+tripled to 12.2 FTE in 2021. We have recruited research-active lecturers to join our three research
+groups, who produce high-quality research in common with our focus of applied research and
+knowledge transfer. We have invested significantly in the intellectual and creative capital of our
+research community and value the contributions of all colleagues by:
+• providing an environment that stimulates innovation and minimises constraints
+• ensuring fairness in the allocation of research support
+• recruiting talented, outstanding researchers to bring competence on new technologies
+• retaining and rewarding staff who are central to our research strengths.
+2.5 Staff Development
+We have followed a policy of recruiting, retaining and rewarding high-quality ECRs. For example,
+Amin Karami and Fahimeh Jafari were hired as lecturers and they are now Senior Lecturers; Julie
+Wall was hired as a senior lecturer and she is now a Reader and Director of Impact and Innovation
+for the School of Architecture, Computing and Engineering, Rabih Bashroush, Paolo Falcarin and
+Ameer Al-Nemrat, who were senior lecturers in REF2014, are now Readers.
+                                                                                                 Page 6
+
+
+Unit-level environment template (REF5b)
+We try to provide tailored support to our ECRs. During their first academic year, all ECRs are
+provided with a reduced administration workload that provides time for developing research ideas
+and preparing funding proposals. ECRs are identified as PhD supervisors whenever appropriate,
+joining a supervision team that includes an experienced colleague, ensuring effective staff training
+and supervision. New staff members since REF2014, Fahimeh Jafari, Amin Karami, Saeed Sharif
+and Julie Wall, all supervise PhD students, following a well-run mentoring programme supporting
+their supervision skills base and passing on best practice.
+Every ECR and research staff member joins one of the three active research groups, whose leader
+acts as a mentor providing support for career development, the formulation of publication and
+networking strategies, and help in preparing research bids. ECRs and research staff are encouraged
+to gain experience of organising conferences and workshops, supported by their mentor where
+appropriate. ECRs and research staff are also supported in grant application development by senior
+staff who provide feedback on proposals before submission. All eligible ECRs have been mentored
+by senior staff for preparing EPSRC First Grant applications.
+Also, the institution's research support team support the impact of projects driven by leading
+researchers. For example, a post-doctoral researcher was co-funded by the institution to support the
+world-leading research of Dr Rabih Bashroush. This support has enabled some ECRs to improve
+their research profile and move to other positions elsewhere: Dr Joseph Doyle moved to Queen
+Mary, University of London, while Dr Syed Islam moved to JP Morgan. They still collaborate with
+UEL researchers in writing research bids and co-supervising PhD students.
+2.6 Research students
+UEL has taken significant steps to improve the experience of our research students as our
+contribution to developing the next generation of researchers.
+In 2015, UEL launched a four-year programme of investment in fully funded PhD scholarships. The
+publicity generated by this new initiative has resulted in an increase of student applications to the
+department since 2015. Our knowledge exchange activities have resulted in the initiation of match-
+funded studentships with industry partners, resulting in challenging research projects that are
+designed to find bespoke solutions to real-world problems.
+All PhD students automatically join one of our three research groups, based on their research topic.
+However, the supervision team may be made up of staff from different research groups to ensure
+the required expertise is covered for each project. Like the research carried out by our research staff,
+our PhD topics focus on developing solutions for economic and environmental challenges. On
+graduation, our PhD students have been employed by various industries in software development,
+cybersecurity, digital information, intelligent systems and finance, at leading businesses such as
+Microsoft, Thomson Reuters, Deloitte, Accenture, Atos, and RBS.
+Research supervisors help students develop a full training needs analysis, supported by the
+Graduate School that manages all applications and recruitment, monitors progress, and organises
+university-wide training programmes. Formal training is provided through UEL Researcher
+Development Framework: all new PhD students are required to demonstrate learning from core units
+on research methods, project planning, research ethics and Intellectual Property laws. Further
+developmental opportunities for our students arise through participation at UEL’s Annual Research
+Conference, which provides a collegial, cross-disciplinary and supportive environment in which to
+gather feedback and responses to ideas in their very early stages.
+Computer Science staff have supervised 19 PhD students to completion from 2014 to 2020, and 21
+PhD students are going to graduate in the next couple of years.
+2.7 Equality and diversity
+                                                                                                Page 7
+
+
+Unit-level environment template (REF5b)
+All appointments adhere to UEL’s Equality and Diversity (EDI) Policy. Training on EDI is strongly
+encouraged for all staff, and additional equalities training is embedded within management training.
+UEL was awarded an Athena SWAN Bronze Award in 2015, and more recently, the School of
+Architecture, Computing and Engineering received the Athena SWAN Bronze Award in 2020. UEL
+holds the Level Two Disability Confidence award recognising our commitment to equality of
+opportunity for people with disabilities. UEL is also a Stonewall Diversity Champion in recognition
+of the continuing efforts in creating an inclusive and accepting environment for our LGBT colleagues.
+In October 2019, UEL established the Office for Institutional Equity, the first of its kind in a UK HEI,
+to lead UEL's work on equality, diversity, and inclusion (EDI). It was created following an extensive
+review of UEL’s demographics and student outcomes, as well as its existing EDI activities. One of
+its key aims is to ensure that the gender and Black, Asian and Minority Ethnic mix of UEL senior staff
+will be representative of the population of London by 2020 (as stated in EDI policy). The OIE
+administers a mentoring scheme, staff networks and the Many Voices reading group which focuses
+on giving participants the opportunity to engage with essays and narratives by African diaspora
+authors, ensuring that both text-based and practice based research is informed by a more diverse
+knowledge base.
+This unit did not submit any female academics for REF2014. The department went through a major
+reorganisation during the 2013-14 academic year. As a result, 40% of the full-time, existing staff left
+UEL. Whilst this process was extremely difficult for all concerned, it was necessary to ensure that
+the Subject Area was ‘fit for purpose’ and would not just survive but thrive in a highly competitive
+REF and Teaching Excellence Framework (TEF) focused environment. The re-organisation left a
+very gender imbalanced area, however, with no female staff remaining. It was important to try and
+redress this in subsequent recruitment rounds. Since that period 5 female members of staff have
+been recruited but, unfortunately, 3 of those members of staff have since moved on, leaving two
+female members of staff in the department. As with every recruitment round, this remains an on-
+going concern that we are keen to address, and we make efforts to encourage applications from
+under-represented groups.
+UEL’s REF2021 Code of Practice includes an EDI section as required and to tackle several of the
+issues mentioned above, and UEL’s Research Excellence Manager has been working closely with
+the department. Since REF2014, UEL now has an annual research review which includes an equality
+analysis of research outputs, which helps to identify these issues in preparation for REF.
+UEL does not view itself as research-led but as teaching and research-focused, and our research-
+active staff are also involved in outreach. UEL’s borough of Newham and the neighbouring borough
+of Tower Hamlets have one of the highest levels of poverty amongst older people and children in
+England. With over 70% of its students from the BAME (Black Asian Minority Ethnic) background,
+UEL is transforming lives and de-surfacing talents of its local communities and at a global stage.
+Collaboration is at the heart of our outreach effort and we work with a range of partners across East
+London, such as schools and colleges, organisations working with young people, young people
+themselves, their families, local employers and professional/trade bodies, and widening participation
+organisations and networks to ensure we are delivering fit for purpose outreach. We have a diverse
+staff for this diverse student body, and our research informs our teaching and outreach, and our
+collaborative networks are beneficial for our students.
+  3. Income, infrastructure and facilities
+In this section, we describe some of the large-scale, nationally and internationally funded research
+projects that we worked on. We also describe the micro-level internal funding scheme which has
+played a vital role in supporting small-scale research activities and internships in our department.
+We highlight the significant ongoing investments we have achieved in our computing infrastructure
+and the physical environment.
+3.1 Funding Portfolio
+                                                                                                  Page 8
+
+
+Unit-level environment template (REF5b)
+During the current REF period, there has been a rapid increase in external grant capture. We have
+won just over GBP1.97M in external income, mainly from the EU FP7 and H2020 programmes and
+Innovate UK. Some examples of these concerning our core research themes include:
+Example 1 – Secure Software Engineering
+Dr Paolo Falcarin worked as principal investigator in the project ASPIRE (Advanced Software
+Protection: Integration, Research, Exploitation) [2], a 36 month, EUR3M project funded by the EU
+FP7 programme (UEL quota GBP390,897). Paolo worked with a consortium of three market leaders
+in security ICT solutions and four academic institutions, from 6 European countries to develop
+advanced software protections for Android apps against reverse engineering and software piracy,
+which have been adopted by companies such as Thales and Nagra-Kudelski.
+Example 2 – Enterprise Computing
+Dr Rabih Bashroush was the principal investigator and coordinator of EURECA [3], a 36 month,
+EUR1.5M project funded by the EU H2020 programme (GBP308,422 UEL quota), where he worked
+with partners across Europe on supporting the development of European standards, best practices
+and policies related to energy efficiency in data centres and green public procurement by providing
+scientific evidence and data.
+Example 3 – Intelligent Systems
+Dr Julie Wall is the principal investigator of a 24 month, GBP2M project funded by Innovate UK (UEL
+quota GBP473,479). This work, in collaboration with the SMEs Intelligent Voice Ltd and Strenuus
+Ltd, is developing an AI-based explainable pipeline that will identify and justify the behavioural
+elements of a fraudulent claim during a telephone report of an insured loss.
+Example 4 – Knowledge Transfer
+To develop more flexible funding streams, Professor Mansour Moniri, Director of Research and
+Knowledge Exchange helped our unit in funding the following KTP projects with Innovate UK:
+•    Rabih Bashroush helped Techbuyer Ltd by developing scientific capabilities to model and
+     simulate complex data centre environments (value: GBP194K).
+•    Shareeful Islam helped Mediprospects Ltd in improving best practices in training by using data
+     analytics (value: GBP160K).
+•    Julie Wall helped Intelligent Voice Ltd to enhance their video-conferencing services with virtual
+     and augmented reality technology (value: GBP268K).
+Micro-Level Internal Funding
+All staff have the opportunity to apply for UEL’s Funded Internship Scheme, which provides a funded
+student intern for 3 months, to support pilot studies or contribute to the processing and analysis of
+research data. The process also provides students with valuable skills and experience of working on
+real-world Computer Science projects.
+3.2 Infrastructure and facilities
+UEL has made significant ongoing investments in computing infrastructure and the physical
+environment since 2014, circa GBP5M.
+Computing Labs
+The research environment has benefited from significant infrastructure investment including a major
+refurbishment of the Knowledge Dock Building in 2015, which hosts PhD students and teaching labs.
+The refurbishment includes the research laboratories, a specialist OpenStack private cloud
+                                                                                              Page 9
+
+
+Unit-level environment template (REF5b)
+computing platform, as well as refurbishment of the cybersecurity labs. The labs include about 88
+computers, and 6 switches (also used for teaching). We have 5 racks, hosting our servers and the
+networking equipment; one of the racks is hosting our OpenStack cloud (10 nodes), which is used
+by many students and staff for teaching and research.
+The school invested in a new lab, the “Chip Forensic Laboratory” managed by Dr Ameer Al-Nemrat,
+where research is carried out on the latest techniques for decapsulating all types of plastic
+encapsulated parts in integrated circuits. This lab supports academic study and research, and we
+often assist law enforcement in data recovery from devices, repairing of damaged chips, and
+repairing of damaged memory devices.
+From 2018 – 2020, another major upgrade took place in all our specialist labs in the Knowledge
+Dock. A brand-new lab was set up with 60+ machines to support teaching and research activities.
+Funding has recently been agreed with UEL to develop additional space in the Knowledge Docks
+into a state-of-the-art Enterprise Tech Hub, consisting of another 100+ machines and a flexible multi-
+functional lab set up.
+In May 2018, Computer Science students (with the support of staff) launched a student-led
+“transformation lab. They were given a previously disused Computing lab in the Knowledge Dock to
+use for this purpose. The IT equipment for this lab was sourced by students from UEL’s IT services
+and refurbished and upcycled by these students. The transformation lab is peer-led and provides a
+space for senior students to mentor and train their peers in current in-demand industry skills, work
+on their research projects, and to provide peer-assisted study support sessions.
+  4. Collaboration and contribution to the research base, economy and society
+The core ethos of our research is to develop innovative solutions for economic and
+environmental challenges, in line with Goal 9 of the Sustainable Development Goals, while
+searching for opportunities of application, commercialisation and knowledge transfer. Our staff
+are involved in collaborations internationally and nationally, and our submitted outputs are co-
+authored with non-UK-based partners from 18 different countries.
+4.1 Our research impacts public policy
+Members of our staff are involved with world-leading research which impacts public policy. One such
+example of this is the work of Dr Rabih Bashroush, who has played a key role in driving energy
+efficiency in the design and operation of data centres and computer servers. His research has
+impacted various European policies such as the EU Environmental Management Audit Scheme
+(EMAS) for Telecommunications and ICT Services sector and the new EU Green Public
+Procurement (GPP) Criteria for Data Centres. Annual savings of over 27 thousand tons of CO2
+equivalent emissions can be attributed to research and innovation projects led by Rabih.
+Similarly, Dr Ameer Al-Nemrat’s research on child exploitation has impacted specifically on digital
+forensics methods to investigate child exploitation images at the Metropolitan Police. Internationally,
+advice has been sought by national security agencies, ministry administrators, including the
+Portuguese National Security Cabinet, the Slovakian National Security Authority during the EU
+Slovakian Presidency, and the Ministry of Interior in the United Arab Emirates.
+4.2 Our research is innovative and collaborative
+                                                                                             Page 10
+
+
+Unit-level environment template (REF5b)
+Our principle of encouraging knowledge exchange has enabled us to enter collaborative research
+with industry. We have maximised this knowledge spill over into industry using patents. One such
+example is from Professor Mansour Moniri, who submitted a patent on his Spectral-360 system. This
+work aimed to address the issue of illumination variation in change detection algorithms. This
+challenge was addressed using a physics-based approach to model the spectral reflectance of
+surfaces. This novel technique (called Spectral-360) was patented [15] and rated amongst the top
+four best algorithms by IEEE Change Detection Workshop 2014.
+This research work was also substantiated through applications undertaken for London
+Underground, Staffordshire Police, Leicestershire Police and Defence Science and Technology
+Laboratory (DSTL). For example, Spectral-360 enabled Staffordshire police to efficiently &
+accurately prepare evidence to go to the court, this involved CCTV and video footages with severe
+changes in illumination conditions.
+Shareeful Islam has been funded by the Innovate UK academic start up accelerator programme to
+develop a Cyber Insurability toolkit that can manage cyber-risk by assisting with decisions on suitable
+control strategies to mitigate cybersecurity risks.
+Our staff have active research collaborations with international universities and industries:
+• The Secure Software Engineering research group is collaborating with Ghent University
+    (Belgium), Aalto University (Finland), Politecnico di Torino (Italy), Technical University Munich
+    (Germany), NAGRA-Kudelski, and Thales.
+• The Enterprise Computing research group is collaborating with Green IT Amsterdam, University
+    of Leeds, Data Centre Trade Association, Carbon3IT, CBRE, Centre for Environmental Policy at
+    Imperial College, KTH Stockholm (Sweden), and TU Wien (Austria).
+• The Intelligent Systems research group is actively working with University of Southampton,
+    University of Taxila (Pakistan), Queen Mary University of London, Intelligent Voice Ltd, King’s
+    College London, NHS Manchester Royal Eye Hospital, University College London (UK), and
+    Brunel University London.
+4.3 Our research has international media reach
+Many of our staff are highly active in engaging with the media. One such example is Dr Ameer Al-
+Nemrat who has frequent media appearances [21] and published articles on Sky News , BBC, Al-
+Jazeera [14], BBC Radio 4, The Times [13], providing commentary and opinions on the problems of
+cybercrime and digital forensics.
+Another example involves Dr Rabih Bashroush who was invited by Dispatches (Channel 4's award-
+winning investigative current affairs TV programme) in 2020, as an expert on ICT sustainability for
+the episode “Is Your Online Habit Killing the Planet?” [4].
+Similarly, Dr Sin Wee Lee has been invited to be the subject expert on data analytics and the dark
+web on numerous occasions. He has been interviewed for his work across multiple media outlets,
+including a front-page article in The Times [7], and further articles on BBC morning news
+programmes, The Guardian [8], New Statesman [9], Daily Mail [10], International Business Times
+[11], and the Express [12].
+4.4 Our publications, invited talks and awards
+                                                                                              Page 11
+
+
+Unit-level environment template (REF5b)
+We publish the outputs of our research in top-rated conferences (Conference and Workshop
+on Neural Information Processing (NeurIPS), IEEE International Joint Conference on Neural
+Networks, Interspeech) and journals including IEEE Transactions on Cybernetics, IEEE Internet of
+Things Journal, Elsevier Future Generation Computing Systems, Elsevier Expert Systems with
+Applications, Elsevier Information Sciences, Elsevier Journal of Systems and Software, ACM
+Transactions on Privacy and Security, IEEE Transactions on Cloud Computing, and Springer’s
+Empirical Software Engineering.
+Our staff are regularly invited to deliver talks and participate as panel members at research
+conferences and major industrial forums. Some examples of these include:
+•   Dr Paolo Falcarin was an invited speaker at the OWASP (Open Web Application Security
+    Project) conference (2017), the Infosecurity conference (2018), and the IET Conference on
+    Cyber Security and Systems Safety (2018). He was invited to attend a High-Level Workshop on
+    the Network of Cybersecurity Competence Centres (2018), a wide consultation among
+    cybersecurity experts in Europe on the creation of a European Research and Competence
+    Centre and the definition of the cybersecurity topics for the post-H2020 EU research programme.
+•   Dr Rabih Bashroush was invited as the keynote speaker to the International Workshop on
+    Energy Efficient Data Centres (2017), to the Data Centres North industrial event (2016). He
+    served as an expert panel member at the industrial expo Data Centres Ireland (2017), in Dublin.
+    Rabih also chaired an expert panel session at the Data Centre World (DCW) London (2017) and
+    he was invited to deliver a webinar on Tools and Services for Energy Management by the ICT
+    footprint.eu European Commission platform in 2016.
+•   Dr Julie Wall has participated in many roundtable discussions on the topic of explainable AI. She
+    moderated a round-table discussion on ‘Disruptive Technologies – the opportunities and
+    challenges’ (2018), which included the MP Stephen Metcalfe and several CEOs/CTOs from
+    London-based technology companies. Julie was invited as speaker and expert panel member
+    to the RE.WORK AI Applications Virtual Summit 2020.
+•   Dr Saeed Sharif was invited to deliver an IET public talk in 2015, after which he was invited to
+    deliver a talk on his research at the Wroclaw University of Technology in 2015. In 2020, Saeed
+    was invited as the keynote speaker at the International Conference on Intelligent Control and
+    Computation for Smart Energy and Mechatronic Systems.
+    Our research has attracted awards, some examples of these include:
+•   The EURECA Consortium, led by Dr Rabih Bashroush, won an Industry Initiative of the Year
+    award at the DCD Awards in London 2018. The DCD judges were impressed with EURECA
+    impact on improving energy efficiency across Europe, saving data centres at least 52GWh per
+    year.
+•   Dr Paolo Falcarin and Dr Shareeful Islam received the best paper award at the IEEE
+    Cybersecurity Conference 2016. Paolo also received the Best Paper Award and ACM
+    Distinguished Paper Award at IEEE International Conference on Program Comprehension
+    (ICPC) 2017.
+4.5 Our researchers contribute to the research community
+                                                                                             Page 12
+
+
+Unit-level environment template (REF5b)
+To maintain and enhance our status in the community, staff are encouraged to undertake leadership
+roles within the academic community.
+Major leadership roles include chairing workshops and panels, being members of high ranking
+conference committees and journal editorial boards, examples include IEEE Transactions on
+Information Forensics and Security; IEEE Transactions on Cloud Computing; IEEE Access; Springer
+Neural Computing and Applications; IEEE Transactions on Cybernetics; Elsevier Neurocomputing;
+Elsevier Journal of Network and Computer Applications; Elsevier Engineering Applications of
+Artificial Intelligence; IEEE International Joint Conference on Neural Networks; IEEE Internet of
+Things Journal; Elsevier Signal Processing; IEEE Transactions on Signal Processing;
+INTERSPEECH; and IEEE Transactions on Wireless Communications.
+Our researchers have served as reviewers for project proposals for research councils, such as
+the EPSRC and the Leverhulme Trust.
+We are members of professional organisations and learned societies relating to our research
+areas, such as IEEE; IEEE Computational Intelligence; IEEE Women in Engineering; Cambridge
+Wireless; British Computer Society; and the IET.
+Dr Falcarin created the International workshop on Software Protection (SPRO) [20], co-chairing two
+editions with industry leaders; SPRO was co-located with ICSE-2015 and CCS-2019 top
+conferences, and it reached more than 80 participants from academia and industry in each edition,
+and it has been merged into the new Software Attacks and Defences (SAD) Workshop since 2020.
+References
+[1] UEL Secure Software Engineering research group, https://www.uel.ac.uk/research/sse
+[2] UEL Enterprise Computing research group, https://www.uel.ac.uk/research/enterprise-
+      computing-research-group
+[3] UEL Intelligent Systems group, https://www.uel.ac.uk/research/intelligent-systems
+[4] Channel4          Dispatches:     “Is      your      Online      habit    killing    the    planet?”
+      https://www.channel4.com/programmes/online-habits-killing-the-planet-dispatches
+[5] ASPIRE FP7 project. On-line at https://aspire-fp7.eu/
+[6] EURECA H2020 project. On-line at https://www.dceureca.eu/
+[7] Dark Web research on The Times frontpage: https://www.thetimes.co.uk/article/dark-web-trade-
+      exposed-6sp52dr8f
+[8] Dark                Web              research               on             The            Guardian:
+      https://www.theguardian.com/technology/shortcuts/2016/nov/01/dark-web-fake-train-tickets-
+      on-sale
+[9] Dark Web research on New Statesman: https://tech.newstatesman.com/news/alphabay-
+      dreammarket-dark-web-selling-guns-drugs
+[10] Dark Web research on The Daily Mail: https://www.dailymail.co.uk/news/article-3805658/Fake-
+      British-passports-driving-licences-utility-bills-GCSE-certificates-sold-Dark-Web.html
+[11] Dark          Web      research        on         The      International       Business      Times:
+      https://www.ibtimes.co.uk/undercover-investigation-reveals-dark-web-marketplace-dealings-
+      1583121
+[12] Dark Web research on The Express: https://www.express.co.uk/news/uk/713925/ISIS-Islamic-
+      State-ISIL-dark-web-passport-uk-documents-fraud-hack
+[13] Digital forensics research on The Times: https://www.thetimes.co.uk/article/hackers-mine-old-
+      phones-on-ebay-for-personal-details-8c09hs6tn
+[14] Digital               forensics                  research              on               Al-Jazeera:
+      https://www.aljazeera.net/news/healthmedicine/2020/3/1/‫اﻟرﻗﻣﻲ‬-‫اﻟﺷرﻋﻲ‬-‫اﻟطب‬-‫ھوﻟﻣز‬-‫ﺷﺎرﻟوك‬-‫ﻣﺛل‬
+[15] Image segmentation using adaptive video analytics, Image processing US patent, No.US
+      9047677 B2, https://patents.google.com/patent/US9047677B2/en
+[16] Sustainable Development Goals, https://www.un.org/sustainabledevelopment/sustainable-
+      development-goals/
+[17] ASPIRE-UEL Code Renewability framework. On-line at https://github.com/UEL-aspire-fp7.
+                                                                                                Page 13
+
+
+Unit-level environment template (REF5b)
+[18] ASPIRE Toolchain project open source software repository, https://github.com/aspire-fp7
+[19] ASPIRE YouTube channel, https://www.youtube.com/channel/UCntMGBjHr_oW5wEd5JgjD6g
+[20] International Workshop on Software Protection (SPRO), https://spro.aspire-fp7.eu/
+[21] Al-Nemrat’s        media       appearances,        https://www.youtube.com/channel/UCkn-
+     GWZcRFjzPRrFJE9ejbQ
+                                                                                         Page 14
